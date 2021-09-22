@@ -2,9 +2,9 @@
 title: ビジネスサポート
 description: Adobe Experience Cloudビジネスサポートサービスは、Adobeのテクニカルサポートチームに完全にアクセスし、アカウント管理のアカウントサポートリードにアクセスします。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [ビジネスサポートWebサイト](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | AdobeビジネスサポートWebサイト |
 | [利用条件](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | サポートサービスの内容を詳しく説明する利用条件。 |
 
-## 地域の営業時間と言語サポート
+## 地域別Adobe支援範囲、現地営業時間、言語支援
 
-Adobeの現地営業時間は、顧客の請求地域に合わせて調整されます。<sup>1</sup>
+地域別Adobeサポート範囲は、お客様の請求先住所(販売注文または他のAdobeサポート購入ドキュメントを使用)を次の地域のいずれかに揃えることで確立されます。
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ Adobeの現地営業時間は、顧客の請求地域に合わせて調整され
     <th>南北アメリカ</th>
     <th>ヨーロッパ、中東、アフリカ</th>
     <th>アジア太平洋</th>
-    <th>日本<sup>2</sup></th>
+    <th>日本<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ Adobeの現地営業時間は、顧客の請求地域に合わせて調整され
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>言語サポートは英語と日本語でのみ利用できます。</i></p>
-      <p><sup>2</sup><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
-      <p><i>（日本）P2、P3、P4の場合は営業時間のみに限られます。</i></p>
+      <p><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
+      <p><i>P2、P3、P4の場合は、日本での営業時間に限られます。</i></p>
     </td>
   </tr>
 </tbody>

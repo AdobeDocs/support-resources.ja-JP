@@ -2,9 +2,9 @@
 title: エンタープライズサポート
 description: Adobe Experience Cloud Enterprise Support Servicesは、SLT(Service Level Targets)の強化、技術的な専門知識のメリット、および指名サポートエンジニアの形での支持者を提供します。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '1180'
+source-wordcount: '1205'
 ht-degree: 2%
 
 ---
@@ -321,9 +321,9 @@ Launch Advisoryは、一般的なマイルストーン（キックオフ、定�
 | [本番環境の問題とシステム停止](https://status.adobe.com/) | Status.adobe.comは、マルチテナント環境にデプロイされるすべてのAdobe製品およびサービスのヘルス情報を伝達します。 顧客は、購読環境設定を選択して、製品イベントを作成、更新、解決するたびにAdobeに電子メール通知を受け取ることができます。 これには、定期メンテナンスや、様々な重大度レベルのサービスの問題が含まれます。 |
 | [利用条件](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | サポートサービスの内容を詳しく説明する利用条件。 |
 
-## 地域の営業時間と言語サポート
+## 地域別Adobe支援範囲、現地営業時間、言語支援
 
-Adobeの現地営業時間は、顧客の請求地域に合わせて調整されます。<sup>1</sup>
+地域別Adobeサポート範囲は、お客様の請求先住所(販売注文または他のAdobeサポート購入ドキュメントを使用)を次の地域のいずれかに揃えることで確立されます。
 
 <table>
 <thead>
@@ -344,8 +344,8 @@ Adobeの現地営業時間は、顧客の請求地域に合わせて調整され
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>言語サポートは英語と日本語でのみ利用できます。</i></p>
-      <p><sup>2</sup><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
-      <p><i>（日本）P2、P3、P4の場合は営業時間のみに限られます。</i></p>
+      <p><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
+      <p><i>P2、P3、P4の場合は、日本での営業時間に限られます。</i></p>
     </td>
   </tr>
 </tbody>
