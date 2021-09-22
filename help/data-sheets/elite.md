@@ -2,9 +2,9 @@
 title: Eliteサポート
 description: Adobe Experience Cloud Eliteサポートサービスは、クラス最高のサービスレベルターゲット(SLT)、プロアクティブサポート、テクニカルアカウントマネージャーおよび指名サポートエンジニアとのパートナーシップを提供します。
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 2%
 
 ---
@@ -395,7 +395,6 @@ Launch Advisoryは、一般的なマイルストーン（キックオフ、定�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>言語サポートは英語と日本語でのみ利用できます。</i></p>
-      <p><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
       <p><i>P2、P3、P4の場合は、日本での営業時間に限られます。</i></p>
     </td>
   </tr>

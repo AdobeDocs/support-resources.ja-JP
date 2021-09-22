@@ -2,9 +2,9 @@
 title: エンタープライズサポート
 description: Adobe Experience Cloud Enterprise Support Servicesは、SLT(Service Level Targets)の強化、技術的な専門知識のメリット、および指名サポートエンジニアの形での支持者を提供します。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -344,7 +344,6 @@ Launch Advisoryは、一般的なマイルストーン（キックオフ、定�
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>言語サポートは英語と日本語でのみ利用できます。</i></p>
-      <p><i>Adobeコマースは、日本語のサポートを除外します。</i></p>
       <p><i>P2、P3、P4の場合は、日本での営業時間に限られます。</i></p>
     </td>
   </tr>
