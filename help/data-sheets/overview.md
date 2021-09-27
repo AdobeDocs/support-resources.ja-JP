@@ -1,19 +1,19 @@
 ---
 title: サポートサービスの概要
-description: この記事では、Adobe Experience Cloudのカスタマーサポートオプションの概要を説明します。 これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
+description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # サポートサービスの概要
 
-Adobe Experience Cloudカスタマーサポート組織は、お客様の成功に向けて取り組んでいます。 すべてのサブスクリプションには、高度な技術リソースに容易にアクセスして技術支援を受けることができるレベルのサポートが含まれます。
+Adobe Experience Cloud カスタマーサポートは、お客様の成功のために尽力しています。どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
 
-より包括的なニーズに対しては、名前付きサポート・プロフェッショナルへのアクセス、迅速なサービス・レベルの対応目標、プロアクティブ・メンタリングとサービス・レビューのセッションを含むAdobe・サポート・サービスを提供します。 Adobeは、サポートニーズの複雑さに関係なく、Adobeソリューションから最高のパフォーマンスと最適な価値を引き出すのに必要な技術的および運用的な専門知識を提供します。
+また、より包括的なニーズに対応するために、専任サポート担当者へのアクセスや、迅速なサービスレベルの応答目標、プロアクティブメンタリングやサービスレビューのためのセッションなど、様々なアドビサポートサービスを提供しています。お客様のサポートニーズがどれほど複雑であっても、アドビは、お客様がアドビソリューションから最高のパフォーマンスと最適な価値を得るために必要な技術的および運用上の専門知識を提供します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -22,31 +22,31 @@ Adobe Experience Cloudカスタマーサポート組織は、お客様の成功�
     <img alt="オンライン" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>オンラインサポート</strong></a> (PDF <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">を表示</a>)
+    <a href="online.md"><strong>オンラインサポート</strong></a>（<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>電話サポートへのアクセス制限</p>
+    <p>電話サポートへの限定的なアクセス</p>
     <br>
   </td>
   <td>
     <a href="business.md">
-      <img alt="法人" src="assets/BusinessSupportThumbnail.png">
+      <img alt="ビジネス" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>ビジネスサポート</strong></a> (PDF <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">を表示</a>)
+    <a href="business.md"><strong>ビジネスサポート</strong></a>（<a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>Adobeのテクニカルサポートチームと、アカウント管理のアカウントサポートリードに完全にアクセスできます。</p>
+    <p>アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセス</p>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="enterprise.md">
-    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
+    <img alt="エンタープライズ" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>エンタープライズサポート</strong></a> ( <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDFを表示</a>)
+    <a href="enterprise.md"><strong>エンタープライズサポート</strong></a>（<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>サポート・サービス・レベル・ターゲット(SLT)の強化、技術的な専門知識のメリット、および指名サポート・エンジニアの形での支持者</p>
+    <p>強化されたサポートサービスレベルターゲット（SLT）、技術的な専門知識、専任サポートエンジニア</p>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Adobe Experience Cloudカスタマーサポート組織は、お客様の成功�
       <img alt="エリート" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Eliteサポート</strong></a> (PDFを <a href="assets/EliteSupportDatasheet.pdf" target="_blank">表示</a>)
+    <a href="elite.md"><strong>エリートサポート</strong></a>（<a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>クラス最高のサービス・レベル・ターゲット(SLT)、プロアクティブ・サポート、テクニカル・アカウント・マネージャおよび名前付きサポート・エンジニアとのパートナーシップ</p>
+    <p>最高水準のサービスレベルターゲット（SLT）、プロアクティブなサポート、テクニカルアカウントマネージャーおよび専任サポートエンジニアとのパートナーシップ</p>
     <br>
   </td>
 </tr>
