@@ -3,9 +3,9 @@ title: オンラインサポート
 description: Adobe Experience Cloud オンラインサポートサービスでは、電話サポートへの限定的なアクセスが提供されます。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -186,7 +186,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>営業時間</p>
+    <p>Office Hours</p>
     <p><b>ウェビナー</b></p>
     <p>アドビカスタマーサポートチームによる Office Hours には、参加者に情報を提供するだけでなく、問題のトラブルシューティングやアドビソリューションで成功するためのヒントやテクニックを紹介することを目的としたセッションが含まれています。</p>
     </div>
@@ -240,9 +240,9 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用規約](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
-## 地域別Adobe支援範囲、現地営業時間、言語支援
+## アドビサポートの対象地域、現地の営業時間、言語サポート
 
-地域別Adobeサポート範囲は、お客様の請求先住所(販売注文または他のAdobeサポート購入ドキュメントを使用)を次の地域のいずれかに揃えることで確立されます。
+アドビサポートの対象地域と現地営業時間は、以下のとおりです。対象地域は、お客様のセールスオーダーやその他のアドビサポートの購買記録に記載されている請求先の地域に準じます。
 
 <table>
 <thead>
@@ -264,7 +264,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
     <td colspan="4">
       <p><sup>1</sup><i>サポートで対応している言語は、英語および日本語のみです。</i></p>
       <p><i>Adobe Commerce のサポートは、日本語に対応していません。</i></p>
-      <p><i>P2、P3、P4の場合は、日本での営業時間に限られます。</i></p>
+      <p><i>日本では、P2、P3、P4 の場合、営業時間内のみの対応です。</i></p>
     </td>
   </tr>
 </tbody>
