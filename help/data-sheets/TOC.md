@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 76%
+ht-degree: 91%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 76%
    + [ビジネス](business.md)
    + [エンタープライズ](enterprise.md)
    + [エリート](elite.md)
-+ [カスタマーサポートガイド](support-guide.md)
++ [カスタマサポートガイド](support-guide.md)
 + [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
