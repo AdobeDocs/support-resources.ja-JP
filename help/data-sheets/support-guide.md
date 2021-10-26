@@ -1,10 +1,10 @@
 ---
 title: Experience Cloud カスタマーサポートガイド
 description: このカスタマーサポートガイドは、Experience Cloud のサポート、プログラム、サービス、手順について知るのに役立ちます。また、世界各地でのアクセス方法についても説明しています。
-source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: cfaa968064b814ebb41d433e79c0217d605fd612
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,4 +14,4 @@ ht-degree: 100%
 
 アドビは、業界を牽引する世界標準のサービスとサポートを提供し、お客様の成功を確かなものとするよう努めています。私たちの哲学は、「我々はお客様の代弁者である」とシンプルです。当社のサポートチームは、テクノロジー管理の経験が豊富で、豊富なソフトウェアのポートフォリオに関する包括的な知識を持つ、様々な業界や経歴の専門家で構成されています。本サポートガイドは、アドビのサポートレベル、プログラム、サービスおよび手続きに対するお客様の理解を深め、世界中どこからでもお問い合わせいただける方法についてお伝えすることを目的としています。
 
-[サポートガイド PDF を表示](assets/Experience-Cloud-Customer-Support-Guide.pdf)
+[サポートガイド PDF を表示](assets/ExperienceCloudCustomerSupportGuide.pdf)
