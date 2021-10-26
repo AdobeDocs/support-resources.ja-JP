@@ -3,9 +3,9 @@ title: オンラインサポート
 description: Adobe Experience Cloud オンラインサポートサービスでは、電話サポートへの限定的なアクセスが提供されます。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '757'
+ht-degree: 100%
 
 ---
 
@@ -96,14 +96,14 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
     <td></td>
     <td></td>
     <td>2</td>
-    <td>4.0</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>年間のエキスパートセッション</td>
     <td></td>
     <td></td>
-    <td>pplx-2</td>
-    <td>4.0</td>
+    <td>2</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>ケースレビュー</td>
@@ -152,8 +152,8 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
     <td>フィールドサービスアクティビティ</td>
     <td></td>
     <td></td>
-    <td>pplx-2</td>
-    <td>4.0</td>
+    <td>2</td>
+    <td>4</td>
   </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>オフィス時間</p>
+    <p>Office Hours</p>
     <p><b>ウェビナー</b></p>
     <p>アドビカスタマーサポートチームによる Office Hours には、参加者に情報を提供するだけでなく、問題のトラブルシューティングやアドビソリューションで成功するためのヒントやテクニックを紹介することを目的としたセッションが含まれています。</p>
     </div>
@@ -196,7 +196,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
   <td>
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
-    <p>リーグでの操作</p>
+    <p>Experience League</p>
     <p><b>セルフガイドジャーニー</b></p>
     <p>エクスペリエンスメーカーは、Experience League から誕生します。Experience League に参加すると、パーソナライズされた学習で、顧客体験管理能力を強化することができます。スキルの向上や、グローバルコミュニティでの仲間との交流のほか、キャリアアップに役立つ評価の獲得も可能です。</p>
     </div>
