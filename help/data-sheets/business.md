@@ -3,7 +3,7 @@ title: ビジネスサポート
 description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -201,7 +201,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
-    <p>リーグでの操作</p>
+    <p>Experience League</p>
     <p><b>セルフガイドジャーニー</b></p>
     <p>エクスペリエンスメーカーは、Experience League から誕生します。Experience League に参加すると、パーソナライズされた学習で、顧客体験管理能力を強化することができます。スキルの向上や、グローバルコミュニティでの仲間との交流のほか、キャリアアップに役立つ評価の獲得も可能です。</p>
     </div>
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>オフィス時間</p>
+    <p>Office Hours</p>
     <p><b>ウェビナー</b></p>
     <p>Office Hours は、アドビカスタマーサポートチーム主導による取り組みの 1 つです。これらのセッションは、参加者に情報を提供するだけでなく、問題のトラブルシューティングや Adobe Experience Cloud で成功するためのヒントやテクニックを紹介することを目的としています。</p>
     </div>
