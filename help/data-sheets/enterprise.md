@@ -2,7 +2,7 @@
 title: エンタープライズサポート
 description: Adobe Experience Cloud エンタープライズサポートサービスでは、強化されたサポートサービスレベルターゲット（SLT）、技術的な専門知識、専任サポートエンジニアが提供されます。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
+source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
 workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 97%
@@ -50,8 +50,8 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
   <tr>
     <td rowspan="12">サポートサービス</td>
     <td>オンラインサポート</td>
-    <td>営業時間</td>
-    <td>24 時間週 5 日</td>
+    <td>営業時間内</td>
+    <td>平日 24 時間</td>
   </tr>
   <tr>
     <td>24 時間年中無休の P1 の問題のサポート</td>
@@ -127,8 +127,8 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
 | 優先度 | オンラインサポート | エンタープライズサポート |
 |--- |--- |--- |
 | <b>優先度 1</b><br>お客様の本番ビジネス機能が停止したり、データ消失やサービスの低下が大幅に発生したりし、機能と操作性を復元するには、すぐに注意が必要となります。 | 24 時間年中無休／<br>1 時間 | 24 時間年中無休／<br>30 分 |
-| <b>優先度 2</b><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。 | 営業時間／<br>4 時間 | 24 時間週 5 日／<br>1 時間 |
-| <b>優先度 3</b><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できるソリューション／回避策が存在する。 | 営業時間／<br>6 時間 | 営業時間／<br>2 時間 |
+| <b>優先度 2</b><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。 | 営業時間内／<br>4 時間 | 平日 24 時間／<br>1 時間 |
+| <b>優先度 3</b><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できる解決策／回避策が存在する。 | 営業時間内／<br>6 時間 | 営業時間内／<br>2 時間 |
 | <b>優先度 4</b><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。 | 営業日／<br>3 日 | 営業日／<br>1 日 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -152,9 +152,9 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
     </div>
   </td>
   <td>
-    <img alt="エキスパートによるセッション" src="assets/expertsessions.png"/>
+    <img alt="エキスパートセッション" src="assets/expertsessions.png"/>
     <div>
-    <p><b>エキスパートによるセッション</b></p>
+    <p><b>エキスパートセッション</b></p>
     <p>特定の製品の機能と、それを活用して一般的なビジネス上の問題を解決する方法に焦点を当てた 60 分のセッションです。</p>
     </div>
   </td>
@@ -207,7 +207,7 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
 ## オンラインサポートの特長
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
@@ -252,7 +252,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <p>ライブチャットサポート *</p>
     <p><b>チャットサポート</b></p>
     <p>チャットセッションを開始すると、回答やケース申請による支援を受けることができます。</p>
-    <p>* <i>すべての製品にライブチャットサポートがあるわけではありません。</i></p>
+    <p>* <i>すべての製品にライブチャットサポートがあるわけではありません。
+
+* チャットサポートは日本語に対応していません。</i></p>
     </div>
   </td>
   <td>
@@ -280,7 +282,7 @@ Launch Advisory では、お客様のプロジェクトスケジュールの一�
 
 * キックオフ（プロジェクトコラボレーション計画を含む）資料
 * 評価および提案ドキュメント
-* エンゲージメントの概要
+* エンゲージメントサマリー
 
 <!--
 ![Launch Advisory Chart](assets/launch-advisory.png)
@@ -319,11 +321,11 @@ Launch Advisory では、お客様のプロジェクトスケジュールの一�
 | [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
 | [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
-| [利用規約](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
+| [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
 ## アドビサポートの対象地域、現地の営業時間、言語サポート
 
-アドビサポートの対象地域と現地営業時間は、以下のとおりです。対象地域は、お客様のセールスオーダーやその他のアドビサポートの購買記録に記載されている請求先の地域に準じます。
+アドビサポートの対象地域と現地営業時間は、以下のとおりです。対象地域は、お客様のセールスオーダーやその他のアドビサポートのご契約資料に記載されている請求先の地域に準じます。
 
 <table>
 <thead>
