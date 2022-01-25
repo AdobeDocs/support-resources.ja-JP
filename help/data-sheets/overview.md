@@ -2,7 +2,7 @@
 title: サポートサービスの概要
 description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%
@@ -61,3 +61,4 @@ Adobe Experience Cloud カスタマーサポートは、お客様の成功のた
   </td>
 </tr>
 </table>
+
