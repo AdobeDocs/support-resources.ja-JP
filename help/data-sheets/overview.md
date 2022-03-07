@@ -1,9 +1,9 @@
 ---
 title: サポートサービスの概要
-description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
+description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、標準、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -19,10 +19,10 @@ Adobe Experience Cloud カスタマーサポートは、お客様の成功のた
 <tr>
   <td>
     <a href="online.md">
-    <img alt="オンライン" src="assets/OnlineSupportThumbnail.png"/>
+    <img alt="標準" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>オンラインサポート</strong></a>（<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
+    <a href="online.md"><strong>標準サポート</strong></a>（<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
     </div>
     <p>電話サポートへの限定的なアクセス</p>
     <br>
