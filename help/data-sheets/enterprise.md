@@ -20,7 +20,7 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
   <tr>
     <th></th>
     <th></th>
-    <th>オンラインサポート</th>
+    <th>標準サポート</th>
     <th>エンタープライズサポート</th>
   </tr>
 </thead>
@@ -49,7 +49,7 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
   </tr>
   <tr>
     <td rowspan="12">サポートサービス</td>
-    <td>オンラインサポート</td>
+    <td>標準サポート</td>
     <td>営業時間内</td>
     <td>平日 24 時間</td>
   </tr>
@@ -124,7 +124,7 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
 
 ## サービスレベルターゲット：初期対応
 
-| 優先度 | オンラインサポート | エンタープライズサポート |
+| 優先度 | 標準サポート | エンタープライズサポート |
 |--- |--- |--- |
 | <b>優先度 1</b><br>お客様の本番業務機能がダウンしている、または著しいデータ損失やサービス低下があり、機能およびユーザビリティを復元するための早急な処置が必要。 | 24 時間年中無休／<br>1 時間 | 24 時間年中無休／<br>30 分 |
 | <b>優先度 2</b><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。 | 営業時間内／<br>4 時間 | 平日 24 時間／<br>1 時間 |
@@ -204,7 +204,7 @@ Adobe Experience Cloud エンタープライズサポートサービスでは、
 </tr>
 </table>
 
-## オンラインサポートの特長
+## 標準サポートの特長
 
 <!--
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
