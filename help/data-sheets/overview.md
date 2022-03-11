@@ -1,64 +1,40 @@
 ---
-title: サポートサービスの概要
-description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、標準、ビジネス、エンタープライズ、エリートが含まれます。
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: d466eedb9289b88b187c0adfee36055d937e7ee7
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+title: Adobeサポートの概要
+description: この記事では、Adobe Experience Cloud、Adobe Document Cloud、Adobe Creative Cloudのカスタマーサポートオプションの概要を説明します。
+source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 17%
 
 ---
 
-# サポートサービスの概要
+# Adobeサポートの概要
 
-Adobe Experience Cloud カスタマーサポートは、お客様の成功のために尽力しています。どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
+Adobeサポート組織は、お客様の成功に向けて取り組んでいます。 どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
 
-また、より包括的なニーズに対応するために、専任サポート担当者へのアクセスや、迅速なサービスレベルの応答目標、プロアクティブメンタリングやサービスレビューのためのセッションなど、様々なアドビサポートサービスを提供しています。お客様のサポートニーズがどれほど複雑であっても、アドビは、お客様がアドビソリューションから最高のパフォーマンスと最適な価値を得るために必要な技術的および運用上の専門知識を提供します。
+より包括的なニーズに対して、アドビは、プロアクティブな指導とサービスレビューのための名前付きサポートの専門家とセッションへのアクセスを含むAdobeサポートサービスを提供します。 Adobeは、サポートニーズがどの程度複雑であっても、Adobeソリューションから最高のパフォーマンスと最適な価値を引き出すのに必要な技術的および運用的な専門知識を提供します。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="online.md">
-    <img alt="標準" src="assets/OnlineSupportThumbnail.png"/>
+    <a href="dx-overview.md">
+    <img alt="DX のサポート" src="assets/ECthumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>標準サポート</strong></a>（<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
+    <a href="dx-overview.md"><strong>Experience Cloud サポート</strong></a>
     </div>
-    <p>電話サポートへの限定的なアクセス</p>
+    <p>Experience Cloud/Experience Platform製品のサポートオプション</p>
     <br>
   </td>
   <td>
-    <a href="business.md">
-      <img alt="ビジネス" src="assets/BusinessSupportThumbnail.png">
+    <a href="dme-overview.md">
+      <img alt="ビジネス" src="assets/CCDCThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>ビジネスサポート</strong></a>（<a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
+    <a href="dme-overview.md"><strong>Creative Cloudのエンタープライズ版とドキュメントサポート</strong></a>
     </div>
-    <p>アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセス</p>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="enterprise.md">
-    <img alt="エンタープライズ" src="assets/EnterpriseSupportThumbnail.png"/>
-    </a>
-    <div>
-    <a href="enterprise.md"><strong>エンタープライズサポート</strong></a>（<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
-    </div>
-    <p>強化されたサポートサービスレベルターゲット（SLT）、技術的な専門知識、専任サポートエンジニア</p>
-    <br>
-  </td>
-  <td>
-    <a href="elite.md">
-      <img alt="エリート" src="assets/EliteSupportThumbnail.png">
-    </a>
-    <div>
-    <a href="elite.md"><strong>エリートサポート</strong></a>（<a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> を表示）
-    </div>
-    <p>最高水準のサービスレベルターゲット（SLT）、プロアクティブなサポート、テクニカルアカウントマネージャーおよび専任サポートエンジニアとのパートナーシップ</p>
+    <p>Creative Cloud/Document Cloud製品のサポートオプション</p>
     <br>
   </td>
 </tr>
 </table>
-
