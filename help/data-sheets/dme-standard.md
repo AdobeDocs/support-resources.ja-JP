@@ -1,25 +1,25 @@
 ---
-title: オンラインサポート
+title: 標準サポート
 description: Adobe Experience Cloud オンラインサポートサービスでは、電話サポートへの限定的なアクセスが提供されます。
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# オンラインサポート
+# 標準サポート
 
 ![アイコン](assets/OnlineBanner.png)
 
-Adobe Experience Cloud オンラインサポートサービスでは、電話サポートへの限定的なアクセスが提供されます。
+Adobeは、Adobeのエンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 標準サポートには、24 時間 365 日対応のセルフヘルプサポートリソース (HelpX に関する記事や、Adobeコミュニティでの他のお客様との関わりなど ) へのアクセスが含まれています。 詳細で詳細な技術製品ドキュメントと、 http://www.adobe.comで公開されている最新のリリースノートを活用できます。 標準サポートには、チャットまたは電話を通じたテクニカルサポートチームへの認証済みユーザー（管理者）への 24 時間 365 日のアクセスと、サポート Web ポータルを通じたサポートリクエストのログ記録機能も含まれています。
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>オンラインサポート</th>
+    <th>標準サポート</th>
     <th>ビジネスサポート</th>
     <th>エンタープライズサポート</th>
     <th>エリートサポート</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">有償サポート（$）</td>
+    <td colspan="3">有料サポートレベル ($)</td>
   </tr>
   <tr>
     <td rowspan="3">担当エキスパート<br></td>
