@@ -1,25 +1,29 @@
 ---
-title: ビジネスサポート
-description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+title: Creative CloudとAdobe Document Cloudのビジネスサポート
+description: Adobeは、Adobeのエンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 これは、ビジネスサポートプランで強化されます。 ビジネスサポートには、送信済みのケースに関するより高度なサポートリソースへの迅速な接続を確保するための、サポートケースの優先ルーティングが含まれています。
+source-git-commit: 39439be547c3359739857f540e38203d938d72cb
 workflow-type: tm+mt
-source-wordcount: '872'
-ht-degree: 100%
+source-wordcount: '815'
+ht-degree: 40%
 
 ---
 
-# ビジネスサポート
+# Creative CloudとAdobe Document Cloudのビジネスサポート
 
 ![アイコン](assets/Businessbanner.png)
 
-Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
+Adobeは、Adobeのエンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 これは、ビジネスサポートプランで強化されます。 ビジネスサポートには、送信済みのケースに関するより高度なサポートリソースへの迅速な接続を確保するための、サポートケースの優先ルーティングが含まれています。
+
+また、お客様は、電話またはサポート Web ポータルを介して製品の問い合わせを行う際に、テクニカルサポートチームにアクセスし、最も重要な時期にビジネスを保護することができます。 ビジネスのお客様は、サポートケースのエスカレーション管理にアカウントサポートリードを活用して、最も重要なサポートリクエストに対する定期的なコミュニケーションと更新を受け取ることができます。
+
+[PDFバージョンを表示](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>オンラインサポート</th>
+    <th>標準サポート</th>
     <th>ビジネスサポート</th>
   </tr>
 </thead>
@@ -47,38 +51,48 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
     <td></td>
   </tr>
   <tr>
-    <td rowspan="12">サポートサービス</td>
-    <td>標準サポート</td>
-    <td>営業時間内</td>
-    <td>営業時間内</td>
-  </tr>
-  <tr>
-    <td>24 時間年中無休の P1 の問題のサポート</td>
+    <td rowspan="17">サポートサービス</td>
+    <td>24 時間 365 日のセルフヘルプサポート</td>
     <td>✔</td>
     <td>✔</td>
   </tr>
   <tr>
-    <td>サポート対象ユーザー（製品単位）</td>
-    <td>4</td>
-    <td>6</td>
+    <td>チャット/電話を介した 24 時間 365 日のサポート</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>電話サポート（ライブ）</td>
+    <td>Web ケース送信</td>
+    <td>✔</td>
+    <td>✔</td>
+  </tr>
+  <tr>
+    <td>優先事例ルーティング</td>
     <td></td>
     <td>✔</td>
   </tr>
+  <tr>
+    <td>問題の優先順位付けの加速</td>
+    <td></td>
+    <td>✔</td>
+  </tr>
+  <tr>
   <tr>
     <td>エスカレーション管理</td>
     <td></td>
     <td>✔</td>
   </tr>
-  <tr>
-    <td>年間のサービスレビュー</td>
+    <td>事前ケース監視</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>年間のエキスパートセッション</td>
+    <td>地域内サポートへのアクセス</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>サービスレビュー</td>
     <td></td>
     <td></td>
   </tr>
@@ -88,33 +102,32 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
     <td></td>
   </tr>
   <tr>
-    <td>イベント管理</td>
+    <td>ソリューションレビュー</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>環境レビュー、メンテナンスと監視</td>
+    <td>ロードマップレビュー</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>リリース、移行、アップグレード、製品ロードマップのレビュー</td>
+    <td>その他の特定サポート取引先責任者</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>クラウドサポートアクティビティ – Experience Manager as Cloud</td>
+    <td>アップグレード/移行計画</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">フィールドサービス</td>
-    <td>Launch Advisory サービス – 製品導入の初年度</td>
+    <td>リリースの準備と計画</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>フィールドサービスアクティビティ</td>
+    <td>エグゼクティブスポンサー</td>
     <td></td>
     <td></td>
   </tr>
@@ -123,35 +136,57 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
 
 ## サービスレベルターゲット：初期対応
 
-| 優先度 | オンラインサポート | ビジネスサポート |
-|--- |--- |--- |
-| <b>優先度 1</b><br>お客様の本番業務機能がダウンしている、または著しいデータ損失やサービス低下があり、機能およびユーザビリティを復元するための早急な処置が必要。 | 24 時間年中無休／<br>1 時間 | 24 時間年中無休／<br>1 時間 |
-| <b>優先度 2</b><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。 | 営業時間内／<br>4 時間 | 営業時間内／<br>2 時間 |
-| <b>優先度 3</b><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できる解決策／回避策が存在する。 | 営業時間内／<br>6 時間 | 営業時間内／<br>4 時間 |
-| <b>優先度 4</b><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。 | 営業日／<br>3 日 | 営業日／<br>1 日 |
-
-{style=&quot;table-layout:auto&quot;}
+<table>
+<thead>
+  <tr>
+    <th>優先度</th>
+    <th>標準サポート</th>
+    <th>ビジネスサポート</th>
+    <th>エンタープライズサポート</th>
+    <th>エリートサポート</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><strong>優先度 1</strong><br>お客様の本番業務機能がダウンしている、または著しいデータ損失やサービス低下があり、機能およびユーザビリティを復元するための早急な処置が必要。</td>
+    <td>24 時間年中無休／<br>30 分</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>該当するAdobe製品およびサービスのサポートプランを購入したお客様は、Adobeのサポートエンジニアに対して、ケースを迅速に追跡する優先的なケースルーティングを受け取ります。</td>
+  </tr>
+  <tr>
+    <td><strong>優先度 2</strong><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。</td>
+    <td>24 時間年中無休／<br>1 時間</td>
+  </tr>
+  <tr>
+    <td><strong>優先度 3</strong><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できる解決策／回避策が存在する。</td>
+    <td>営業日/<br>4 時間</td>
+  </tr>
+  <tr>
+    <td><strong>優先度 4</strong><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。</td>
+    <td>営業日／<br>1 日</td>
+  </tr>
+</tbody>
+</table>
 
 ## ビジネスサポートの特長
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="アカウントサポートリード" src="assets/Accountsupportlead.png"/>
+    <img alt="アカウントサポートリード" src="assets/dmeaccountsupportlead.png"/>
     <div>
     <p><b>アカウントサポートリード</b></p>
-    <p>専任アカウントサポートリードは、プロアクティブにケースを監視し、チーム間のコラボレーションを促進します。また、オンボーディングウェビナーの提供や、サービスレポートの実行、技術面以外でのサポートを行います。お客様のエスカレーションポイントおよびアドビサポートの社内担当としての役割を果たします。</p>
+    <p>割り当てられたアカウントサポートリードは、ケースの進行状況を監視し、エスカレーションポイントとAdobeサポート内の内部支持者として機能します。</p>
     </div>
   </td>
   <td>
-    <img alt="電話サポート" src="assets/livetelephonesupport.png"/>
+    <img alt="優先事例ルーティング" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>電話サポート（ライブ）</b></p>
-    <p>お客様は、P2、P3、P4 のすべての問題について、地域のサポート時間内に電話でサポートケースを申請できます。サポートへの電話の回数に上限はありません。また、サポートからの折り返し連絡やミーティングをリクエストすることもできます。ミーティングでは、共有リモートデスクトップセッションを使用して、問題の説明や対処を受けることができます。</p>
+    <p><b>優先事例ルーティング</b></p>
+    <p>優先順位付きのルーティングを受け取り、送信済みのケースに関するより高度なサポートリソースへの迅速な接続を確保します。</p>
     </div>
   </td>
   <td>
-    <img alt="エスカレーション管理" src="assets/EscalationManagement.png"/>
+    <img alt="エスカレーション管理" src="assets/dmeescalationmanagement.png"/>
     <div>
     <p><b>エスカレーション管理</b></p>
     <p>アドビ内の専任連絡窓口が、エスカレーション支援や定期的なアップデートを提供し、お客様の最も重要なオープン中のサポートリクエストに優先的に対応します。</p>
@@ -160,78 +195,58 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
 </tr>
 <tr>
   <td>
-    <img alt="ビジネスサービス" src="assets/BusinessServices.png"/>
+    <img alt="問題の優先順位付けの加速" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>ビジネスサービス</b></p>
-    <p>アカウントサポートリード主催のウェビナーで、ビジネスサポートサービスの概要を学習できます。</p>
+    <p><b>問題の優先順位付けの加速</b></p>
+    <p>エンジニアリングとの連携を促進し、サポートケース作業に関する優先順位付けをより高く受け取る。</p>
     </div>
-  </td>
-  <td>
-  </td>
-  <td>
   </td>
 </tr>
 </table>
 
-## オンラインサポートの特長
-
-<!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
--->
+## 標準サポート機能
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="フォーラム" src="assets/CommunityForums.png"/>
+    <img alt="フォーラム" src="assets/community-forums-icon.png"/>
     <div>
-    <p>コミュニティフォーラム</p>
-    <p><b>オンラインフォーラム</b></p>
-    <p>テクニカルソリューション、製品ドキュメント、FAQ などの増大するデータベースにオンラインで継続的にアクセスできます。何千人ものお客様同士が繋がり、ベストプラクティスや学習した内容を共有できます。</p>
+    <p><b>コミュニティフォーラム</b></p>
+    <p>テクニカルソリューション、製品ドキュメント、FAQ などの増大するデータベースにオンラインで継続的にアクセスできます。また、アドビコミュニティで実務担当者や他のお客様と繋がり、ベストプラクティスや学習した内容を共有できます。</p>
     </div>
   </td>
   <td>
-    <img alt="電話サポート" src="assets/PhoneSupport.png"/>
+    <img alt="セルフサービス" src="assets/dme-selfhelp.png"/>
     <div>
-    <p>24 時間年中無休 P1</p>
-    <p><b>電話サポート</b></p>
-    <p>承認済みユーザーまたはサポート対象ユーザーは、使用可能なすべてのチャネル（P1 の場合は電話を含む）を通じて問題を申請でき、お客様の会社を代表してアドビのテクニカルサポートチームとやり取りできます。</p>
-    </div>
-  </td>
-  <td>
-    <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
-    <div>
-    <p>Experience League</p>
-    <p><b>セルフガイドジャーニー</b></p>
-    <p>エクスペリエンスメーカーは、Experience League から誕生します。Experience League に参加すると、パーソナライズされた学習で、顧客体験管理能力を強化することができます。スキルの向上や、グローバルコミュニティでの仲間との交流のほか、キャリアアップに役立つ評価の獲得も可能です。</p>
+    <p><b>セルフヘルプポータル</b></p>
+    <p>オンラインのセルフサービスサポートポータルにオンデマンドでアクセスして、サポートリクエストを申請したり、ケースのステータスを確認したり、その他のリソース（ナレッジベース、ニュースとアラート、注目すべきヒントなど）を参照したりできます。</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Office Hours" src="assets/Webinar.png"/>
+    <img alt="ライブチャットサポート" src="assets/dmechat.png"/>
     <div>
-    <p>営業時間</p>
-    <p><b>ウェビナー</b></p>
-    <p>Office Hours は、アドビカスタマーサポートチーム主導による取り組みの 1 つです。これらのセッションは、参加者に情報を提供するだけでなく、問題のトラブルシューティングや Adobe Experience Cloud で成功するためのヒントやテクニックを紹介することを目的としています。</p>
-    </div>
-  </td>
-  <td>
-    <img alt="ライブチャットサポート" src="assets/LiveChat.png"/>
-    <div>
-    <p>ライブチャットサポート *</p>
     <p><b>チャットサポート</b></p>
-    <p>チャットセッションを開始すると、回答やケース申請による支援を受けることができます。</p>
-    <p>* <i>すべての製品にライブチャットサポートがあるわけではありません。
-
-* チャットサポートは日本語に対応していません。</i></p>
+    <p>認証済みユーザー（管理者）は、Adobeサポートとのチャットセッションを開始して、回答を得たり、ケース送信に関するヘルプを受け取ることができます</p>
+    <p><i>現地時間に依存します。</i></p>
     </div>
   </td>
   <td>
-    <img alt="セルフサービス" src="assets/SelfHelpPortal.png"/>
+    <img alt="電話サポート" src="assets/dmephone.png"/>
     <div>
-    <p>セルフサービスポータル</p>
-    <p><b>24 時間年中無休のサポートポータル</b></p>
-    <p>オンラインのセルフサービスサポートポータルにオンデマンドでアクセスして、サポートリクエストを申請したり、ケースのステータスを確認したり、その他のリソース（ナレッジベース、ニュースとアラート、注目すべきヒントなど）を参照したりできます。</p>
+    <p><b>電話サポート</b></p>
+    <p>認証済みユーザー（管理者）は、電話でAdobeサポートに連絡して、回答を得たり、ケース送信に関するヘルプを受け取ることができます。</p>
+    <p><i>現地時間に依存します。</i></p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img alt="Web ケース" src="assets/dmewebcase.png"/>
+    <div>
+    <p><b>ウェブケースの送信</b></p>
+    <p>認証済みユーザー（管理者）は、テクニカルサポートチームによるレビューに関するサポートの問題について、いつでも無制限の Web ケースを送信できます。</p>
     </div>
   </td>
 </tr>
@@ -241,40 +256,41 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
-| [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
+| [Enterprise ラーニングとサポート](https://helpx.adobe.com/enterprise.html) | Enterprise Learn &amp; Support は、Adobeのお客様がセルフヘルプチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、および一部のAdobe Creative Cloud製品とドキュメント製品のサポートを見つけることができる場所です。 |
+| [Adobeサポートコミュニティ](https://community.adobe.com/) | Adobeサポートコミュニティは、質問をし、回答を見つけ、専門家から学び、知識を共有する場所です。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
-| [ビジネスサポート web サイト](https://helpx.adobe.com/jp/support/programs/enterprise-support-programs/premier-support-business.html) | アドビのビジネスサポート web サイトです。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
-## アドビサポートの対象地域、現地の営業時間、言語サポート
+{style=&quot;table-layout:auto&quot;}
 
-アドビサポートの対象地域と現地営業時間は、以下のとおりです。対象地域は、お客様のセールスオーダーやその他のアドビサポートのご契約資料に記載されている請求先の地域に準じます。
+## 地域の営業時間と言語サポート
+
+Adobeの現地営業時間は、顧客の請求地域に合わせて調整されます。
 
 <table>
 <thead>
   <tr>
-    <th>南北アメリカ</th>
+    <th>南北アメリカ<sup>1</sup></th>
     <th>ヨーロッパ、中東、アフリカ</th>
     <th>アジア太平洋</th>
-    <th>日本<sup>1</sup></th>
+    <th>日本</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>午前 6:00 ～午後 5:30</td>
+    <td>24 時間週 7 日</td>
     <td>午前 9:00 ～午後 5:00</td>
     <td>午前 9:00 ～午後 5:00</td>
     <td>午前 9:00 ～午後 5:30</td>
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup><i>サポートで対応している言語は、英語および日本語のみです。</i></p>
-      <p><i>Adobe Commerce のサポートは、日本語に対応していません。</i></p>
-      <p><i>日本では、P2、P3、P4 の場合、営業時間内のみの対応です。</i></p>
+      <p><sup>1</sup>南北アメリカの言語のサポートは英語でのみ利用可能です。</p>
     </td>
   </tr>
 </tbody>
 </table>
 
 ![アイコン](assets/bottom-banner.png)
+
+*Adobeサポートサービスおよび適切なレベルの詳細については、担当の重点顧客マネージャ (NAM) またはカスタマーサクセスマネージャ (CSM) にお問い合わせください。*

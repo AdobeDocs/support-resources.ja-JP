@@ -1,10 +1,10 @@
 ---
 user-guide-title: サポートリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のサポートリソース。
-source-git-commit: 4a523e14aba2af3b697eee7a994b51d7bb9ad9f6
+source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 75%
+source-wordcount: '54'
+ht-degree: 70%
 
 ---
 
@@ -19,7 +19,12 @@ ht-degree: 75%
    + [エンタープライズ](enterprise.md)
    + [エリート](elite.md)
    + [カスタマーサポートガイド](support-guide.md)
-+ [Creative CloudとDocument Cloudサービス](dme-overview.md)
++ Creative CloudとDocument Cloudサービス {#dme-data-sheets}
+   + [Creative CloudとDocument Cloudサービス](dme-overview.md)
+   + [標準](dme-standard.md)
+   + [ビジネス](dme-business.md)
+   + [エンタープライズ](dme-enterprise.md)
+   + [エリート](dme-elite.md)
 + [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
