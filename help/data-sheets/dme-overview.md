@@ -1,19 +1,19 @@
 ---
-title: Creative Enterprise およびDocument Cloudサポートサービスの概要
-description: この記事では、Adobe Creative CloudとDocument Cloudのカスタマーサポートオプションの概要を説明します。 これらのオプションには、Standard、Business、Enterprise、Elite が含まれます。
+title: Creative Enterprise および Document Cloud サポートサービスの概要
+description: この記事では、Adobe Creative Cloud および Document Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、標準、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 5%
+ht-degree: 96%
 
 ---
 
 # Creative Cloud・エンタープライズおよびDocument Cloudのサポート・サービス
 
-Adobe Creative CloudとDocument Cloudのカスタマーサポート組織は、お客様の成功に向けて取り組んでいます。 すべてのアプリケーションには、技術支援のための高度な技術リソースに容易にアクセスできるレベルのサポートが含まれています。
+Adobe Creative Cloud と Document Cloud のカスタマーサポート組織は、お客様の成功のために尽力しています。すべてのアプリケーションには、技術支援のための高度なスキルを持つ技術リソースへの簡単なアクセスを提供するサポートが含まれています。
 
-より包括的なニーズに対して、アドビは、プロアクティブな指導とサービスレビューのための名前付きサポートの専門家とセッションへのアクセスを含むAdobeサポートプランを提供します。 Adobeは、サポートニーズがどの程度複雑であっても、Adobe・アプリケーションから最高のパフォーマンスと最適な価値を実現するのに必要な技術的および運用的な専門知識を提供します。
+より包括的なニーズに対応するために、指定されたサポート専門家へのアクセスや、プロアクティブなメンタリングおよびサービスレビューのためのセッションなど、様々なアドビサポートサービスを提供しています。お客様のサポートニーズがどれほど複雑であっても、アドビは、お客様がアドビアプリケーションから最高のパフォーマンスと最適な価値を得るために必要な技術的および運用上の専門知識を提供します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -24,7 +24,7 @@ Adobe Creative CloudとDocument Cloudのカスタマーサポート組織は、�
     <div>
     <a href="dme-standard.md"><strong>標準サポート</strong></a> ( ビュー <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
-    <p>24 時間 365 日アクセス可能なユーザー（管理者）は、チャットまたは電話でアドビのテクニカルサポートチームにアクセスできるほか、サポート Web ポータルからサポートリクエストをログに記録できます。 </p>
+    <p>認定ユーザー（管理者）向けのチャットや電話によるテクニカルサポートチームへの 24 時間アクセスおよびサポート web ポータルを通じたサポートリクエストをログに記録する機能。 </p>
     <br>
   </td>
   <td>
@@ -34,7 +34,7 @@ Adobe Creative CloudとDocument Cloudのカスタマーサポート組織は、�
     <div>
     <a href="dme-business.md"><strong>ビジネスサポート</strong></a>（<a href="assets/DMeBusinessSupportDatasheet_2022.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>より高度なサポートへの迅速な接続を確保するための優先順位付けと、最も重要なサポートリクエストに対して定期的な通信と更新を受け取るためのアカウントサポートリードを活用する機能。</p>
+    <p>より高度なサポートへのより迅速な接続と、アカウントサポートリードを活用して最も重要なサポートリクエストの定期的な連絡と更新を受信する機能を確保するためのサポートケースの優先ルーティング。</p>
     <br>
   </td>
 </tr>
@@ -46,7 +46,7 @@ Adobe Creative CloudとDocument Cloudのカスタマーサポート組織は、�
     <div>
     <a href="dme-enterprise.md"><strong>エンタープライズサポート</strong></a>（<a href="assets/DMeEnterpriseSupportDatasheet_2022.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>Adobeサポートチームの技術担当者が、お客様のソリューションに関する深い経験を持ち、お客様および技術チームと協力して、すべてのサポートリクエストをタイムリーに解決します。</p>
+    <p>お客様のソリューションに深い経験を持つアドビサポートチームの指定技術担当者が、お客様およびお客様の技術チームと連携して、確実にすべてのサポートリクエストをタイムリーに解決します。</p>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Adobe Creative CloudとDocument Cloudのカスタマーサポート組織は、�
     <div>
     <a href="dme-elite.md"><strong>エリートサポート</strong></a>（<a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a> を表示）
     </div>
-    <p>Adobeサポートチームとテクニカルアカウントマネージャの担当者が、お客様と協力してクラス最高のプロアクティブサポートを提供し、投資を最大限に活用し、問題が発生する前に問題を回避するのに役立ちます。</p>
+    <p>アドビサポートチームの指定された技術担当者と、お客様と協力してクラス最高のプロアクティブなサポートを提供し、投資を最大限に活用し、問題が発生する前に回避できるようにするテクニカルアカウントマネージャー。</p>
     <br>
   </td>
 </tr>

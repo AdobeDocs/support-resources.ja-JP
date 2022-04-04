@@ -4,23 +4,23 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 
 # サポートリソース {#data-sheets}
 
-+ [Adobeサポートの概要](overview.md)
++ [アドビサポートの概要](overview.md)
 + Experience Cloud サービス {#data-sheets}
-   + [Adobeサポートの概要](dx-overview.md)
+   + [アドビサポートの概要](dx-overview.md)
    + [オンライン](online.md)
    + [ビジネス](business.md)
    + [エンタープライズ](enterprise.md)
    + [エリート](elite.md)
    + [カスタマーサポートガイド](support-guide.md)
-+ Creative CloudとDocument Cloudサービス {#dme-data-sheets}
-   + [Creative CloudとDocument Cloudサービス](dme-overview.md)
++ Creative Cloud サービスと Document Cloud サービス {#dme-data-sheets}
+   + [Creative Cloud サービスと Document Cloud サービス](dme-overview.md)
    + [標準](dme-standard.md)
    + [ビジネス](dme-business.md)
    + [エンタープライズ](dme-enterprise.md)
