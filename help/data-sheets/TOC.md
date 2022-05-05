@@ -25,7 +25,7 @@ ht-degree: 100%
    + [ビジネス](dme-business.md)
    + [エンタープライズ](dme-enterprise.md)
    + [エリート](dme-elite.md)
-+ [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) {target=&quot;_blank&quot;}
++ [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 
