@@ -2,18 +2,18 @@
 user-guide-title: サポートリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のサポートリソース。
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
 # サポートリソース {#data-sheets}
 
-+ [Adobeサポート計画の概要](overview.md)
-+ 2022 年 6 月 17 日以前のAdobeサポート計画{#prior-plans}
-   + [事前Adobe支援計画の概要](overview-prior-plans.md)
++ [アドビサポートプランの概要](overview.md)
++ 2022年6月16日（PT）以前のアドビサポートプラン {#prior-plans}
+   + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
       + [アドビサポートの概要](dx-overview.md)
       + [オンライン](online.md)
@@ -21,7 +21,7 @@ ht-degree: 76%
       + [エンタープライズ](enterprise.md)
       + [エリート](elite.md)
       + [カスタマーサポートガイド](support-guide.md)
-   + Creative Cloud サービスと Document Cloud サービス {#dme-data-sheets}
+   + Creative Cloud サービスと Document Cloud サービス{#dme-data-sheets}
       + [Creative Cloud サービスと Document Cloud サービス](dme-overview.md)
       + [標準](dme-standard.md)
       + [ビジネス](dme-business.md)
