@@ -1,18 +1,18 @@
 ---
-title: 事前Adobe支援計画の概要
-description: この記事では、Adobe Experience Cloud、Adobe Document Cloud、Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
+title: 以前のアドビサポートプランの概要
+description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# 事前Adobe支援計画の概要
+# 以前のアドビサポートプランの概要
 
 >[!NOTE]
 >
->このプランは、2022 年 6 月 16 日 (PT) より前のAdobeサポートプランを対象としています。 現在のサポート計画については、 [Adobeサポート製品の概要](overview.md).
+>このプランは、2022年6月16日（PT）以前のアドビサポートプランを対象としています。現在のサポートプランについては、[アドビサポート製品の概要](overview.md)を参照してください。
 
 アドビサポート組織は、お客様の成功のために尽力しています。どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
 
