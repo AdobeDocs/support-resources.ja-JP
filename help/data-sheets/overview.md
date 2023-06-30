@@ -2,10 +2,10 @@
 title: アドビサポートプランの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ ht-degree: 97%
 | P4 | **ビジネスへの影響なし：**<br>現在の製品機能に関する一般的な質問や機能拡張のリクエスト。 | 1 営業日 | 1 営業日 | アドビカスタマーサポートは、アドビの営業時間内にのみ登録サポートコンタクトに連絡します。 |
 
 ## Ultimate サポート：登録サポートコンタクト
-
-また悪い。 次に、https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=enで以下の説明を修正する必要があると思います。
 
 Ultimate Support の下で、お客様は、AEC 製品 1 つにつき最大 15 名の特定サポート連絡先（エキスパートサポート用 AEC 製品 1 つにつき 4 名から増加）の容量を拡張する権利を持ちます。
 
