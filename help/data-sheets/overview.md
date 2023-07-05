@@ -3,9 +3,9 @@ title: アドビサポートプランの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1727'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 98%
 
 ## Ultimate サポート：登録サポートコンタクト
 
-Ultimate Support の下で、お客様は、AEC 製品 1 つにつき最大 15 名の特定サポート連絡先（エキスパートサポート用 AEC 製品 1 つにつき 4 名から増加）の容量を拡張する権利を持ちます。
+Ultimate サポートでは、お客様は登録サポートコンタクトを、AEC 製品ごとに最大 15 名に拡張する資格を有します（エキスパートサポートの AEC 製品ごとに 4 名から増加）。
 
 登録サポートコンタクトは、利用可能なあらゆるチャネルを通じて問題を送信し、必要に応じてお客様ユーザーに代わってアドビのテクニカルサポートチームとやり取りすることができます。また、このような登録サポートコンタクトのうち 1 名をお客様のアカウント管理者として指定することもできます。アカウント管理者になると、アドビが提供するサポートポータルを通じて、登録サポートコンタクトリストや制限付きの権限設定を自身で設定することができます。
 
