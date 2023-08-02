@@ -2,10 +2,10 @@
 title: アドビサポートプランの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
+source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
 workflow-type: tm+mt
-source-wordcount: '1727'
-ht-degree: 100%
+source-wordcount: '1756'
+ht-degree: 98%
 
 ---
 
@@ -30,10 +30,11 @@ ht-degree: 100%
 | アドオン | Expert サポートプラン | Ultimate サポートプラン |
 |--- |--- |--- |
 | **イベント管理アドオン**<br>&#x200B;主要イベントのライフサイクル全体を管理するために必要なエンドツーエンドのリーダーシップとサポートを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
-| **テクニカルアカウントディレクターアドオン**<br>&#x200B;リーダーシップ管理を提供かつエグゼクティブエンゲージメントを持ち、ビジネス成果を最大化するガバナンスを確実に実現するリードテクニカルリソース | ![ not included icon ](assets/Cross_red_circle.svg){width="20"} 適用外 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
+| **テクニカルアカウントディレクターアドオン**<br>&#x200B;リーダーシップ管理を提供かつエグゼクティブエンゲージメントを持ち、ビジネス成果を最大化するガバナンスを確実に実現するリードテクニカルリソース | ![使用できないアイコン](assets/Cross_red_circle.svg){width="20"} 利用不可 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
 | **アドバンスクラウドサポートアドオン**<br> Adobe Experience Manager as a Cloud Service のお客様に対するトップティアケアと価値保証 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
 | **メンターセッションアドオン**<br>&#x200B;ジャストインタイムのトレーニング方法のスキルベースのラーニングを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"}  利用可能 | ![ available icon ](assets/green_checkmark.svg){width="20"} 利用可能 |
 | **開発者ブーストアドオン**<br>&#x200B;不具合修正作業を支援するフィールドエンジニアリングエキスパートへのアクセスを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](assets/green_checkmark.svg){width="20"}  利用可能 |
+| **Priority Queue Bundle add-on**<br>&#x200B;チケットを最初に Mentor Sessions と Developer Boost への追加アクセスで動作させるには、この行をスキップしてください | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](assets/green_checkmark.svg){width="20"}  利用可能 |
 
 {style="table-layout:fixed"}
 
