@@ -4,7 +4,7 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Support
 source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # サポートリソース {#data-sheets}
 
 + [アドビサポートプランの概要](overview.md)
-+ 2022年6月16日（PT）以前のアドビサポートプラン {#prior-plans}
++ 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
       + [アドビサポートの概要](dx-overview.md)
