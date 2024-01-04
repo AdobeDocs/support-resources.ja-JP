@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="Premium のダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
-source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
+source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 3%
@@ -180,7 +180,7 @@ Start of DIV.
 
 This is a new paragraph, then an image
 
-![image](/help/home/assets/analytics-icon-24.png)
+![image](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
 Last highlighted item.
 
@@ -199,7 +199,7 @@ DIV の開始。
 
 これは新しい段落で、次に画像です
 
-![画像](/help/home/assets/analytics-icon-24.png)
+![画像](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
 最後にハイライトされた項目。
 
