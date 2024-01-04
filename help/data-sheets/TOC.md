@@ -1,19 +1,19 @@
 ---
-user-guide-title: サポートリソース
-user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のサポートリソース。
+user-guide-title: サクセスプランのリソース
+user-guide-description: Adobe Experience CloudとAdobe Experience Platformのサクセスプランとサポートリソース。
 feature-set: Experience Cloud
-feature: Support
-source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: ht
-source-wordcount: '65'
-ht-degree: 100%
+feature: Success Plans
+source-git-commit: 65ee13adb8e35d6714d0ebe705b788b1a535400f
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 57%
 
 ---
 
 
-# サポートリソース {#data-sheets}
+# サクセスプランのリソース {#data-sheets}
 
-+ [アドビサポートプランの概要](overview.md)
++ [Adobe成功プランの概要](overview.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
@@ -23,7 +23,7 @@ ht-degree: 100%
       + [エンタープライズ](enterprise.md)
       + [エリート](elite.md)
       + [カスタマーサポートガイド](support-guide.md)
-   + Creative Cloud サービスと Document Cloud サービス {#dme-data-sheets}
+   + Creative CloudとDocument Cloudサービス {#dme-data-sheets}
       + [Creative Cloud サービスと Document Cloud サービス](dme-overview.md)
       + [標準](dme-standard.md)
       + [ビジネス](dme-business.md)
