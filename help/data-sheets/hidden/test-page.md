@@ -3,10 +3,10 @@ title: テストページ（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 8956f958d373f1c67f4ffddf48388f7611ce00ea
+source-git-commit: 83eb9c3b531134e221b183ef20837ee82276b9b5
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 1%
+source-wordcount: '1015'
+ht-degree: 11%
 
 ---
 
@@ -126,3 +126,217 @@ width=50%（以下の表と比較）
 ダウンロード [XLSX ファイル](assets/4-module_version.xlsx)
 
 ダウンロード [ZIP ファイル](assets/2-Factor-Authentication-DataSource-and-FDM.zip)
+
+## div を含むHTMLテーブル
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="リリース情報" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>リリース情報</strong></a>
+      <p>Adobe Commerceのパッチとサービスに関するすべてのリリース情報を確認します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="インストール" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>インストール</strong></a>
+      <p>オンプレミスデプロイメント用にAdobe Commerceをインストールする方法を説明します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="設定" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>設定</strong></a>
+      <p>Adobe Commerceアプリケーションの機能とサービスを設定します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="データ移行" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>データ移行</strong></a>
+      <p>Magento1 とMagento2 の間のデータ移行プロセスについて説明します。</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>アップグレード</strong></a>
+      <p>ストアフロントのセキュリティと効率的な動作を維持するためにAdobe Commerceプロジェクトをアップグレードする方法を説明します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="コマンドラインツールリファレンス" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>コマンドラインツールリファレンス</strong></a>
+      <p>Adobe Commerceコマンドラインツールのコマンド、引数、およびオプションについて説明します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="パフォーマンス" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>パフォーマンスのベストプラクティス</strong></a>
+      <p>これらの推奨事項を使用して、Adobe Commerceデプロイメントのパフォーマンスを最適化します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="ツール" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>ツール</strong></a>
+      <p>Adobe Commerceで使用できるツールについて説明します。</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="実装" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>実装プレイブック</strong></a>
+      <p>成功する Adobe Commerce サイトの計画と実装の戦略について学習します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="運用" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>オペレーショナルプレイブック</strong></a>
+      <p>e コマースサイトを成功させるために、ビジネスの運営をどのように準備すればよいかについて学習します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="エンタープライズ" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>規模に応じたコマース</strong></a>
+      <p>Adobe Commerce と Adobe Experience Manager を使用して、エクスペリエンスを大規模に配信する方法を学習します。</p>
+    </div>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="エンタープライズ" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <div>
+      <a href="/help/data-sheets/business.md"><strong>セキュリティとコンプライアンス</strong></a>
+      <p>安全な環境の維持にAdobe Commerceの商人がどのように責任を負うかを説明します。</p>
+    </div>
+  </td>
+</tr>
+</table>
+
+## HTMLテーブル（div なし）
+
+<table>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="リリース情報" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>リリース情報</strong></a>
+    <p>Adobe Commerceのパッチとサービスに関するすべてのリリース情報を確認します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="インストール" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>インストール</strong></a>
+    <p>オンプレミスデプロイメント用にAdobe Commerceをインストールする方法を説明します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="設定" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>設定</strong></a>
+    <p>Adobe Commerceアプリケーションの機能とサービスを設定します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="データ移行" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>データ移行</strong></a>
+    <p>Magento1 とMagento2 の間のデータ移行プロセスについて説明します。</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="Upgrade" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>アップグレード</strong></a>
+    <p>ストアフロントのセキュリティと効率的な動作を維持するためにAdobe Commerceプロジェクトをアップグレードする方法を説明します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="コマンドラインツールリファレンス" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>コマンドラインツールリファレンス</strong></a>
+    <p>Adobe Commerceコマンドラインツールのコマンド、引数、およびオプションについて説明します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="パフォーマンス" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>パフォーマンスのベストプラクティス</strong></a>
+    <p>これらの推奨事項を使用して、Adobe Commerceデプロイメントのパフォーマンスを最適化します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="ツール" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>ツール</strong></a>
+    <p>Adobe Commerceで使用できるツールについて説明します。</p>
+  </td>
+</tr>
+<tr>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+      <img alt="実装" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>実装プレイブック</strong></a>
+    <p>成功する Adobe Commerce サイトの計画と実装の戦略について学習します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="運用" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>オペレーショナルプレイブック</strong></a>
+    <p>e コマースサイトを成功させるために、ビジネスの運営をどのように準備すればよいかについて学習します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="エンタープライズ" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>規模に応じたコマース</strong></a>
+    <p>Adobe Commerce と Adobe Experience Manager を使用して、エクスペリエンスを大規模に配信する方法を学習します。</p>
+  </td>
+  <td valign="top">
+    <a href="/help/data-sheets/business.md">
+       <img alt="エンタープライズ" src="assets/package.png" width="40" height="40"/>
+    </a>
+    <a href="/help/data-sheets/business.md"><strong>セキュリティとコンプライアンス</strong></a>
+    <p>安全な環境の維持にAdobe Commerceの商人がどのように責任を負うかを説明します。</p>
+  </td>
+</tr>
+</table>
