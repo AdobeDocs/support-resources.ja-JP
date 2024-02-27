@@ -4,9 +4,9 @@ description: Markdown のスタイル設定の基本的な概要
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 13%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 13%
 # Markdown 構文スタイルガイド
 
 このページでは、Markdown(.md) 形式を使用した Digital Experience Technical Documentation Authoring の Markdown コンポーネントについて説明します。 このページには、Adobe従業員の詳細が含まれます。
+
+EDS
 
 こちらを参照してください。 [Adobe.com](https://www.adobe.com){rel=nofollow}
 
