@@ -3,16 +3,18 @@ title: テーブル
 description: Markdown テーブルおよびHTMLテーブルの操作
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 18%
 
 ---
 
 # テーブル
 
-マットは何度もここにいた
+マットは何度もここにいた —
+
+EDS
 
 標準の Markdown では、基本的なテーブルのみがサポートされます。 AdobeDocs Markdown の場合は、次のオプションを使用できます。
 
