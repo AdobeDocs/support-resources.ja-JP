@@ -3,16 +3,26 @@ title: テストページ（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 11%
+source-wordcount: '1028'
+ht-degree: 12%
 
 ---
 
 # テストページ（非表示）
 
 非表示のテストページ
+
+## ボタン
+
+[ボタンのデフォルト](https://www.adobe.com/)
+
+**[ボタンのプライマリ](https://www.adobe.com/)**
+
+_[ボタンのセカンダリ](https://www.adobe.com/)_
+
+**_[ボタンの第 3](https://www.adobe.com/)_**
 
 ## 画像 (EXLM-412)
 
