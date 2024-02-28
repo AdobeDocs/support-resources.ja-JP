@@ -1,30 +1,40 @@
 ---
 title: 非表示のテストページ
-description: このページは、検索や目次には表示されません
+description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
-badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="Premium のダウンロード"
+badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="プレミアムのダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 3%
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # 非表示のテストページ
 
-有効化しますか？ 送信は午後 3 時 10 分頃に再度確認します。 午後 3 時半にライブになりますか。
+アクティブ化しますか？午後 3:10 頃に送信を再確認します。午後 3:30 に運用開始になりますか？
+
+## ボタン
+
+[ボタンのデフォルト](https://www.adobe.com/)
+
+**[ボタンのプライマリ](https://www.adobe.com/)**
+
+_[ボタンのセカンダリ](https://www.adobe.com/)_
+
+**_[ボタンの第 3](https://www.adobe.com/)_**
 
 ## 問題のプレビュー
 
-次の段落は、VSC プレビューで正しくレンダリングされません。 なぜか分かりません。
+次の段落を、VSC プレビューで適切にレンダリングできません。理由はわかりません。
 
-パスワードが [!DNL Adobe]を使用する場合、 [パスワードアカウントのAdobeを変更する](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+パスワードが [!DNL Adobe] によって管理されている場合は、[Adobe アカウントのパスワードを変更](https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html){target="_blank"}できます。
 
 ## メモのタイプ
 
-サポートされるすべての注記タイプ。
+サポートされているすべてのメモのタイプ。
 
 >[!NOTE]
 >
@@ -36,61 +46,61 @@ ht-degree: 3%
 
 >[!IMPORTANT]
 >
->これは重要な注意事項です。
+>これは、重要なメモです。
 
 >[!WARNING]
 >
->これは警告です。
+>これは、警告です。
 
 >[!CAUTION]
 >
->これは注意が必要です。
+>これは、注意です。
 
 >[!ADMIN]
 >
->これは、ADMINISTRATION としてレンダリングされる管理メモです。 EXL のみ。
+>これは、管理としてレンダリングされる管理に関するメモです。EXL のみ。
 
 >[!AVAILABILITY]
 >
->これは、可用性に関するメモです。 EXL のみ。
+>これは、可用性に関するメモです。EXL のみ。
 
 >[!PREREQUISITES]
 >
->これは前提条件のメモです。 EXL のみ。
+>これは、前提条件に関するメモです。EXL のみ。
 
 >[!INFO]
 >
->これは情報メモです。 EXL のみ。
+>これは、情報に関するメモです。EXL のみ。
 
 >[!ERROR]
 >
->これはエラーメモです。 EXL のみ。
+>これは、エラーに関するメモです。EXL のみ。
 
 >[!SUCCESS]
 >
->これは成功メモです。 EXL のみ。
+>これは、成功に関するメモです。EXL のみ。
 
 >[!MORELIKETHIS]
 >
->* 1 ページ目
->* 2 ページ目
+>* ページ 1
+>* ページ 2
 
 ## バッジ
 
-バッジは、コンテンツインジケーターとして使用される色付きのラベルです。 例えば、バッジを追加して記事を「 _ベータ版_ またはセクションを _Premium_. バッジの色を変更し、URL とツールチップを関連付けることができます。
+バッジは、コンテンツのインジケーターとして使用される、カラー表示されるラベルです。例えば、バッジを追加して記事を&#x200B;_ベータ版_&#x200B;としてマークしたり、セクションを&#x200B;_プレミアム_&#x200B;としてマークしたりできます。バッジのカラーを変更して、URL とツールチップを関連付けることができます。
 
 [!BADGE バッジの例]
 
-次の 2 つのタイプがあります。 of バッジには異なる構文があります。
+2 つのタイプがあります of それぞれ構文が異なるバッジを以下に示します。
 
-* **メタデータ**  — ページの上部付近にバッジを表示します
-* **インライン**  — 構文が存在するバッジを表示します
+* **メタデータ** - ページの上部付近にバッジを表示します
+* **インライン** - 構文が存在するバッジを表示します
 
 ### メタデータバッジ
 
-メタデータにバッジ構文を追加すると、記事のページタイトル (H1) の上にバッジが配置されます。
+メタデータにバッジ構文を追加すると、記事のページタイトル（H1）の上にバッジが配置されます。
 
-バッジに名前を付けるには、例えば、 _badge1_ または _badge2_. または、名前がで始まる限り、よりクリエイティブにすることもできます。 _バッジ_) をクリックします。
+例えば、_バッジ 1_ または&#x200B;_バッジ 2_ を使用してバッジに名前を付けることができます。または、よりクリエイティブにすることもできます（名前が&#x200B;_バッジ_&#x200B;で始まる場合に限ります）。
 
 メタデータの例：
 
@@ -99,29 +109,29 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 badgeExam: label="Exam ADO-E903" type="neutral"
 ```
 
-* **badgePremium:** 次の例では、Premium バッジに URL とツールヒントが表示されます。
+* **badgePremium：**&#x200B;この例では、プレミアムバッジと URL およびツールチップが表示されます。
 
-* **badgeExam:** 次の使用例は、ダークバッジと試験 ID 番号を表示します。
+* **badgeExam：**&#x200B;この例では、試験 ID 番号が付いたダークバッジが表示されます。
 
 #### インラインバッジ
 
-バッジ情報を独自の行に指定するか、見出し、表、または他のページ要素に指定します。
+バッジ情報を独自の行で指定するか、見出し、表またはその他のページ要素で指定します。
 
-ベータラベル、青色、URL およびツールチップを含むインラインバッジの構文を次に示します。
+ベータ版のラベル、青色、URL、ツールチップを含むインラインバッジの構文を以下に示します。
 
 `[!BADGE Beta]{type=Informative url="https://www.example.com" tooltip="Go to example.com"}`
 
-### 使用可能なバッジの色
+### 使用可能なバッジのカラー
 
-バッジは、「Adobeスペクトル」で定義された色を使用します。
+バッジは、Adobe Spectrum で定義されたカラーを使用します。
 
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 肯定的 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="example.comに移動します。"} |
-| ネガティブ | [!BADGE 廃止]{type=negative tooltip="この機能は提供終了となりました"} |
-| 中立 | [!BADGE 多分]{type=Neutral tooltip="乗り手が馬から落ちた…"} |
-| 注意 | [!BADGE 注意]{type=Caution tooltip="黄色のステータス"} |
+| 正 | [!BADGE 新機能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 負 | [!BADGE 廃止済み]{type=negative tooltip=&quot;この機能は現在提供終了です&quot;} |
+| 中立 | [!BADGE 多分]{type=Neutral tooltip=&quot;乗り手が馬から落ちた…&quot;} |
+| 注意 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 構文の例
 
@@ -137,14 +147,14 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
 ### バッジの要件
 
-* メタデータで使用できるバッジは 2 つだけです。 このルールは設定可能なので、例外が必要な場合はお知らせください。
-* バッジラベルのみが必要です。 The `type`, `url`、および `tooltip` パラメーターはオプションです。 The `type` パラメータは色を決定します。 The `url` パラメーターを使用すると、ユーザーはバッジをクリックして記事またはページを開くことができます。 The `tooltip` パラメータは、マウスオーバー時にツールチップテキストを表示します。
-* へのバッジの追加 `TOC.md` ファイルには、ガイド内のすべての記事にバッジが表示されます。 バッジから記事にジャンプするための URL を指定する場合は、ルートリンク ( 例： `/help/guide/article.md`) は相対リンクではありません ( 例： `article.md`) を使用して、異なるフォルダー内の記事を処理できます。
-* バッジの追加先 `metadata-new.md` リポジトリ内の各記事のバッジを表示します。
-* メタデータバッジの場合は、すべての値が引用符で囲まれていることを確認します。 インラインバッジの場合は、 `url` および `tooltip` は引用符で囲まれます。
-* 有効なタイプの値は次のとおりです。 *参考情報* （デフォルト、青）、 *肯定的* （緑）、 *ネガティブ* （赤）、 *中立* （ダークグレー） *注意* （黄色）。
-* バッジラベルはローカライズされています。
-* 複数のメタデータバッジを指定した場合、バッジは、バッジ名に基づいてアルファベット順に表示されます ( 例： `badge1:` または `badgeWeb`.
+* メタデータで使用できるバッジは 2 つだけです。このルールは設定可能なので、例外が必要な場合はお知らせください。
+* バッジラベルのみが必要です。`type`、`url`、`tooltip` パラメーターはオプションです。`type` パラメーターを使用すると、カラーが決定されます。`url` パラメーターを使用すると、ユーザーはバッジをクリックして記事またはページを開くことができます。`tooltip` パラメーターを使用すると、マウスオーバー時にツールチップテキストが表示されます。
+* `TOC.md` ファイルにバッジを追加すると、ガイド内のすべての記事にバッジが表示されます。記事にジャンプするバッジの URL を指定する場合は、異なるフォルダー内の記事を考慮して、相対リンク（例：`article.md`）ではなくルートリンク（例：`/help/guide/article.md`）を使用します。
+* `metadata-new.md` にバッジを追加すると、リポジトリ内のすべての記事にバッジが表示されます。
+* メタデータバッジの場合は、すべての値が引用符で囲まれます。インラインバッジの場合は、`url` と `tooltip` が引用符で囲まれます。
+* 有効なタイプの値には、*情報*（デフォルト、青）、*正*（緑）、*負*（赤）、*中立*（濃いグレー）、*注意*（黄）があります。
+* バッジラベルは、ローカライズされています。
+* 複数のメタデータバッジを指定した場合、バッジは、`badge1:` や `badgeWeb` など、バッジ名に基づいてアルファベット順に表示されます。
 * URL を新しいタブで開く場合は、次の構文を使用します。
 
   ```
@@ -153,13 +163,13 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 
   レンダリング：
 
-  [!BADGE 新しいタブで開く]{type=Negative url="https://www.adobe.com newtab=true" tooltip="adobe.comを新しいタブで開きます。"}
+  [!BADGE 新しいタブで開く]{type=Negative url="https://www.adobe.com newtab=true" tooltip="adobe.com を新しいタブで開きます"}
 
 ## テキストのハイライト表示
 
-Workfrontチームは、黄色のハイライトを使用して、今後の機能のプレビューを示すように求めました。 次に、その仕組みを示します。
+Workfront チームは、今後の機能のプレビューを示すために黄色のハイライト表示を使用できるようにするよう求めました。仕組みを以下に示します。
 
-例 1:
+例 1：
 
 ```
 This entire paragraph should NOT be highlighted. <span class="preview"> This word is **bold** inside a highlighted sentence.</span> And this is just the last sentence.
@@ -167,9 +177,9 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 レンダリング：
 
-この段落全体をハイライト表示しないでください。 <span class="preview"> この単語は **太字** 強調表示された文の中に</span> これが最後の文です
+この段落全体をハイライト表示しないでください。<span class="preview"> この単語はハイライトされた文内で&#x200B;**太字**&#x200B;になっています。</span> これは最後の文にすぎません。
 
-例 2:
+例 2：
 
 ```
 Highlighting should start after this paragraph.
@@ -197,25 +207,25 @@ Not highlighted
 
 DIV の開始。
 
-これは新しい段落で、次に画像です
+これは新しい段落で、次に画像が続きます
 
 ![画像](/help/data-sheets/assets/BusinessSupportThumbnail.png)
 
-最後にハイライトされた項目。
+最後にハイライト表示された項目。
 
 </div>
 
-強調表示されていません
+ハイライト表示されていません
 
-## コードブロックの構文の強調表示
+## コードブロックの構文のハイライト表示
 
-Experience Leagueは、コードブロックの構文のハイライト表示をサポートしています。 必ず次のような言語を指定してください。 `java` バッククォートの開始後に、構文が正しくハイライト表示されていることを確認します。 有効な言語の一覧については、 [https://prismjs.com](https://prismjs.com/#supported-languages). 言語が不足している場合は、jira チケットをログに記録してください。
+Experience League では、コードブロックの構文のハイライト表示をサポートします。構文が適切にハイライト表示されるように、最初のバックティックの後に `java` などの言語を指定します。有効な言語のリストについては、[https://prismjs.com](https://prismjs.com/#supported-languages) を参照してください。言語が不足している場合は、Jira チケットをログに記録してください。
 
-### コードブロック内の行番号
+### コードブロック内の行番号付け
 
-追加 `{line-numbers="true"}` 行番号を有効にする言語の後に配置します。
+行番号付けを有効にするには、言語の後に `{line-numbers="true"}` を追加します。
 
-行番号 (&grave;&grave;&grave;) を使用する例`html {line-numbers="true"}`):
+行番号（&grave;&grave;&grave;`html {line-numbers="true"}`）を使用する例：
 
 ```html {line-numbers="true"}
 <!DOCTYPE html>
@@ -229,11 +239,11 @@ Experience Leagueは、コードブロックの構文のハイライト表示を
 </html>
 ```
 
-**行_で番号付けを開始**
+**行番号付けの開始 _**
 
-追加 `start-number="n"` 行番号の構文の後に、1 以外の数値で番号付けを開始します。
+1 以外の番号から番号付けを開始するには、行番号構文の後に `start-number="n"` を追加します。
 
-新しい開始ライン (&grave;&grave;&grave;) を使用する例`html {line-numbers="true" start-line="7"}`):
+新しい開始行（&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`）を使用する例：
 
 ```html {line-numbers="true" start-line="7"}
 <!DOCTYPE html>
@@ -248,11 +258,11 @@ Experience Leagueは、コードブロックの構文のハイライト表示を
 </html>
 ```
 
-### コードブロック内の行のハイライト
+### コードブロック内の行のハイライト表示
 
-追加 `highlight="n"` 行番号構文の後で、コードブロック内の行をハイライト表示します。 指定 `11-13, 16` は、11～13 と 16 の行をハイライトします。
+コードブロック内の行をハイライト表示するには、行番号構文の後に `highlight="n"` を追加します。`11-13, 16` を指定すると、11 行目から 13 行目と 16 行目がハイライト表示されます。
 
-例 — 線のハイライト (&grave;&grave;&grave;)`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
+行のハイライト表示（&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`）を使用する例：
 
 ```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
 <!DOCTYPE html>
