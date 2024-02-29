@@ -128,10 +128,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正 | [!BADGE 新機能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
-| 負 | [!BADGE 廃止済み]{type=negative tooltip=&quot;この機能は現在提供終了です&quot;} |
-| 中立 | [!BADGE 多分]{type=Neutral tooltip=&quot;乗り手が馬から落ちた…&quot;} |
-| 注意 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
+| 正 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
+| 負 | [!BADGE 廃止済み]{type=negative tooltip="この機能は現在提供終了です"} |
+| 中立 | [!BADGE 多分]{type=Neutral tooltip="乗り手が馬から落ちた…"} |
+| 注意 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
 
 構文の例
 
