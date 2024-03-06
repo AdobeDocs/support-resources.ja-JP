@@ -314,7 +314,7 @@ You can't see me (unless you're editing in Git).
 >
 TOC.md ファイル内で、TOC リストの中央にある行をコメントアウトしないでください。 これにより、目次リストが分割され、検証エラーが発生する場合があります。 代わりに、目次内のコメントをファイルの末尾に移動します。
 
-## CONTEXTUALHELP
+## コンテキストヘルプ
 
 作成者は、製品チームと協力して、製品 UI またはExperience Platform製品 UI にヘルプポップオーバーを追加できます。 例：
 
