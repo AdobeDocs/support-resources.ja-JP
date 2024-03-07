@@ -3,16 +3,26 @@ title: テストページ（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
+source-git-commit: 12c7800a061cd9ed0013ed26641c24ef4256f7f0
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 12%
+source-wordcount: '1039'
+ht-degree: 11%
 
 ---
 
 # テストページ（非表示）
 
 非表示のテストページ
+
+## 結腸鏡検査
+
+**絵文字**
+
+これは無視されているようです。
+
+それはとても面白い！ :joy:
+
+:smiley:
 
 ## ボタン
 
