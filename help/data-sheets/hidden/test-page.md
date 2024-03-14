@@ -3,10 +3,10 @@ title: テストページ（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 11%
+source-wordcount: '1026'
+ht-degree: 12%
 
 ---
 
@@ -17,14 +17,6 @@ ht-degree: 11%
 ## AEM EDS へようこそ！
 
 テストを公開
-
-**絵文字**
-
-これは無視されているようです。
-
-それはとても面白い！ :joy:
-
-:smiley:
 
 ## ボタン
 
@@ -41,12 +33,6 @@ _[ボタンのセカンダリ](https://www.adobe.com/)_
 ### カーソルを合わせたテキストを含む画像
 
 ![alt テキスト — package.png](assets/package.png "Hover text — これは package.png です。")
-
-### テキストを中央揃え
-
-<p align="center">私は中心です</p>
-
-<center>私は中心です</center>
 
 ### ズーム可能な画像
 
@@ -131,7 +117,7 @@ width=50%（以下の表と比較）
 
 アイコンは右揃えで、ダイビング画像は 200 ピクセルを中央に配置し、フリップ画像は右に 50%を配置します。
 
-| <center>左 | 中央 | 右</center> |
+| 左 | 中央 | 右 |
 |---|---|---|
 | ![代替テキスト](assets/package.png "align=right"){align=right} | ![代替テキスト](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![代替テキスト](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
