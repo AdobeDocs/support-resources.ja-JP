@@ -3,7 +3,7 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
+source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 4%
@@ -14,9 +14,9 @@ ht-degree: 4%
 
 ## インラインバッジが機能しない
 
-- [[!DNL Mixpanel]](note-test.md) [!BADGE メモ]{type=Informative}
-- [[!DNL Pendo]](tables.md) [!BADGE テーブル]{type=Positive}
-- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 構文スタイルガイド]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE メモ]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE テーブル]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE 構文スタイルガイド]{type=Positive}
 
 ## UGP-10560 — 折りたたみ可能なセクションのバッジ
 
