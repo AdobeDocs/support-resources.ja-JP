@@ -3,16 +3,16 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # バグの修正
 
-## インラインバッジが機能しない
+## UGP-10584インラインバッジが機能しない
 
 これらのバッジは、箇条書き項目と同じ行に配置する必要があります。
 
