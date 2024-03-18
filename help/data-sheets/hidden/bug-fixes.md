@@ -3,9 +3,9 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
+source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1358'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # バグの修正
 
 ## インラインバッジが機能しない
+
+これらのバッジは、箇条書き項目と同じ行に配置する必要があります。
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE メモ]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE テーブル]{type=Positive}
