@@ -2,9 +2,9 @@
 title: アドビ成功プランの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 99%
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ ht-degree: 99%
 
 | アドオン | Expert サクセスプラン | Ultimate サクセスプラン |
 |--- |--- |--- |
-| **イベント管理アドオン**<br>&#x200B;主要なイベントのライフサイクル全体を管理するために必要なエンドツーエンドのリーダーシップとサポートを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | 使用可 |
+| **イベント管理アドオン**<br>&#x200B;主要なイベントのライフサイクル全体を管理するために必要なエンドツーエンドのリーダーシップとサポートを提供 | 使用可 | 使用可 |
 | **テクニカルアカウントディレクターアドオン**<br>&#x200B;リーダーシップ管理を提供かつエグゼクティブエンゲージメントを持ち、ビジネス成果を最大化するガバナンスを実現するリードテクニカルリソース | 使用不可 | 使用可 |
 | **アドバンスクラウドサポートアドオン**<br> Adobe Experience Manager as a Cloud Service のお客様に対するトップティアケアと価値保証 | 使用可 | 使用可 |
 | **メンターセッションアドオン**<br>&#x200B;ジャストインタイムのトレーニング方法のスキルベースのラーニングを提供 | 使用可 | 次のものが含まれます。 |
