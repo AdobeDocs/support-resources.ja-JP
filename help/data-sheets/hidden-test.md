@@ -5,16 +5,46 @@ hide: true
 hidefromtoc: true
 badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="プレミアムのダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
-source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 94%
+source-wordcount: '1276'
+ht-degree: 96%
 
 ---
 
 # 非表示のテストページ
 
 アクティブ化しますか？午後 3:10 頃に送信を再確認します。午後 3:30 に運用開始になりますか？
+
+## 画像を含む問題のあるテーブル
+
+
+## Expert と Ultimate のサクセスプランの比較
+
+|  | Expert サクセスプラン | Ultimate サクセスプラン |
+|--- |--- |--- |
+|  | Expert サクセスプランを使用すると、**24 時間 365 日、技術的なトラブルシューティングに関するエキスパートケア**&#x200B;や、重要なビジネス上の問題に関するガイダンスにアクセスすることができます。また、アドビのセルフガイド型リソース、限定公開のベストプラクティス、アドビのエキスパートや同業者のオンラインコミュニティを活用して、迅速な解決策を見つけることができます。 <p> *すべての Adobe Experience Cloud ライセンスに含まれています。* | Ultimate サクセスプランを使用すると、**高パフォーマンスのデジタルエクスペリエンスを実現するための戦略的なガイダンスとプロアクティブな技術的健全性**&#x200B;を体験できます。お客様のアドビ環境は、お客様のビジネスに精通した専門家チームによってサポートされ、お客様の目標とビジネスへの影響の優先順位に合わせたロードマップの実行に重点を置いています。 |
+| **サクセスチーム** | プールされたサポートエンジニアチーム | 次が含まれます。 <ul><li> 指定テクニカルアカウントマネージャー </li><li> 指定カスタマーサクセスマネージャー </li><li> 指定サポートサービスマネージャー</li><li> サクセスアクセラレータを提供するプールされたテクニカルエンジニアと戦略的専門家チーム </li><li> プールされたサポートエンジニアチーム </li></ul> |
+| **プロアクティブなテクニカルサポートと運用サポート** | ![ not included icon ](assets/Cross_red_circle.svg){width="20"} 適用外 | 次が含まれます。 <ul><li>アップグレードと移行のレビュー、リリース準備 </li><li>製品ロードマップのレビュー</li><li> 技術的および戦略的ロードマップの調整</li><li>主なイベントの準備と計画</li><li>関連性のあるタイムリーな実施可能性の計画</li><li>技術的なベストプラクティスと業界のガイダンス</li><li>製品チームに対する支持／調整</li><li>主なビジネス目標を達成するための統合された計画 - 相互アクションプラン（MAP）</li></ul> |
+| **テクニカルサポート** | 次が含まれます。 <ul><li>**P1**：24 時間 365 日対応の問題サポート</li><li>**P2、P3、P4**：営業時間サポート</li><li>標準の障害管理</li><li>プールされたエスカレーション管理</li></ul> | 次が含まれます。 <ul><li>**P1**：24 時間 365 日対応の問題サポート</li><li>**P2／P3**：24 時間平日対応の問題サポート</li><li>**P4**：営業時間サポート</li><li>優先された障害管理</li><li>専任担当者によるエスカレーション管理</li></ul> |
+| **サクセスアクセラレータ** | ![適用外アイコン](assets/Cross_red_circle.svg){width="20"} 適用外 | TAM および CSM によって定期的にスケジュールされたサクセスアクセラレータ<p>*（詳しくは、「サクセスアクセラレータカタログ」を参照してください）* |
+| **サポートチャネル** | オンライン, 電話, Experience League, フォーラム | パーソナライズされたオンラインポータル, 優先電話, Experience League, フォーラム |
+
+{style="table-layout:fixed"}
+
+## サポートアドオン
+
+| アドオン | Expert サクセスプラン | Ultimate サクセスプラン |
+|--- |--- |--- |
+| **イベント管理アドオン**<br>&#x200B;主要なイベントのライフサイクル全体を管理するために必要なエンドツーエンドのリーダーシップとサポートを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
+| **テクニカルアカウントディレクターアドオン**<br>&#x200B;リーダーシップ管理を提供かつエグゼクティブエンゲージメントを持ち、ビジネス成果を最大化するガバナンスを実現するリードテクニカルリソース | ![ not available icon ](assets/Cross_red_circle.svg){width="20"} 利用不可 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
+| **アドバンスクラウドサポートアドオン**<br> Adobe Experience Manager as a Cloud Service のお客様に対するトップティアケアと価値保証 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 |
+| **メンターセッションアドオン**<br>&#x200B;ジャストインタイムのトレーニング方法のスキルベースのラーニングを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"}  利用可能 | ![ available icon ](assets/green_checkmark.svg){width="20"} 利用可能 |
+| **Developer Boostアドオン**<br>&#x200B;お客様の開発作業を支援するフィールドエンジニアリングエキスパートへのアクセスを提供 | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](assets/green_checkmark.svg){width="20"}  利用可能 |
+| **Priority Queue Bundle アドオン**<br>&#x200B;サポートチケットを優先して対応する権利、Mentor SessionおよびDeveloper Boostをまとめたパッケージ | ![ available icon ](assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](assets/green_checkmark.svg){width="20"}  利用可能 |
+
+{style="table-layout:fixed"}
+
 
 ## ボタン
 
@@ -128,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 負 | [!BADGE 廃止済み]{type=negative tooltip="この機能は現在提供終了です"} |
-| 中立 | [!BADGE 多分]{type=Neutral tooltip="乗り手が馬から落ちた…"} |
-| 注意 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正 | [!BADGE 新機能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| 負 | [!BADGE 廃止済み]{type=negative tooltip=&quot;この機能は現在提供終了です&quot;} |
+| 中立 | [!BADGE 多分]{type=Neutral tooltip=&quot;乗り手が馬から落ちた…&quot;} |
+| 注意 | [!BADGE 注意]{type=Caution tooltip=&quot;Yellow status&quot;} |
 
 構文の例
 
