@@ -3,10 +3,10 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
+source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 4%
+source-wordcount: '1817'
+ht-degree: 27%
 
 ---
 
@@ -285,3 +285,34 @@ _2022年8月9日（PT）_
 1. クリック **送信** をクリックして返信を保存します。
 
 1. （オプション） **その他** 返信先のコメントの右上隅にあるメニューを使用して、返信を管理する他のオプションを選択できます。 詳しくは、 [作業を更新](note-test.md).
+
+
+## UGP-10614 — 画像付きの問題テーブル
+
+私は思う `{width="20"}` パラメータが原因で、テーブルに問題が発生しています。
+
+## Expert と Ultimate のサクセスプランの比較
+
+|  | Expert サクセスプラン | Ultimate サクセスプラン |
+|--- |--- |--- |
+|  | Expert サクセスプランを使用すると、**24 時間 365 日、技術的なトラブルシューティングに関するエキスパートケア**&#x200B;や、重要なビジネス上の問題に関するガイダンスにアクセスすることができます。また、アドビのセルフガイド型リソース、限定公開のベストプラクティス、アドビのエキスパートや同業者のオンラインコミュニティを活用して、迅速な解決策を見つけることができます。 <p> *すべての Adobe Experience Cloud ライセンスに含まれています。* | Ultimate サクセスプランを使用すると、**高パフォーマンスのデジタルエクスペリエンスを実現するための戦略的なガイダンスとプロアクティブな技術的健全性**&#x200B;を体験できます。お客様のアドビ環境は、お客様のビジネスに精通した専門家チームによってサポートされ、お客様の目標とビジネスへの影響の優先順位に合わせたロードマップの実行に重点を置いています。 |
+| **サクセスチーム** | プールされたサポートエンジニアチーム | 次が含まれます。 <ul><li> 指定テクニカルアカウントマネージャー </li><li> 指定カスタマーサクセスマネージャー </li><li> 指定サポートサービスマネージャー</li><li> サクセスアクセラレータを提供するプールされたテクニカルエンジニアと戦略的専門家チーム </li><li> プールされたサポートエンジニアチーム </li></ul> |
+| **プロアクティブなテクニカルサポートと運用サポート** | ![ not included icon ](../assets/Cross_red_circle.svg){width="20"} 適用外 | 次が含まれます。 <ul><li>アップグレードと移行のレビュー、リリース準備 </li><li>製品ロードマップのレビュー</li><li> 技術的および戦略的ロードマップの調整</li><li>主なイベントの準備と計画</li><li>関連性のあるタイムリーな実施可能性の計画</li><li>技術的なベストプラクティスと業界のガイダンス</li><li>製品チームに対する支持／調整</li><li>主なビジネス目標を達成するための統合された計画 - 相互アクションプラン（MAP）</li></ul> |
+| **テクニカルサポート** | 次が含まれます。 <ul><li>**P1**：24 時間 365 日対応の問題サポート</li><li>**P2、P3、P4**：営業時間サポート</li><li>標準の障害管理</li><li>プールされたエスカレーション管理</li></ul> | 次が含まれます。 <ul><li>**P1**：24 時間 365 日対応の問題サポート</li><li>**P2／P3**：24 時間平日対応の問題サポート</li><li>**P4**：営業時間サポート</li><li>優先された障害管理</li><li>専任担当者によるエスカレーション管理</li></ul> |
+| **サクセスアクセラレータ** | ![適用外アイコン](../assets/Cross_red_circle.svg){width="20"} 適用外 | TAM および CSM によって定期的にスケジュールされたサクセスアクセラレータ<p>*（詳しくは、「サクセスアクセラレータカタログ」を参照してください）* |
+| **サポートチャネル** | オンライン, 電話, Experience League, フォーラム | パーソナライズされたオンラインポータル, 優先電話, Experience League, フォーラム |
+
+{style="table-layout:fixed"}
+
+## サポートアドオン
+
+| アドオン | Expert サクセスプラン | Ultimate サクセスプラン |
+|--- |--- |--- |
+| **イベント管理アドオン**<br>&#x200B;主要なイベントのライフサイクル全体を管理するために必要なエンドツーエンドのリーダーシップとサポートを提供 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 |
+| **テクニカルアカウントディレクターアドオン**<br>&#x200B;リーダーシップ管理を提供かつエグゼクティブエンゲージメントを持ち、ビジネス成果を最大化するガバナンスを実現するリードテクニカルリソース | ![ not available icon ](../assets/Cross_red_circle.svg){width="20"} 利用不可 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 |
+| **アドバンスクラウドサポートアドオン**<br> Adobe Experience Manager as a Cloud Service のお客様に対するトップティアケアと価値保証 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 |
+| **メンターセッションアドオン**<br>&#x200B;ジャストインタイムのトレーニング方法のスキルベースのラーニングを提供 | ![ available icon ](../assets/Plus_blue.svg){width="20"}  利用可能 | ![ available icon ](../assets/green_checkmark.svg){width="20"} 利用可能 |
+| **Developer Boostアドオン**<br>&#x200B;お客様の開発作業を支援するフィールドエンジニアリングエキスパートへのアクセスを提供 | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](../assets/green_checkmark.svg){width="20"}  利用可能 |
+| **Priority Queue Bundle アドオン**<br>&#x200B;サポートチケットを優先して対応する権利、Mentor SessionおよびDeveloper Boostをまとめたパッケージ | ![ available icon ](../assets/Plus_blue.svg){width="20"} 利用可能 | ![ included icon ](../assets/green_checkmark.svg){width="20"}  利用可能 |
+
+{style="table-layout:fixed"}
