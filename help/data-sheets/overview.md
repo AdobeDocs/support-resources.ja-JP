@@ -2,7 +2,7 @@
 title: アドビ成功プランの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
+source-git-commit: e1290f63ff691ff2c5bce15df442a225e9554b74
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 99%
@@ -12,6 +12,9 @@ ht-degree: 99%
 # アドビ成功プランの概要
 
 アドビサクセスプランでは、事後対応型の問題解決から脱却して、ビジネス上のあらゆる問題に先行的に対処できる新しい種類のパーソナライズされたエクスペリエンスを提供します。アドビのチームは、深い技術的専門知識、多様な機能、高度な方法論を採用して、お客様が必要とする適切なレベルのサポート、専門知識、技術的および戦略的ガイダンスを提供します。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427500/?learn=on)
+
 
 ## Expert と Ultimate のサクセスプランの比較
 
