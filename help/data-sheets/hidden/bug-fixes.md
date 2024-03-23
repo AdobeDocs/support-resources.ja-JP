@@ -3,14 +3,19 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
+exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
+source-git-commit: c937df9669153698a82842510337df73dfa28bd8
 workflow-type: tm+mt
-source-wordcount: '1841'
+source-wordcount: '1852'
 ht-degree: 27%
 
 ---
 
 # バグの修正
+
+## 自動アクティベーションテスト
+
+私はこれを土曜の朝に提出しました。 今すぐ公開しません。
 
 ## UGP-10584インラインバッジが機能しない
 
