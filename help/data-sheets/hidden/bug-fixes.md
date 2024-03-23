@@ -3,9 +3,9 @@ title: バグ修正（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _2022年8月9日（PT）_
 ## [!BADGE 非推奨（廃止予定）]{type=negative}
 
 上の見出しを参照してください。 次は。
+
+## 自動アクティブ化のテスト
+
+これを金曜日の午後に追加しましたが、「今すぐ公開」をクリックしませんでした。
 
 ### [!BADGE Beta]{type=Informative}
 
