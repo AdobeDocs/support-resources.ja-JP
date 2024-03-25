@@ -3,10 +3,10 @@ user-guide-title: サクセスプランリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のサクセスプランおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
+source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 75%
+source-wordcount: '88'
+ht-degree: 96%
 
 ---
 
@@ -35,11 +35,12 @@ ht-degree: 75%
 + [非表示の EDS テストタイル](hidden/test-page.md)
 + [非表示のリダイレクトテスト](hidden/test-redirection.md)
 + [非表示の構文ガイド](hidden/syntax-style-guide.md)
-+ [非表示の表の改ページ](hidden/table-breaks.md)
-+ [非表示の画像のテスト](hidden/tables.md)
-+ [非表示のメモのテスト](hidden/note-test.md)
++ [非表示の画像テスト](hidden/tables.md)
++ [非表示のメモテスト](hidden/note-test.md)
 
 <!--
++ [Hidden table breaks](hidden/table-breaks.md)
+
 
 Articles must be added to this TOC file in order to render.
 
