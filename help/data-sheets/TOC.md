@@ -3,10 +3,10 @@ user-guide-title: サクセスプランリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のサクセスプランおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 3a532dcd728c6fd8a74f4b77285a13483a2a75e3
+source-git-commit: e3696800099959a07f8880d112d5f98afa200771
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 92%
+source-wordcount: '88'
+ht-degree: 96%
 
 ---
 
@@ -14,7 +14,6 @@ ht-degree: 92%
 # サクセスプランリソース {#data-sheets}
 
 + [アドビ成功プランの概要](overview.md)
-+ [電話番号の更新をサポート](phone-numbers.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
