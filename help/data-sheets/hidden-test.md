@@ -5,10 +5,11 @@ hide: true
 hidefromtoc: true
 badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="プレミアムのダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -17,7 +18,6 @@ ht-degree: 96%
 アクティブ化しますか？午後 3:10 頃に送信を再確認します。午後 3:30 に運用開始になりますか？
 
 ## 画像を含む問題のあるテーブル
-
 
 ## Expert と Ultimate のサクセスプランの比較
 
@@ -50,11 +50,11 @@ ht-degree: 96%
 
 [ボタンのデフォルト](https://www.adobe.com/)
 
-**[ボタンのプライマリ](https://www.adobe.com/)**
+**[プライマリボタン](https://www.adobe.com/)**
 
-_[ボタンのセカンダリ](https://www.adobe.com/)_
+_[セカンダリボタン](https://www.adobe.com/)_
 
-**_[ボタンの第 3](https://www.adobe.com/)_**
+**_[3 つ目のボタン](https://www.adobe.com/)_**
 
 ## 問題のプレビュー
 
@@ -158,10 +158,10 @@ badgeExam: label="Exam ADO-E903" type="neutral"
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| 正 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| 負 | [!BADGE 廃止済み]{type=negative tooltip="この機能は現在提供終了です"} |
-| 中立 | [!BADGE 多分]{type=Neutral tooltip="乗り手が馬から落ちた…"} |
-| 注意 | [!BADGE 注意]{type=Caution tooltip="Yellow status"} |
+| 正 | [!BADGE 新機能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;example.com に移動してください&quot;} |
+| 負 | [!BADGE 廃止済み]{type=negative tooltip=&quot;この機能は現在提供終了です&quot;} |
+| 中立 | [!BADGE 多分]{type=Neutral tooltip=&quot;誤って提供しました…&quot;} |
+| 注意 | [!BADGE 注意]{type=Caution tooltip=&quot;黄色のステータス&quot;} |
 
 構文の例
 
