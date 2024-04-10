@@ -4,10 +4,10 @@ description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 3f608c18ab513a6b149a49b59de3c827dce0587f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 50%
+source-wordcount: '53'
+ht-degree: 33%
 
 ---
 
@@ -17,7 +17,12 @@ ht-degree: 50%
 + [非表示の構文ガイド](hidden/syntax-style-guide.md)
 + [画像テストタイル](hidden/test-page.md)
 + [テーブルテスト](hidden/tables.md)
-+ [表の区切り](hidden/table-breaks.md)
++ [テーブル区切り](hidden/table-breaks.md)
 + [テストファイル 1](hidden/note-test.md)
 + [テストファイル 2](hidden-test.md)
-+ [リダイレクトのテスト](hidden/test-redirection.md)
++ [リダイレクトテスト](hidden/test-redirection.md)
++ [自動アクティブ化テスト](hidden/autoactivate.md)
+
+## 新しいセクション
+
+「今すぐ公開」をクリックしていないので、表示された場合は、自動アクティブ化が機能しました。
