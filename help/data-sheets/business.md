@@ -2,9 +2,9 @@
 title: ビジネスサポート
 description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+source-git-commit: 20940c0e1db18355219d7d968c1262bc998e41d6
+workflow-type: tm+mt
+source-wordcount: '882'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
 | <b>優先度 3</b><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できる解決策／回避策が存在する。 | 営業時間内／<br>6 時間 | 営業時間内／<br>4 時間 |
 | <b>優先度 4</b><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。 | 営業日／<br>3 日 | 営業日／<br>1 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## ビジネスサポートの特長
 
