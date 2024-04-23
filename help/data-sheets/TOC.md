@@ -3,10 +3,10 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: b3905086f43e39304a7a2675575a8574e3157d52
+source-git-commit: d637118bc6b2600f803e0b31db889be7335eaa4e
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 90%
+source-wordcount: '106'
+ht-degree: 97%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 90%
 # Success Planリソース {#data-sheets}
 
 + [Adobe Success Planの概要](overview.md)
-+ Crux ポッドキャスト{#crux-podcast}
-   + [Ep.1 - ビリージョルガロス](episode1.md)
++ The Crux ポッドキャスト{#crux-podcast}
+   + [Ep.1 - Billy Georgaros](episode1.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
@@ -33,6 +33,7 @@ ht-degree: 90%
       + [エリート](dme-elite.md)
 + [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [非表示の概要](hidden-overview.md)
++ [非表示の新しいテスト](hidden-new-test.md)
 + [非表示のテストファイル](hidden-test.md)
 + [非表示のバグ修正](hidden/bug-fixes.md)
 + [非表示の EDS テストタイル](hidden/test-page.md)
