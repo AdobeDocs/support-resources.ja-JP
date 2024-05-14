@@ -3,7 +3,7 @@ title: ビジネスサポート
 description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '882'
 ht-degree: 100%
 

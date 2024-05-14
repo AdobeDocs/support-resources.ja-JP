@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 81%
 
 + [Adobe Success Planの概要](overview.md)
 + The Crux ポッドキャスト{#crux-podcast}
-   + [Ep.1 - ビリージョルガロス](episode1.md)
-     [Ep.2 - Karrie Benjamin](episode2.md)
-     [Ep.3 - George Kotsinis](episode3.md)
-     [Ep.4 - Jessica Ouellette](episode4.md)
-     [Ep.5 - Corey Blackburn](episode5.md)
+   + [第 1 話 - Billy Georgaros](episode1.md)
+     [第 2 話 - Karrie Benjamin](episode2.md)
+     [第 3 話 - George Kotsinis](episode3.md)
+     [第 4 話 - Jessica Ouellette](episode4.md)
+     [第 5 話 - Corey Blackburn](episode5.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
