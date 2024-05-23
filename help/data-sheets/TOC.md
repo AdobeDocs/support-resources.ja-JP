@@ -3,10 +3,10 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 100%
      [第 3 話 - George Kotsinis](episode3.md)
      [第 4 話 - Jessica Ouellette](episode4.md)
      [第 5 話 - Corey Blackburn](episode5.md)
+     [Ep.6 - Kelly Oja](episode6.md)
+     [Ep.7 - Chris Diaz](episode7.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
