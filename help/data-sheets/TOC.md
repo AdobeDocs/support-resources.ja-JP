@@ -3,10 +3,10 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 95%
+source-wordcount: '131'
+ht-degree: 93%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 95%
      [第 5 話 - Corey Blackburn](episode5.md)
      [Ep.6 - Kelly Oja](episode6.md)
      [Ep.7 - Chris Diaz](episode7.md)
+     [Ep.8 - ヴィンセント・リー](episode8.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
