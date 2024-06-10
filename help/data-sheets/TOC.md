@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 93%
      [第 3 話 - George Kotsinis](episode3.md)
      [第 4 話 - Jessica Ouellette](episode4.md)
      [第 5 話 - Corey Blackburn](episode5.md)
-     [Ep.6 - Kelly Oja](episode6.md)
-     [Ep.7 - Chris Diaz](episode7.md)
-     [Ep.8 - ヴィンセント・リー](episode8.md)
+     [第 6 話 - Kelly Oja](episode6.md)
+     [第 7 話 - Chris Diaz](episode7.md)
+     [第 8 話 - Vincent Lee](episode8.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
