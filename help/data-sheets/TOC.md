@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 97%
      [第 6 話 - Kelly Oja](episode6.md)
      [第 7 話 - Chris Diaz](episode7.md)
      [第 8 話 - Vincent Lee](episode8.md)
-     [Ep.9 - Ren Wightman](episode9.md)
+     [第 9 話 - Ren Wightman](episode9.md)
 + 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
