@@ -3,9 +3,9 @@ title: Creative Enterprise および Document Cloud サポートサービスの�
 description: この記事では、Adobe Creative Cloud および Document Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、標準、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ Adobe Creative Cloud と Document Cloud のカスタマーサポート組織は�
     <img alt="標準" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>標準サポート</strong></a>（<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> を表示）
+    <a href="dme-standard.md"><strong> 標準サポート </strong></a> （<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> を表示）
     </div>
     <p>認定ユーザー（管理者）向けのチャットや電話によるテクニカルサポートチームへの 24 時間アクセスおよびサポート web ポータルを通じたサポートリクエストをログに記録する機能。 </p>
     <br>

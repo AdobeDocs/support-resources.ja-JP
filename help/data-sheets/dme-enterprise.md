@@ -1,10 +1,10 @@
 ---
-title: エンタープライズサポートCreative Cloud および Adobe Document Cloud
+title: Creative Cloud および Adobe Document Cloud のエンタープライズ版サポート
 description: アドビでは、Adobe エンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 これは、エンタープライズ版サポートプランの機能強化です。
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '933'
+workflow-type: tm+mt
+source-wordcount: '952'
 ht-degree: 100%
 
 ---
@@ -290,7 +290,7 @@ ht-degree: 100%
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## アドビサポートの対象地域、現地の営業時間、言語サポート
 

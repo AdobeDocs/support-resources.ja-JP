@@ -3,8 +3,8 @@ title: Creative Cloud および Adobe Document Cloud のビジネスサポート
 description: アドビでは、Adobe エンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 これは、ビジネスサポートプランとしての強化機能です。 ビジネスサポートには、申請されたケースをより高度なサポートリソースへの迅速な受け渡しを確実にするサポートケースの優先ルーティングが含まれています。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '815'
+workflow-type: tm+mt
+source-wordcount: '830'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ ht-degree: 100%
     <td>営業日／<br>4 時間</td>
   </tr>
   <tr>
-    <td><strong>優先度 4</strong><br> 現在の製品機能に関する一般的な質問または機能拡張のリクエスト。</td>
+    <td><strong>優先度 4</strong><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。</td>
     <td>営業日／<br>1 日</td>
   </tr>
 </tbody>
@@ -262,7 +262,7 @@ ht-degree: 100%
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 地域の営業時間と言語サポート
 

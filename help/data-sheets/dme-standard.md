@@ -3,8 +3,8 @@ title: Adobe Creative Cloud および Adobe Document Cloud の標準サポート
 description: アドビでは、Adobe エンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 標準サポートには、24 時間年中無休のセルフヘルプサポートリソース（HelpX に関する記事やアドビコミュニティでの他のお客様との関わりなど ) へのアクセスが含まれています。
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '777'
 ht-degree: 100%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 100%
   <tr>
     <td><strong>優先度 1</strong><br>お客様の本番業務機能がダウンしている、または著しいデータ損失やサービス低下があり、機能およびユーザビリティを復元するための早急な処置が必要。</td>
     <td>24 時間年中無休／<br>30 分</td>
-    <td colspan="3" rowspan="4" align="center" valign="middle"><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 該当するアドビ製品およびサービスのサポートプランを購入したお客様は、アドビのサポートエンジニアが迅速に対応する優先的なケースルーティングを受けることができます。</td>
+    <td colspan="3" rowspan="4" align="center" valign="middle"><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 該当するアドビ製品およびサービスのサポートプランを購入したお客様は、アドビのサポートエンジニアが迅速に対応する優先的なケースルーティングを受けることができます。</td>
   </tr>
   <tr>
     <td><strong>優先度 2</strong><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失がある、または主要機能が影響を受けている。</td>
@@ -271,7 +271,7 @@ ht-degree: 100%
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 地域の営業時間と言語サポート
 

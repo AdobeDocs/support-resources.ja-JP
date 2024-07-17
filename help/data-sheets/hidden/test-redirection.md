@@ -1,20 +1,21 @@
 ---
-title: テストページをリダイレクト（非表示）
+title: テストページをリダイレクトする（非表示）
 description: 内部テスト用のテストページ
 hide: true
 hidefromtoc: true
-source-git-commit: 918fee2b3380b2359f43b9abf32af5c5fb08d7ce
+exl-id: 07e6051d-b29c-4ac3-980c-d064487c2804
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# テストページをリダイレクト（非表示）
+# テストページをリダイレクトする（非表示）
 
-リダイレクトを含む非表示のテストページ
+リダイレクト付きの非表示のテストページ
 
-## 標準の 1:1 リダイレクト
+## 標準 1:1 のリダイレクト
 
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf.html>
 
@@ -31,19 +32,19 @@ EDS: <https://eds.experienceleague.adobe.com/en/docs/workfront/using/product-ann
 * EXL: <https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/bubba.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/analytics/analyze/reports-analytics/bubba>
 
-(1:1) `https://experienceleague.adobe.com/docs/primetime/aiq-help/(*)`
+（1:1） `https://experienceleague.adobe.com/docs/primetime/aiq-help/(*)`
 
 * EXL: <https://experienceleague.adobe.com/docs/primetime/aiq-help/account-iq-components/segments-timeframe.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/primetime/aiq-help/account-iq-components/segments-timeframe>
 
-(1:1) `https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/(*)`
+（1:1） `https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/(*)`
 
 * EXL: <https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/2022/microsoft.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/adobe-campaign-insider-events/events/2022/microsoft>
 
 ## その他のリダイレクト
 
-ランディングページ、その他のドメイン、nginx 設定
+ランディングページ、その他のドメイン、Nginx 設定
 
 <https://one.workfront.com/s/managed-content-videos/welcome-to-workfront-MCFSRY5DWNL5EENJI3JD6XIB3TOM>
 

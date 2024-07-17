@@ -3,7 +3,7 @@ title: Experience Cloud カスタマーサポートガイド
 description: このカスタマーサポートガイドは、Experience Cloud のサポート、プログラム、サービス、手順について知るのに役立ちます。また、世界各地でのアクセス方法についても説明しています。
 exl-id: 8128a504-708f-44d8-94be-a63fb6bb473f
 source-git-commit: c0836675d4f8f16a26740c41d266320fa44c2393
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 

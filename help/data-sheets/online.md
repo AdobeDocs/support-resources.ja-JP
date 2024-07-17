@@ -3,8 +3,8 @@ title: オンラインサポート
 description: Adobe Experience Cloud オンラインサポートサービスでは、電話サポートへの限定的なアクセスが提供されます。
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '757'
+workflow-type: tm+mt
+source-wordcount: '797'
 ht-degree: 100%
 
 ---
@@ -167,7 +167,7 @@ Adobe Experience Cloud オンラインサポートサービスでは、電話サ
 | <b>優先度 3</b><br>お客様の業務機能に軽微なサービス低下があるが、業務機能を正常に続行できる解決策／回避策が存在する。 | 営業時間内／<br>6 時間 | 営業時間内／<br>4 時間 | 営業時間内／<br>2 時間 | 平日 24 時間／<br>1 時間 |
 | <b>優先度 4</b><br>現在の製品機能に関する一般的な質問または機能拡張のリクエスト。 | 営業日／<br>3 日 | 営業日／<br>1 日 | 営業日／<br>1 日 | 営業日／<br>1 日 |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## オンラインサポート {#online-support-1}
 
