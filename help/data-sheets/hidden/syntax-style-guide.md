@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 33707c7c1492ac85d1d634e752418b42c9f0aa55
+source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
 workflow-type: tm+mt
-source-wordcount: '4239'
+source-wordcount: '4300'
 ht-degree: 13%
 
 ---
@@ -513,22 +513,19 @@ HTML構文を追加する場合は、チケットをログに記録するか、S
 
 [![画像](assets/core-services_96.png)](https://www.adobe.com)
 
-<!--
-### Click-to-zoom images
+### クリックしてズームする画像
 
-Use the `zoomable` parameter to allow users to click an image to view an enlarged version of the image. When the user mouses over a zoomable image, the pointer becomes a magnifying glass. When clicked, the image expands to the full width of the browser. It can be dismissed with a close button.
+`zoomable` パラメーターを使用すると、ユーザーは画像をクリックして拡大バージョンの画像を表示できます。 ユーザーがズーム可能な画像の上にマウスポインターを置くと、ポインターは虫眼鏡になります。 クリックすると、画像がブラウザーの全幅に拡大されます。 閉じるボタンで閉じることができます。
 
-**Example**
+**例**
 
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![ マウイ島でのダイビング画像 ](/help/data-sheets/hidden/assets/maui-dive.jpg " ダイビング "){width="100" zoomable="yes"}
 
-**Syntax**
+**構文**
 
 ```
-![Diving image](/help/test-guide/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
+![Diving image](/help/data-sheets/hidden/assets/maui-dive.jpg "Diving in Maui"){width="100" zoomable="yes"}
 ```
-
--->
 
 ## リンクとクロスリファレンス {#links-and-cross-references}
 
