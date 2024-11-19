@@ -4,10 +4,10 @@ description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [リダイレクトテスト](hidden/test-redirection.md)
 + [自動アクティブ化テスト](hidden/autoactivate.md)
 
-## 新しい節 Akamai
+## 新しいセクション 11 月 19 日
 
-AEM Live で変更が有効かどうかをテストします。
+SCCM がまだ正常に動作しているかどうかをテストします。 問題の打倒？
