@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 637c13cb347add1da3a37aac5ce333b4926e074f
+source-git-commit: 0c01084577891a2869a2f5538381ca952514ff9c
 workflow-type: tm+mt
-source-wordcount: '4300'
+source-wordcount: '4305'
 ht-degree: 13%
 
 ---
@@ -485,6 +485,8 @@ HTML構文を追加する場合は、チケットをログに記録するか、S
 ```
 
 レンダリング：
+
+ボブ – 幅= 300 ピクセル下
 
 ![ ダイビング画像の代替テキスト ](assets/maui-dive.jpg " ホバーテキスト - Maui ダイビングの幅は 300 ピクセルで中央に配置されています "){width="300" align="center"}
 
