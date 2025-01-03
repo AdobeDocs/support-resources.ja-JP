@@ -4,10 +4,10 @@ description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
+source-git-commit: 642d0868adc15a979cf6ebb581a19dd0a6099bb9
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 41%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 41%
 + [リダイレクトテスト](hidden/test-redirection.md)
 + [自動アクティブ化テスト](hidden/autoactivate.md)
 
-## 新しいセクション 11 月 19 日
+## 新しいセクション 1 月 3 日
 
-SCCM がまだ正常に動作しているかどうかをテストします。 問題の打倒？
+SCCM がまだ正常に動作しているかどうかをテストします。
