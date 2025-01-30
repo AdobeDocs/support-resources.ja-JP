@@ -4,10 +4,10 @@ description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 642d0868adc15a979cf6ebb581a19dd0a6099bb9
+source-git-commit: 25c91d469f48d36c02a43c6f02ff18469e538811
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '62'
+ht-degree: 40%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 43%
 + [リダイレクトテスト](hidden/test-redirection.md)
 + [自動アクティブ化テスト](hidden/autoactivate.md)
 
-## 新しいセクション 1 月 3 日
+## 新しいセクション 1 月 30 日
 
 SCCM がまだ正常に動作しているかどうかをテストします。
+
+exl-pr は非常に遅いですか？
