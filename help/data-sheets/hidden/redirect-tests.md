@@ -3,14 +3,16 @@ description: 多数の外部リダイレクト
 title: リダイレクトテスト
 hide: true
 hidefromtoc: true
-source-git-commit: ea4cabf5fcd757e768c363327ddc06d98ec67a91
+source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
 
 # リダイレクトテスト
+
+## リダイレクト良好
 
 <https://experienceleague.adobe.com/docs/core-services/interface/customer-attributes/t-upload-attributes-ftp.html>
 
@@ -20,7 +22,9 @@ ht-degree: 0%
 
 <https://docs.adobe.com/content/help/en/experience-platform/profile/api/getting-started.html>
 
+<!--
 <https://marketing.adobe.com/resources/help/en_US/reference/regional-data-collection.html>
+-->
 
 <https://experiencleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning>
 
@@ -37,3 +41,25 @@ ht-degree: 0%
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/action-node>
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+
+## リダイレクトが壊れている
+
+404 秒をリダイレクト
+
+<https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
+
+## コメントおよびコードブロック内をリダイレクト
+
+<!--
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+-->
+
+```
+code block
+<https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
+end code block
+```
+
+## その他のページ
+
+[test-redirection.md](test-redirection.md) も参照してください。
