@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 + [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [非表示の概要](hidden-overview.md)
 + [非表示のトラブルシューティング](hidden-trouble.md)
-+ [隠しレイクシェイテスト](hidden-lakshay-test.md)
++ [非表示の Lakshay テスト](hidden-lakshay-test.md)
 + [非表示 - コードブロックのスラッシュ](hidden/slashes-in-code-blocks.md)
 + [非表示の新しいテスト](hidden-new-test.md)
 + [非表示の新しいテスト 2](hidden-new-test-2.md)
