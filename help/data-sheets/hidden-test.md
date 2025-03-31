@@ -6,16 +6,16 @@ hidefromtoc: true
 badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="プレミアムのダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+source-git-commit: 571a428c6b4caeb651264bb5895ca5dd21d8663d
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1272'
 ht-degree: 99%
 
 ---
 
 # 非表示のテストページ
 
-アクティブ化しますか？午後 3:10 頃に送信を再確認します。午後 3:30 に運用開始になりますか？
+プレビュー？ Jenkins を経由してください。 3 月 31 日（Pt）
 
 ## 画像に関する問題のあるテーブル
 
