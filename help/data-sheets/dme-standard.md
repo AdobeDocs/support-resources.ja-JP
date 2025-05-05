@@ -266,7 +266,7 @@ ht-degree: 100%
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビのお客様は厳選された Adobe Creative Cloud 製品や Document 製品に関するセルフヘルプのチュートリアル、製品ドキュメント、インストラクター主導のトレーニング、コミュニティおよびサポートを見つけることができます。 |
+| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビのお客様は厳選された Adobe Creative Cloud 製品や Document 製品に関するセルフヘルプのチュートリアル、製品ドキュメント、インストラクター主導のトレーニング、コミュニティおよびサポートを見つけることができます。 |
 | [アドビサポートコミュニティ](https://community.adobe.com/?profile.language=ja) | アドビサポートコミュニティは、質問をし、回答を見つけ、エキスパートから学び、知識を共有する場所です。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |

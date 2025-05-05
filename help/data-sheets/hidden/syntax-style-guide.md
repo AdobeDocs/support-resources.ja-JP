@@ -287,7 +287,7 @@ This is text inside a collapsible section.
 * 折りたたみ可能なセクション内に見出しを追加することはできますが、お勧めしません。
 * [ アコーディオンは、デスクトップ上の複雑なコンテンツに対する答えであるとは限りません ](https://www.nngroup.com/articles/accordions-complex-content/)
 * 折りたたみ可能なセクションの欠点の 1 つは、**ページ内で検索** （Ctrl/Cmd+F）で折りたたまれたテキストが無視されることです。 これは Safari では当てはまりますが、Chromeでは当てはまりません。「ページで検索」は、Chromeで折りたたまれたテキストを検出します。
-* 折りたたみ可能なセクションを使用した [ メンテナンス更新 ](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) ページの例。
+* 折りたたみ可能なセクションを使用した [ メンテナンス更新 ](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=ja) ページの例。
 
 ## コメントと備考
 

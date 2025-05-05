@@ -242,7 +242,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
+| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
 | [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [ビジネスサポート web サイト](https://helpx.adobe.com/jp/support/programs/enterprise-support-programs/premier-support-business.html) | アドビのビジネスサポート web サイトです。 |

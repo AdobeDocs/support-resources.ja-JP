@@ -18,49 +18,49 @@ ht-degree: 7%
 
 :::: landing-cards-container
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 タイトル 1
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 タイトル 1
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 タイトル 1
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 タイトル 1
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 タイトル 1
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 ::::
 
@@ -73,7 +73,7 @@ ht-degree: 7%
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
 
@@ -81,7 +81,7 @@ ht-degree: 7%
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
 
@@ -89,7 +89,7 @@ ht-degree: 7%
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
 
@@ -97,7 +97,7 @@ ht-degree: 7%
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 :::
 
@@ -105,6 +105,6 @@ ht-degree: 7%
 
 これはカードの説明です。
 これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/?lang=ja)
+[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
 :::
 ::::
