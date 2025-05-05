@@ -26,4 +26,4 @@ vendor/bin/magento-patches -n ステータス |grep &quot;27015\|状態&quot;
 
 エスケープされたバックスラッシュ :
 
-vendor/bin/magento-patches -n ステータス |grep &quot;27015&amp;bsol;|ステータス&quot;
+vendor/bin/magento-patches -n ステータス |grep &quot;27015&bsol;|ステータス&quot;

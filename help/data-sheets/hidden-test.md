@@ -160,10 +160,10 @@ Betaラベル、青色、URL、ツールチップを含むInlineバッジの構�
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positive | [!BADGE 新機能]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;example.com に移動してください&quot;} |
-| Negative | [!BADGE 廃止済み]{type=negative tooltip=&quot;この機能は現在提供終了です&quot;} |
-| Neutral | [!BADGE 多分]{type=Neutral tooltip=&quot;誤って提供しました…&quot;} |
-| Caution | [!BADGE 注意]{type=Caution tooltip=&quot;黄色のステータス&quot;} |
+| Positive | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="example.com に移動してください"} |
+| Negative | [!BADGE 廃止済み]{type=negative tooltip="この機能は現在提供終了です"} |
+| Neutral | [!BADGE 多分]{type=Neutral tooltip="誤って提供しました…"} |
+| Caution | [!BADGE 注意]{type=Caution tooltip="黄色のステータス"} |
 
 構文の例
 

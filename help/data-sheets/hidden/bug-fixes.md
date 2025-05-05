@@ -46,9 +46,9 @@ ht-degree: 28%
 
 これらのバッジは、箇条書き項目と同じ行にある必要があります。
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE  注 ]{type=Informative}
-* [[!DNL Pendo]](tables.md) [!BADGE  テーブル ]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE  構文スタイルガイド ]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE &#x200B; 注 &#x200B;]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE &#x200B; テーブル &#x200B;]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE &#x200B; 構文スタイルガイド &#x200B;]{type=Positive}
 
 ## UGP-10560 – 折りたたみ可能なセクションのバッジ
 
@@ -58,7 +58,7 @@ ht-degree: 28%
 
 _2023 年 2 月 13 日_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png)Catalog Service API で製品ビデオがサポートされるようになりました。
 ![ 修正 ](assets/package.png) 固定価格のバンドル製品がサポートされるようになりました。
@@ -81,7 +81,7 @@ API メッシュとコア GraphQL API を使用すると、次の制限を解決
 
 _2023年10月12日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) カタログサービスでは、製品バリアントの `inStock` フラグをサポートしています。
 ![ 新規 ](assets/package.png)`urlKey` と `externalId` がGraphQL スキーマに追加されました。
@@ -91,7 +91,7 @@ _2023年10月12日（PT）_
 
 _2023年9月19日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](https://www.adobe.com)。
 ![ 修正 ](assets/package.png) このリリースには、サービス側のバグ修正と改善が含まれています。
@@ -100,7 +100,7 @@ _2023年9月19日（PT）_
 
 _2023年7月18日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) カタログサービスで、商品Recommendationsの [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL クエリがサポートされるようになりました。
 
@@ -108,7 +108,7 @@ _2023年7月18日（PT）_
 
 _2023年6月27日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png)Catalog Service API で「関連製品」がサポートされるようになりました。
 
@@ -116,7 +116,7 @@ _2023年6月27日（PT）_
 
 _2023年4月12日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) 削除された製品のバリエーションがカタログサービスでクリーンアップされるようになりました。
 ![ 修正 ](assets/package.png) インフラストラクチャの拡張性とパフォーマンスの向上。
@@ -125,16 +125,16 @@ _2023年4月12日（PT）_
 
 _2023年3月28日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
-![ 新規 ](assets/package.png)[`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) クエリにスウォッチを追加しました。
+![ 新規 ](assets/package.png) [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) クエリにスウォッチを追加しました。
 ![ 新規 ](https://www.adobe.com)。
 
 ### V1.5 リリース
 
 _2023年3月6日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) GraphQL機能 [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) 追加しました。
 ![ 修正 ](assets/package.png) パフォーマンスと API のスケーラビリティが向上しました。
@@ -143,7 +143,7 @@ _2023年3月6日（PT）_
 
 _2023年2月7日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) 公開されたカタログサービスメタパッケージで、インストール手順を簡素化します。
 ![ 修正 ](assets/package.png)API のスケーラビリティとパフォーマンスの改善。
@@ -152,7 +152,7 @@ _2023年2月7日（PT）_
 
 _2023年1月17日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新機能 ](assets/package.png) オンボーディングエクスペリエンスを簡素化および改善しました。
 ![ 新規 ](assets/package.png) 新しい顧客サンドボックスエンドポイントは、実稼動前のテストで使用できます。
@@ -163,7 +163,7 @@ _2023年1月17日（PT）_
 
 _2022年11月18日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) カタログサービスで、Adobeの [API メッシュ ](https://developer.adobe.com/graphql-mesh-gateway/) がサポートされるようになりました。
 ![ 修正 ](assets/package.png) API のスケーラビリティと全体的なパフォーマンスが向上しました。
@@ -172,7 +172,7 @@ _2022年11月18日（PT）_
 
 _2022年10月4日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) バンドルされた製品とグループ化された製品をサポートするようになりました。
 ![ 新規 ](assets/package.png) B2B 表示オーバーライドを追加しました。 製品が検索できるようになり、特定の顧客グループのために買い物かごに追加できるようになりました。
@@ -182,7 +182,7 @@ _2022年10月4日（PT）_
 
 _2022年9月12日（PT）_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) バリアント用の画像はサポートされます。製品画像は、選択したオプションに基づいて返されます
 ![ 新規 ](assets/package.png) 価格サポートの役割：特定の顧客グループのメンバーのみが製品の価格を表示できるようにします
@@ -193,7 +193,7 @@ _2022年9月12日（PT）_
 
 _2022 年 8 月 9 日_
 
-[!BADGE  サポート対象 ]{type=Informative tooltip="サポートあり"}
+[!BADGE &#x200B; サポート対象 &#x200B;]{type=Informative tooltip="サポートあり"}
 
 ![ 新規 ](assets/package.png) `products` クエリと `refineProduct` クエリは、次のデータを返します。
 
@@ -320,7 +320,7 @@ UGP-9780 も参照。
 
    >[!TIP]
    >
-   >   既存の返信に返信を追加するには、「返信を追加…**ボックスに入力を開始するか、元のコメントの** 返信 **** をクリックします。 返信がスレッドの最後に追加されます。
+   >   既存の返信に返信を追加するには、「返信を追加…**ボックスに入力を開始するか、元のコメントの** 返信 **&#x200B;**&#x200B;をクリックします。 返信がスレッドの最後に追加されます。
 
 1. 返信の入力を開始し、リッチテキストツールバーから追加のオプションを使用します。 リッチテキストやその他の更新機能の使用について詳しくは、[ 作業の更新 ](note-test.md) を参照してください。
 

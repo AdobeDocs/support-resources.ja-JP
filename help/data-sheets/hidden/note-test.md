@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>'{{name}}'変数を使用してください。</li></ol>
 
-<ol><li>&amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace；変数を使用します。</li></ol>
+<ol><li>&lbrace;&lbrace;<code>name</code>&rbrace;&amp;rbrace；変数を使用します。</li></ol>
 
 ## ネストされたテスト
 
