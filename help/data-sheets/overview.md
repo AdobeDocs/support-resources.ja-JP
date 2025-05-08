@@ -2,8 +2,8 @@
 title: Adobe Success Planの概要
 description: この記事では、Adobe Experience Cloud、Adobe Document Cloud および Adobe Creative Cloud のカスタマーサポートオプションの概要を説明します。
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
-workflow-type: ht
+source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
+workflow-type: tm+mt
 source-wordcount: '2203'
 ht-degree: 100%
 
@@ -204,3 +204,4 @@ Adobe Commerce の標準サポート：ライセンス期間開始日を 2021年
 >[!NOTE]
 >
 >フィールドサービスは、アドビのコンサルティング契約業務を代替するものではありません。フィールドサービスは、ローンチアドバイザリーサービス後のお客様の実装をサポートし、より大規模なコンサルティング業務を補完するものです。
+
