@@ -18,9 +18,9 @@ ht-degree: 16%
 
 :::: landing-cards-container
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ja)
 
 クイックスタートガイド
 
@@ -28,9 +28,9 @@ Journey Optimizerで役割に応じてパーソナライズされたアプロー
 [ 詳細情報 ](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ja)
 
 ユーザーインターフェイス
 
@@ -38,9 +38,9 @@ Journey Optimizerでエクスペリエンスを操作して最適化する方法
 [ 詳細情報 ](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ja)
 
 初めてのジャーニーの作成
 
@@ -48,9 +48,9 @@ Journey Optimizerでエクスペリエンスを操作して最適化する方法
 [ 詳細情報 ](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 :::
 :::
-![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=ja)
 
 最初のキャンペーンの開始
 
