@@ -4,107 +4,57 @@ description: 検索および目次から非表示
 hide: true
 hidefromtoc: true
 exl-id: 2bb2b88e-10bf-4e26-afbd-c11f82e76f7f
-source-git-commit: 1c34d1819f49009aa815b7a34092c149babe7527
+source-git-commit: 9431a8c5d971e2fac37b7048d0ec9482aa2b4a52
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 7%
+source-wordcount: '118'
+ht-degree: 16%
 
 ---
 
 
-# 非表示の Lakshay テスト
+# Adobe [!DNL Journey Optimizer] のドキュメント {#cjm-documentation}
 
-## コンテナ
-
-:::: landing-cards-container
-:::
-![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-:::
-![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-:::
-![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-:::
-![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-:::
-![ 代替テキスト ](https://experienceleague.adobe.com/ja/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
-
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-::::
-
-## コンテナ 2
+## 基本について学ぶ
 
 :::: landing-cards-container
 :::
+![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-タイトル 1
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
+クイックスタートガイド
+
+Journey Optimizerで役割に応じてパーソナライズされたアプローチで目標をより早く達成する方法を説明します。
+[ 詳細情報 ](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 :::
 :::
+![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-タイトル 1
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
+ユーザーインターフェイス
+
+Journey Optimizerでエクスペリエンスを操作して最適化する方法を説明します。
+[ 詳細情報 ](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 :::
 :::
+![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-タイトル 1
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
+初めてのジャーニーの作成
+
+パーソナライズされたオムニチャネルジャーニーを設計および調整し、マーケティングアウトリーチを 1 対 1 の顧客エンゲージメントと調和させます。
+[ 詳細情報 ](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 :::
 :::
+![ 代替テキスト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-タイトル 1
+![アイコン](https://cdn.experienceleague.adobe.com/icons/gears.svg)
 
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
-:::
-:::
+最初のキャンペーンの開始
 
-タイトル 1
-
-これはカードの説明です。
-これはカード本文のコンテンツです。
-[ 詳細情報 ](https://experienceleague.adobe.com/ja?lang=ja)
+ターゲットを絞った 1 回限りのコンテンツを特定のオーディエンスに提供するには、Journey Optimizerで最初のキャンペーンを作成して開始します。
+[ 詳細情報 ](/en/docs/journey-optimizer-v2/using/journey-management/campaigns/standard-campaigns/create-campaign)
 :::
 ::::
