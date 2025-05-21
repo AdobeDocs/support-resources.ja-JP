@@ -18,7 +18,7 @@ ht-degree: 0%
 
 :::: landing-cards-container
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=ja)
 
 ジャーニーアクティビティの概要
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ja)
 
 一般イベントの使用
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ja)
 
 反応イベント
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=ja)
 
 オーディエンスの選定イベント
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=ja)
 
 条件アクティビティ
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=ja)
 
 待機アクティビティ
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 :::: landing-cards-container
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=ja)
 
 電子メールDesignerのコンテンツコンポーネントの使用
 
@@ -93,7 +93,7 @@ Adobe Journey OptimizerのメールDesignerのコンテンツコンポーネン�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=ja)
 
 メールデザインへのビジュアルフラグメントの活用
 
@@ -103,7 +103,7 @@ Adobe Journey OptimizerのメールDesignerのコンテンツコンポーネン�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=ja)
 
 リンクの追加とメッセージの追跡
 
@@ -113,7 +113,7 @@ Adobe Journey OptimizerのメールDesignerのコンテンツコンポーネン�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=ja)
 
 パーソナライズされたオファーをメールに追加
 
@@ -123,7 +123,7 @@ Adobe Journey Optimizerの意思決定管理を使用して、パーソナライ
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=ja)
 
 メールのテキストバージョンの作成とカスタマイズ
 
@@ -133,7 +133,7 @@ HTML コンテンツを表示できない場合に互換性を確保するため
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ja)
 
 メールコンテンツへのメタデータの追加
 
@@ -148,7 +148,7 @@ HTML コンテンツを表示できない場合に互換性を確保するため
 
 :::: landing-cards-container
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ja)
 
 承認の概要
 
@@ -158,7 +158,7 @@ Adobe Journey Optimizerでジャーニーとキャンペーンの承認ワーク
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ja)
 
 承認ポリシーの作成と管理
 
@@ -168,7 +168,7 @@ Adobe Journey Optimizerでジャーニーとキャンペーンの承認ワーク
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ja)
 
 ジャーニーとキャンペーンの承認をリクエスト
 
@@ -178,7 +178,7 @@ Adobe Journey Optimizerでジャーニーとキャンペーンの承認ワーク
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=ja)
 
 リクエストのレビューと承認
 
@@ -193,7 +193,7 @@ Adobe Journey Optimizerでジャーニーとキャンペーンの承認ワーク
 
 :::: landing-cards-container
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=ja)
 
 拡張レポートの基本を学ぶ
 
@@ -203,7 +203,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ja)
 
 包括的な指標のリスト
 
@@ -213,7 +213,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ja)
 
 レポートの管理
 
@@ -223,7 +223,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ja)
 
 キャンペーンレポートの概要
 
@@ -233,7 +233,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ja)
 
 ジャーニーレポートの概要
 
@@ -243,7 +243,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=ja)
 
 キャンペーンおよびジャーニーの概要レポート
 
@@ -258,7 +258,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 
 :::: landing-cards-container
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=ja)
 
 決定の作成および管理方法
 
@@ -268,7 +268,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=ja)
 
 オファー選択の設定方法
 
@@ -278,7 +278,7 @@ Adobe Journey Optimizerの拡張レポート機能をCustomer Journey Analytics�
 :::
 
 :::
-![ アイコン ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![ アイコン ](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=ja)
 
 オファーの決定をシミュレート
 
