@@ -3,10 +3,10 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Success Planリソース {#data-sheets}
 
 + [Adobe Success Planの概要](overview.md)
-+ The Crux ポッドキャスト{#crux-podcast}
++ Crux ポッドキャスト{#crux-podcast}
    + [第 1 話 - Billy Georgaros](episode1.md)
      [第 2 話 - Karrie Benjamin](episode2.md)
      [第 3 話 - George Kotsinis](episode3.md)
@@ -24,7 +24,7 @@ ht-degree: 100%
      [第 7 話 - Chris Diaz](episode7.md)
      [第 8 話 - Vincent Lee](episode8.md)
      [第 9 話 - Ren Wightman](episode9.md)
-+ 2022年6月16日（PT）以前のアドビサポートプラン{#prior-plans}
++ 2022 年 6 月 16 日（PT）以前のAdobe サポートプラン{#prior-plans}
    + [以前のアドビサポートプランの概要](overview-prior-plans.md)
    + Experience Cloud サービス {#data-sheets}
       + [アドビサポートの概要](dx-overview.md)
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [非表示の概要](hidden-overview.md)
 + [非表示のトラブルシューティング](hidden-trouble.md)
-+ [非表示の Lakshay テスト](hidden-lakshay-test.md)
 + [非表示 - コードブロックのスラッシュ](hidden/slashes-in-code-blocks.md)
 + [非表示の新しいテスト](hidden-new-test.md)
 + [非表示の新しいテスト 2](hidden-new-test-2.md)
@@ -59,6 +58,8 @@ ht-degree: 100%
    + [非表示の新しい自動アクティブ化のみ](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
