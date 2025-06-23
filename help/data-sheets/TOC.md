@@ -16,6 +16,7 @@ ht-degree: 92%
 + [Adobe Success Planの概要](overview.md)
 + Crux ポッドキャスト{#crux-podcast}
    + [第 1 話 - Billy Georgaros](episode1.md)
+
      [第 2 話 - Karrie Benjamin](episode2.md)
      [第 3 話 - George Kotsinis](episode3.md)
      [第 4 話 - Jessica Ouellette](episode4.md)
