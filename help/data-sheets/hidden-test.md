@@ -159,7 +159,7 @@ Betaラベル、青色、URL、ツールチップを含むInlineバッジの構�
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
 | 正 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="example.com に移動します"} |
-| 負 | [!BADGE  廃止 ]{type=negative tooltip="この機能は提供終了となりました"} |
+| 負 | [!BADGE &#x200B; 廃止 &#x200B;]{type=negative tooltip="この機能は提供終了となりました"} |
 | 中立 | [!BADGE 場合による]{type=Neutral tooltip="この機能は中止となりました…"} |
 | 注意 | [!BADGE 注意]{type=Caution tooltip="黄色のステータス"} |
 
