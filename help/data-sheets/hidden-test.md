@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="プレミアム" type="Positive" url="https://www.premium-product.com" tooltip="プレミアムのダウンロード"
 badgeExam: label="試験 ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 98%
+source-wordcount: '1258'
+ht-degree: 96%
 
 ---
 
 # 非表示のテストページ
 
-再試行をプレビューしますか？ Jenkins を経由してください。 3 月 31 日（Pt）
-
-午後 3:02
+テストを公開。 2025 年 6 月 25 日午前 10:20
 
 ## 画像に関する問題のあるテーブル
 
@@ -62,7 +60,7 @@ _[セカンダリボタン](https://www.adobe.com/)_
 
 次の段落を、VSC プレビューで適切にレンダリングできません。理由はわかりません。
 
-パスワードが [!DNL Adobe] によって管理されている場合は、[Adobe アカウントのパスワードを変更](https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html){target="_blank"}できます。
+パスワードが [!DNL Adobe] によって管理されている場合は、[Adobe アカウントのパスワードを変更 ](https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html){target="_blank"} できます。
 
 ## メモのタイプ
 
@@ -123,7 +121,7 @@ _[セカンダリボタン](https://www.adobe.com/)_
 
 [!BADGE バッジの例]
 
-2 つのタイプがあります of それぞれ構文が異なるバッジを以下に示します。
+バッジには次の 2 種類があり、それぞれ構文が異なります。
 
 * **Metadata** - ページの上部付近にバッジを表示します
 * **Inline** - 構文が存在するところにバッジを表示します
@@ -160,10 +158,10 @@ Betaラベル、青色、URL、ツールチップを含むInlineバッジの構�
 | タイプ | バッジ |
 |---|---|
 | 情報（デフォルト） | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positive | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="example.com に移動してください"} |
-| Negative | [!BADGE 廃止済み]{type=negative tooltip="この機能は現在提供終了です"} |
-| Neutral | [!BADGE 多分]{type=Neutral tooltip="誤って提供しました…"} |
-| Caution | [!BADGE 注意]{type=Caution tooltip="黄色のステータス"} |
+| 正 | [!BADGE 新機能]{type=Positive url="https://www.example.com" tooltip="example.com に移動します"} |
+| 負 | [!BADGE  廃止 ]{type=negative tooltip="この機能は提供終了となりました"} |
+| 中立 | [!BADGE 場合による]{type=Neutral tooltip="この機能は中止となりました…"} |
+| 注意 | [!BADGE 注意]{type=Caution tooltip="黄色のステータス"} |
 
 構文の例
 
