@@ -3,7 +3,7 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
+source-git-commit: dbd0b6b2b1e8ce5c2418e012356773e7564af45a
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
@@ -52,10 +52,10 @@ ht-degree: 100%
 + [非表示の構文ガイド](hidden/syntax-style-guide.md)
 + [非表示の表のテスト](hidden/tables.md)
 + [非表示の表の改ページ](hidden/table-breaks.md)
++ [非表示のメモテスト](hidden/note-test.md)
 + [非表示のリダイレクト](hidden/redirect-tests.md)
 + テストセクション {#test-section}
    + [非表示の新しい自動アクティブ化のみ](hidden/autoactivate.md)
-   + [非表示のメモテスト](hidden/note-test.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
