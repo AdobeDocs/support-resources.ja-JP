@@ -4,9 +4,9 @@ user-guide-description: Adobe Experience Cloud および Adobe Experience Platfo
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Adobe Success Planの概要](overview.md)
 + The Crux ポッドキャスト{#crux-podcast}
    + [第 1 話 - Billy Georgaros](episode1.md)
-
      [第 2 話 - Karrie Benjamin](episode2.md)
      [第 3 話 - George Kotsinis](episode3.md)
      [第 4 話 - Jessica Ouellette](episode4.md)
