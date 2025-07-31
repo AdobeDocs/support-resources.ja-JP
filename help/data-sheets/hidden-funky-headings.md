@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Granite、CQ、Sling タグライブラリを使用すると、テンプレー�
 
 ## **太字の見出し**
 
-太字の見出しです
+上の見出しは太字です。
+
+2025年7月29日（PT）
 
 ## *斜体見出し*
 
-これは斜体の見出しです
+これは、上の見出しを斜体で表示したものです。
 
 ## Granite タグライブラリ {#granite-tag-library}
 
@@ -184,7 +187,7 @@ JSP における `<cq:text>` タグの使用例を次に示します。
 
 `source` 属性が設定されていない場合：
 
-* `language` 属性が設定されている場合は、`source` 属性のデフォルト値が&grave;&grave; `static` になります。
+* `language` 属性が設定されている場合は、`source` 属性のデフォルト値が`` `static` になります。
 
 * `language` 属性が設定されていない場合は、`source` 属性のデフォルト値が `auto` になります。
 
