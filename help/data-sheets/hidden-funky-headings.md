@@ -10,7 +10,7 @@ hide: true
 hidefromtoc: true
 role: Developer
 exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
-source-git-commit: 3128bd389ee7998736993f7b17c9ac53d146e929
+source-git-commit: 80a9777d6ad45894a1257a62f50b3d232f39aed9
 workflow-type: tm+mt
 source-wordcount: '2458'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Granite、CQ、Sling タグライブラリを使用すると、テンプレー�
 
 上の見出しは太字です。
 
-2025年7月31日（PT）
+2025 年 8 月 1 日（Pt）
 
 ## *斜体見出し*
 
@@ -187,7 +187,7 @@ JSP における `<cq:text>` タグの使用例を次に示します。
 
 `source` 属性が設定されていない場合：
 
-* `language` 属性が設定されている場合は、`source` 属性のデフォルト値が&grave;&grave; `static` になります。
+* `language` 属性が設定されている場合は、`source` 属性のデフォルト値が`` `static` になります。
 
 * `language` 属性が設定されていない場合は、`source` 属性のデフォルト値が `auto` になります。
 
