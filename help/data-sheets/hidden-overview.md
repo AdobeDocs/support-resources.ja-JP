@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## スライドテスト
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## 新しいセクション 1 月 30 日
 
