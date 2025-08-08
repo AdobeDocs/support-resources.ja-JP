@@ -4,10 +4,10 @@ description: このページは、検索や目次から非表示になります
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
+source-git-commit: 613d796f8184ae31903b5ed71b3d397f5158177e
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 31%
+source-wordcount: '77'
+ht-degree: 28%
 
 ---
 
@@ -27,7 +27,31 @@ ht-degree: 31%
 
 ## スライドテスト
 
->[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+構文 1:
+
+```
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+レンダリング：
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+
+
+構文 2:
+
+```
+>[!FRAGMENT]
+>
+>(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+```
+
+レンダリング：
+
+>[!FRAGMENT]
+>
+>（https://experienceleague-stage.adobe.com/en/slides/analyze-project）
+
 
 ## 新しいセクション 1 月 30 日
 
