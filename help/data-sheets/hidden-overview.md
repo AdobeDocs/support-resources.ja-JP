@@ -35,7 +35,7 @@ ht-degree: 28%
 
 レンダリング：
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 構文 2:
@@ -48,7 +48,7 @@ ht-degree: 28%
 
 レンダリング：
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >（https://experienceleague-stage.adobe.com/en/slides/analyze-project）
 
