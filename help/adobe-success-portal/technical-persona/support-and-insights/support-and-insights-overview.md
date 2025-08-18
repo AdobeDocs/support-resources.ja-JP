@@ -1,6 +1,6 @@
 ---
 title: サポートとインサイトの概要
-description: Adobe Success ポータルの [!UICONTROL  サポートとインサイト ] ダッシュボードから、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
+description: Adobe Success ポータルの [!UICONTROL &#x200B; サポートとインサイト &#x200B;] ダッシュボードから、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
 workflow-type: tm+mt
