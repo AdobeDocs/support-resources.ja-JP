@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL  行動計画 ]'
+title: '[!UICONTROL &#x200B; 行動計画 &#x200B;]'
 description: /[!UICONTROL Action Plan/] は、KBO の実行状況の構造化されたビューを提供します。 これには、目標を達成するためにAdobe チームが計画、完了、または積極的に取り組んでいる、関連するアクセラレーターとアクティビティが含まれます。
 source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 0%
 ---
 
 
-# [!UICONTROL  行動計画 ]
+# [!UICONTROL &#x200B; 行動計画 &#x200B;]
 
 **[!UICONTROL アクションプラン]** は、KBO の実行状況を構造化されたビューで提供します。 これには、目標を達成するためにAdobe チームが計画、完了、または積極的に取り組んでいる、関連するアクセラレーターとアクティビティが含まれます。
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ページは、次の 2 つの主要なタブに整理されています。
 
-## &#x200B;1. [!UICONTROL  主な事業目的 ]
+## &#x200B;1. [!UICONTROL &#x200B; 主な事業目的 &#x200B;]
 
 このタブには、すべての KBO と、対応するアクセラレータおよびアクティビティが表示されます。
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL  活動 ]
+## &#x200B;2. [!UICONTROL &#x200B; 活動 &#x200B;]
 
 このタブには、どの KBO にも関連付けられていないアクティビティのリストが表示されます。 各アクティビティには以下が含まれます。
 

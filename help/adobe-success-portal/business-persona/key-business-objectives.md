@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  主な事業目的 ]'
-description: /[!UICONTROL  主要事業目標/] は、Adobeとのパートナーシップを通じてお客様が達成することを目指す高レベルの目標です。
+title: '[!UICONTROL &#x200B; 主な事業目的 &#x200B;]'
+description: /[!UICONTROL &#x200B; 主要事業目標/] は、Adobeとのパートナーシップを通じてお客様が達成することを目指す高レベルの目標です。
 source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
 workflow-type: tm+mt
 source-wordcount: '89'
@@ -9,7 +9,7 @@ ht-degree: 3%
 ---
 
 
-# [!UICONTROL  主要事業目標 ] （KBO）
+# [!UICONTROL &#x200B; 主要事業目標 &#x200B;] （KBO）
 
 KBO は、ポータルのホームページの上部にある水平スクロール表示で表示されます。 各 KBO カードには以下が含まれます。
 
@@ -25,8 +25,8 @@ KBO は、ポータルのホームページの上部にある水平スクロー�
 * ステータス
 * 主要業績評価指標（[!UICONTROL KPI]）
 * [!UICONTROL 使用例]
-* 関連 [!UICONTROL Adobe ソリューション ]
-* 関連する [!UICONTROL  アクセラレータ ] および [!UICONTROL  アクティビティ ] のリスト
+* 関連 [!UICONTROL Adobe ソリューション &#x200B;]
+* 関連する [!UICONTROL &#x200B; アクセラレータ &#x200B;] および [!UICONTROL &#x200B; アクティビティ &#x200B;] のリスト
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
 
