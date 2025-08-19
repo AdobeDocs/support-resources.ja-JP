@@ -12,6 +12,7 @@ ht-degree: 0%
 # [!DNL Adobe Success] portal：お客様の FAQ
 
  
+
 ## [!DNL Adobe Success] portal の範囲は何ですか。
 
 [!DNL Adobe Success] ポータルは、サポート、成功、エンゲージメント全体でポストセールスのエクスペリエンスを統一するために設計された、Adobeの新しい一元化された顧客向けプラットフォームです。 Alpha リリースは、以前は複数のプラットフォームに分散していたツールやワークフロー（サポートポータル、手動のUltimate Success アーティファクトなど）を統合する包括的なエクスペリエンスの提供に重点を置いています。 目標は、オンボーディングから更新に至るまでのライフサイクルを通じて、お客様とAdobeの関わり方を合理化すると同時に、透明性、セルフサービス、価値実現を向上させることです。
@@ -24,13 +25,13 @@ Alphaの範囲には、Ultimateのお客様に合わせて調整された一連�
    * ビジネス目標を推進するためにアカウントチームが計画したアクティビティのステータスと進行状況をトラッキングする **[!UICONTROL アクションプラン]**
    * **[!UICONTROL バリュートラッカー]**：ビジネス目標を推進するために、Adobe ソリューション全体で特定およびデプロイされたユースケースの進捗状況を示します。
    * **[!UICONTROL エンゲージメントプラン]**：アカウントチームやその他のAdobe リソースとのエンゲージメント方法を確認します
-1. [!UICONTROL  サポートとインサイト ] の機能
+1. [!UICONTROL &#x200B; サポートとインサイト &#x200B;] の機能
 これらは技術ユーザー向けで、次のものが含まれます。
    * ケース管理（ケースをオープン、管理、レビューする）
    * リアルタイムのシステムインサイトとプロアクティブな環境スキャン
    * Adobe ステータスアラート
 
-[!DNL Adobe Success] Portal について詳しくは、[[!UICONTROL Portal 概要ガイド ]](/help/adobe-success-portal/adobe-success-portal-introduction.md) を参照してください。
+[!DNL Adobe Success] Portal について詳しくは、[[!UICONTROL Portal 概要ガイド &#x200B;]](/help/adobe-success-portal/adobe-success-portal-introduction.md) を参照してください。
 
 ## ポータルにアクセスするにはどうすればよいですか？
 
@@ -52,8 +53,8 @@ Ultimate Success データは、内部ツールを使用して、アカウント
 
 ## エラーや問題が発生した場合はどうすればよいですか？
 
-エラーや問題を報告するには、[!UICONTROL  ポータル内で ]Alpha フィードバックツール [!DNL Adobe Success] を直接使用することをお勧めします。 [Alpha Teams チャンネル ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) を使用して、アドビのチームに連絡することもできます。
+エラーや問題を報告するには、[!UICONTROL &#x200B; ポータル内で &#x200B;]Alpha フィードバックツール [!DNL Adobe Success] を直接使用することをお勧めします。 [Alpha Teams チャンネル ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) を使用して、アドビのチームに連絡することもできます。
 
 ## 新しい機能または機能強化についてアイデアを持っています。 これを提出するにはどうすればよいですか？
 
-機能の強化リクエストは、[!UICONTROL  ポータル内の ]Alpha フィードバックツール [!DNL Adobe Success] を通じて送信する必要があります。 アカウントチームを含む、利用可能な追加のチャネルや [Alpha Teams チャネル ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) をいつでも活用できます。
+機能の強化リクエストは、[!UICONTROL &#x200B; ポータル内の &#x200B;]Alpha フィードバックツール [!DNL Adobe Success] を通じて送信する必要があります。 アカウントチームを含む、利用可能な追加のチャネルや [Alpha Teams チャネル ](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) をいつでも活用できます。
