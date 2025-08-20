@@ -1,27 +1,27 @@
 ---
 title: サポートとインサイトの概要
-description: Adobe Success ポータルの [!UICONTROL &#x200B; サポートとインサイト &#x200B;] ダッシュボードから、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
+description: /[!DNL Adobe Success/] ポータルの [!UICONTROL  サポートとインサイト ] ダッシュボードでは、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
+source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
 # サポートとインサイトの概要
 
-Adobe Success ポータルの **[!UICONTROL サポートとインサイト]** ダッシュボードから、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。 すべてのAdobe ソリューションが個々の製品タイルとして表示されます。
-
-ページ上部の *フィルター* ドロップダウンを使用して、特定の製品にフォーカスします。
+**[!UICONTROL Portal の]** サポートとインサイト [!DNL Adobe Success] ダッシュボードから、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。 すべてのAdobe ソリューションが個々の製品タイルとして表示されます。
 
 このページにアクセスするには、ポータルホームページの左側のナビゲーションパネルから ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) アイコンを直接クリックします。
 
 ![support-and-insights-landing-page](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+ページ上部の *フィルター* ドロップダウンを使用して、特定の製品にフォーカスします。
+
 各製品タイルには、「**[!UICONTROL 結果]**」、「**[!UICONTROL 未解決およびクローズ済みのケース]**、「主な問題 **[!UICONTROL などの主要指標が表示さ]** ます。 これらの指標のいずれかをクリックすると、専用のサブセクションに直接移動できます。このサブセクションでは、製品に関連する詳細なサポートインサイトを確認できます。
 
-## スナップショット {#snapshot}
+## [!UICONTROL  スナップショット ] {#snapshot}
 
 「**[!UICONTROL スナップショット]**」タブでは、ケース、結果、アラートに対するエグゼクティブ分析が提供されます。 このタブにアクセスするには、任意のタイルで *製品名* をクリックします。
 
@@ -31,11 +31,11 @@ Adobe Success ポータルの **[!UICONTROL サポートとインサイト]** �
 
 ![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## 件の結果 {#findings}
+## [!UICONTROL  結果 ] {#findings}
 
 「**[!UICONTROL 結果]**」タブでは、パフォーマンス、セキュリティ、機能全体で検出された問題に焦点を当てます。 リスク・レベル、ステータス、前回スキャン以降の時刻に基づいて、エントリーにフラグが付けられます。
 
-リスト内のエントリをクリックすると、そのステータス、リスクレベル、原因、症状が表示され、それに対処するための推奨事項が表示されます。 詳しくは、[Adobe Success ポータルでの結果の管理 ] に関するドキュメントを参照してください。
+リスト内のエントリをクリックすると、そのステータス、リスクレベル、原因、症状が表示され、それに対処するための推奨事項が表示されます。 詳しくは、[ ポータルでの結果の管理  [!DNL Adobe Success]  に関するドキュメントを参照し ](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md) ください。
 
 ![findings-tab](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -43,7 +43,7 @@ Adobe Success ポータルの **[!UICONTROL サポートとインサイト]** �
 
 ![findings-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## ケース管理 {#case-management}
+## [!UICONTROL  ケースの管理 ] {#case-management}
 
 「**[!UICONTROL ケース管理]**」タブには、未解決のケースとクローズされたケースのリストが表示されます。 *[!UICONTROL ケース番号]* をクリックすると、イシューに関する追加の詳細が表示され、ケース関連のアクションを直接管理できます。
 

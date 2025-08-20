@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: d3dc26237d66f2e8daa63675d3ca9fdcfe23885b
+source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 1%
 - [お客様の FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - ビジネスペルソナ {#business-persona}
    - [ビジネスペルソナの主な機能](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
-   - [[!UICONTROL &#x200B; 主な事業目的 &#x200B;]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
-   - [[!UICONTROL &#x200B; 行動計画 &#x200B;]](/help/adobe-success-portal/business-persona/action-plan.md)
-   - [[!UICONTROL &#x200B; 値トラッカー &#x200B;]](/help/adobe-success-portal/business-persona/value-tracker.md)
-   - [[!UICONTROL &#x200B; 事業計画 &#x200B;]](/help/adobe-success-portal/business-persona/engagement-plan.md)
+   - [[!UICONTROL  主な事業目的 ]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
+   - [[!UICONTROL  行動計画 ]](/help/adobe-success-portal/business-persona/action-plan.md)
+   - [[!UICONTROL  値トラッカー ]](/help/adobe-success-portal/business-persona/value-tracker.md)
+   - [[!UICONTROL  事業計画 ]](/help/adobe-success-portal/business-persona/engagement-plan.md)
 - テクニカルペルソナ {#technical-persona}
    - [テクニカルペルソナの主な機能](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - サポートとインサイト {#support-and-insights}

@@ -1,23 +1,23 @@
 ---
-title: '[!UICONTROL &#x200B; 値トラッカー &#x200B;]'
-description: '[!UICONTROL &#x200B; 値トラッカー &#x200B;] ページには、KBO が整理した [!UICONTROL &#x200B; ユースケース &#x200B;] のビューが表示されます。'
-source-git-commit: e48c0e344dd06a19aecae3f2114d4d4d292f293e
+title: '[!UICONTROL  値トラッカー ]'
+description: '[!UICONTROL  値トラッカー ] ページには、KBO が整理した [!UICONTROL  ユースケース ] のビューが表示されます。'
+exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
+source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
+# [!UICONTROL  値トラッカー ]
 
-# [!UICONTROL &#x200B; 値トラッカー &#x200B;]
-
-**[!UICONTROL 値トラッカー]** ページには、KBO が整理したさまざまな **[!UICONTROL ユースケース]** のビューが表示されます。 ページ上部のフィルターを活用して、このビューに表示する **[!UICONTROL ユースケース]** をフィルタリングできます。
+**[!UICONTROL 値トラッカー]** ページには、KBO が整理したさまざまな **[!UICONTROL ユースケース]** のビューが表示されます。 ページ上部のフィルターを利用して、この表示に表示されるユースケースをフィルタリングできます。
 
 **[!UICONTROL 値トラッカー]** にアクセスするには、ポータルホームページの左側のナビゲーションパネルにある ![value-tracker-icon](/help/adobe-success-portal/assets/value-tracker-icon.png) アイコンをクリックします。
 
 ![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-**[!UICONTROL ユースケース]** カードをクリックすると、次の機能を備えた詳細ビューが開きます。
+**[!UICONTROL ユースケース]** カードをクリックすると、以下を特徴とするユースケースの詳細が表示されます。
 
 * *[!UICONTROL 成功指標]*
 * *[!UICONTROL オーディエンス]*
@@ -28,4 +28,3 @@ ht-degree: 1%
 * *リンクされたAdobe ソリューション*
 
 ![value-tracker-use-case-example](/help/adobe-success-portal/assets/value-tracker-use-case-example.png)
-
