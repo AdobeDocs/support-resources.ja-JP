@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. フォームに入力し、関連するファイルまたはログを添付し、契約を確認して、「ケースを送信 **[!UICONTROL をクリックし]** す。
 
-また、ポータルの **[!UICONTROL サポートとインサイト]** ページにある [[!UICONTROL  新規ケースを作成 ]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) ウィジェットを使用して、新しいサポートチケットを開くこともできます。
+また、ポータルの **[!UICONTROL サポートとインサイト]** ページにある [[!UICONTROL &#x200B; 新規ケースを作成 &#x200B;]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) ウィジェットを使用して、新しいサポートチケットを開くこともできます。
 
 ![create-case-from-support-and-insights-tab](/help/adobe-success-portal/assets/create-case-from-support-and-insights.png)
 
@@ -36,9 +36,9 @@ ht-degree: 0%
 
 ![view-and-manage-existing-cases](/help/adobe-success-portal/assets/technical-persona-view-cases.png)
 
-これにより、未解決のケースとクローズされたケースのリストを含むポータルの [[!UICONTROL  ケース管理 ]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) セクションにリダイレクトされます。
+これにより、未解決のケースとクローズされたケースのリストを含むポータルの [[!UICONTROL &#x200B; ケース管理 &#x200B;]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) セクションにリダイレクトされます。
 
-## [!UICONTROL  アラートとAdobeのステータス ]
+## [!UICONTROL &#x200B; アラートとAdobeのステータス &#x200B;]
 
 ポータルのホームページのこのセクションには、パフォーマンス、セキュリティ、機能に関するプロアクティブなアラートが表示されます。 これらのアラートは環境スキャンから生成され、**[!UICONTROL Adobe ステータス]** と統合されて、製品の潜在的なダウンタイムを可視化します。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 **[!UICONTROL アラートとAdobeのステータス]** 内の **[!UICONTROL すべて表示]** ボタンをクリックすると、**[!UICONTROL サポートとインサイト]** ページが表示されます。
 
-## [!UICONTROL  サポートとインサイト ]
+## [!UICONTROL &#x200B; サポートとインサイト &#x200B;]
 
 このページで使用できる個々のリソースについて詳しくは、[ サポートとインサイト ](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) を参照してください。
 

@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  値トラッカー ]'
-description: '[!UICONTROL  値トラッカー ] ページには、KBO が整理した [!UICONTROL  ユースケース ] のビューが表示されます。'
+title: '[!UICONTROL &#x200B; 値トラッカー &#x200B;]'
+description: '[!UICONTROL &#x200B; 値トラッカー &#x200B;] ページには、KBO が整理した [!UICONTROL &#x200B; ユースケース &#x200B;] のビューが表示されます。'
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
 source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
 workflow-type: tm+mt
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  値トラッカー ]
+# [!UICONTROL &#x200B; 値トラッカー &#x200B;]
 
 **[!UICONTROL 値トラッカー]** ページには、KBO が整理したさまざまな **[!UICONTROL ユースケース]** のビューが表示されます。 ページ上部のフィルターを利用して、この表示に表示されるユースケースをフィルタリングできます。
 
