@@ -1,10 +1,11 @@
 ---
 title: ポータルへ  [!DNL Adobe Success]  アクセス
 description: ポータルでケースを管理する方法  [!DNL Adobe Success]  説明します。
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 **[!UICONTROL 成功]** ポータルチームから、アクセスを確認する通知が届きます。 このメッセージには、ログインの詳細が含まれます。
 
-1. https://experience.adobe.com/に移動します。
+1. [https://experience.adobe.com/](https://experience.adobe.com/) に移動します。
 1. Adobe IDでログインします。
-1. [!DNL Adobe Success] portal （Alpha） アイコンを選択します。
+1. **[!UICONTROL 成功ポータル （Alpha）]** アイコンを選択します。
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ ht-degree: 0%
 >フィードバックツールは専用のサポートチャネルではありません。 緊急のログイン問題には適していません。
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
