@@ -1,6 +1,6 @@
 ---
 title: サポートとインサイトの概要
-description: /[!DNL Adobe Success/] ポータルの [!UICONTROL  サポートとインサイト ] ダッシュボードでは、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
+description: /[!DNL Adobe Success/] ポータルの [!UICONTROL &#x200B; サポートとインサイト &#x200B;] ダッシュボードでは、テクニカルリソース、環境スキャンの結果、ケース管理ツールにアクセスできます。
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
@@ -21,7 +21,7 @@ ht-degree: 61%
 
 各製品タイルには、**[!UICONTROL 結果]**、**[!UICONTROL オープンおよびクローズ済みのケース]**、**[!UICONTROL 主要な問題]**&#x200B;などの主要指標が表示されます。これらの指標のいずれかをクリックすると、専用のサブセクションに直接移動し、製品に関連する詳細なサポートインサイトを確認できます。
 
-## [!UICONTROL  スナップショット ] {#snapshot}
+## [!UICONTROL &#x200B; スナップショット &#x200B;] {#snapshot}
 
 「**[!UICONTROL スナップショット]**」タブでは、ケース、調査結果、アラートに対するエグゼクティブ分析が表示されます。このタブにアクセスするには、任意のタイルで *製品名* をクリックします。
 
@@ -31,7 +31,7 @@ ht-degree: 61%
 
 ![snapshot-tab](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## [!UICONTROL  結果 ] {#findings}
+## [!UICONTROL &#x200B; 結果 &#x200B;] {#findings}
 
 「**[!UICONTROL 結果]**」タブには、パフォーマンス、セキュリティ、機能をまたいで検出された問題がハイライト表示されます。エントリは、リスクレベル、ステータス、前回のスキャン以降の時間に基づいてフラグが付けられます。
 
@@ -43,7 +43,7 @@ ht-degree: 61%
 
 ![findings-from-support-and-insights-card](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## [!UICONTROL  ケースの管理 ] {#case-management}
+## [!UICONTROL &#x200B; ケースの管理 &#x200B;] {#case-management}
 
 「**[!UICONTROL ケース管理]**」タブには、オープンおよびクローズ済みのケースのリストが表示されます。*[!UICONTROL ケース番号]* をクリックすると、イシューに関する追加の詳細が表示され、ケース関連のアクションを直接管理できます。
 

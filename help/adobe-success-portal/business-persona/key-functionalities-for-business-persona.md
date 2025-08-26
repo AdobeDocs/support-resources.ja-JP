@@ -11,7 +11,7 @@ ht-degree: 62%
 
 # ビジネスペルソナ向けの主な機能
 
-ビジネスペルソナ向けの [!DNL Adobe Success] ポータルの機能により、[[!UICONTROL  主要ビジネス目標 ]](/help/adobe-success-portal/business-persona/key-business-objectives.md) （KBO）の価値を測定し、進行状況を追跡し、簡単にアクセスできるビューでインサイトを提供できます。
+ビジネスペルソナ向けの [!DNL Adobe Success] ポータルの機能により、[[!UICONTROL &#x200B; 主要ビジネス目標 &#x200B;]](/help/adobe-success-portal/business-persona/key-business-objectives.md) （KBO）の価値を測定し、進行状況を追跡し、簡単にアクセスできるビューでインサイトを提供できます。
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
