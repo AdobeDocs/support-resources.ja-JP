@@ -1,111 +1,112 @@
 ---
-title: ポータル内のケースを作成  [!DNL Adobe Success]  管理
-description: ポータルでケースを管理する方法  [!DNL Adobe Success]  説明します。
-source-git-commit: f68a62004b2802ef6e1b780a687d202571754e70
-workflow-type: tm+mt
+title: ' [!DNL Adobe Success]  ポータルでのケースの作成とケースの管理'
+description: ' [!DNL Adobe Success]  ポータルでケースを管理する方法について説明します。'
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Success] portal でケースを作成および管理
+# [!DNL Adobe Success] ポータルでのケースの作成とケースの管理
 
-このガイドでは、[!DNL Adobe Success] portal でケースのレポートを作成、表示、ダウンロードする方法について説明します。
+このガイドでは、[!DNL Adobe Success] ポータルでケースのレポートを作成、表示、ダウンロードする方法について説明します。
 
 ## ケースを開く
 
-ケースは、「ホーム」タブまたは **[!UICONTROL サポートとインサイト]** タブから開くことができます。
+「ホーム」タブまたは「**[!UICONTROL サポートとインサイト]**」タブからケースを開くことができます。
 
-「ホーム」タブから **[!UICONTROL ケースを開く]** ページにアクセスするには：
+「ホーム」タブから&#x200B;**[!UICONTROL ケースを開く]**&#x200B;ページにアクセスするには：
 
 1. 「ホーム」タブに移動します。
-1. **[!UICONTROL ケースを開く]** を選択します。
+1. 「**[!UICONTROL ケースを開く]**」を選択します。
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Adobe Success ポータルのホームページの「ケースを開く」](../../assets/adobe-success-portal-home-page-open-case.png)
 
 
 
-1. 必須フィールドに入力します。
-   1. **[!UICONTROL 製品を選択]** します。
-   1. **[!UICONTROL 大文字と小文字のタイトル]**.
+1. 次の必須のフィールドに入力します。
+   1. **[!UICONTROL 製品を選択]**。
+   1. **[!UICONTROL ケースのタイトル]**。
    1. **[!UICONTROL ケースの説明]**。
-1. **[!UICONTROL ケースを送信]** を選択します。
+1. 「**[!UICONTROL ケースを送信]**」を選択します。
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Adobe Success ポータルの「ケースを送信」](../../assets/adobe-success-portal-submit-case.png)
 
 
 
 
-**[!UICONTROL サポートとインサイト]** タブから **[!UICONTROL ケースを開く]** ページにアクセスします。
+「**[!UICONTROL サポートとインサイト]**」タブから&#x200B;**[!UICONTROL ケースを開く]**&#x200B;ページにアクセスするには：
 
 1. 「**[!UICONTROL サポートとインサイト]**」タブに移動します。
-1. **[!UICONTROL ケースを開く]** を選択します。
+1. 「**[!UICONTROL ケースを開く]**」を選択します。
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Adobe Success ポータルのサポートとインサイトの「ケースを開く」](../../assets/adobe-success-portal-support-insights-open-case.png)
 
 
 
-上記と同じ手順に従って、ケースを完成させ送信します。
+上記と同じ手順に従って、ケースを完了し、送信します。
 
 ## ケースを表示
 
-ケースは、「ホーム」タブまたは **[!UICONTROL サポートとインサイト]** タブで表示できます。
+「ホーム」タブまたは「**[!UICONTROL サポートとインサイト]**」タブからケースを表示できます。
 
-「ホーム」タブから **[!UICONTROL ケースを表示]** ページにアクセスするには：
+「ホーム」タブから&#x200B;**[!UICONTROL ケースを表示]**&#x200B;ページにアクセスするには：
 
 1. 「ホーム」タブに移動します。
-1. **[!UICONTROL ケースを表示]** を選択します。
+1. 「**[!UICONTROL ケースを表示]**」を選択します。
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Adobe Success ポータルの「ケースを表示」](../../assets/adobe-success-portal-view-cases.png)
 
 
 
-1. 表示する製品カードを選択し、「ケースをオープン **[!UICONTROL または]** ケースをクローズ **[!UICONTROL を選択し]** す。
+1. 表示する製品カードを選択し、「**[!UICONTROL オープンケース]**」または「**[!UICONTROL クローズ済みケース]**」を選択します。
 
    >[!NOTE]
    >
-   >また、「**[!UICONTROL サポートとインサイト]**」タブを選択すると、**[!UICONTROL オープンケース]** リンクまたは **[!UICONTROL クローズドケース]** リンクを持つ製品カードにすばやくアクセスできます。
+   >また、「**[!UICONTROL サポートとインサイト]**」タブを選択すると、**[!UICONTROL オープンケース]**&#x200B;または&#x200B;**[!UICONTROL クローズ済みケース]**&#x200B;リンクを使用して、製品カードにすばやくアクセスすることもできます。
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Adobe Success ポータルの「オープンケース」と「クローズ済みケース」](../../assets/adobe-success-portal-open-case-closed-case.png)
 
 
 
-1. **[!UICONTROL ケース番号]** をクリックすると、ケースの詳細が表示されます。
+1. **[!UICONTROL ケース番号]**&#x200B;をクリックすると、ケースの詳細が表示されます。
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Adobe Success ポータルのケース番号](../../assets/adobe-success-portal-case-number.png)
 
 
 
 ## ケースレポートのダウンロード
 
-ユースケースに関するPDF レポートをダウンロードするには：
+ユースケースに関する PDF レポートをダウンロードするには：
 
 1. 「ホーム」タブに移動します。
-1. **[!UICONTROL ケースを表示]** を選択します。
+1. 「**[!UICONTROL ケースを表示]**」を選択します。
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Adobe Success ポータルの「ケースを表示」](../../assets/adobe-success-portal-view-cases.png)
 
 
-1. 表示する製品カードを選択し、「ケースをオープン **[!UICONTROL または]** ケースをクローズ **[!UICONTROL を選択し]** す。
+1. 表示する製品カードを選択し、「**[!UICONTROL オープンケース]**」または「**[!UICONTROL クローズ済みケース]**」を選択します。
 
    >[!NOTE]
    >
-   >「**[!UICONTROL サポートとインサイト]**」タブを選択すると、**[!UICONTROL オープンケース]** または **[!UICONTROL クローズドケース]** へのリンクを含む製品カードにすばやくアクセスできます。
+   >また、「**[!UICONTROL サポートとインサイト]**」タブを選択すると、**[!UICONTROL オープンケース]**&#x200B;または&#x200B;**[!UICONTROL クローズ済みケース]**&#x200B;へのリンクを使用して、製品カードにすばやくアクセスすることもできます。
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Adobe Success ポータルの「オープンケース」と「クローズ済みケース」](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-1. [ 製品 ] - サポートケース ページで、ダウンロードするケースの横にあるチェックボックスをオンにして、「**[!UICONTROL ケースをダウンロード]**」を選択します。
+1. [製品] - サポートケースページで、ダウンロードするケースの横にあるチェックボックスをオンにして、「**[!UICONTROL ケースをダウンロード]**」を選択します。
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Adobe Success ポータルの「ケースをダウンロード」](../../assets/adobe-success-portal-download-cases.png)

@@ -1,11 +1,11 @@
 ---
 title: 用語集
-description: ポータル内の主要な用語と  [!DNL Adobe Success]  の定義をまとめたものです。
+description: ' [!DNL Adobe Success]  ポータル内の主な用語とその定義のコレクション。'
 exl-id: 76bb7345-6827-4a42-9784-441f2875435e
 source-git-commit: 7303086f53fd7ba95328e590a01c5b710d9c781b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

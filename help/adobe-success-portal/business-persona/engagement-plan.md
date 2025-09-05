@@ -1,37 +1,36 @@
 ---
-title: '[!UICONTROL &#x200B; 事業計画 &#x200B;]'
-description: '[!UICONTROL &#x200B; エンゲージメントプラン &#x200B;] でAdobe アカウントチームとエンゲージメントオプションを一元的に把握することで、関係者の視認性とコミュニケーションを向上させる方法を説明します。'
-source-git-commit: 35fbd5343830feb9d605ee9c3645b3a0b4498594
-workflow-type: tm+mt
+title: '[!UICONTROL エンゲージメントプラン]'
+description: '[!UICONTROL エンゲージメントプラン]でアドビのアカウントチームとエンゲージメントオプションを一元的に可視化することで、関係者の可視性とコミュニケーションを強化する方法について説明します。'
+exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL エンゲージメントプラン]
 
-# [!UICONTROL &#x200B; 事業計画 &#x200B;]
+「**[!UICONTROL エンゲージメントプラン]**」セクションでは、関係者の可視性とコミュニケーションに関連する課題を解決します。これにより、アドビのアカウントチームを一元的に可視化し、常にエンゲージする方法を提供できます。
 
-**[!UICONTROL エンゲージメントプラン]** セクションでは、関係者の可視性とコミュニケーションに関連する課題を解決します。 これにより、Adobe アカウントチームと、それらのチームとのエンゲージメント方法を一元的に確認できます。
-
-このセクションにアクセスするには、ポータルホームページの左側のナビゲーションパネルにある ![engagement-icon](/help/adobe-success-portal/assets/engagement-icon.png) アイコンをクリックします。
+このセクションにアクセスするには、ポータルのホームページの左側のナビゲーションパネルにある ![エンゲージメントアイコン](/help/adobe-success-portal/assets/engagement-icon.png) アイコンをクリックします。
 
 このページには、次のサブセクションが含まれます。
 
-## [!UICONTROL &#x200B; 戦略的パートナー &#x200B;]
+## [!UICONTROL 戦略的パートナー]
 
-このタブには、Adobe アカウントパートナーのリストが表示されます。 各連絡先をクリックしてメールを表示したり、連絡するタイミングや、関与している対応する **[!UICONTROL アクセラレータ]** および **[!UICONTROL アクティビティ]** を確認します。
+このタブには、アドビアカウントパートナーのリストが表示されます。各連絡先をクリックすると、その連絡先のメール、連絡するタイミング、その連絡先が関与している&#x200B;**[!UICONTROL アクセラレーター]**&#x200B;と&#x200B;**[!UICONTROL アクティビティ]**&#x200B;が表示されます。
 
-![engagement-plan-strategic-partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
+![エンゲージメントプランの「戦略的パートナー」](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
 
-## [!UICONTROL &#x200B; フレームワーク &#x200B;]
+## [!UICONTROL フレームワーク]
 
-このタブには、会議の頻度、組織とAdobeの両方からの参加者、各エンゲージメントタッチポイントの目標など、Adobe チームとのエンゲージメントの構造の概要が表示されます。
+このタブには、会議の頻度、組織とアドビの両方からの参加者、各エンゲージメントタッチポイントの目標など、アドビチームとのエンゲージメントの構造の概要が表示されます。
 
-![engagement-plan-framework](/help/adobe-success-portal/assets/engagement-plan-framework.png)
+![エンゲージメントプランの「フレームワーク」](/help/adobe-success-portal/assets/engagement-plan-framework.png)
 
-## [!UICONTROL Accelerator Catalog]
+## [!UICONTROL アクセラレーターカタログ]
 
-このタブには、サブスクリプションに含まれている使用可能な **[!UICONTROL アクセラレータ]** のカタログが表示されます。 オファーを確認し、Adobe アカウントチームと調整して、アクセラレーターのエンゲージメントをリクエストします。
+このタブには、購読に含まれる使用可能な&#x200B;**[!UICONTROL アクセラレーター]**&#x200B;のカタログが表示されます。オファーを確認し、アドビのアカウントチームと調整して、アクセラレーターエンゲージメントをリクエストします。
 
-![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
-
+![エンゲージメントプランの「アクセラレーターカタログ」](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)

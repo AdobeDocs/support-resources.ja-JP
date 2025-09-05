@@ -8,28 +8,28 @@ hide: true
 index: false
 role: User, Admin
 source-git-commit: 53a3354794afaf700613a073025129d641744fab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Success ポータル {#adobe-success-portal}
 
-- [ポータル  [!DNL Adobe Success]  概要](/help/adobe-success-portal/adobe-success-portal-introduction.md)
-- [ポータルへ  [!DNL Adobe Success]  アクセス](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
+- [ [!DNL Adobe Success]  ポータルの概要](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [ [!DNL Adobe Success]  ポータルへのアクセス](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
 - [お客様の FAQ](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - ビジネスペルソナ {#business-persona}
    - [ビジネスペルソナ向けの主な機能](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
-   - [[!UICONTROL &#x200B; 主な事業目的 &#x200B;]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
-   - [[!UICONTROL &#x200B; 行動計画 &#x200B;]](/help/adobe-success-portal/business-persona/action-plan.md)
-   - [[!UICONTROL &#x200B; 値トラッカー &#x200B;]](/help/adobe-success-portal/business-persona/value-tracker.md)
-   - [[!UICONTROL &#x200B; 事業計画 &#x200B;]](/help/adobe-success-portal/business-persona/engagement-plan.md)
+   - [[!UICONTROL 主要ビジネス目標]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
+   - [[!UICONTROL アクションプラン]](/help/adobe-success-portal/business-persona/action-plan.md)
+   - [[!UICONTROL 値トラッカー]](/help/adobe-success-portal/business-persona/value-tracker.md)
+   - [[!UICONTROL エンゲージメントプラン]](/help/adobe-success-portal/business-persona/engagement-plan.md)
 - テクニカルペルソナ {#technical-persona}
    - [テクニカルペルソナ向けの主な機能](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - サポートとインサイト {#support-and-insights}
       - [サポートとインサイトの概要](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
-      - [ポータル内のケースを作成  [!DNL Adobe Success]  管理](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
-      - [ポータルでの結果  [!DNL Adobe Success]  管理](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
+      - [ [!DNL Adobe Success]  ポータルでのケースの作成とケースの管理](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [ [!DNL Adobe Success]  ポータルでの結果の管理](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [用語集](/help/adobe-success-portal/glossary.md)

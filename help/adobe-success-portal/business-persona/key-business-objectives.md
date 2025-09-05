@@ -1,32 +1,31 @@
 ---
-title: '[!UICONTROL &#x200B; 主な事業目的 &#x200B;]'
-description: /[!UICONTROL &#x200B; 主要事業目標/] は、Adobeとのパートナーシップを通じてお客様が達成することを目指す高レベルの目標です。
-source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
-workflow-type: tm+mt
+title: '[!UICONTROL 主要ビジネス目標]'
+description: /[!UICONTROL 主要ビジネス目標/] は、顧客がアドビとのパートナーシップを通じて達成することを目指す高位レベルの目標です。
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL 主要ビジネス目標]（KBO）
 
-# [!UICONTROL &#x200B; 主要事業目標 &#x200B;] （KBO）
-
-KBO は、ポータルのホームページの上部にある水平スクロール表示で表示されます。 各 KBO カードには以下が含まれます。
+KBO は、ポータルのホームページの上部にある水平スクロールビューで表示されます。各 KBO カードには、以下が含まれます。
 
 * 簡単な説明
 * 現在のステータス
-* 関連するユースケース
-* リンクされたアクティビティとアクセラレータ
+* 関連ユースケース
+* リンクされたアクティビティとアクセラレーター
 
-![kbo-home-page](/help/adobe-success-portal/assets/kbo-home-page.png)
+![KBO ホームページ](/help/adobe-success-portal/assets/kbo-home-page.png)
 
-カードをクリックすると、KBO に関する次のような情報の詳細ビューが開きます。
+カードをクリックすると、次のような KBO に関連する情報の詳細ビューが開きます。
 
 * ステータス
-* 主要業績評価指標（[!UICONTROL KPI]）
+* 主要要業績評価指標（[!UICONTROL KPI]）
 * [!UICONTROL 使用例]
-* 関連 [!UICONTROL Adobe ソリューション &#x200B;]
-* 関連する [!UICONTROL &#x200B; アクセラレータ &#x200B;] および [!UICONTROL &#x200B; アクティビティ &#x200B;] のリスト
+* 関連[!UICONTROL アドビソリューション]
+* 関連[!UICONTROL アクセラレーター]と[!UICONTROL アクティビティ]のリスト
 
-![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
-
+![KBO に関連する情報の例](/help/adobe-success-portal/assets/about-kbo-example.png)
