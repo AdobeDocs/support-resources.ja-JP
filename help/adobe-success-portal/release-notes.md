@@ -1,38 +1,38 @@
 ---
-title: Adobe Success Portal リリースノート
-description: ' [!DNL Adobe Success portal] の最新のリリース情報。'
+title: Adobe Success ポータルのリリースノート
+description: ' [!DNL Adobe Success portal] の最新のリリース情報をご確認ください。'
 feature: Release Notes
 source-git-commit: 1ba057f6d0fa08b1762d26dc48e0145edee7d062
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '187'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Adobe Success portal] リリースノート
 
-このリリースノートには、[!DNL Adobe Success portal] の更新内容が含まれています。
+このリリースノートには、[!DNL Adobe Success portal] の以下の更新内容が含まれています。
 
-![ 新機能 ](../adobe-success-portal/assets/new.svg) – 新機能
-![ 修正 ](../adobe-success-portal/assets/fix.svg) – 修正点と改善点
-![ バグ ](../adobe-success-portal/assets/bug.svg) – 既知の問題
+![新規](../adobe-success-portal/assets/new.svg) - 新機能
+![修正](../adobe-success-portal/assets/fix.svg) - 修正点と改善点
+![バグ](../adobe-success-portal/assets/bug.svg) - 既知の問題
 
 ## 2.0
 
-_2025 年 9 月 11 日_
+_2025年9月11日（PT）_
 
-![ 新規 ](../adobe-success-portal/assets/new.svg) 次のフィールドを **[!UICONTROL アクティビティの詳細]** ページに追加しました。
+![新規](../adobe-success-portal/assets/new.svg)次のフィールドを&#x200B;**[!UICONTROL アクティビティの詳細]**&#x200B;ページに追加しました。
 
-* **[!UICONTROL 優先度]**：アクティビティの優先度レベルを示します。 使用可能な値は、*緊急*、*高*、*標準*、*低*、*なし* です。 値が *なし* の場合、「**[!UICONTROL 優先度]** フィールドはポータルの UI に表示されません。
-* **[!UICONTROL Adobe オーナー]**: アクティビティに対して指定されたAdobe オーナーを表示します。
-* **[!UICONTROL クライアント所有者]**：顧客側から所有者を表示します。
-* **[!UICONTROL 次の手順]**：アクティビティで次に取得されたアクションを表示します。
-* **[!UICONTROL Adobe ソリューション]**: アクティビティに関連するAdobe ソリューションを示します。
+* **[!UICONTROL 優先度]**：アクティビティの優先度レベルを示します。使用可能な値は、*緊急*、*高*、*標準*、*低*、*なし*&#x200B;です。値が&#x200B;*なし*&#x200B;の場合、「**[!UICONTROL 優先度]**」フィールドはポータルの UI に表示されません。
+* **[!UICONTROL アドビ所有者]**：アクティビティに対して指定されたアドビオーナーを表示します。
+* **[!UICONTROL クライアント所有者]**：顧客側の所有者を表示します。
+* **[!UICONTROL 次の手順]**：アクティビティに対してキャプチャされた次のアクションを表示します。
+* **[!UICONTROL アドビソリューション]**：アクティビティに関連するアドビソリューションを示します。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg)**[!UICONTROL アクションプラン]** 内の **[!UICONTROL 主なビジネス目標]** および **[!UICONTROL アクティビティ]** ページを拡張して、アクセラレータとアクティビティごとの完了日を表示し、タイムラインの可視性を向上しました。
+![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アクションプラン]**&#x200B;内の&#x200B;**[!UICONTROL 主要ビジネス目標]**&#x200B;および&#x200B;**[!UICONTROL アクティビティ]**&#x200B;ページを拡張し、アクセラレーターとアクティビティのそれぞれの完了日を表示し、タイムラインの可視性を向上させました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL KBO の詳細]** ページに **[!UICONTROL ユースケース]** を表示する方法を改善し、デザインの整理、操作性の向上、ナビゲーションの一貫性を確保しました。
+![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL KBO の詳細]**&#x200B;ページの&#x200B;**[!UICONTROL ユースケース]**&#x200B;の表示方法を改善し、より洗練されたデザイン、優れた操作性、一貫したナビゲーションを実現しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) リンクで新しいタブでリンクが開かなかった場合の **Ctrl + クリック** （またはMacの **Command + クリック**）の問題を修正しました。
+![修正](../adobe-success-portal/assets/fix.svg) **Ctrl + クリック**（または Mac で **Command + クリック**）しても新しいタブでリンクが開かない問題を修正しました。
 
