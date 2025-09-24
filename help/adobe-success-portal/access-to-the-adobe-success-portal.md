@@ -2,10 +2,10 @@
 title: ' [!DNL Adobe Success]  ポータルへのアクセス'
 description: ' [!DNL Adobe Success]  ポータルでケースを管理する方法について説明します。'
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 81%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 1. Adobe ID を使用してログインします。
 1. **[!UICONTROL Success ポータル（Alpha）]** アイコンを選択します。
 
-   ![Alpha の Success ポータル（Alpha）](assets/alpha-success-portal-alpha.png)
+   ![ サクセスポータルのアイコンとラベル（Alpha） ](assets/alpha-success-portal-alpha.png " サクセスポータルへのアクセス（Alpha） ")
 
 
 
 1. ログインすると、次の 5 つのタブが表示されます。
 
-   ![Adobe Success ポータルのタブ](assets/adobe-success-portal-tabs.png)
+   ![Adobe Success Portal インターフェイスのサイドバー ](assets/adobe-success-portal-tabs.png " サイドバータブ ")
 
 
    * ホーム
@@ -44,4 +44,4 @@ ht-degree: 100%
 >
 >フィードバックツールは、専用のサポートチャネルではありません。緊急のログインに関する問題には適していません。
 
-![Adobe Success ポータルのホーム](assets/adobe-success-portal-home.png)
+![ フィードバックを送信するためのポータルの「Alphaフィードバック」ボタン ](assets/adobe-success-portal-home.png "Alphaフィードバックボタン ")
