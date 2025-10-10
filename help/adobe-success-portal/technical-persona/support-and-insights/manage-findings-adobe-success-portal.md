@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Success]  ポータルでの結果の管理'
 description: このガイドでは、製品のパフォーマンス、セキュリティ、機能に関するリスクをプロアクティブに管理するのに役立つ、 [!DNL Adobe Success]  ポータルでの結果にアクセス、解釈、対応する方法について説明します。
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
 source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '864'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -39,31 +39,30 @@ ht-degree: 87%
 1. **[!UICONTROL サポートとインサイト]**&#x200B;に移動します。
 1. 関連する製品カードを選択します。「**[!UICONTROL 結果]**」タブを選択します。
 
-   ![AEM as Cloud Service - Assetsの結果をハイライトしたAdobe Success ポータル。3 つのリストされた項目があります ](../../assets/asp-support-inisghts-findings.png "Cloud ServiceのAEM Assetsの結果を表示 ")
+   ![リスト項目が 3 つある、AEM as Cloud Service - Assets の結果がハイライト表示されている Adobe Success ポータル](../../assets/asp-support-inisghts-findings.png "Cloud Service の AEM Assets の結果を表示")
 
 
 1. 選択した製品のすべての結果のリストが表示されます。
 
-   ![AEM Cloud Service - Adobeの「結果」タブを表示するCloud Service Success ポータル - Assetsにキャッシュの問題が一覧表示されました ](../../assets/adobe-success-portal-findings.png "AEM Assetsのキャッシュ関連の結果を表示します ")
+   ![キャッシュの問題がリストされている AEM Cloud Service - Assets の「結果」タブが表示されている Adobe Success ポータル](../../assets/adobe-success-portal-findings.png "Cloud Service の AEM Assets のキャッシュ関連の結果を表示")
 
 1. ここから、次の操作を実行できます。
 
-   ![ 検索バー、ダウンロードボタン、およびCloud ServiceのAdobeのAEM Sites](../../assets/adobe-success-portal-download.png " 検索、ダウンロード、表示結果の下にある重大なリスクの結果をハイライト表示したAEM Sites Success Portal インターフェイス ")
+   ![AEM Sites の検索バー、「ダウンロード」ボタン、重大なリスクの検出結果がハイライト表示されている Adobe Success ポータルのインターフェイス](../../assets/adobe-success-portal-download.png "Cloud Service の AEM Sites の結果を検索、ダウンロード、表示")
 
    * 特定のエントリを検索します。
    * 「**[!UICONTROL 結果をダウンロード]**」を選択して、結果のリストを書き出します。1 つの結果に対してレポートを書き出すには、**[!UICONTROL 結果名]**&#x200B;列の下にある関連結果の横にあるチェックボックスをオンにします。結果を選択しない場合、PDF にはデフォルトですべての結果のリストが含まれます。
    * **[!UICONTROL 結果名]**&#x200B;の下にある結果を選択すると、推奨される解決策を含む結果の詳細が表示されます。結果の詳細ページには、選択した結果が追加のコンテキストとレコメンデーションと共に表示されます。このレポートを表示するには、ダウンロード矢印を選択します。
 
 
-     ![Adobe Success ポータルで検索結果の詳細を書き出すための「ダウンロード」ボタン ](../../assets/findings-details.png " この検索結果のレポートをダウンロード ")
+     ![Adobe Success ポータルで結果の詳細を書き出すための「ダウンロード」ボタン](../../assets/findings-details.png "この結果のレポートをダウンロード")
 
 
 ## アクション結果
 
 次の手順に従って、各結果が引き続き適用可能か、却下できるかを検証します。
 
->[!NOTE]
->：
+>[!NOTE]：
 >
 >インスタンスに対して標準チェックが実行されます。チェックでインスタンスに問題が存在しないことが判明した場合、ステータスは&#x200B;**[!UICONTROL 未検出]**&#x200B;になります。
 
@@ -73,7 +72,7 @@ ht-degree: 87%
 1. **[!UICONTROL 結果名]**&#x200B;の下にあるエントリを選択します。結果の詳細ページでは、次の操作を実行できます。
    * 「**[!UICONTROL 検証]**」を選択して、問題が引き続き存在するかどうかを確認します（「**[!UICONTROL 検証]**」ボタンは、問題が解決されたことを確認するためにデザインされています）。
 
-   ![ 結果パネルの「検証」ボタンを使用して、Adobe Success ポータルで問題の解決を確認 ](../../assets/adobe-success-portal-validate.png " る ") 「検証」ボタン
+   ![Adobe Success ポータルで問題の解決を確認する結果パネルの「検証」ボタン](../../assets/adobe-success-portal-validate.png "「検証」ボタン")
 
 
    * 問題が引き続き解決しない場合は、次のメッセージが表示されます。*[!UICONTROL 検証が完了しました。結果は引き続き検出されます]*。調査と解決には、結果の詳細ページの情報とレコメンデーションを使用します。

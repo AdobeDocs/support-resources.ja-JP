@@ -3,9 +3,9 @@ title: ' [!DNL Adobe Success]  ポータルでのケースの作成とケース�
 description: ' [!DNL Adobe Success]  ポータルでケースを管理する方法について説明します。'
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
 source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 61%
 1. 「**[!UICONTROL ケースを開く]**」を選択します。
 
 
-   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを開く」ボタン ](../../assets/adobe-success-portal-home-page-open-case.png " 「ケースを開く」ボタン ")
+   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを開く」ボタン](../../assets/adobe-success-portal-home-page-open-case.png "「ケースを開く」ボタン")
 
 
 
@@ -35,7 +35,7 @@ ht-degree: 61%
 
 
 
-   ![Adobe Success ポータルのサポートチケットフォームの下部にある「ケースを送信」ボタン ](../../assets/adobe-success-portal-submit-case.png " サポートリクエストを送信します ")
+   ![Adobe Success ポータルのサポートチケットフォームの下部にある「ケースを送信」ボタン](../../assets/adobe-success-portal-submit-case.png "サポートリクエストを送信")
 
 
 
@@ -47,7 +47,7 @@ ht-degree: 61%
 
 
 
-   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを開く」ボタン ](../../assets/adobe-success-portal-support-insights-open-case.png " 「ケースを開く」ボタン ")
+   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを開く」ボタン](../../assets/adobe-success-portal-support-insights-open-case.png "「ケースを開く」ボタン")
 
 
 
@@ -64,7 +64,7 @@ ht-degree: 61%
 
 
 
-   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを表示」ボタン ](../../assets/adobe-success-portal-view-cases.png " 既存のサポートケースを表示 ")
+   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを表示」ボタン](../../assets/adobe-success-portal-view-cases.png "既存のサポートケースを表示")
 
 
 
@@ -76,7 +76,7 @@ ht-degree: 61%
 
 
 
-   ![AEM Cloud Service の「サポートとインサイト」セクションのオープンおよびクローズドケース指標 – Assets](../../assets/adobe-success-portal-open-case-closed-case.png " オープンおよびクローズドサポートケースの概要を表示 ")
+   ![AEM Cloud Service - Assets の「サポートとインサイト」セクションのオープンおよびクローズ済みケースインジケーター](../../assets/adobe-success-portal-open-case-closed-case.png "オープンおよびクローズ済みサポートケースの概要を表示")
 
 
 
@@ -84,7 +84,7 @@ ht-degree: 61%
 
 
 
-   ![Adobe Success ポータルのサポートケースのケース番号リンク ](../../assets/adobe-success-portal-case-number.png " クリックするとケースの詳細が表示されます ")
+   ![Adobe Success ポータルのサポートケースのケース番号リンク](../../assets/adobe-success-portal-case-number.png "クリックするとケースの詳細が表示されます")
 
 
 
@@ -96,7 +96,7 @@ ht-degree: 61%
 1. 「**[!UICONTROL ケースを表示]**」を選択します。
 
 
-   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを表示」ボタン ](../../assets/adobe-success-portal-view-cases.png " 既存のサポートケースを表示 ")
+   ![Adobe Success ポータルの「新しいケースを作成」セクションの「ケースを表示」ボタン](../../assets/adobe-success-portal-view-cases.png "既存のサポートケースを表示")
 
 
 1. 表示する製品カードを選択し、「**[!UICONTROL オープンケース]**」または「**[!UICONTROL クローズ済みケース]**」を選択します。
@@ -105,8 +105,8 @@ ht-degree: 61%
    >
    >また、「**[!UICONTROL サポートとインサイト]**」タブを選択すると、**[!UICONTROL オープンケース]**&#x200B;または&#x200B;**[!UICONTROL クローズ済みケース]**&#x200B;へのリンクを使用して、製品カードにすばやくアクセスすることもできます。
 
-   ![AEM Cloud Service の「サポートとインサイト」セクションのオープンおよびクローズドケース指標 – Assets](../../assets/adobe-success-portal-open-case-closed-case.png " オープンおよびクローズドサポートケースの概要を表示 ")
+   ![AEM Cloud Service - Assets の「サポートとインサイト」セクションのオープンおよびクローズ済みケースインジケーター](../../assets/adobe-success-portal-open-case-closed-case.png "オープンおよびクローズ済みサポートケースの概要を表示")
 
 1. [製品] - サポートケースページで、ダウンロードするケースの横にあるチェックボックスをオンにして、「**[!UICONTROL ケースをダウンロード]**」を選択します。
 
-   ![Adobe Success ポータルの「ケース管理」セクションの「ケースをダウンロード」ボタン ](../../assets/adobe-success-portal-download-cases.png " サポートケースデータをダウンロード ")
+   ![Adobe Success ポータルの「ケース管理」セクションの「ケースをダウンロード」ボタン](../../assets/adobe-success-portal-download-cases.png "サポートケースデータをダウンロード")
