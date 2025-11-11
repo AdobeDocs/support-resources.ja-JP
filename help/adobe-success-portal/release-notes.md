@@ -22,19 +22,19 @@ ht-degree: 31%
 
 _2025 年 11 月 11 日_
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ケースの詳細ページの会話の順序を最適化し、最新のメッセージまで自動的にスクロールするようにしました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細ページの会話の順序を最適化し、最新のメッセージまで自動的にスクロールするようにしました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl + クリック**/**Command + クリック** を使用して新しいタブで開くと、ナビゲーションエラーを防ぐために「戻る」ボタンが適切に無効になりました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl + クリック**/**Command + クリック** を使用して新しいタブで開くと、ナビゲーションエラーを防ぐために「戻る」ボタンが適切に無効になりました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]** で、**[!UICONTROL Adobeのステータス]** アラートに対して、誤ったステータス、地域またはタイムゾーンの詳細が表示される問題を修正しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]** で、**[!UICONTROL Adobeのステータス]** アラートに対して、誤ったステータス、地域またはタイムゾーンの詳細が表示される問題を修正しました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg)**[!UICONTROL 戦略的パートナー]** にリンクされた **[!UICONTROL アクセラレーター]** および **[!UICONTROL アクティビティ]** の表示の問題を解決しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)**[!UICONTROL 戦略的パートナー]** にリンクされた **[!UICONTROL アクセラレーター]** および **[!UICONTROL アクティビティ]** の表示の問題を解決しました。
 
 ## 3.0
 
 _2025 年 10 月 9 日_
 
-![ 新規 ](../adobe-success-portal/assets/new.svg) **[!UICONTROL アクションプラン]** モジュールにカレンダー表示を追加して、**[!UICONTROL 主要事業目標]** （KBO）にリンクされた **[!UICONTROL アクセラレーター]****[!UICONTROL アクティビティ]** のタイムラインを視覚化しました。
+![&#x200B; 新規 &#x200B;](../adobe-success-portal/assets/new.svg) **[!UICONTROL アクションプラン]** モジュールにカレンダー表示を追加して、**[!UICONTROL 主要事業目標]** （KBO）にリンクされた **[!UICONTROL アクセラレーター]**&#x200B;**[!UICONTROL アクティビティ]** のタイムラインを視覚化しました。
 * アクションプラン KBO ページ、または **[!UICONTROL KBO]**/**[!UICONTROL Accelerator]**/**[!UICONTROL Activity]** 詳細ページ（KBO にリンクされている場合のみ）からカレンダーにアクセスします。
 * リスト表示（デフォルト）とカレンダー表示を切り替えます。
 * カレンダーには、各 KBO に対して折りたたみ可能なセクションが表示されます。
@@ -47,26 +47,26 @@ _2025 年 10 月 9 日_
 * デフォルトの表示は現在の週です。ナビゲーション矢印を使用して週間を移動できます。
 * 月表示では、進行中の作業と予定されている作業の明確なタイムラインを提供します。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg)**[!UICONTROL アクションプラン]** の **[!UICONTROL 主なビジネス目標]** および **[!UICONTROL アクティビティ]** ページを拡張して、完了日にツールチップを表示するようにし、タイムラインの可視性を向上させました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg)**[!UICONTROL アクションプラン]** の **[!UICONTROL 主なビジネス目標]** および **[!UICONTROL アクティビティ]** ページを拡張して、完了日にツールチップを表示するようにし、タイムラインの可視性を向上させました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ナビゲーションを高速化するために、**[!UICONTROL アクションプラン]** および **[!UICONTROL 結果トラッカー]** のフィルター内に追加された検索。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ナビゲーションを高速化するために、**[!UICONTROL アクションプラン]** および **[!UICONTROL 結果トラッカー]** のフィルター内に追加された検索。
 
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) 簡単なコンテキストで、各検索結果にツールチップを追加しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) 簡単なコンテキストで、各検索結果にツールチップを追加しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) 調査結果と事例からダウンロードした PDF にAdobe ブランディングを追加しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) 調査結果と事例からダウンロードした PDF にAdobe ブランディングを追加しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) アカウントに関連付けられているすべての **[!UICONTROL 戦略的パートナー]** を、プライマリ連絡先の指標と共に表示します。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) アカウントに関連付けられているすべての **[!UICONTROL 戦略的パートナー]** を、プライマリ連絡先の指標と共に表示します。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のタイムゾーンが、ログインしたユーザーのプロファイルを正しく反映しなかった問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のタイムゾーンが、ログインしたユーザーのプロファイルを正しく反映しなかった問題を修正しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のフィルターが期待どおりに動作しない問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のフィルターが期待どおりに動作しない問題を修正しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) KBO の詳細ページと **[!UICONTROL 結果トラッカー]** ページの **[!UICONTROL ユースケース]** の並べ替えに一貫性がなかった問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) KBO の詳細ページと **[!UICONTROL 結果トラッカー]** ページの **[!UICONTROL ユースケース]** の並べ替えに一貫性がなかった問題を修正しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ケースのタイトルにカーソルを合わせたときに、ケースリストページのツールチップにケース全体の名前が表示されない問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースのタイトルにカーソルを合わせたときに、ケースリストページのツールチップにケース全体の名前が表示されない問題を修正しました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg)Safari ブラウザーで背面矢印アイコンが正しく表示されない問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg)Safari ブラウザーで背面矢印アイコンが正しく表示されない問題を修正しました。
 
 ## 2.0
 
