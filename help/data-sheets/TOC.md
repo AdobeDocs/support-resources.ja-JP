@@ -3,7 +3,8 @@ user-guide-title: Success Planリソース
 user-guide-description: Adobe Experience Cloud および Adobe Experience Platform のSuccess Planおよびサポートリソース。
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
+hide: false
+source-git-commit: daf7dae78e6ead9cb56642dc8c7f4ce0b03b37e0
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 93%
@@ -14,7 +15,7 @@ ht-degree: 93%
 # Success Planリソース {#data-sheets}
 
 + [Adobe Success Planの概要](overview.md)
-+ [Adobe DX ソリューション統合ホリデー対応ガイド](unified-holiday-readiness.md)
++ [Adobe DX ソリューション統合ホリデー対応ガイド ](unified-holiday-readiness.md)
 + The Crux ポッドキャスト{#crux-podcast}
    + [第 1 話 - Billy Georgaros](episode1.md)
      [第 2 話 - Karrie Benjamin](episode2.md)
