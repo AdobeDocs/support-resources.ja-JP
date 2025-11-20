@@ -15,7 +15,7 @@ ht-degree: 93%
 # Success Planリソース {#data-sheets}
 
 + [Adobe Success Planの概要](overview.md)
-+ [Adobe DX ソリューション統合ホリデー対応ガイド ](unified-holiday-readiness.md)
++ [Adobe DX ソリューション統合ホリデー対応ガイド &#x200B;](unified-holiday-readiness.md)
 + The Crux ポッドキャスト{#crux-podcast}
    + [第 1 話 - Billy Georgaros](episode1.md)
      [第 2 話 - Karrie Benjamin](episode2.md)
