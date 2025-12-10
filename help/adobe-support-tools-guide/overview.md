@@ -21,14 +21,14 @@ Adobe WorkfrontはAdobe Admin Console Platform に参加しています。
 * Workfront ユーザーに対して複数の SSO 設定を利用します。
 * 他のAdobe製品と同様に、Workfrontの使用権限を管理します。
 
-Adobe ID と Admin Console について詳しくは、この [ サポートページ ](https://helpx.adobe.com/jp/enterprise/admin-guide.html) を参照してください。 また、現在のWorkfront コンソールと新しいAdobe コンソールの比較もあります [ こちら ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus)。
+Adobe ID と Admin Console について詳しくは、この [&#x200B; サポートページ &#x200B;](https://helpx.adobe.com/jp/enterprise/admin-guide.html) を参照してください。 また、現在のWorkfront コンソールと新しいAdobe コンソールの比較もあります [&#x200B; こちら &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Factions-in-admin-console.htm&_LANG=enus)。
 
 <!--
 New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-さらに、参照用に利用できる FAQ があります [ こちら ](faq.md)。
+さらに、参照用に利用できる FAQ があります [&#x200B; こちら &#x200B;](faq.md)。
 
 ## お客様の移行の詳細
 

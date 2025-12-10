@@ -15,20 +15,20 @@ ht-degree: 0%
 
 このメールには、アカウントプロファイルにアクセスして希望のサポート電話番号を共有する方法を説明する、以下の赤いテキストが含まれています。
 
-![ 優先サポート番号 ](assets/admin-console-1.png)
+![&#x200B; 優先サポート番号 &#x200B;](assets/admin-console-1.png)
 
 希望する電話番号を指定するには：
 
 1. **アカウントプロファイル** リンクをクリックして、`account.adobe.com` を使用してログインするための新しいウィンドウを開きます。
 
-   ![ ログイン ](assets/sign-in.png)
+   ![&#x200B; ログイン &#x200B;](assets/sign-in.png)
 
 1. ログインプロセスを実行し、`account.adobe.com` の下の画面に表示されます。
 1. 次に、以下のタブ アカウントとセキュリティ/アカウントをクリックして、サポート電話番号フィールドを表示します。
 1. お客様のサポートニーズを認識するために使用したい電話番号をここに追加します。
 
-![ 詳細を指定 ](assets/account-info.png)
+![&#x200B; 詳細を指定 &#x200B;](assets/account-info.png)
 
-![ 電話番号を追加 ](assets/enter-phone-number.png)
+![&#x200B; 電話番号を追加 &#x200B;](assets/enter-phone-number.png)
 
 ![results](assets/result.png)
