@@ -119,7 +119,7 @@ Adobe Experience Platform実装全体で顧客データを保護し、プライ�
    * 送信時間
    * オファータイプ
    * チャネルミックス
-[AJO Experimentation Acceleratorのベストプラクティス &#x200B;](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices) を参照してください。
+[AJO Experimentation Acceleratorのベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices) を参照してください。
 * ジャーニーのエンドツーエンドの検証を実施します。
    * イベントのトリガー
    * セグメントのエントリ
