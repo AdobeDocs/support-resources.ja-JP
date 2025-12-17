@@ -2,24 +2,24 @@
 keywords: FAQ；よくある質問
 title: Adobe Business Platform およびAdmin Consoleに関する FAQ
 description: Adobe Workfrontに関するよくある質問（Faq）
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Adobe Business Platform およびAdmin Consoleに関する FAQ
+# [!DNL Adobe Business Platform] とAdmin Consoleに関するよくある質問
 
 +++**Adobe ID とAdmin Consoleとは**
 
-Adobe Business Platform は、管理者や部門のリーダーが、カスタマイズされたバージョンのWorkfront ソフトウェアを管理するための最先端のコントロールコンソールを提供します。
+この [!DNL Adobe Business Platform] は、管理者や部門のリーダーに、カスタマイズされたWorkfront ソフトウェアのバージョンを管理するための最先端の制御コンソールを提供します。
 
 +++
 
 +++**お客様がAdobe ID とAdmin Console（AAC）に移行する必要があるのはなぜですか？**
 
-お客様は、Adobe Business Platform に移行することで、より安全で直感的な管理コンソールを利用できます。
+お客様は、[!DNL Adobe Business Platform] に移行することで、より安全で直感的な管理コンソールを利用できるようになります。
 
 +++
 
@@ -51,13 +51,13 @@ IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以
 
 +++**Workfrontのお客様は、現在、AAC で使用できない新機能にはどのようなものがありますか？**
 
-使用可能な新機能の一部をハイライト表示した [&#x200B; このドキュメント &#x200B;](overview.md) を参照してください。
+使用可能な新機能の一部をハイライト表示した [ このドキュメント ](overview.md) を参照してください。
 
 +++
 
 +++**AAC で利用できるトレーニングリソースには何がありますか？**
 
-&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以
 
 +++**Adobe Products 以外でWorkfront ソリューションに統合した他のテクノロジーにも影響はありますか？**
 
-Fusion アプリケーションを使用して他のサービスに接続している顧客は、Fusion アプリケーションがこの変更を行う準備ができている場合にのみ移動されます。
+[!DNL Fusion] アプリケーションを使用して他のサービスに接続している顧客は、[!DNL Fusion] アプリケーションがこの変更を行う準備ができている場合にのみ移動されます。
 
 +++
 
