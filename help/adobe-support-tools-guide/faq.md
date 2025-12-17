@@ -51,7 +51,7 @@ IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以
 
 +++**Workfrontのお客様は、現在、AAC で使用できない新機能にはどのようなものがありますか？**
 
-使用可能な新機能の一部をハイライト表示した [ このドキュメント ](overview.md) を参照してください。
+使用可能な新機能の一部をハイライト表示した [&#x200B; このドキュメント &#x200B;](overview.md) を参照してください。
 
 +++
 
