@@ -57,7 +57,7 @@ IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以
 
 +++**AAC で利用できるトレーニングリソースには何がありますか？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
 
 +++
 
