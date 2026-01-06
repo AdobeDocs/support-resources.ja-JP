@@ -2,9 +2,9 @@
 keywords: FAQ；よくある質問
 title: Adobe Business Platform およびAdmin Consoleに関する FAQ
 description: Adobe Workfrontに関するよくある質問（Faq）
-source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
+source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '473'
 ht-degree: 11%
 
 ---
@@ -51,13 +51,13 @@ IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以
 
 +++**Workfrontのお客様は、現在、AAC で使用できない新機能にはどのようなものがありますか？**
 
-使用可能な新機能の一部をハイライト表示した [&#x200B; このドキュメント &#x200B;](overview.md) を参照してください。
+
 
 +++
 
 +++**AAC で利用できるトレーニングリソースには何がありますか？**
 
-&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
