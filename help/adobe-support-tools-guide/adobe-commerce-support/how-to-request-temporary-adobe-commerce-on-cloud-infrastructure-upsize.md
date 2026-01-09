@@ -1,6 +1,6 @@
 ---
 title: クラウドインフラストラクチャー上で一時的なAdobe Commerceのアップサイズをリクエストする方法
-description: 高トラフィックが予想されるオンラインイベントを計画している場合、またはサイトが突然高トラフィックのイベントに遭遇した場合は、[ サポートチケット ] （https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket）を申請して、クラウドインフラストラクチャストア上のAdobe Commerceの一時的なクラウドキャパシティを増やすようにリクエストできます。
+description: 高トラフィックが予想されるオンラインイベントを計画している場合、またはサイトが突然高トラフィックのイベントに遭遇した場合は、[ サポートチケット ] （https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#submit-ticket）を申請して、クラウドインフラストラクチャストア上のAdobe Commerceの一時的なクラウドキャパシティを増やすようにリクエストできます。
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # クラウドインフラストラクチャー上で一時的なAdobe Commerceのアップサイズをリクエストする方法
 
-高トラフィックが予想されるオンラインイベントを計画している場合、またはサイトが突然、高トラフィックイベントに遭遇した場合は、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) を申請して、Adobe Commerce on cloud infrastructure store の一時的なクラウド容量の追加をリクエストできます。
+高トラフィックが予想されるオンラインイベントを計画している場合、またはサイトが突然、高トラフィックイベントに遭遇した場合は、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#submit-ticket) を申請して、Adobe Commerce on cloud infrastructure store の一時的なクラウド容量の追加をリクエストできます。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ New Relic アラートでは、ベースラインアラート条件を使用し�
 
 このリンクでは、New Relic[Applied Intelligence を使用した異常値検出 &#x200B;](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/) の詳細を説明します。
 
-高トラフィックイベントを示唆するアラート通知が届いた場合は、追加容量のリクエスト [&#x200B; サポートチケットの送信 &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) を検討する必要がある場合があります。 次の手順に従います。
+高トラフィックイベントを示唆するアラート通知が届いた場合は、追加容量のリクエスト [&#x200B; サポートチケットの送信 &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#submit-ticket) を検討する必要がある場合があります。 次の手順に従います。
 
 ## サイトのパフォーマンスの監視方法
 
@@ -50,7 +50,7 @@ Adobeは、クラウドインフラストラクチャー上のAdobe Commerce Pro
 
 ## 一時的なアップサイズをリクエストする手順
 
-一時的なクラウド容量の追加をリクエストするには、次の情報を記載した [&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) をAdobe Commerce サポートセンターで送信します。
+一時的なクラウド容量の追加をリクエストするには、次の情報を記載した [&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#submit-ticket) をAdobe Commerce サポートセンターで送信します。
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Adobeは、クラウドインフラストラクチャー上のAdobe Commerce Pro
 
 >[!NOTE]
 >
->アップサイズがスケジュールされると、自動システムによってクラウドインスタンスのサイズが調整されます。 手順が完了すると、チケット通知が届かないことがあります。 Adobe Commerceの監視ツールを使用して、AWSまたは Azure インスタンスタイプを表示し、[&#x200B; 変更を確認 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce) ることができます。
+>アップサイズがスケジュールされると、自動システムによってクラウドインスタンスのサイズが調整されます。 手順が完了すると、チケット通知が届かないことがあります。 Adobe Commerceの監視ツールを使用して、AWSまたは Azure インスタンスタイプを表示し、[&#x200B; 変更を確認 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce) ることができます。
 
 ## アップサイズの履歴の表示
 
