@@ -133,7 +133,7 @@ Adobe Experience Platform実装全体で顧客データを保護し、プライ�
 
 ### ベストプラクティス
 
-* オムニチャネルオーケストレーションを使用します。 AJOのホリデーシーズンの例を示したブログ [&#x200B; エンゲージメントと成長のための不可欠なオムニチャネルカスタマージャーニー &#x200B;](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) の記事を参照してください。
+* オムニチャネルオーケストレーションを使用します。 AJOのホリデーシーズンの例を示したブログ [&#x200B; エンゲージメントと成長のための不可欠なオムニチャネルカスタマージャーニー &#x200B;](https://business.adobe.com/jp/blog/essential-customer-journeys-for-omnichannel-engagement) の記事を参照してください。
 * 必要に応じて、リアルタイムトリガーの優先順位を付けます。 例：買い物かごの放棄、閲覧の中断、在庫アラートは、休日の買い物客がよりリアクティブなので、などです。
 * セグメント化とパーソナライゼーションの活用：目的の高いセグメントをターゲットにし、過去の購入行動や好みに基づいてオファーをカスタマイズします。
 * メッセージングの疲れを最小限に抑える：過度の勧誘を避けるために、制限と静かな時間を強制します。 [AJOでの毎日のフリークエンシーキャップでカスタマーエクスペリエンスを高める &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=ja) のブログ投稿を参照してください。
