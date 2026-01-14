@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3d75f6e7c9782a45293a4f3f8fe0c21ab3ae8f8c
+source-git-commit: 36451c1cc9894de0fcea7890ce3ff1d6b2bf2a0d
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 2%
+source-wordcount: '56'
+ht-degree: 1%
 
 ---
 
@@ -24,3 +24,5 @@ ht-degree: 2%
 - Adobe Commerce サポート {#adobe-commerce-support}
    - [クラウドインフラストラクチャー上で一時的なAdobe Commerceのアップサイズをリクエストする方法](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 通知ホットライン](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobeは、カスタマーデータアクセスおよびプライバシーをサポートします](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+
