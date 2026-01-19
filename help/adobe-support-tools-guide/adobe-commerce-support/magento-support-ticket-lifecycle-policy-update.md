@@ -10,7 +10,7 @@ ht-degree: 66%
 
 # Adobe Commerce サポートチケットのライフサイクルポリシーの更新
 
-このドキュメントでは、カスタマーサクセスを確実にするために、コミュニケーションを強化し、できるだけ早くお客様に解決策を提供することを目的として、Adobe DX サポートケースのライフサイクルに対する改善点の概要について説明します。これは、[Adobe サクセスプランの概要：サポートケースのライフサイクル &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon) でも確認できます。
+このドキュメントでは、カスタマーサクセスを確実にするために、コミュニケーションを強化し、できるだけ早くお客様に解決策を提供することを目的として、Adobe DX サポートケースのライフサイクルに対する改善点の概要について説明します。これは、[Adobe サクセスプランの概要：サポートケースのライフサイクル &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon) でも確認できます。
 サポートプロセス中に発生する様々なシナリオのタイムラインと通知を以下に示します。
 
 ## ケースのフォローアップのリマインダー
@@ -46,7 +46,7 @@ ht-degree: 66%
 
 ## 関連資料
 
-* [&#x200B; サポートチケットの送信 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [Adobe Commerce ヘルプセンターの開始ページに「チケットを送信」リンクが表示されない &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [&#x200B; チケット送信フォーム：マーチャントが組織ドロップダウンに表示されない &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Adobe サクセスプランの概要：サポートケースのライフサイクル &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [&#x200B; サポートチケットの送信 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [Adobe Commerce ヘルプセンターの開始ページに「チケットを送信」リンクが表示されない &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [&#x200B; チケット送信フォーム：マーチャントが組織ドロップダウンに表示されない &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Adobe サクセスプランの概要：サポートケースのライフサイクル &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
