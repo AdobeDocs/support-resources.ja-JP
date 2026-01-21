@@ -22,18 +22,18 @@ ht-degree: 8%
 
 *2026年1月15日（PT）*
 
-![ 新規 ](../adobe-support-tools-guide/assets/new.svg) ケースフォームはガイド付きフローで構成されており、各ステージで必要な情報を理解するのに役立ちます。
+![&#x200B; 新規 &#x200B;](../adobe-support-tools-guide/assets/new.svg) ケースフォームはガイド付きフローで構成されており、各ステージで必要な情報を理解するのに役立ちます。
 
-- [!UICONTROL  製品の選定 ]
-- [!UICONTROL  問題の詳細 ]
-- [!UICONTROL  システム情報 ]
-- [!UICONTROL  影響 ]
-- [!UICONTROL  連絡先情報 ]
-- [!UICONTROL  確認して送信 ]
+- [!UICONTROL &#x200B; 製品の選定 &#x200B;]
+- [!UICONTROL &#x200B; 問題の詳細 &#x200B;]
+- [!UICONTROL &#x200B; システム情報 &#x200B;]
+- [!UICONTROL &#x200B; 影響 &#x200B;]
+- [!UICONTROL &#x200B; 連絡先情報 &#x200B;]
+- [!UICONTROL &#x200B; 確認して送信 &#x200B;]
 
-![ 新規 ](../adobe-support-tools-guide/assets/new.svg) 実用的な詳細を取得し、トラブルシューティングを高速化するために、**新しい [!UICONTROL  再現する手順 ] フィールド** を追加しました。
+![&#x200B; 新規 &#x200B;](../adobe-support-tools-guide/assets/new.svg) 実用的な詳細を取得し、トラブルシューティングを高速化するために、**新しい [!UICONTROL &#x200B; 再現する手順 &#x200B;] フィールド** を追加しました。
 
-![ 新規 ](../adobe-support-tools-guide/assets/new.svg) 重要な詳細を取得する資格のある製品に **追加の [!UICONTROL  環境コンテキスト ] フィールド** を追加しました。
+![&#x200B; 新規 &#x200B;](../adobe-support-tools-guide/assets/new.svg) 重要な詳細を取得する資格のある製品に **追加の [!UICONTROL &#x200B; 環境コンテキスト &#x200B;] フィールド** を追加しました。
 
 - **Marketo**
    - Munchkin ID
@@ -55,14 +55,14 @@ ht-degree: 8%
    - タグプロパティ名
 
 
-![ 新規 ](../adobe-support-tools-guide/assets/new.svg) **AI 駆動の [!UICONTROL Recommendations Panel]** が追加され、ケース作成フローを中断することなく、役立つガイダンスを表示できるようになりました。
+![&#x200B; 新規 &#x200B;](../adobe-support-tools-guide/assets/new.svg) **AI 駆動の [!UICONTROL Recommendations Panel]** が追加され、ケース作成フローを中断することなく、役立つガイダンスを表示できるようになりました。
 
-![ 新規 ](../adobe-support-tools-guide/assets/new.svg) 入力されたすべての情報の統合ビューを提供し、ユーザーが次のことができるようにする [!UICONTROL  概要のレビュー ] 手順を追加しました。
+![&#x200B; 新規 &#x200B;](../adobe-support-tools-guide/assets/new.svg) 入力されたすべての情報の統合ビューを提供し、ユーザーが次のことができるようにする [!UICONTROL &#x200B; 概要のレビュー &#x200B;] 手順を追加しました。
 
 - ケースの詳細を 1 か所でレビュー
 - 前の手順に戻って編集します
 - 進行状況を失わずに概要に戻る
 
-![ 修正 ](../adobe-support-tools-guide/assets/fix.svg) わかりやすくするために、名前が「ケース説明」フィールドを *[!UICONTROL 「問題を説明してください」]* に変更しました。
+![&#x200B; 修正 &#x200B;](../adobe-support-tools-guide/assets/fix.svg) わかりやすくするために、名前が「ケース説明」フィールドを *[!UICONTROL 「問題を説明してください」]* に変更しました。
 
-![ 修正 ](../adobe-support-tools-guide/assets/fix.svg) 完全性を確保し、送信エラーを減らすために、必須フィールド指標としてアスタリスク（*）を追加しました。
+![&#x200B; 修正 &#x200B;](../adobe-support-tools-guide/assets/fix.svg) 完全性を確保し、送信エラーを減らすために、必須フィールド指標としてアスタリスク（*）を追加しました。
