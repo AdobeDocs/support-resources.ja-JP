@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 0c7a2b704888ab254ef69b5ae004014105ff702c
+source-git-commit: 5459f5f3f9a6eaa2dd9defeec696b3dae22ba860
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '82'
 ht-degree: 1%
 
 ---
@@ -27,4 +27,6 @@ ht-degree: 1%
    - [Adobe Commerce P1 通知ホットライン](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobeは、カスタマーデータアクセスおよびプライバシーをサポートします](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce サポートチケットのライフサイクルポリシーの更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+   - [Adobe Commerce サポートチケットの問題の理由説明](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce サポートツールの概要](adobe-commerce-support/support-tools-overview.md)
+
