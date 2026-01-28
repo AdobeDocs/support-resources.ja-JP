@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
+source-git-commit: 0c7a2b704888ab254ef69b5ae004014105ff702c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 # Adobe サポート&amp;ツールガイド {#adobe-support-tools-guide}
 
-- [Experience League サポートポータル](adobe-customer-support-experience.md)
+- [Adobe カスタマーサポートエクスペリエンス](adobe-customer-support-experience.md)
+- [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [電話番号の更新をサポート](phone-numbers.md)
 - [管理者ロール](admin-roles.md)
 - Adobe Workfront サポート {#workfront}
