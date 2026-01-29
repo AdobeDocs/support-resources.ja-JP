@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce サポートチケット **[!UICONTROL &#x200B; 問題の理由 &#x200B;]**の説明
-description: この記事では、サポートチケット**[!UICONTROL &#x200B; 問題の理由 &#x200B;]**フィールドオプションの一覧を示し、それぞれのオプションの詳細を説明します。
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+title: Adobe Commerce サポートチケット [!UICONTROL  問題の理由 ] の説明
+description: この記事では、サポートチケット**[!UICONTROL  問題の理由 ]**フィールドオプションの一覧を示し、それぞれのオプションの詳細を説明します。
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce サポートチケット **[!UICONTROL 問題の理由]** の説明
+# Adobe Commerce サポートチケット [!UICONTROL  問題の理由 ] の説明
 
 この記事では、サポートチケット **[!UICONTROL 問題の理由]** フィールドオプションの一覧と、それぞれの詳細な説明を示します。
 
@@ -55,4 +55,4 @@ ht-degree: 1%
 
 ## 関連資料
 
-* Adobe Commerce Experience League サポートユーザーガイドの [&#x200B; サポートケースを送信 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) します。
+* Adobe Commerce Experience League サポートユーザーガイドの [ サポートケースを送信 ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) します。
