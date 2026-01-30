@@ -28,7 +28,7 @@ ht-degree: 0%
 
    既存のユーザーを検索したり、新しいユーザーを追加したりするには、有効なメールアドレスを指定して、画面に表示される情報を入力します。
 
-   ![ 管理者を追加 ](assets/admin-console-add-admin.png)
+   ![&#x200B; 管理者を追加 &#x200B;](assets/admin-console-add-admin.png)
 
 1. **[!UICONTROL 次へ]** をクリックします。 管理者ロールのリストが表示されます。
 
@@ -36,14 +36,14 @@ ht-degree: 0%
 
 1. 「**[!UICONTROL サポート管理者]**」オプションを選択します。
 
-   ![ 管理者権限を編集 ](assets/edit-admin-rights.png)
+   ![&#x200B; 管理者権限を編集 &#x200B;](assets/edit-admin-rights.png)
 
 1. 次の 2 つのオプションのいずれかを選択します。
 
    * オプション 1:**[!UICONTROL 基本サポート管理者]**。 すべてのソリューション（Marketo Engageを除く）に対してサポートへのアクセス権をユーザーに付与する場合は、このオプションを選択します。
    * オプション 2:**[!UICONTROL 製品サポート管理者]**:Marketo Engage サポートの場合は、このオプションを選択します。 サポートへのアクセスを許可するMarketo Engage インスタンスを選択します。
 
-   ![ 管理者権限の編集：Marketo](assets/edit-admin-rights-advanced.png)
+   ![&#x200B; 管理者権限の編集：Marketo](assets/edit-admin-rights-advanced.png)
 
 1. 選択が完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 ログインプロセスの一環として、Adobe プロファイルをまだ持っていない場合は、設定するように求められる場合があります。 ユーザーがメールアドレスに複数のプロファイルを関連付けている場合、ユーザーは **[!UICONTROL チームに参加]** を選択し（プロンプトが表示された場合）、新しい組織に関連付けられているプロファイルを選択する必要があります。
 
-![ 管理者権限の確認 ](assets/admin-rights-confirmation.png)
+![&#x200B; 管理者権限の確認 &#x200B;](assets/admin-rights-confirmation.png)
 
-詳しくは、管理ロールに関するドキュメントの [ エンタープライズ管理者ロールを編集 ](admin-roles.md#edit-enterprise-admin-role) 手順を参照してください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[ 管理者の役割 ](admin-roles.md) ドキュメントを参照してください。
+詳しくは、管理ロールに関するドキュメントの [&#x200B; エンタープライズ管理者ロールを編集 &#x200B;](admin-roles.md#edit-enterprise-admin-role) 手順を参照してください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[&#x200B; 管理者の役割 &#x200B;](admin-roles.md) ドキュメントを参照してください。
