@@ -22,13 +22,13 @@ ht-degree: 83%
 
 _2025 年 11 月 11 日_
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ケースの詳細ページの会話の順序を最適化し、最新のメッセージまで自動的にスクロールするようにしました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細ページの会話の順序を最適化し、最新のメッセージまで自動的にスクロールするようにしました。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl + クリック**/**Command + クリック** を使用して新しいタブで開くと、ナビゲーションエラーを防ぐために「戻る」ボタンが適切に無効になりました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl + クリック**/**Command + クリック** を使用して新しいタブで開くと、ナビゲーションエラーを防ぐために「戻る」ボタンが適切に無効になりました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]** で、**[!UICONTROL Adobeのステータス]** アラートに対して、誤ったステータス、地域またはタイムゾーンの詳細が表示される問題を修正しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]** で、**[!UICONTROL Adobeのステータス]** アラートに対して、誤ったステータス、地域またはタイムゾーンの詳細が表示される問題を修正しました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg)**[!UICONTROL 戦略的パートナー]** にリンクされた **[!UICONTROL アクセラレーター]** および **[!UICONTROL アクティビティ]** の表示の問題を解決しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)**[!UICONTROL 戦略的パートナー]** にリンクされた **[!UICONTROL アクセラレーター]** および **[!UICONTROL アクティビティ]** の表示の問題を解決しました。
 
 ## 3.0
 
@@ -58,7 +58,7 @@ _2025年10月9日（PT）_
 
 ![修正](../adobe-success-portal/assets/fix.svg) アカウントに関連付けられているすべての&#x200B;**[!UICONTROL 戦略的パートナー]**&#x200B;を、プライマリ連絡先のインジケーターと共に表示します。
 
-![ 修正 ](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のタイムゾーンが、ログインしたユーザーのプロファイルを正しく反映しなかった問題を修正しました。
+![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のタイムゾーンが、ログインしたユーザーのプロファイルを正しく反映しなかった問題を修正しました。
 
 ![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートと Adobe ステータス]**&#x200B;のフィルターが期待どおりに連携しなかった問題を修正しました。
 
