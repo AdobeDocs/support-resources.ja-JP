@@ -18,7 +18,7 @@ ht-degree: 10%
 
 ## 影響を受ける製品とバージョン
 
-* クラウドインフラストラクチャー上のAdobe Commerce、すべて [ サポート対象バージョン ](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)。
+* クラウドインフラストラクチャー上のAdobe Commerce、すべて [&#x200B; サポート対象バージョン &#x200B;](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)。
 
 ## 原因
 
@@ -32,14 +32,14 @@ ht-degree: 10%
 
 アセットがプロジェクトに追加されていない場合は、アセットを [!DNL Super User] として追加し、[!DNL Shared Access] の権限を付与する必要があります。
 
-* ユーザーガイドの [ ユーザーアクセスの管理 ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
-* Commerce ナレッジベースの [Adobe Commerce クラウドプロジェクトにユーザーを追加できない ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ja)。
-* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) （Commerce ナレッジベース）。
+* ユーザーガイドの [&#x200B; ユーザーアクセスの管理 &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* Commerce ナレッジベースの [Adobe Commerce クラウドプロジェクトにユーザーを追加できない &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ja)。
+* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) （Commerce ナレッジベース）。
 
-ユーザーが [!DNL cloud project] に追加されたが、[!DNL Super User role] がない場合、[!DNL role] ユーザーアクセスの管理 [ で適切に ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) を更新します。
+ユーザーが [!DNL cloud project] に追加されたが、[!DNL Super User role] がない場合、[!DNL role] ユーザーアクセスの管理 [&#x200B; で適切に &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) を更新します。
 
-チームメンバーを、組織で開始されたすべてのケースのウォッチャーにするには、[ サポートチケット ](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support) を送信します。
+チームメンバーを、組織で開始されたすべてのケースのウォッチャーにするには、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support) を送信します。
 
 ## 関連資料
 
-[ 以前のチームメンバーには、Adobe Commerce Cloud 通知メールが届きます ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)
+[&#x200B; 以前のチームメンバーには、Adobe Commerce Cloud 通知メールが届きます &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)
