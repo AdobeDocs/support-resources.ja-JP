@@ -32,13 +32,13 @@ ht-degree: 1%
 
 1. [https://accounts.magento.cloud](https://accounts.magento.cloud) でログインするようにユーザーに依頼します。 ユーザーは、同じメールアドレスを使用して既にAdobeに登録されている必要があります。
    > **メモ**\
-   > [https://account.adobe.com](https://account.adobe.com) でアカウントを作成または持っていることが、ユーザーが [https://accounts.magento.cloud](https://accounts.magento.cloud) でアカウントを持っていることを自動的に意味しているわけではありません。 最初に [Commerce アカウントを作成 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account) する必要があります。
+   > [https://account.adobe.com](https://account.adobe.com) でアカウントを作成または持っていることが、ユーザーが [https://accounts.magento.cloud](https://accounts.magento.cloud) でアカウントを持っていることを自動的に意味しているわけではありません。 最初に [Commerce アカウントを作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account) する必要があります。
 
-1. ユーザーが既にAdobe アカウントを持っていて、ログインできない場合は、[&#x200B; 問題の理由 &#x200B;](https://experienceleague.adobe.com/home#support) を [!UICONTROL User Management] に設定して、*サポートリクエスト* を送信するように依頼します。
+1. ユーザーが既にAdobe アカウントを持っていて、ログインできない場合は、[&#x200B; 問題の理由 &#x200B;](https://experienceleague.adobe.com/home?lang=ja#support) を [!UICONTROL User Management] に設定して、*サポートリクエスト* を送信するように依頼します。
 
-1. ユーザーが [https://accounts.magento.cloud](https://accounts.magento.cloud) に正常にログインしたら、ユーザーをプロジェクトに追加できます。 詳しい手順については、Cloud Infrastructure ガイドの [&#x200B; ユーザーの追加とアクセスの管理 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) を参照してください。Commerce
+1. ユーザーが [https://accounts.magento.cloud](https://accounts.magento.cloud) に正常にログインしたら、ユーザーをプロジェクトに追加できます。 詳しい手順については、Cloud Infrastructure ガイドの [&#x200B; ユーザーの追加とアクセスの管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) を参照してください。Commerce
 
 ## 関連資料：
 
-* Commerce on Cloud Infrastructure ガイドの [&#x200B; ユーザーアクセスの管理 &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
-* [Adobe Commerce サポートまたは Cloud アカウントにログインできない &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
+* Commerce on Cloud Infrastructure ガイドの [&#x200B; ユーザーアクセスの管理 &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja)。
+* [Adobe Commerce サポートまたは Cloud アカウントにログインできない &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=ja)
