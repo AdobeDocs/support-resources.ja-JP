@@ -30,4 +30,4 @@ ht-degree: 2%
 
 1. **[!UICONTROL 認証レベル]** を確認し、ユーザーに最も適した認証レベル（**[!UICONTROL ユーザーにとって最も簡単]**、**[!UICONTROL より安全]**、**[!UICONTROL 最も安全]** を選択します。
 
-使用可能な認証およびセキュリティポリシーについて詳しくは、[&#x200B; 認証設定 Helpx](https://helpx.adobe.com/enterprise/using/authentication-settings.html) を参照してください。
+使用可能な認証およびセキュリティポリシーについて詳しくは、[&#x200B; 認証設定 Helpx](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html) を参照してください。
