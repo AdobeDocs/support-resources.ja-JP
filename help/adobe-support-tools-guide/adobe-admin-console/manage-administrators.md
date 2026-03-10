@@ -18,7 +18,7 @@ ht-degree: 2%
 
 グローバル管理者機能を調べ、各組織の管理者にユーザー、製品ライセンス、グループの管理をデリゲートおよび配布する方法を学びます。
 
-Global Admin Consoleでは、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集または削除できます。 詳しくは、[&#x200B; グローバル管理の採用 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) を参照してください。 [Global Admin Console](https://global-admin-console.adobe.com/) に移動してサインインします。
+Global Admin Consoleでは、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集または削除できます。 詳しくは、[&#x200B; グローバル管理の採用 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html) を参照してください。 [Global Admin Console](https://global-admin-console.adobe.com/) に移動してサインインします。
 
 
 Global Admin Consoleでは、グローバルアドミニストレータというロールが導入されています。 この役割はシステム管理者とは異なり、次の操作を実行できます。
@@ -154,7 +154,7 @@ Global Admin Consoleは、複数の組織や Admin Console で動作するよう
 
    > [ !N注意]
    > 
-   > 組織には、アカウントタイプを追加できる制限を設けることができます。 これらは、[&#x200B; ポリシー &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) または組織のその他の設定パラメーターに基づいている場合があります。 組織では、AdobeID ユーザーと BusinessID ユーザーの両方を同時に追加することはできません。 一般に、組織内に両方のタイプのユーザーは存在しないはずですが、ルールが設定される順序によっては、ポリシーまたはルールの適用を事前に行う特定のアカウントタイプのユーザーが存在する場合があります。
+   > 組織には、アカウントタイプを追加できる制限を設けることができます。 これらは、[&#x200B; ポリシー &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html) または組織のその他の設定パラメーターに基づいている場合があります。 組織では、AdobeID ユーザーと BusinessID ユーザーの両方を同時に追加することはできません。 一般に、組織内に両方のタイプのユーザーは存在しないはずですが、ルールが設定される順序によっては、ポリシーまたはルールの適用を事前に行う特定のアカウントタイプのユーザーが存在する場合があります。
 
 1. 「**[!UICONTROL 管理者権限]**」セクションから 1 つ以上の管理者ロールを選択します。
 
@@ -164,7 +164,7 @@ Global Admin Consoleは、複数の組織や Admin Console で動作するよう
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
-1. 組織の編集後、「**[!UICONTROL 保留中の変更のレビュー]**」を選択し、「**[!UICONTROL 変更の発行]**」を選択して変更を [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) します。
+1. 組織の編集後、「**[!UICONTROL 保留中の変更のレビュー]**」を選択し、「**[!UICONTROL 変更の発行]**」を選択して変更を [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html) します。
 
 管理者ロールが追加されると、そのロールの変更を知らせるメール通知がユーザーに届きます。
 
@@ -182,7 +182,7 @@ Global Admin Consoleは、複数の組織や Admin Console で動作するよう
 
 1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更をレビュー]**」を選択します。
 
-追加または削除された管理者ロールごとに、保留中の変更リストに別のコマンドが表示されます。 レビュー後、「**[!UICONTROL 変更を送信]**」を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) します。
+追加または削除された管理者ロールごとに、保留中の変更リストに別のコマンドが表示されます。 レビュー後、「**[!UICONTROL 変更を送信]**」を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html) します。
 
 ## 管理者権限を削除
 
@@ -194,7 +194,7 @@ Global Admin Consoleは、複数の組織や Admin Console で動作するよう
 
 1. 確認ダイアログで **[!UICONTROL OK]** を選択します。
 
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更をレビュー]**」を選択します。 レビュー後、「**[!UICONTROL 変更を送信]**」を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更をレビュー]**」を選択します。 レビュー後、「**[!UICONTROL 変更を送信]**」を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html) します。
 
 管理者を削除すると、その組織の Admin Console へのアクセス権が失われたことを知らせるメール通知がユーザーに届きます。
 
