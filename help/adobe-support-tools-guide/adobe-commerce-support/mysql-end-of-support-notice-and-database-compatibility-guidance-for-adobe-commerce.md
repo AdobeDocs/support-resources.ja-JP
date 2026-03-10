@@ -13,7 +13,7 @@ ht-degree: 0%
 
 この記事では、MySQL のサポート終了（EOS）と、サポートされているAdobe Commerce版とのデータベースの互換性に関する重要な情報を提供します。
 Adobeでは、マーチャントにこの発表を確認し、プラットフォームの安定性を維持し、サポート要件に引き続き準拠するために対策を講じることを強くお勧めします。
-詳しくは、[MariaDB のアップグレードの前提条件 ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) と [ システム要件 ](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements) を参照してください。
+詳しくは、[MariaDB のアップグレードの前提条件 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade) と [&#x200B; システム要件 &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements) を参照してください。
 
 ## MySQL 8.0 のサポート終了（EOS）
 
