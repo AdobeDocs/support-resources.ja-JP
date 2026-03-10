@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Global Admin Consoleの書き出しと読み込み機能を使用して、グローバル管理者が組織と製品の管理を合理化する方法について説明します。
 
-**[!UICONTROL 2&rbrace;Global Admin Console]** の「組織」タブにアクセスして、組織構造をエクスポートまたはインポートします [&#x200B; &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)配分データについては、「**[!UICONTROL 製品配分]**」タブに移動します。 **[!UICONTROL その他のオプション]**&#x200B;**⋮** アイコンを使用して、書き出しまたは読み込みを選択します。 [Global Admin Consoleにログインします &#x200B;](https://global-admin-console.adobe.com)。
+**[!UICONTROL 2&rbrace;Global Admin Console]** の「組織」タブにアクセスして、組織構造をエクスポートまたはインポートします [&#x200B; &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)配分データについては、「**[!UICONTROL 製品配分]**」タブに移動します。 **[!UICONTROL その他のオプション]**&#x200B;**⋮** アイコンを使用して、書き出しまたは読み込みを選択します。 [Global Admin Consoleにログインします &#x200B;](https://global-admin-console.adobe.com)。
 
 ## 組織構造のエクスポート
 
-[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) は、組織階層を書き出すことができます。 組織階層全体またはそのサブセットの JSON、CSV、XLSX 表現をダウンロードできます。 その後、このデータを分析や変更に使用できます。
+[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-administrators.html) は、組織階層を書き出すことができます。 組織階層全体またはそのサブセットの JSON、CSV、XLSX 表現をダウンロードできます。 その後、このデータを分析や変更に使用できます。
 
 選択した書き出し形式は、書き出されたデータの構造に影響します。
 
@@ -51,7 +51,7 @@ Global Admin Consoleの書き出しと読み込み機能を使用して、グロ
 
 ## 組織構造の読み込み
 
-[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) は、変更された可能性があるデータを読み込むことができます。 アップロードされると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべてのインポート操作は、組織階層の更新されたコピーに対して実行されます。 保留中の変更がある場合、読み込みの変更は階層内の保留中の変更の上に追加されます。
+[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-administrators.html) は、変更された可能性があるデータを読み込むことができます。 アップロードされると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべてのインポート操作は、組織階層の更新されたコピーに対して実行されます。 保留中の変更がある場合、読み込みの変更は階層内の保留中の変更の上に追加されます。
 
 ### 読み込み手順
 
@@ -59,7 +59,7 @@ Global Admin Consoleの書き出しと読み込み機能を使用して、グロ
 2. **[!UICONTROL その他のオプション]** **⋮** アイコンを選択し、「**[!UICONTROL 読み込み]**」を選択します。 インポートファイルのサイズと複雑さによっては、処理に数秒から数分かかる場合があります。
 3. **[!UICONTROL ファイルを選択]** を選択し、アップロードする JSON、CSV、XLSX ファイルを選択します。 CSV の場合、一度に 1 つの組織の詳細のみを読み込めるので、製品の読み込みはサポートされません。 読み込まれた変更は、データを手動で編集した場合と同じように表示されます。
 4. **[!UICONTROL 閉じる]** を選択します。
-5. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 次に、「変更を送信 **[!UICONTROL を選択して]** 実行 [&#x200B; し &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) す。 保留中のアクションは、変更を実行する前に、Global Admin Consoleで手動で編集した場合と同じ方法で表示されます。
+5. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 次に、「変更を送信 **[!UICONTROL を選択して]** 実行 [&#x200B; し &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html) す。 保留中のアクションは、変更を実行する前に、Global Admin Consoleで手動で編集した場合と同じ方法で表示されます。
 
 ## スキーマのエクスポートとインポート
 
@@ -630,7 +630,7 @@ XLSX ファイルには 2 つのシートがあり、1 つは製品用、もう 
 
 ## 製品配分データのインポートとエクスポート
 
-[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) は、製品割り当てデータを JSON ファイルまたは CSV ファイルとして書き出すことができます。 その後、このデータを操作し、アップロードして戻り、変更を読み込むことができます。 変更された可能性があるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
+[&#x200B; グローバル管理者 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-administrators.html) は、製品割り当てデータを JSON ファイルまたは CSV ファイルとして書き出すことができます。 その後、このデータを操作し、アップロードして戻り、変更を読み込むことができます。 変更された可能性があるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
 
 ## 製品配分モデルのエクスポート
 
@@ -646,7 +646,7 @@ XLSX ファイルには 2 つのシートがあり、1 つは製品用、もう 
 1. [Global Admin Consoleにログインし &#x200B;](https://global-admin-console.adobe.com/) 「**[!UICONTROL 製品配分]**」タブに移動します。
 2. **[!UICONTROL その他のオプション]** ⋮ アイコンを選択し、「**[!UICONTROL 読み込み]**」を選択します。
 3. アップロードする JSON または CSV ファイルを選択します。
-4. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 変更を確認した後、「変更を送信 **[!UICONTROL を選択して]** 実行 [&#x200B; し &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) す。
+4. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 変更を確認した後、「変更を送信 **[!UICONTROL を選択して]** 実行 [&#x200B; し &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html) す。
 
 ## 製品配分のエクスポートおよびインポート形式
 
