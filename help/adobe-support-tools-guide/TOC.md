@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 03a86570886161bab60a4197bd430b7046690a5e
+source-git-commit: 3c530c7a076fff4bd7fee26d068cc3602a1e2015
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '200'
 ht-degree: 2%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 2%
 - [管理者ロール](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleのナビゲート](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [複数の組織および製品のライセンス割り当てレポートを作成する](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
+   - [Global Admin Consoleで組織を選択します](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理者の管理](adobe-admin-console/manage-administrators.md)
    - [組織の構造と製品の割り当てのエクスポートまたはインポート](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Consoleでパスワードの有効期限を強制する](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
