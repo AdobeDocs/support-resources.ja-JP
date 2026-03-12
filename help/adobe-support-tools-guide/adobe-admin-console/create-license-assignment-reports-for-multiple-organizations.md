@@ -24,14 +24,14 @@ ht-degree: 1%
 
 ライセンス割り当てレポートを使用すると、ライセンスのプロビジョニングをプロアクティブに監視し、手動でのトラッキングを減らすことができます。 グローバル管理者は、任意の数の子組織の一部の製品に対してライセンス割り当てレポートを作成し、すべての部門でソフトウェアライセンスのプロビジョニングデータを監視できます。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンス割り当て]** ページで、「**[!UICONTROL レポートを作成]**」を選択します。
 1. 組織を選択し、「**[!UICONTROL 次へ]**」を選択します。 各組織を個別に選択することも、「**[!UICONTROL すべてを選択]** ボタンを使用して親内のすべての子組織を選択することもできます。
 
 >[!NOTE]
 >
 >**特定の組織を選択できない理由を理解する**:
->子組織に契約がない場合、または親組織と同じ製品の別のエンタープライズ契約がある場合、ライセンス割り当てレポートは作成できません。 例えば、親組織の契約にAdobe Acrobatがあり、子組織が別の契約の一部と同じ組織である場合、商品は配分に対して制限されます。 この結果、Global Admin Consoleでのレポート作成にも制限が生じます。 [ それぞれのAdmin Consoleを使用して、このような組織のプロビジョニングをトラッキングする方法を説明します ](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+>子組織に契約がない場合、または親組織と同じ製品の別のエンタープライズ契約がある場合、ライセンス割り当てレポートは作成できません。 例えば、親組織の契約にAdobe Acrobatがあり、子組織が別の契約の一部と同じ組織である場合、商品は配分に対して制限されます。 この結果、Global Admin Consoleでのレポート作成にも制限が生じます。 [&#x200B; それぞれのAdmin Consoleを使用して、このような組織のプロビジョニングをトラッキングする方法を説明します &#x200B;](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 >
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 1%
 >[!NOTE]
 >
 >**特定の製品を選択できない理由を把握**:
->Global Admin Consoleで割り当てることができない商品は、レポートの作成には含まれません。 これには、現在、[!DNL Workfront]、[!DNL Adobe Experience Manager]、[!DNL Adobe Experience Platform] などのデジタルエクスペリエンス製品と、[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]、[!DNL Adobe Stock] などの製品が含まれています。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します ](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+>Global Admin Consoleで割り当てることができない商品は、レポートの作成には含まれません。 これには、現在、[!DNL Workfront]、[!DNL Adobe Experience Manager]、[!DNL Adobe Experience Platform] などのデジタルエクスペリエンス製品と、[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]、[!DNL Adobe Stock] などの製品が含まれています。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します &#x200B;](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 
 1. レポートを月または年で集計するかどうかを選択します。
 1. カスタムの日付範囲を選択するか、プリセットオプションから選択します。 契約開始日より前でない限り、2020 年 6 月 18 日（PT）から前日までの任意の開始日を選択できます。
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 グローバル管理者は、組織内の他のグローバル管理者が生成したライセンス割り当てレポートを表示およびダウンロードできます。 ただし、グローバルビューアで表示できるのは、ライセンス割り当てレポートのリストのみです。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンスの割り当て]** ページには、すべてのレポートが次の詳細と共に表示されます。
 
    | フィールド | 説明 |
