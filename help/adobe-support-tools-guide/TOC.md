@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
+source-git-commit: 147c0ef8ab18c0874755e3b9d8e152739acd72b4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '206'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 - [管理者ロール](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleのナビゲート](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [グローバルな管理を採用する](adobe-admin-console/adopt-global-administration.md)
    - [組織階層の管理](adobe-admin-console/set-up-organizations.md)
    - [複数の組織および製品のライセンス割り当てレポートを作成する](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Global Admin Consoleで組織を選択します](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
