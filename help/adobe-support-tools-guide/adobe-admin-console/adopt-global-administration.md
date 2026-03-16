@@ -22,11 +22,11 @@ Adobe Admin Consoleでサポートケースを作成して、Global Admin Consol
 
 ## はじめに
 
-[0}Global Admin Console} は、多くの Admin Console を持つ、または主要なAdmin Consoleを複数のコンソールに分割する必要がある、複雑な組織構造を持つお客様向けです。 ](https://adminconsole.adobe.com/support)例えば、多国籍企業、教育機関のコンソーシアム、大規模な学区、大規模な政府機関などです。 分散した企業全体に透明性を提供するために、既存の Admin Console を組織図のような階層構造にネストします。
+[0&rbrace;Global Admin Console&rbrace; は、多くの Admin Console を持つ、または主要なAdmin Consoleを複数のコンソールに分割する必要がある、複雑な組織構造を持つお客様向けです。 &#x200B;](https://adminconsole.adobe.com/support)例えば、多国籍企業、教育機関のコンソーシアム、大規模な学区、大規模な政府機関などです。 分散した企業全体に透明性を提供するために、既存の Admin Console を組織図のような階層構造にネストします。
 
 Global Admin Consoleは、既存の Admin Console の機能に取って代わるものでも、変更するものでもありません。 最上位にルート組織があり、そのルート組織の下にネストされたすべてのコンソールを持つ階層として機能します。 Admin Consoleがルートコンソールとして機能する階層構造の購入と作成に重点を置いた選択基準があります。
 
-Global Admin Consoleの機能とメリットについて詳しくは、[Global Admin Consoleに関するホワイトペーパー ](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) を参照してください。
+Global Admin Consoleの機能とメリットについて詳しくは、[Global Admin Consoleに関するホワイトペーパー &#x200B;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) を参照してください。
 
 [!VIDEO](https://youtu.be/FLBWR78wpok)
 
@@ -46,7 +46,7 @@ Global Admin Consoleの機能とメリットについて詳しくは、[Global A
 - 製品プロファイルおよびユーザーグループを作成、編集および削除します。
 - レポート用または他のプロセスで使用するための組織情報をエクスポートします。
 - 組織の更新および組織階層の変更をインポートします。
-- 今後の契約期限切れ、期限切れ、非アクティブな契約など、子組織のETLAの契約ステータスに関する通知を受信します。 詳しくは、[ 契約の有効期限 ](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ドキュメントを参照してください。
+- 今後の契約期限切れ、期限切れ、非アクティブな契約など、子組織のETLAの契約ステータスに関する通知を受信します。 詳しくは、[&#x200B; 契約の有効期限 &#x200B;](https://helpx.adobe.com/enterprise/using/contract-expiry.html) ドキュメントを参照してください。
 
 ## 実施要件条件
 
@@ -84,7 +84,7 @@ Adobeでは、組織が次の 1 つ以上の条件を満たしている場合、
    - 現在の 1 人以上のシステム管理者をグローバル管理者の役割に割り当てます。 後で管理者を追加できます。
    - Adobe担当者またはカスタマーサクセスマネージャーの名前とメールアドレス。
 
-   ![ 問題の説明 ](/help/adobe-support-tools-guide/assets/describe.png)
+   ![&#x200B; 問題の説明 &#x200B;](/help/adobe-support-tools-guide/assets/describe.png)
 
 1. 「**[!UICONTROL 次へ]**」を選択し、次の情報を入力します。
 
