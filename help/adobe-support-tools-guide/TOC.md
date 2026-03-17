@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d7fafb6c94bf8d0002c2e01601cd6a29d6addeb2
+source-git-commit: d3defe461b4223f6e45826b07c7835a7c24fb565
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 1%
 - [管理者ロール](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleのナビゲート](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Global Admin Consoleでのユーザーグループの管理](adobe-admin-console/manage-user-groups.md)
    - [Adobe Admin Consoleのアクセシビリティ](adobe-admin-console/admin-console-accessibility.md)
    - [Global Admin Consoleを使用した子組織への製品の割り当て](adobe-admin-console/allocate-products.md)
    - [グローバルな管理を採用する](adobe-admin-console/adopt-global-administration.md)
