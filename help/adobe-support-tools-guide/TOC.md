@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 147c0ef8ab18c0874755e3b9d8e152739acd72b4
+source-git-commit: 907bc23a5e84369e2f1a6107b35fdac19da2f242
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 1%
    - [管理者の管理](adobe-admin-console/manage-administrators.md)
    - [組織の構造と製品の割り当てのエクスポートまたはインポート](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Consoleでパスワードの有効期限を強制する](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [監査ログのダウンロードとレポートのエクスポート](adobe-admin-console/download-audit-logs-and-export-reports.md)
 - Adobe Workfront サポート {#workfront}
    - [よくある質問](faq.md)
 - Adobe Commerce サポート {#adobe-commerce-support}
