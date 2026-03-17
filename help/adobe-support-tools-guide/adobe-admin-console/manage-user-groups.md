@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Global Admin Consoleでユーザーグループを作成、管理、共有し、同じ権限を持つユーザーをグループ化することで、ユーザー管理を効率化し、時間を節約し、一貫性を確保します。
 
-[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) で、組織を選択し、**[!UICONTROL ユーザーグループ]** に移動します。 単一のユーザー管理ソースを使用して複数の組織間でグループを共有し、ユーザーとグループを同期します。
+[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html) で、組織を選択し、**[!UICONTROL ユーザーグループ]** に移動します。 単一のユーザー管理ソースを使用して複数の組織間でグループを共有し、ユーザーとグループを同期します。
 
 [Global Admin Consoleへのログイン &#x200B;](https://global-admin-console.adobe.com)
 
@@ -24,7 +24,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
 ## ユーザーグループの作成
 
-[&#x200B; ユーザーグループを個別に作成 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups.html) するか、一括で作成するか、[&#x200B; 確立されたAzure AD からAdobe Admin Consoleのフェデレーティッドディレクトリに直接同期 &#x200B;](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) することができます。 Global Admin Consoleでは、関連する製品プロファイルが割り当てられたユーザーグループを定義でき、ユーザーグループ管理者は後でAdmin Consoleを使用してユーザーを追加できます。
+[&#x200B; ユーザーグループを個別に作成 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups.html) するか、一括で作成するか、[&#x200B; 確立されたAzure AD からAdobe Admin Consoleのフェデレーティッドディレクトリに直接同期 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/add-azure-sync.html) することができます。 Global Admin Consoleでは、関連する製品プロファイルが割り当てられたユーザーグループを定義でき、ユーザーグループ管理者は後でAdmin Consoleを使用してユーザーを追加できます。
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/) にサインインし、編集する組織を選択して、「**[!UICONTROL ユーザーグループ]**」タブに移動します。
 
@@ -36,14 +36,14 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
 3. 表示される **[!UICONTROL ユーザーグループを追加]** ダイアログボックスに以下を入力します。
    - **[!UICONTROL 名前]**：ユーザーグループの名前を指定します。
-   - **[!UICONTROL 製品プロファイル]**：ユーザーグループの現在または将来のメンバーに製品へのアクセスを付与する場合は、ドロップダウン矢印をクリックしてリストから製品プロファイルを選択するか、製品プロファイル名を入力して表示されるドロップダウンリストから選択します。 まだ作成されていない製品プロファイルを追加する場合は、まず「[&#x200B; 製品プロファイル &#x200B;](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles) タブを使用する必要があります。
+   - **[!UICONTROL 製品プロファイル]**：ユーザーグループの現在または将来のメンバーに製品へのアクセスを付与する場合は、ドロップダウン矢印をクリックしてリストから製品プロファイルを選択するか、製品プロファイル名を入力して表示されるドロップダウンリストから選択します。 まだ作成されていない製品プロファイルを追加する場合は、まず「[&#x200B; 製品プロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/global-admin-edit-organizations.html#profiles) タブを使用する必要があります。
    - **[!UICONTROL 管理者]**：ドロップダウン矢印をクリックしてリストから管理者を選択するか、管理者のメールアドレスを入力して表示されるドロップダウンリストから選択します。 まだ作成されていない新しい管理者を追加する場合は、まず「[&#x200B; 管理者 &#x200B;](#share-user-groups) タブを使用してその管理者を作成する必要があります。
 
    指定した製品プロファイルはユーザーグループに割り当てられ、指定した管理者はグループのユーザーグループ管理者になります。 ユーザーグループ管理者は、関連する組織のAdobe Admin Consoleを使用してグループを管理できます。
 
 4. 「**[!UICONTROL 保存]**」を選択します。
 
-5. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
+5. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
 
    >[!NOTE]
    >
@@ -84,9 +84,9 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    - **[!UICONTROL 追加のみ]**：ユーザーを削除せずに既存のユーザーグループに新しいユーザーを追加して、ユーザーグループを結合します。
    - **[!UICONTROL ミラーグループ]**：ユーザーを追加または削除して、ターゲット組織のグループを共有グループに一致するように調整します。
 
-8. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
+8. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
 
-   グループ投影イベントは、参照用にログに記録されます。 詳細情報 [&#x200B; 監査ログの表示とダウンロード &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/insights.html)。
+   グループ投影イベントは、参照用にログに記録されます。 詳細情報 [&#x200B; 監査ログの表示とダウンロード &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/insights.html)。
 
 
 ユーザーグループを共有すると、そのグループとそのユーザーがターゲット組織に追加されます。 ただし、*ソースユーザーグループが制御します* 共有ユーザーグループとそのユーザー。 管理者と製品プロファイルの割り当ては、組織間で *同期されません*。
@@ -111,7 +111,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
 6. 「**[!UICONTROL アクセスの失効]**」を選択します。
 
-7. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
+7. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs) します。
 
 
 
@@ -135,7 +135,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    >
    >**[!UICONTROL ユーザーグループを編集]** ウィザードでは、この組織に既に管理者ロールが割り当てられているユーザーにのみ管理者ロールを割り当てることができます。 詳細情報 [&#x200B; 新規管理者の追加 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/manage-admins.html)
 
-4. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) します。
+4. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) します。
 
    >[!NOTE]
    >
@@ -159,4 +159,4 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    >
    >ユーザーグループを削除すると、ユーザーに影響を与える可能性があります。 ユーザーグループを削除した場合に、アクセスや情報が失われないことを確認します。
 
-4. 組織を編集したら、「**[!UICONTROL 保留中の変更をレビュー]**」を選択して確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) します。
+4. 組織を編集したら、「**[!UICONTROL 保留中の変更をレビュー]**」を選択して確認します。 次に、「変更を送信 **&#x200B;**&#x200B;を選択して [&#x200B; 実行 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/global-admin-set-up-organizations.html#execute-jobs) します。
