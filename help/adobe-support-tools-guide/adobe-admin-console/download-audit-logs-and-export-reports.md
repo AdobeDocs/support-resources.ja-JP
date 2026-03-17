@@ -29,7 +29,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com) 組織のシステム管理者は、[&#x200B; 監査ログ &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html) を使用してユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織のシステム管理者が実行したアクションも監査ログに含まれます。 システム管理者がAdmin Consoleで行われた [&#x200B; 変更をトラッキング &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html) する方法について説明します。
+> [Adobe Admin Console](https://adminconsole.adobe.com) 組織のシステム管理者は、[&#x200B; 監査ログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html) を使用してユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織のシステム管理者が実行したアクションも監査ログに含まれます。 システム管理者がAdmin Consoleで行われた [&#x200B; 変更をトラッキング &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html) する方法について説明します。
 
 組織の監査ログを表示またはダウンロードするには：
 
@@ -106,7 +106,7 @@ ht-degree: 3%
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/insights) にログインし、**[!UICONTROL インサイト]**/**[!UICONTROL レポートの書き出し]** に移動します。
 
-   過去 90 日間に生成されたレポートが表示されます。 90 日が完了したら、レポートを再度生成できます。 [&#x200B; 組織構造 &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) のレポートを生成する方法を説明します。
+   過去 90 日間に生成されたレポートが表示されます。 90 日が完了したら、レポートを再度生成できます。 [&#x200B; 組織構造 &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) のレポートを生成する方法を説明します。
 
 
    | フィールド | 説明 |
