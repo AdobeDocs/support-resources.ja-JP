@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c706a5d2479a8ea81c906277eae68316c1a5c754
+source-git-commit: 3d0f29ff680a75588333a9ea9f88c2fe9bd35640
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '245'
 ht-degree: 1%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 1%
    - [セキュリティパッチの入手と適用方法](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [クラウドインフラストラクチャー上で一時的なAdobe Commerceのアップサイズをリクエストする方法](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1 通知ホットライン](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
+   - [Adobe Commerce Intelligence Essentials：支払い方法の更新またはサブスクリプションのキャンセル](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobeは、カスタマーデータアクセスおよびプライバシーをサポートします](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce サポートチケットのライフサイクルポリシーの更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Adobe Commerce on cloud pro インフラストラクチャのファクトシートの監視](adobe-commerce-support/monitoring-whitepaper.md)
