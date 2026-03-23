@@ -37,7 +37,7 @@ ht-degree: 0%
    git push origin
    ```
 
-Cloud プロジェクトへのパッチの適用について詳しくは、開発者ドキュメントの「[&#x200B; パッチを適用](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)」を参照してください。
+Cloud プロジェクトへのパッチの適用について詳しくは、開発者ドキュメントの「[&#x200B; パッチを適用](https://experienceleague.adobe.com/ja/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)」を参照してください。
 
 ## Adobe Commerce オンプレミスおよびMagento Open Sourceにコンポーザーパッチを適用する方法 {#commerce}
 
