@@ -29,12 +29,12 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ ](https://helpx.adobe.com/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[ トラック ](https://helpx.adobe.com/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
+> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[&#x200B; トラック &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
 
 組織の監査ログを表示またはダウンロードするには：
 
 1. グローバル管理者として、[Global Admin Console](https://global-admin-console.adobe.com/insights)にログインします。
-1. **[!UICONTROL インサイト]** > **[!UICONTROL 監査ログ]**を選択します。
+1. **[!UICONTROL インサイト]** > **[!UICONTROL 監査ログ]**&#x200B;を選択します。
 監査ログには、フィルターされたイベントに関する次の情報が表示されます。
 
    | フィールド | 説明 |
@@ -67,7 +67,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. 監査ログを書き出すには、**[!UICONTROL CSVを書き出し]**&#x200B;を選択して、フィルタリングされた結果を書き出します。 結果はCSV形式でダウンロードされます。
 
-書き出しに含まれるフィールドについて詳しくは、[ ログスキーマ ](#log-schema)を参照してください。
+書き出しに含まれるフィールドについて詳しくは、[&#x200B; ログスキーマ &#x200B;](#log-schema)を参照してください。
 
 >[!NOTE]
 >
