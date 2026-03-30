@@ -17,17 +17,17 @@ ht-degree: 0%
 
 ## Experience League サポートチケット
 
-サポートチケットは[Experience League](https://experienceleague.adobe.com/home#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[&#x200B; サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
+サポートチケットは[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[&#x200B; サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
 
 Adobe カスタマーサポートとのやり取りを改善できるように取り組んでいます。 「当社のビジョンは、Experience Leagueを利用して、単一のエントリーポイントに移行することで、サポート体験を合理化することです。 本番稼働後は、Adobeカスタマーサポートに簡単にアクセスできるようになり、製品間の共通システムを通じてサービス履歴をより詳細に把握できます。また、単一のポータルを通じて、電話、web、チャットでサポートを受けることができます。
 
-Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[&#x200B; サポートケースの送信](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
+Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[&#x200B; サポートケースの送信](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
 
 ## ケース提出に必要な権限のある役割のサポート {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール &#x200B;](admin-roles.md)を参照してください。 ケースを送信する前にこれらのサポート使用権限を設定する必要がある場合は、[Adobe カスタマーサポート使用権限の設定](adobe-customer-support-entitlement-configuration.md)を参照してください。
+[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール &#x200B;](admin-roles.md)を参照してください。 ケースを送信する前にこれらのサポート使用権限を設定する必要がある場合は、[Adobe カスタマーサポート使用権限の設定](adobe-customer-support-entitlement-configuration.md)を参照してください。
 
-Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
+Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
 
 ### Experience Leagueでサポートチケットを作成する
 
@@ -37,7 +37,7 @@ Commerceを使用している場合、サポートケースで作業するアク
 
 サポートケースを提出するプロセスは、Experience League サポートプラットフォームと直接統合されました。 これは、権限を持つ顧客により多くのパーソナライゼーションと使いやすさを提供するために、最近再設計されたセルフサービスポータルです。
 
-1. [Experience League](https://experienceleague.adobe.com/home#support)を使用してチケットを作成するには、上部のナビゲーションにある「**[!UICONTROL サポート]**」タブを選択します。
+1. [Experience League](https://experienceleague.adobe.com/home?lang=ja#support)を使用してチケットを作成するには、上部のナビゲーションにある「**[!UICONTROL サポート]**」タブを選択します。
    ![Experience League サポート タブ &#x200B;](./assets/experience-league-support-tab.png)
 1. サポートホームページから、開いているサポートケースに簡単に移動したり、新しいケースをログに記録したり、トップのサポート記事を表示したり、その他の学習ソースにアクセスしたりすることができます。
    ![Experience League サポートリソース &#x200B;](./assets/experience-league-support-resources.png)
@@ -70,7 +70,7 @@ Commerceを使用している場合、サポートケースで作業するアク
    * ビジネスインパクト
    * 顧客タイムゾーン（アメリカ大陸、EMEA、アジア太平洋）
 
-   ケースの優先度とビジネスへの影響がサポートの応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[&#x200B; サポートの目標初期応答時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
+   ケースの優先度とビジネスへの影響がサポートの応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[&#x200B; サポートの目標初期応答時間](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
 
 ![Experience League チケットの優先度](./assets/experience-league-ticket-priority.png)
 
