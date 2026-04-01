@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -29,25 +29,25 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[&#x200B; トラック &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
+> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ ](https://helpx.adobe.com/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[ トラック ](https://helpx.adobe.com/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
 
 組織の監査ログを表示またはダウンロードするには：
 
 1. グローバル管理者として、[Global Admin Console](https://global-admin-console.adobe.com/insights)にログインします。
 1. **[!UICONTROL インサイト]** > **[!UICONTROL 監査ログ]**&#x200B;を選択します。
+
 監査ログには、フィルターされたイベントに関する次の情報が表示されます。
 
-   | フィールド | 説明 |
-   |------ |-------------|
-   | 日付 | イベントの日付と時刻（ローカル タイムゾーンに表示）。 |
-   | イベント名 | 実行されたアクションの説明。 |
-   | イベントの詳細 | 追加のイベントの詳細（使用可能な場合）。 |
-   | オブジェクト名 | 該当する場合、イベントに関与する製品、製品プロファイル、ユーザーグループの名前。 |
-   | 影響を受けるユーザー | 影響を受けるユーザーの電子メールアドレス（該当する場合）。 |
-   | 管理者 | アクションを実行した管理者の電子メールアドレス。 アクションがAdobe バックエンド システムによって実行された場合、*System*&#x200B;が表示されます。 |
-   | IP アドレス | アクションが実行されたマシンのIP アドレス。 通常は物理的な場所を反映しますが、プロキシサーバーやVPN アドレスを指定できます。 |
-   | 組織 | イベントの影響を受ける組織の名前。 |
-
+| フィールド | 説明 |
+|------ |-------------|
+| 日付 | イベントの日付と時刻（ローカル タイムゾーンに表示）。 |
+| イベント名 | 実行されたアクションの説明。 |
+| イベントの詳細 | 追加のイベントの詳細（使用可能な場合）。 |
+| オブジェクト名 | 該当する場合、イベントに関与する製品、製品プロファイル、ユーザーグループの名前。 |
+| 影響を受けるユーザー | 影響を受けるユーザーの電子メールアドレス（該当する場合）。 |
+| 管理者 | アクションを実行した管理者の電子メールアドレス。 アクションがAdobe バックエンド システムによって実行された場合、*System*&#x200B;が表示されます。 |
+| IP アドレス | アクションが実行されたマシンのIP アドレス。 これは通常、物理的な場所を反映していますが、プロキシサーバーまたはVPN アドレスにすることができます。 |
+| 組織 | イベントの影響を受ける組織の名前。 |
 
 1. 次のオプションを使用して、監査ログをフィルタリングできます。
 
@@ -55,7 +55,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
    - 1つ以上の組織を選択します。
    - 日付範囲を定義します。
    - イベント名でフィルタリング。
-   - フィルターを組み合わせて、特定の組織の過去7日間のイベントを表示するなど、結果を絞り込むことができます。
+   - フィルターを組み合わせて、特定の組織の過去7日間のイベントを表示するなど、結果を絞り込みます。
 
    ![audit-logs](assets/audit-logs.png)
 
@@ -67,7 +67,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. 監査ログを書き出すには、**[!UICONTROL CSVを書き出し]**&#x200B;を選択して、フィルタリングされた結果を書き出します。 結果はCSV形式でダウンロードされます。
 
-書き出しに含まれるフィールドについて詳しくは、[&#x200B; ログスキーマ &#x200B;](#log-schema)を参照してください。
+書き出しに含まれるフィールドについて詳しくは、[ ログスキーマ ](#log-schema)を参照してください。
 
 >[!NOTE]
 >
@@ -106,7 +106,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/insights)にログインし、**[!UICONTROL インサイト]** > **[!UICONTROL レポートの書き出し]**&#x200B;に移動します。
 
-   過去90日間に生成されたレポートが表示されます。 90日間が完了したら、レポートを再度生成できます。 [組織構造](https://helpx.adobe.com/jp/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)のレポートを生成する方法について説明します。
+   過去90日間に生成されたレポートが表示されます。 90日間が完了したら、レポートを再度生成できます。 [組織構造](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)のレポートを生成する方法について説明します。
 
 
    | フィールド | 説明 |
