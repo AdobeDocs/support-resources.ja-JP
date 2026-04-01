@@ -18,7 +18,7 @@ ht-degree: 2%
 
 グローバル管理者機能を確認し、ユーザー、製品ライセンス、グループの管理を個々の組織の管理者に委任して配布する方法を説明します。
 
-Global Admin Consoleで、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集、または削除できます。 詳しくは、[ グローバル管理の導入](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)を参照してください。 [Admin Consoleにログインするには、こちらに移動します](https://adminconsole.adobe.com)。
+Global Admin Consoleで、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集、または削除できます。 詳しくは、[&#x200B; グローバル管理の導入](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)を参照してください。 [Admin Consoleにログインするには、こちらに移動します](https://adminconsole.adobe.com)。
 
 
 Global Admin Consoleは、グローバル管理者という役割を導入します。 この役割はシステム管理者とは異なり、次の操作を実行できます。
