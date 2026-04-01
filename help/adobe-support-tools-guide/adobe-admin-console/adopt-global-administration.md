@@ -44,7 +44,7 @@ Global Admin Consoleの機能と利点について詳しくは、Global Admin Co
 - 製品プロファイルとユーザーグループを作成、編集、削除します。
 - レポート用に組織情報をエクスポートしたり、他のプロセスで使用したりできます。
 - 組織の更新と組織階層の変更を読み込みます。
-- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
+- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/jp/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
 
 ## 実施要件
 

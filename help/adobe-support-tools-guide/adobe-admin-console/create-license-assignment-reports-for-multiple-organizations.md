@@ -31,7 +31,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**特定の組織を選択できない理由を確認**:
-   >子組織に契約がない場合、または親組織と同じ製品を持つ別個のエンタープライズ契約がある場合、ライセンス割り当てレポートの作成は無効になります。 例えば、親組織のコントラクトにAdobe Acrobatがあり、子組織が別のコントラクトの一部と同じ場合、そのプロダクトは割り当て用に制限されます。 そのため、Global Admin Consoleでのレポート作成にも制限があります。 [それぞれのAdmin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)を使用して、このような組織のプロビジョニングを追跡する方法を説明します。
+   >子組織に契約がない場合、または親組織と同じ製品を持つ別個のエンタープライズ契約がある場合、ライセンス割り当てレポートの作成は無効になります。 例えば、親組織のコントラクトにAdobe Acrobatがあり、子組織が別のコントラクトの一部と同じ場合、そのプロダクトは割り当て用に制限されます。 そのため、Global Admin Consoleでのレポート作成にも制限があります。 [それぞれのAdmin Console](https://helpx.adobe.com/jp/enterprise/using/assignment-reports.html)を使用して、このような組織のプロビジョニングを追跡する方法を説明します。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**特定の製品を選択できない理由を確認**:
-   >Global Admin Consoleで割り当てられない商品は、レポート作成には含まれません。 これには現在、[!DNL Workfront]、[!DNL Adobe Experience Manager]、[!DNL Adobe Experience Platform]などの一部のデジタルエクスペリエンス製品と、[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]、[!DNL Adobe Stock]などの製品が含まれています。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+   >Global Admin Consoleで割り当てられない商品は、レポート作成には含まれません。 これには現在、[!DNL Workfront]、[!DNL Adobe Experience Manager]、[!DNL Adobe Experience Platform]などの一部のデジタルエクスペリエンス製品と、[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]、[!DNL Adobe Stock]などの製品が含まれています。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します](https://helpx.adobe.com/jp/enterprise/using/assignment-reports.html)。
 
 1. 月別または年別にレポートを集計するかどうかを選択します。
 1. カスタムの日付範囲を選択するか、プリセットオプションから選択します。 契約開始日より前でない限り、2020年6月18日から前日までの開始日を選択できます。

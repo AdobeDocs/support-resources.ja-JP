@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access)で、組織を選択し、**[!UICONTROL 製品]**&#x200B;に移動します。 製品プロファイルを使用して、製品に対するすべてのサービスまたは選択したサービスをアクティブ化できます。
+>[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html#request-access)で、組織を選択し、**[!UICONTROL 製品]**&#x200B;に移動します。 製品プロファイルを使用して、製品に対するすべてのサービスまたは選択したサービスをアクティブ化できます。
 
 標準のAdmin Consoleと同様に、Product Profilesを使用すると、組織内の商品の使用状況を微調整できます。 また、管理者（**[!UICONTROL 製品プロファイル管理者]**）を製品プロファイルに割り当てることもできます。 これらの管理者は、管理する製品プロファイルにエンドユーザーを追加できます。
 
@@ -50,24 +50,24 @@ ht-degree: 1%
    |---|---|
    | **[!UICONTROL 名前]** | 組織内の製品プロファイルの一意の名前。他の製品プロファイルおよびユーザーグループとは異なります。 |
    | **[!UICONTROL 割り当て]** | このプロファイルに割り当てられたライセンスの目標数。 |
-   | **[!UICONTROL ユーザーグループ]** | ドロップダウンから選択するか、ユーザーグループ名を入力します。 ユーザーグループがまだ存在しない場合は、最初に「[**[!UICONTROL &#x200B; ユーザーグループ &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)」タブから作成します。 |
-   | **[!UICONTROL 管理者]** | ドロップダウンから選択するか、管理者のメールアドレスを入力します。 管理者がまだ存在しない場合は、[**[!UICONTROL 管理者&#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) タブを使用して最初に作成します。 |
+   | **[!UICONTROL ユーザーグループ]** | ドロップダウンから選択するか、ユーザーグループ名を入力します。 ユーザーグループがまだ存在しない場合は、最初に「[**[!UICONTROL &#x200B; ユーザーグループ &#x200B;]**](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-user-groups.html)」タブから作成します。 |
+   | **[!UICONTROL 管理者]** | ドロップダウンから選択するか、管理者のメールアドレスを入力します。 管理者がまだ存在しない場合は、[**[!UICONTROL 管理者&#x200B;]**](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-administrators.html) タブを使用して最初に作成します。 |
 
    指定された[!UICONTROL &#x200B; ユーザーグループ &#x200B;]には、製品プロファイルが割り当てられます。 指定された管理者は&#x200B;**[!UICONTROL 製品プロファイル管理者]**&#x200B;になります。この管理者は、関連する組織のAdobe Admin Consoleを介してプロファイルを管理できます。
 
    ![&#x200B; プロファイルを追加](./assets/manage-product-profiles_add-profile.png)
 
 1. **[!UICONTROL 通知]** トグルを使用して、メール通知を有効または無効にします。 有効にすると、プロファイルにユーザーが追加または削除されたときに、ユーザーにメールで通知されます。
-1. 個々の&#x200B;**[!UICONTROL サービス]** トグルを使用して、製品プロファイルの特定のサービスを有効または無効にします。 詳しくは、[製品プロファイルのサービスの有効化/無効化](https://helpx.adobe.com/enterprise/using/enable-disable-services.html)を参照してください。
+1. 個々の&#x200B;**[!UICONTROL サービス]** トグルを使用して、製品プロファイルの特定のサービスを有効または無効にします。 詳しくは、[製品プロファイルのサービスの有効化/無効化](https://helpx.adobe.com/jp/enterprise/using/enable-disable-services.html)を参照してください。
 1. 「**[!UICONTROL 保存]**」を選択します。
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## 製品プロファイルの編集
 
 1. 編集する組織を選択し、**[!UICONTROL 製品]** タブに移動して、製品を選択します。
 1. 関連する製品プロファイルの「**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png)」アイコンを選択し、「**[!UICONTROL プロファイルを編集]**」を選択します。
 1. 必要に応じて製品プロファイルの詳細を更新し、**[!UICONTROL 保存]**&#x200B;を選択します。
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## 製品プロファイルの削除
 
@@ -78,15 +78,15 @@ ht-degree: 1%
 1. 編集する組織を選択し、**[!UICONTROL 製品]** タブに移動して、製品を選択します。
 1. 関連する製品プロファイルの「**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png)」アイコンを選択し、「**[!UICONTROL プロファイルを削除]**」を選択します。
 1. 確認ダイアログボックスで「**[!UICONTROL OK]**」を選択します。
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 
 ## 関連トピックス
 
-- [&#x200B; グローバル管理の導入](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)
-- [管理者の管理](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html)
-- [&#x200B; ユーザーグループの管理](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)
-- [製品を子組織に割り当て](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html)
-- [保留中のジョブの実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)
-- [&#x200B; サービスを有効/無効にする](https://helpx.adobe.com/enterprise/using/enable-disable-services.html)
+- [&#x200B; グローバル管理の導入](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)
+- [管理者の管理](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-administrators.html)
+- [&#x200B; ユーザーグループの管理](https://helpx.adobe.com/jp/enterprise/global-admin-console/manage-user-groups.html)
+- [製品を子組織に割り当て](https://helpx.adobe.com/jp/enterprise/global-admin-console/allocate-products.html)
+- [保留中のジョブの実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)
+- [&#x200B; サービスを有効/無効にする](https://helpx.adobe.com/jp/enterprise/using/enable-disable-services.html)
 - [Admin Consoleの概要](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)
