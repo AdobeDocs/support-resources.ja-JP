@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 1%
 - [Adobe カスタマーサポート体験](adobe-customer-support-experience.md)
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
-- [管理者の役割](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleの操作](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Admin Consoleの概要](adobe-admin-console/admin-console-overview.md)
+   - [管理者の役割](adobe-admin-console/admin-roles.md)
    - [Global Admin Consoleでのユーザーグループの管理](adobe-admin-console/manage-user-groups.md)
    - [Adobe Admin Consoleのアクセシビリティ](adobe-admin-console/admin-console-accessibility.md)
    - [Global Admin Consoleを使用して製品を子組織に割り当てる](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 1%
    - [Global Admin Consoleで組織を選択する](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [管理者の管理](adobe-admin-console/manage-administrators.md)
    - [Global Admin Consoleでの製品プロファイルの管理](adobe-admin-console/manage-product-profiles.md)
+   - [Global Admin Consoleでの組織ポリシーの更新](adobe-admin-console/update-policies.md)
+   - [Global Admin Consoleでのポリシーテンプレートの管理](adobe-admin-console/manage-policy-templates.md)
    - [組織構造と製品割り当てのエクスポートまたはインポート](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Consoleでのパスワードの有効期限の適用](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [監査ログのダウンロードとレポートの書き出し](adobe-admin-console/download-audit-logs-and-export-reports.md)
