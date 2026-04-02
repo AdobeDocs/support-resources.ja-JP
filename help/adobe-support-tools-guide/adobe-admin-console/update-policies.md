@@ -27,7 +27,7 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で、階層から組織を選択し、「**ポリシー**」タブに移動して、ポリシーを許可または禁止またはロックします。
+>[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で、階層から組織を選択し、「**ポリシー**」タブに移動して、ポリシーを許可または禁止またはロックします。
 >
 > [Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 
 組織のポリシーを変更するには、次の操作を行います。
 
-1. Global Admin Consoleで、[編集する組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)を選択し、**[!UICONTROL ポリシー]** タブに移動します。
-1. 関連するポリシーのトグルを選択して、ポリシーを許可または禁止します。 また、ポリシーをロックして、[選択した組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)またはその親組織以外のユーザーが変更またはロック解除できないようにすることもできます。
+1. Global Admin Consoleで、[編集する組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)を選択し、**[!UICONTROL ポリシー]** タブに移動します。
+1. 関連するポリシーのトグルを選択して、ポリシーを許可または禁止します。 また、ポリシーをロックして、[選択した組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)またはその親組織以外のユーザーが変更またはロック解除できないようにすることもできます。
 1. ポリシーをロックするには、**[!UICONTROL ロック]** ![&#x200B; ロック &#x200B;](./assets/lock.png) アイコンを選択します。 ロックにカーソルを合わせると、選択した組織の名前が表示されます。 [&#x200B; ポリシーロック &#x200B;](#policy-locks)の詳細をご覧ください。
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## ポリシーロック {#policy-locks}
 
-ポリシーがロックされている場合、その値はポリシーがロック解除されるまで変更できません。 Global Admin Consoleは、組織ピッカーの[選択した組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)を、ポリシーがロックされた組織として記憶します。 選択した組織またはツリー内の上位の組織のグローバル管理者には、ポリシーのロックを解除する権限があります。 スコープがその組織よりも低いグローバル管理者には、ポリシー値のロックを解除して変更する権限がありません。
+ポリシーがロックされている場合、その値はポリシーがロック解除されるまで変更できません。 Global Admin Consoleは、組織ピッカーの[選択した組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)を、ポリシーがロックされた組織として記憶します。 選択した組織またはツリー内の上位の組織のグローバル管理者には、ポリシーのロックを解除する権限があります。 スコープがその組織よりも低いグローバル管理者には、ポリシー値のロックを解除して変更する権限がありません。
 
 ロックダウン環境を作成するには、子組織に必要なポリシー値を設定してからロックします。 これらの子組織のグローバル管理者は、ポリシー値を編集できません。
 
