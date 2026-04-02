@@ -55,4 +55,4 @@ ht-degree: 0%
 
 ![管理者権限の確認](assets/admin-rights-confirmation.png)
 
-詳細については、管理者役割ドキュメントの「[ エンタープライズ管理者の役割を編集](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role)手順」を参照してください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール ](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
+詳細については、管理者役割ドキュメントの「[&#x200B; エンタープライズ管理者の役割を編集](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role)手順」を参照してください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール &#x200B;](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
