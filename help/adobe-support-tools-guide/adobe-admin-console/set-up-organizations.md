@@ -24,17 +24,17 @@ ht-degree: 0%
 
 ## 子組織の作成
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、階層内の任意の組織の子組織を作成し、名前、国、ユーザーグループ、製品、製品プロファイル、管理者、ポリシーを設定できます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、階層内の任意の組織の子組織を作成し、名前、国、ユーザーグループ、製品、製品プロファイル、管理者、ポリシーを設定できます。
 
 新しい子組織が作成されると、次の要素が親から自動的に継承されます。
 
-- 組織の[ ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)設定（存在する場合はロックを含む）。
-- システム管理者のリスト（**[!UICONTROL 作成時にシステム管理者を継承]** [ ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）。
+- 組織の[&#x200B; ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)設定（存在する場合はロックを含む）。
+- システム管理者のリスト（**[!UICONTROL 作成時にシステム管理者を継承]** [&#x200B; ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）。
 次の手順を実行すると、システム管理者が継承されるのを防ぐことができます。
-   - [ ドメインの信頼](https://helpx.adobe.com/enterprise/using/directory-trust.html)がありません。
-   - ユーザータイプの制限（Adobe ID / Enterprise ID / Federated ID ユーザーポリシーの追加）。 [ ポリシーの詳細](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)について説明します。
-- 親組織がアクセスできるドメインから[[!DNL Federated ID]]または[[!DNL Enterprise ID]] ユーザーにアクセスします。 これにより、親内のドメインユーザーを子組織で使用できるようになります。 ユーザーアクセスの継承は、**親組織が管理するディレクトリからユーザーを継承** [ ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)によって制御されます。
-- 共有ポリシー、パスワードポリシー、およびセキュリティ連絡先（**によって管理）子組織の作成時にアセット共有設定を継承** [ ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）。
+   - [&#x200B; ドメインの信頼](https://helpx.adobe.com/enterprise/using/directory-trust.html)がありません。
+   - ユーザータイプの制限（Adobe ID / Enterprise ID / Federated ID ユーザーポリシーの追加）。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)について説明します。
+- 親組織がアクセスできるドメインから[[!DNL Federated ID]]または[[!DNL Enterprise ID]] ユーザーにアクセスします。 これにより、親内のドメインユーザーを子組織で使用できるようになります。 ユーザーアクセスの継承は、**親組織が管理するディレクトリからユーザーを継承** [&#x200B; ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)によって制御されます。
+- 共有ポリシー、パスワードポリシー、およびセキュリティ連絡先（**によって管理）子組織の作成時にアセット共有設定を継承** [&#x200B; ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)）。
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)にログインします。 「**[!UICONTROL 組織]**」タブで、子組織を追加する組織を選択します。
 2. 「**[!UICONTROL 追加+]**」アイコンを選択します。
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ## 子組織の削除
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、子組織を削除できます。 削除操作を元に戻すことはできず、ルート組織を削除することはできません。 削除された組織に割り当てられたリソースは、その親組織に返されます。 組織が削除される前に、その親は自動的にその子組織の親になります。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、子組織を削除できます。 削除操作を元に戻すことはできず、ルート組織を削除することはできません。 削除された組織に割り当てられたリソースは、その親組織に返されます。 組織が削除される前に、その親は自動的にその子組織の親になります。
 
 組織は、次の条件を満たす場合にのみ削除できます。
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 組織名は、購入時に設定した会社または機関の正式な名前です。 ユーザーは、ログイン時にプロファイルを選択する際にこの名前を表示します。特に、複数の組織からAdobe製品にアクセスできる場合や、ビジネスプロファイルと個人プロファイルのどちらかを選択する必要がある場合に表示されます。
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、任意の親組織または子組織の名前を編集して、[[!DNL Creative Cloud]]製品およびサービスにログインする際にユーザーが正しいプロファイルを識別できるようにすることができます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、任意の親組織または子組織の名前を編集して、[[!DNL Creative Cloud]]製品およびサービスにログインする際にユーザーが正しいプロファイルを識別できるようにすることができます。
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)にログインします。 「**[!UICONTROL 組織]**」タブで、名前を変更する組織を選択します。
 1. 「**[!UICONTROL 編集]**」アイコンを選択します。
@@ -85,12 +85,12 @@ ht-degree: 0%
 
 ## 組織の親を変更
 
-[!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)様は、**[!UICONTROL 階層を変更]** ボタンを使用して、組織階層の組織を再ペアレント化できます。
+[[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)様は、**[!UICONTROL 階層を変更]** ボタンを使用して、組織階層の組織を再ペアレント化できます。
 
 組織の親を変更すると、次のような影響があります。
 
 - 組織を再ペアレント化すると、その組織を持つサブツリー全体が再ペアレント化された組織にルート化されます。 親子関係にある組織とその子のパス名が、新しい場所を反映するように更新されます。
-- 移動した組織の組織[ ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)が更新され、ポリシーに対するロックが新しい階層の組織によって保持されるようになります。
+- 移動した組織の組織[&#x200B; ポリシー](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)が更新され、ポリシーに対するロックが新しい階層の組織によって保持されるようになります。
 - 階層内の組織の位置を変更すると、その組織のグローバル管理者を変更できます。 グローバル管理ロールは階層に継承されるため、新しい親組織のグローバル管理者は自動的に移動された組織のグローバル管理者になります。 同様に、グローバル管理者が古い親のグローバル管理者であることによってその役割を持っていた場合、移動された組織での役割を失う可能性があります。 継承されたグローバル管理の役割は、組織の管理者ペインには表示されません。
 - リペアレンティングは、移動した組織で使用可能な製品にも影響します。 可能であれば、[製品割り当て](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html)が更新され、新しい親の場所を介して割り当てられます。
 - 製品の割り当てを新しい親から更新できない場合、製品は、それらの製品の製品プロファイルと共に削除されます。 この操作の結果、ユーザーがアクセスを失う可能性があります。 製品を新しい場所で使用できるようにするには、古い場所と新しい場所の最も近い共通の祖先に製品が使用可能である必要があります。
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 ## 組織マッパーを使用した既存の組織の追加
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、現在Global Admin Console階層に含まれていない既存の組織を組織階層に追加できます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、現在Global Admin Console階層に含まれていない既存の組織を組織階層に追加できます。
 
 組織階層にチーム組織を追加することもできます。 チーム組織は、製品の割り当てや製品の使用状況のロールアップには参加せず、Global Admin Consoleでのチーム組織の管理は限られています。 それらを組織階層に追加して追跡し、購入した製品を可視化することができます。 チーム組織では、その下に子の組織を配置することはできず、エンタープライズ組織の機能の多くはありません。
 
