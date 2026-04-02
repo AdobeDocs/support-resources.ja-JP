@@ -24,12 +24,12 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 グローバル管理者は、Global Admin Consoleで行われた変更を完全に把握できます。 すべての組織の監査ログで、過去90日間に実行されたアクション（発生したタイミングと実行したユーザーを含む）を検索できます。
 - 監査ログは、システムへの不適切なアクセスを防止し、組織内の疑わしい行動を監査することで、コンプライアンスの継続的な維持に役立ちます。
-- Global Admin Consoleで使用可能なログには、グローバル管理者がアクセスできるイベントのみが含まれます。 ユーザーの割り当てやユーザーイベントは含まれていません。 各コンソールが提供する様々な機能について[詳細](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を確認します。
+- Global Admin Consoleで使用可能なログには、グローバル管理者がアクセスできるイベントのみが含まれます。 ユーザーの割り当てやユーザーイベントは含まれていません。 各コンソールが提供する様々な機能について[詳細](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を確認します。
 - ログには、階層内のすべての組織のイベントが含まれ、すべての組織の監査ログを一度に検索できます。
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[&#x200B; トラック &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
+> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[&#x200B; トラック &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
 
 組織の監査ログを表示またはダウンロードするには：
 
@@ -106,7 +106,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/insights)にログインし、**[!UICONTROL インサイト]** > **[!UICONTROL レポートの書き出し]**&#x200B;に移動します。
 
-   過去90日以内に生成されたレポートが表示されます。 90日が経過したら、レポートを再度生成できます。 [組織構造](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)のレポートを生成する方法について説明します。
+   過去90日以内に生成されたレポートが表示されます。 90日が経過したら、レポートを再度生成できます。 [組織構造](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)のレポートを生成する方法について説明します。
 
 
    | フィールド | 説明 |
