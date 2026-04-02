@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Global Admin Consoleを利用するメリットと、アクセス方法をご紹介します。 [詳細情報](#request-access-to-the-global-admin-console)
 
-Adobe Admin Consoleでサポートケースを作成して、Global Admin Consoleへのアクセスをリクエストします。 [Global Admin Console](https://adminconsole.adobe.com/support)にログインします。
+Adobe Admin Consoleでサポートケースを作成して、Global Admin Consoleへのアクセスをリクエストします。 [Global Admin Console](https://global-admin-console.adobe.com)にログインします。
 
 ## はじめに
 
-[Global Admin Console](https://adminconsole.adobe.com/support)は、多くのAdmin Consoleを持っているか、メインのAdmin Consoleを複数のコンソールに分割したい複雑な組織構造を持つお客様向けです。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。 既存の管理コンソールを組織チャートのような階層構造にネストし、分散型エンタープライズ全体に透明性を提供します。
+[Global Admin Console](https://global-admin-console.adobe.com)は、多くのAdmin Consoleを持っているか、メインのAdmin Consoleを複数のコンソールに分割したい複雑な組織構造を持つお客様向けです。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。 既存の管理コンソールを組織チャートのような階層構造にネストし、分散型エンタープライズ全体に透明性を提供します。
 
 Global Admin Consoleは、既存のAdmin Consoleの機能を置き換えたり、変更したりすることはありません。 ルート組織を最上位に配置し、そのルート組織の下にネストされたすべてのコンソールを持つ階層として機能します。 Admin Consoleがルートコンソールとして動作する階層構造の購入と作成に焦点を当てた選択基準があります。
 
-Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[に関する](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) ホワイトペーパーを参照し、次の[&#x200B; ビデオ &#x200B;](https://youtu.be/FLBWR78wpok)をご覧ください。
+Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[に関する](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) ホワイトペーパーを参照し、次の[ ビデオ ](https://youtu.be/FLBWR78wpok)をご覧ください。
 
 このビデオのコンテンツとボイスオーバーは現在英語でのみ利用できます。
 
@@ -44,7 +44,7 @@ Global Admin Consoleの機能と利点について詳しくは、Global Admin Co
 - 製品プロファイルとユーザーグループを作成、編集、削除します。
 - レポート用に組織情報をエクスポートしたり、他のプロセスで使用したりできます。
 - 組織の更新と組織階層の変更を読み込みます。
-- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/jp/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
+- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
 
 ## 実施要件
 

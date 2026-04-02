@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
-source-git-commit: 265c341935b3257e5731a129c42411151645ae89
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
-source-wordcount: '1330'
+source-wordcount: '1333'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,13 @@ ht-degree: 0%
 
 Global Admin Consoleでユーザーグループを作成、管理、共有し、同じ権限を持つユーザーをグループ化してユーザー管理を合理化し、時間を節約して、一貫性を確保します。
 
-[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で、組織を選択し、**[!UICONTROL ユーザーグループ]**&#x200B;に移動します。 単一のユーザー管理ソースを使用して、ユーザーとグループを同期し、複数の組織をまたいでグループを共有します。
-
-[Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com)
+[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)で、組織を選択し、**[!UICONTROL ユーザーグループ]**&#x200B;に移動します。 単一のユーザー管理ソースを使用して、ユーザーとグループを同期し、複数の組織をまたいでグループを共有します。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com)。
 
 
 
 ## ユーザーグループの作成
 
-[&#x200B; ユーザーグループ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups.html)を個別に、一括で作成するか、または[確立されたAzure AD](https://helpx.adobe.com/jp/enterprise/using/add-azure-sync.html)からAdobe Admin Consoleのフェデレーションディレクトリに直接同期できます。 Global Admin Consoleでは、関連する製品プロファイルが割り当てられたユーザーグループを定義できます。このユーザーグループに対して、後でAdmin Consoleを使用してユーザーを追加できます。
+[ ユーザーグループ ](https://helpx.adobe.com/jp/enterprise/using/user-groups.html)を個別に、一括で作成するか、または[確立されたAzure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html)からAdobe Admin Consoleのフェデレーションディレクトリに直接同期できます。 Global Admin Consoleでは、関連する製品プロファイルが割り当てられたユーザーグループを定義できます。このユーザーグループに対して、後でAdmin Consoleを使用してユーザーを追加できます。
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)にログインし、編集する組織を選択してから、**[!UICONTROL ユーザーグループ]** タブに移動します。
 
@@ -36,18 +34,18 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
 3. 表示される「**[!UICONTROL ユーザーグループを追加]**」ダイアログボックスに、次の情報を入力します。
    - **[!UICONTROL 名前]**: ユーザーグループの名前を指定します。
-   - **[!UICONTROL 製品プロファイル]**: ユーザーグループの現在または将来のメンバーに製品アクセス権を付与する場合は、ドロップダウン矢印をクリックしてリストから製品プロファイルを選択するか、製品プロファイル名を入力して表示されるドロップダウンリストから製品プロファイルを選択します。 まだ作成されていない製品プロファイルを追加する場合は、まず「[製品プロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/global-admin-edit-organizations.html#profiles)」タブを使用して追加する必要があります。
+   - **[!UICONTROL 製品プロファイル]**: ユーザーグループの現在または将来のメンバーに製品アクセス権を付与する場合は、ドロップダウン矢印をクリックしてリストから製品プロファイルを選択するか、製品プロファイル名を入力して表示されるドロップダウンリストから製品プロファイルを選択します。 まだ作成されていない製品プロファイルを追加する場合は、まず「[製品プロファイル ](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles)」タブを使用して追加する必要があります。
    - **[!UICONTROL 管理者]**: ドロップダウン矢印をクリックして、リストから管理者を選択するか、管理者のメールアドレスを入力して、表示されるドロップダウンリストから選択します。 まだ作成されていない新しい管理者を追加する場合は、まず「[管理者](#share-user-groups)」タブを使用してその管理者を作成する必要があります。
 
    指定した製品プロファイルはユーザーグループに割り当てられ、指定した管理者がグループのユーザーグループ管理者になります。 ユーザーグループ管理者は、関連する組織のAdobe Admin Consoleを使用して、グループを管理できます。
 
 4. 「**[!UICONTROL 保存]**」を選択します。
 
-5. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)を選択します。
+5. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)を選択します。
 
    >[!NOTE]
    >
-   >グローバル管理者は、[Global Admin Consoleを使用して、製品プロファイルとユーザーグループ管理者](#review-user-groups)をユーザーグループに割り当てることができます。 Adobe Admin Consoleを使用すると、システム管理者とユーザーグループ管理者は[&#x200B; ユーザーを追加し、管理者と製品プロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups.html)をユーザーグループに割り当てることができます。
+   >グローバル管理者は、[Global Admin Consoleを使用して、製品プロファイルとユーザーグループ管理者](#review-user-groups)をユーザーグループに割り当てることができます。 Adobe Admin Consoleを使用すると、システム管理者とユーザーグループ管理者は[ ユーザーを追加し、管理者と製品プロファイル ](https://helpx.adobe.com/jp/enterprise/using/user-groups.html)をユーザーグループに割り当てることができます。
 
 
 
@@ -61,7 +59,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
    次の場合、グループの共有が無効になる可能性があります。
    - ユーザーグループは別の組織から共有されています。 グループを共有または編集するには、グループを所有する組織を組織階層から選択します。
-   - 組織は、グローバルに段階的に展開されている[Adobe ストレージをビジネス &#x200B;](https://helpx.adobe.com/in/enterprise/using/storage-for-business.html)に使用していません。
+   - 組織は、グローバルに段階的に展開されている[Adobe ストレージをビジネス ](https://helpx.adobe.com/in/enterprise/using/storage-for-business.html)に使用していません。
    - 組織ポリシーが無効になっています。 「**[!UICONTROL ポリシー]**」タブに移動して、**[!UICONTROL 共有ユーザーグループの管理]** ポリシーを有効にします。
    - 組織には、ユーザーグループを共有する子組織がありません。
 
@@ -84,9 +82,9 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    - **[!UICONTROL 追加のみ]**: ユーザーを削除せずに既存のユーザーグループに新しいユーザーを追加して、ユーザーグループを統合します。
    - **[!UICONTROL ミラーグループ]**: ユーザーを追加または削除して、共有グループに合わせてターゲット組織のグループを調整します。
 
-8. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)を選択します。
+8. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)を選択します。
 
-   グループ投影イベントは、参照用にログに記録されます。 [監査ログの表示とダウンロード &#x200B;](https://helpx.adobe.com/jp/enterprise/global-admin-console/insights.html)について説明します。
+   グループ投影イベントは、参照用にログに記録されます。 [監査ログの表示とダウンロード ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports)について説明します。
 
 
 ユーザーグループを共有すると、グループとそのユーザーがターゲット組織に追加されます。 ただし、*ソースユーザーグループは*&#x200B;共有ユーザーグループとそのユーザーを制御します。 管理者と製品プロファイルの割り当ては、組織間で&#x200B;*not*&#x200B;同期されています。
@@ -111,7 +109,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
 6. 「**[!UICONTROL アクセスを取り消す]**」を選択します。
 
-7. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/set-up-organizations.html#execute-jobs)を選択します。
+7. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)を選択します。
 
 
 
@@ -125,7 +123,7 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    >
    >選択した組織が所有していないユーザーグループを編集することはできません。
 
-   ![&#x200B; ユーザーグループを編集オプションが「ユーザーグループ」タブでハイライト表示された状態で選択された組織。](assets/edit-user-group.png " ユーザーグループの編集")
+   ![ ユーザーグループを編集オプションが「ユーザーグループ」タブでハイライト表示された状態で選択された組織。](assets/edit-user-group.png " ユーザーグループの編集")
 
    _ユーザーグループを編集して、ユーザーグループ名、製品プロファイル、または管理者を更新します。_
 
@@ -133,9 +131,9 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
 
    >[!NOTE]
    >
-   >**[!UICONTROL ユーザーグループを編集]** ウィザードでは、この組織で既に管理者ロールが割り当てられているユーザーにのみ管理者ロールを割り当てることができます。 [新しい管理者を追加する方法](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)について説明します。
+   >**[!UICONTROL ユーザーグループを編集]** ウィザードでは、この組織で既に管理者ロールが割り当てられているユーザーにのみ管理者ロールを割り当てることができます。 [新しい管理者を追加する方法](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)について説明します。
 
-4. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)を選択します。
+4. 「**[!UICONTROL 保留中の変更を確認]**」を選択して、更新を確認します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)を選択します。
 
    >[!NOTE]
    >
@@ -159,4 +157,4 @@ Global Admin Consoleでユーザーグループを作成、管理、共有し、
    >
    >ユーザーグループを削除すると、ユーザーに影響を与える可能性があります。 ユーザーグループが削除されたときに失われるアクセスまたは情報がないことを確認します。
 
-4. 組織を編集したら、**[!UICONTROL 保留中の変更をレビュー]**&#x200B;を選択してレビューします。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/using/global-admin-set-up-organizations.html#execute-jobs)を選択します。
+4. 組織を編集したら、**[!UICONTROL 保留中の変更をレビュー]**&#x200B;を選択してレビューします。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations)を選択します。

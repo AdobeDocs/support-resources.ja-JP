@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
+source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '872'
 ht-degree: 3%
 
 ---
@@ -24,12 +24,12 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 グローバル管理者は、Global Admin Consoleで行われた変更を完全に把握できます。 すべての組織の監査ログで、過去90日間に実行されたアクション（発生したタイミングと実行したユーザーを含む）を検索できます。
 - 監査ログは、システムへの不適切なアクセスを防止し、組織内の疑わしい行動を監査することで、コンプライアンスの継続的な維持に役立ちます。
-- Global Admin Consoleで使用可能なログには、グローバル管理者がアクセスできるイベントのみが含まれます。 ユーザーの割り当てやユーザーイベントは含まれていません。 各コンソールが提供する様々な機能について[詳細](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)を確認します。
+- Global Admin Consoleで使用可能なログには、グローバル管理者がアクセスできるイベントのみが含まれます。 ユーザーの割り当てやユーザーイベントは含まれていません。 各コンソールが提供する様々な機能について[詳細](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を確認します。
 - ログには、階層内のすべての組織のイベントが含まれ、すべての組織の監査ログを一度に検索できます。
 
 >[!NOTE]
 >
-> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[&#x200B; トラック &#x200B;](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
+> [Adobe Admin Console](https://adminconsole.adobe.com)組織のシステム管理者は、[監査ログ ](https://helpx.adobe.com/enterprise/using/audit-logs.html)を使用して、ユーザーの割り当てとユーザーイベントを確認できます。 選択した組織の子組織でシステム管理者が実行したアクションも、監査ログに含まれます。 Admin Consoleで行われた変更を[ トラック ](https://helpx.adobe.com/enterprise/using/audit-logs.html)できるシステム管理者の機能について詳しくは、こちらを参照してください。
 
 組織の監査ログを表示またはダウンロードするには：
 
@@ -67,7 +67,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. 監査ログを書き出すには、**[!UICONTROL CSVを書き出し]**&#x200B;を選択して、フィルタリングされた結果を書き出します。 結果はCSV形式でダウンロードされます。
 
-書き出しに含まれるフィールドについて詳しくは、[&#x200B; ログスキーマ &#x200B;](#log-schema)を参照してください。
+書き出しに含まれるフィールドについて詳しくは、[ ログスキーマ ](#log-schema)を参照してください。
 
 >[!NOTE]
 >
@@ -106,7 +106,7 @@ Global Admin Consoleを使用して、グローバル管理者が監査ログと
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/insights)にログインし、**[!UICONTROL インサイト]** > **[!UICONTROL レポートの書き出し]**&#x200B;に移動します。
 
-   過去90日間に生成されたレポートが表示されます。 90日間が完了したら、レポートを再度生成できます。 [組織構造](https://helpx.adobe.com/jp/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure)のレポートを生成する方法について説明します。
+   過去90日以内に生成されたレポートが表示されます。 90日が経過したら、レポートを再度生成できます。 [組織構造](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure)のレポートを生成する方法について説明します。
 
 
    | フィールド | 説明 |

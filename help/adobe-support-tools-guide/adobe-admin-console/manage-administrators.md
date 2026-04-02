@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
 workflow-type: tm+mt
 source-wordcount: '1159'
 ht-degree: 2%
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 グローバル管理者機能を確認し、ユーザー、製品ライセンス、グループの管理を個々の組織の管理者に委任して配布する方法を説明します。
 
-Global Admin Consoleで、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集、または削除できます。 詳しくは、[&#x200B; グローバル管理の導入](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)を参照してください。 [Admin Consoleにログインするには、こちらに移動します](https://adminconsole.adobe.com)。
+Global Admin Consoleで、組織を選択し、「**[!UICONTROL 管理者]**」タブに移動して、管理者権限を追加、編集、または削除できます。 詳しくは、[ グローバル管理の導入](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)を参照してください。 [Admin Consoleにログインするには、こちらに移動します](https://adminconsole.adobe.com)。
 
 
 Global Admin Consoleは、グローバル管理者という役割を導入します。 この役割はシステム管理者とは異なり、次の操作を実行できます。
@@ -154,7 +154,7 @@ Global Viewer ロールの機能を次に示します。
 
    >[!NOTE]
    >
-   > 組織は、どのアカウントタイプを追加できるかについて制限を設定できます。 これらは、[policies](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)または組織の他の設定パラメーターに基づいている場合があります。 組織では、AdobeID ユーザーとBusinessID ユーザーの両方を同時に追加することはできません。 一般に、組織内に両方のタイプのユーザーはいませんが、ルールが設定される順序に応じて、ポリシーまたはルールの適用前に特定のアカウントタイプのユーザーが存在する場合があります。
+   > 組織は、どのアカウントタイプを追加できるかについて制限を設定できます。 これらは、[policies](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)または組織の他の設定パラメーターに基づいている場合があります。 組織では、AdobeID ユーザーとBusinessID ユーザーの両方を同時に追加することはできません。 一般に、組織内に両方のタイプのユーザーはいませんが、ルールが設定される順序に応じて、ポリシーまたはルールの適用前に特定のアカウントタイプのユーザーが存在する場合があります。
 
 1. 「**[!UICONTROL 管理者権限]**」セクションから1つ以上の管理者ロールを選択します。
 
@@ -164,7 +164,7 @@ Global Viewer ロールの機能を次に示します。
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
-1. 組織を編集した後、「**[!UICONTROL 保留中の変更を確認]**」を選択し、「**[!UICONTROL 変更を送信]**」から「[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)」を選択します。
+1. 組織を編集した後、「**[!UICONTROL 保留中の変更を確認]**」を選択し、「**[!UICONTROL 変更を送信]**」から「[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)」を選択します。
 
 管理者の役割が追加されると、ユーザーは役割の変更を通知するメール通知を受け取ります。
 
@@ -182,7 +182,7 @@ Global Viewer ロールの機能を次に示します。
 
 1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。
 
-追加または削除された管理者の役割ごとに、保留中の変更リストに個別のコマンドが表示されます。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
+追加または削除された管理者の役割ごとに、保留中の変更リストに個別のコマンドが表示されます。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## 管理者権限の削除
 
@@ -194,6 +194,6 @@ Global Viewer ロールの機能を次に示します。
 
 1. 確認ダイアログで「**[!UICONTROL OK]**」を選択します。
 
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 管理者を削除すると、その組織の管理コンソールへのアクセス権が失われたことを通知するメール通知がユーザーに届きます。
