@@ -18,7 +18,7 @@ ht-degree: 0%
    1. **フェーズを編集**：組織に変更を加えるか、製品を割り当てます。
    2. **実行フェーズ**：保留中の変更を確認して実行し、変更を有効にします。
 
-- [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
+- [[!DNL Global Admin Console]](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
 
   [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)にログインします。
 
