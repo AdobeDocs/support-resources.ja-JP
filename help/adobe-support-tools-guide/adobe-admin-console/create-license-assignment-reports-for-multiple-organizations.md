@@ -1,13 +1,13 @@
 ---
 title: 複数の組織と製品に対するライセンス割り当てレポートの作成
 description: Global Admin Consoleから、複数の組織や製品をまたいでライセンス割り当てレポートを生成、表示、ダウンロードできます。
-Feature-set: Experience Cloud Services
-Solution: Admin Console
-Feature: Admin Console
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '725'
 ht-degree: 1%
 
 ---
@@ -24,14 +24,14 @@ ht-degree: 1%
 
 ライセンス割り当てレポートは、ライセンスのプロビジョニングを積極的に監視し、手作業によるトラッキングを減らすのに役立ちます。 グローバル管理者は、任意の数の子組織の一部の製品のライセンス割り当てレポートを作成して、すべての部門のソフトウェアライセンスプロビジョニングデータを監視できます。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンス割り当て]** ページで、「**[!UICONTROL レポートを作成]**」を選択します。
 1. 組織を選択し、**[!UICONTROL 次へ]**&#x200B;を選択します。 **[!UICONTROL すべてを選択]** ボタンを使用して、各組織を個別に選択するか、親内のすべての子組織を選択できます。
 
    >[!NOTE]
    >
    >**特定の組織を選択できない理由を確認**:
-   >子組織に契約がない場合、または親組織と同じ製品を持つ別個のエンタープライズ契約がある場合、ライセンス割り当てレポートの作成は無効になります。 例えば、親組織のコントラクトにAdobe Acrobatがあり、子組織が別のコントラクトの一部と同じ場合、そのプロダクトは割り当て用に制限されます。 そのため、Global Admin Consoleでのレポート作成にも制限があります。 [それぞれのAdmin Console](https://helpx.adobe.com/jp/enterprise/using/assignment-reports.html)を使用して、このような組織のプロビジョニングを追跡する方法を説明します。
+   >子組織に契約がない場合、または親組織と同じ製品を持つ別個のエンタープライズ契約がある場合、ライセンス割り当てレポートの作成は無効になります。 例えば、親組織のコントラクトにAdobe Acrobatがあり、子組織が別のコントラクトの一部と同じ場合、そのプロダクトは割り当て用に制限されます。 そのため、Global Admin Consoleでのレポート作成にも制限があります。 [それぞれのAdmin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html)を使用して、このような組織のプロビジョニングを追跡する方法を説明します。
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
    >[!NOTE]
    >
    >**特定の製品を選択できない理由を確認**:
-   >Global Admin Consoleで割り当てられない商品は、レポート作成には含まれません。 これには現在、[!DNL Workfront]、[!DNL Adobe Experience Manager]、[!DNL Adobe Experience Platform]などの一部のデジタルエクスペリエンス製品と、[!DNL Adobe Firefly Services]、[!DNL Acrobat Sign]、[!DNL Adobe Stock]などの製品が含まれています。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します](https://helpx.adobe.com/jp/enterprise/using/assignment-reports.html)。
+   >Global Admin Consoleで割り当てられない商品は、レポート作成には含まれません。 現在は、Workfront、Adobe Experience Manager、Adobe Experience Platformなどのデジタルエクスペリエンス製品だけでなく、Adobe Firefly Services、Acrobat Sign、Adobe Stockなどの製品も利用できます。 [Adobe Admin Consoleを使用して、これらの製品のライセンスプロビジョニングデータを検索します](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
 
 1. 月別または年別にレポートを集計するかどうかを選択します。
 1. カスタムの日付範囲を選択するか、プリセットオプションから選択します。 契約開始日より前でない限り、2020年6月18日から前日までの開始日を選択できます。
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 グローバル管理者は、組織内の他のグローバル管理者が生成したライセンス割り当てレポートを表示およびダウンロードできます。 ただし、グローバルビューアは、ライセンス割り当てレポートのリストのみを表示できます。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンス割り当て]** ページでは、すべてのレポートに次の詳細が表示されます。
 
    | フィールド | 説明 |

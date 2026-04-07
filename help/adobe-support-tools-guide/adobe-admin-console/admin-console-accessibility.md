@@ -1,39 +1,39 @@
 ---
 title: Adobe Admin Consoleのアクセシビリティ
-description: オペレーティングシステムのアクセシビリティ、キーボードサポート、支援テクノロジーのサポートなど、Adobe Admin Consoleのアクセシビリティサポートについて説明します。
+description: オペレーティングシステムのアクセシビリティ、キーボードのサポート、支援テクノロジーサポートなど、Adobe Admin Consoleのアクセシビリティサポートについて説明します。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 2fc64cd1ed94914c420975c23ff92cb601b0f0b5
+exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '268'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Admin Consoleのアクセシビリティ
 
 エンタープライズおよびチームに適用されます。
 
-組織全体でAdobeの使用権限を一元的に管理できる [!DNL Adobe Admin Console] ールでのアクセシビリティサポートについて説明します。
+組織全体でAdobeの使用権限を一元管理するAdobe Admin Consoleのアクセシビリティサポートについて説明します。
 
-## オペレーティングシステムのアクセシビリティサポート
+## オペレーティングシステムのアクセシビリティのサポート
 
-広く使用されている多くのオペレーティングシステムのアクセシビリティ機能を [!DNL Admin Console] で使用できます。 これらのアクセシビリティ機能には、高コントラストやその他のディスプレイ設定が含まれます。 ただし、[!DNL Admin Console] の現在のユーザーインターフェイスによっていくつかの制限が生じる場合があります。
+広く使用されている多くのオペレーティングシステムのアクセシビリティ機能は、Admin Consoleで使用できます。 これらのアクセシビリティ機能には、高コントラストやその他の表示設定が含まれます。 ただし、Admin Consoleの現在のユーザーインターフェイスには制限があります。
 
-## キーボードサポート
+## キーボード対応
 
-[!DNL Admin Console] 上のインタラクティブコンテンツのほとんどは、キーボードのみを使用して移動および操作できます。 例えば、ナビゲーションとコントロールには **[!UICONTROL Tab]** または **[!UICONTROL Shift]** + **[!UICONTROL Tab]** を使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]** または **[!UICONTROL Return]** キーを押して選択します。 [&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) （_英語のみ_）で説明されているように、まだ例外がある場合があります。
+Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html) （_英語のみ_）で説明されているように、一部の例外が引き続き存在する可能性があります。
 
-## 支援テクノロジーのサポート
+## 技術サポート
 
-[!DNL Admin Console] では、支援テクノロジー（スクリーンリーダーやスクリーン拡大鏡を含む）を一部サポートしています。 詳しくは、[&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) を参照してください。
+Admin Consoleは、支援テクノロジ（スクリーンリーダーやスクリーン拡大鏡を含む）をサポートしています。 詳しくは、[ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html)を参照してください。
 
-## Admin Consoleでサポートされているアクセシビリティ機能には何がありますか？
+## Admin Consoleでサポートされているアクセシビリティ機能は何ですか？
 
-[[!DNL Admin Console]](https://adminconsole.adobe.com/) を使用すると、組織全体にわたるAdobeの使用権限を一元的に管理できます。 支援テクノロジーのサポート、キーボードのサポートおよびオペレーティングシステムのアクセシビリティのサポートを提供します（一部の例外を除く）。
+[Adobe Admin Console](https://adminconsole.adobe.com/)は、組織全体でAdobeの使用権限を一元管理する場所を提供します。 支援テクノロジーサポート、キーボードサポート、オペレーティングシステムのアクセシビリティサポート（一部の例外を除く）を提供します。
 
-## フィードバックはありますか？
+## フィードバックがある場合
 
-[!DNL Admin Console] チームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 [&#x200B; エンタープライズおよびチームコミュニティ &#x200B;](https://community.adobe.com/enterprise-teams-622) のアクセシビリティ機能に関するフィードバックを共有できます。
+Admin Consoleチームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 アクセシビリティ機能に関するフィードバックは、[ エンタープライズ版およびグループ版コミュニティ ](https://community.adobe.com/enterprise-teams-622)で共有できます。
