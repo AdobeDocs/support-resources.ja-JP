@@ -26,7 +26,7 @@ Adobe Admin Consoleでサポートケースを作成して、Global Admin Consol
 
 Global Admin Consoleは、既存のAdmin Consoleの機能を置き換えたり、変更したりすることはありません。 ルート組織を最上位に配置し、そのルート組織の下にネストされたすべてのコンソールを持つ階層として機能します。 Admin Consoleがルートコンソールとして動作する階層構造の購入と作成に焦点を当てた選択基準があります。
 
-Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[に関する](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) ホワイトペーパーを参照し、次の[ ビデオ ](https://youtu.be/FLBWR78wpok)をご覧ください。
+Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[に関する](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) ホワイトペーパーを参照し、次の[&#x200B; ビデオ &#x200B;](https://youtu.be/FLBWR78wpok)をご覧ください。
 
 このビデオのコンテンツとボイスオーバーは現在英語でのみ利用できます。
 

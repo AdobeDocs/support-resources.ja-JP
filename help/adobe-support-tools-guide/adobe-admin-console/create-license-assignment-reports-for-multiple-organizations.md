@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ライセンス割り当てレポートは、ライセンスのプロビジョニングを積極的に監視し、手作業によるトラッキングを減らすのに役立ちます。 グローバル管理者は、任意の数の子組織の一部の製品のライセンス割り当てレポートを作成して、すべての部門のソフトウェアライセンスプロビジョニングデータを監視できます。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンス割り当て]** ページで、「**[!UICONTROL レポートを作成]**」を選択します。
 1. 組織を選択し、**[!UICONTROL 次へ]**&#x200B;を選択します。 **[!UICONTROL すべてを選択]** ボタンを使用して、各組織を個別に選択するか、親内のすべての子組織を選択できます。
 
@@ -61,7 +61,7 @@ ht-degree: 1%
 
 グローバル管理者は、組織内の他のグローバル管理者が生成したライセンス割り当てレポートを表示およびダウンロードできます。 ただし、グローバルビューアは、ライセンス割り当てレポートのリストのみを表示できます。
 
-1. Global Admin Consoleの「**[[!UICONTROL インサイト ]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
+1. Global Admin Consoleの「**[[!UICONTROL インサイト &#x200B;]](https://global-admin-console.adobe.com/insights)**」タブに移動します。
 1. **[!UICONTROL ライセンス割り当て]** ページでは、すべてのレポートに次の詳細が表示されます。
 
    | フィールド | 説明 |
