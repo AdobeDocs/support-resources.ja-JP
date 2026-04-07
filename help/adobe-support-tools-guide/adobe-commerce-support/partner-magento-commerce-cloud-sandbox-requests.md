@@ -26,11 +26,11 @@ ht-degree: 0%
 
 ## Adobe Commerce on cloud infrastructure サンドボックスを更新するにはどうすればよいですか？ {#how-do-i-refresh-my-cloud-sandbox}
 
-サポート情報については、[ クラウド環境のリセット ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)を参照してください。
+サポート情報については、[&#x200B; クラウド環境のリセット &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)を参照してください。
 
 ## 行き詰まったデプロイメントはどうすればよいですか？ {#what-do-i-do-with-a-stuck-deployment}
 
-サポート ナレッジベースの[ デプロイメントのトラブルシューティング ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)を参照してください。
+サポート ナレッジベースの[&#x200B; デプロイメントのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)を参照してください。
 
 ## ソリューションパートナーやテクノロジーパートナーは、どこで/どのようにサポートリクエストを提出するのですか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 共有アクセスが付与されていない販売者の代理でチケットを送信する場合は、アカウント所有者にアクセス権をリクエストしてください。 アクセスをリクエストする手順については、[共有アクセス：他のユーザーがアカウントにアクセスするための権限の付与](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)を参照してください。
 
 * ソリューションパートナーは、サンドボックス関連のサポートリクエストを[SPPHelp@adobe.com](mailto:SPPHelp@adobe.com)に電子メールで送信する必要があります。 これらのリクエストは、パートナーテクニカルサポートチームにルーティングされます。
-* 技術パートナーは、[ マーケットプレイスサポート ](mailto:commercemarketplacesupport@adobe.com)にお問い合わせください。
+* 技術パートナーは、[&#x200B; マーケットプレイスサポート &#x200B;](mailto:commercemarketplacesupport@adobe.com)にお問い合わせください。
