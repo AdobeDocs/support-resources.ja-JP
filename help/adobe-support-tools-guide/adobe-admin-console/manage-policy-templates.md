@@ -26,7 +26,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で、編集する組織を選択し、「**ポリシーテンプレート**」タブに移動して、セットアップを合理化し、組織全体で一貫性のあるポリシー管理を容易にします。
+>[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で、編集する組織を選択し、「**ポリシーテンプレート**」タブに移動して、セットアップを合理化し、組織全体で一貫性のあるポリシー管理を容易にします。
 >
 > [Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com/)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Global Admin Consoleで行われた他の変更とは異なり、ポリシーテンプレートの編集は、**[!UICONTROL 保留中の変更のレビュー –]**&#x200B;のプロセスを経ることなく、すぐに有効になります。 ただし、ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、[送信](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)が必要です。
+>Global Admin Consoleで行われた他の変更とは異なり、ポリシーテンプレートの編集は、**[!UICONTROL 保留中の変更のレビュー –]**&#x200B;のプロセスを経ることなく、すぐに有効になります。 ただし、ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、[送信](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)が必要です。
 
 ## ポリシーテンプレートの作成
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 テンプレートに含まれる各ポリシーについて、次の2つの設定を行います。
 
-* **許可/許可されていません：** スライダーを目的の値に設定します。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)について説明します。
+* **許可/許可されていません：** スライダーを目的の値に設定します。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html#policy-details)について説明します。
 * **ロック値：**&#x200B;次のいずれかのオプションを使用して、ポリシーのロック状態を変更します。
    * **ロック** — テンプレートの適用後にポリシーがロックされます。
    * **ロック解除** — テンプレートを適用すると、ポリシーがロック解除されます。
@@ -79,7 +79,7 @@ ht-degree: 0%
    ![写真4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. 「**[!UICONTROL テンプレートを適用]**」を選択します。
-1. ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、**[!UICONTROL 保留中の変更を確認]**&#x200B;を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、**[!UICONTROL 保留中の変更を確認]**&#x200B;を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 選択した組織のすべてのポリシー値が既にテンプレートの値と一致している場合、変更が行われなかったことを知らせるメッセージが表示されます。 また、他に保留中の編集がない場合、**[!UICONTROL 保留中の変更のレビュー]**&#x200B;は有効になっていません。
 
@@ -90,7 +90,7 @@ ht-degree: 0%
    ![写真5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. ポリシーテンプレートを更新し、**[!UICONTROL 今すぐ更新]**&#x200B;を選択します。
-1. ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、**[!UICONTROL 保留中の変更を確認]**&#x200B;を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. ポリシーテンプレートが適用されている組織で保留中の変更を実装するには、**[!UICONTROL 保留中の変更を確認]**&#x200B;を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## テンプレートの削除
 

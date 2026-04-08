@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Adobe Admin Consoleは、組織全体でAdobeの使用権限を管理するための一元的な場所です。 詳細については、この[&#x200B; ビデオ &#x200B;](https://youtu.be/hDOhQL9xPRY)をご覧ください。
 
-Adobe Admin Consoleの詳細については、[Adobe Admin Consoleの概要](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を参照してください。
+Adobe Admin Consoleの詳細については、[Adobe Admin Consoleの概要](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を参照してください。
