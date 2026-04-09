@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 650652f81a0b148c1557d2bdf7983536225eef19
+source-git-commit: bdfcda00d58f8583ab6562c4702f335193ee4a45
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 1%
    - [Global Admin Consoleでのポリシーテンプレートの管理](adobe-admin-console/manage-policy-templates.md)
    - [組織構造と製品割り当てのエクスポートまたはインポート](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Admin Consoleでのパスワードの有効期限の適用](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Adobe Admin Console ユーザー](adobe-admin-console/adobe-admin-console-users.md)
    - [IDの概要](adobe-admin-console/adobe-identity-overview.md)
    - [IP アドレスによる製品アクセスの制限](adobe-admin-console/adobe-ip-based-access.md)
    - [監査ログのダウンロードとレポートの書き出し](adobe-admin-console/download-audit-logs-and-export-reports.md)
