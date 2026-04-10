@@ -1,7 +1,7 @@
 ---
 source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -19,13 +19,13 @@ ht-degree: 100%
 
 コントリビューションの方法は、誰がどのような変更をコントリビューションするかに応じて異なります。
 
-### 軽微な変更
+### マイナーな変更
 
-軽微な変更をコントリビューションする場合には、目的の記事にアクセスし、**Edit** リンクをクリックしてください。当該記事の GitHub ソースが開きます。その後、GitHub UI を使用して更新を行います。詳しくは、全般的な事項について説明した[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
+軽微な更新をコントリビューションする場合には、目的の記事にアクセスし、**Edit** リンクをクリックしてください。当該記事の GitHub ソースが開きます。その後、GitHub UI を使用して更新を行います。詳しくは、全般的な事項について説明した[アドビドキュメントのコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 このリポジトリー内のドキュメントやコード例に対して提案される軽微な変更や補足説明には、アドビの利用規約が適用されます。
 
-### コミュニティメンバーによる大幅な変更または新しい記事
+### コミュニティメンバーによる大きな変更または新規記事
 
 アドビコミュニティのメンバーが新しい記事を作成したり、大幅な変更をコントリビューションしたりする場合は、Git リポジトリーの「Issues」タブを使用してイシューを送信し、ドキュメントチームとのやり取りを開始してください。計画に同意したら、アドビ従業員と協力し、公開リポジトリーと非公開リポジトリー内の作業結果を組み合わせて新しいコンテンツを取り込むのを手伝う必要があります。
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### アドビ従業員による大幅な変更
+### アドビの従業員による大きな変更
 
 Adobe Experience Cloud ソリューションの製品チームに所属するテクニカルライター、プログラムマネージャー、開発者が業務の一環として技術的記事にコントリビューションしたり、技術的記事を作成したりする場合は、`https://git.corp.adobe.com/AdobeDocs` の非公開リポジトリーを使用してください。
 
