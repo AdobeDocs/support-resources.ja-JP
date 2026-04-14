@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## キーボード対応
 
-Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) （_英語のみ_）で説明されているように、一部の例外が引き続き存在する可能性があります。
+Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) （*英語のみ*）で説明されているように、一部の例外が引き続き存在する可能性があります。
 
 ## 技術サポート
 
