@@ -80,7 +80,7 @@ ht-degree: 0%
 - ジョブは&#x200B;**[!UICONTROL 失敗]**&#x200B;としてマークされています。
 - そのジョブ内のその後の保留中のタスクは実行されません。
 
-![保留中のジョブ ](assets/pending-jobs.png)
+![保留中のジョブ &#x200B;](assets/pending-jobs.png)
 
 ## 実行中のジョブのキャンセル
 
