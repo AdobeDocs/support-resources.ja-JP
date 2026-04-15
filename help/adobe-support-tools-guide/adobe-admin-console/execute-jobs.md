@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+source-git-commit: e563559180f239e828650859035bace80e7473a2
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
    1. **フェーズを編集**：組織に変更を加えるか、製品を割り当てます。
    2. **実行フェーズ**：保留中の変更を確認して実行し、変更を有効にします。
 
-- [[!DNL Global Admin Console]](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
+- [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
 
   [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)にログインします。
 
@@ -34,9 +34,9 @@ ht-degree: 0%
    - 30日後に破棄されます。
    - ブラウザーのタブやウィンドウを閉じるなど、セッションが終了するとクリアされます。
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> 重要な変更を迅速に実行し、適切に適用できます。
+>重要な変更を迅速に実行し、適切に適用できます。
 
 ### 複数の管理者と競合
 
@@ -70,9 +70,9 @@ ht-degree: 0%
 - ジョブの実行中にステータスは&#x200B;**[!UICONTROL 保留中]**&#x200B;です。
 - Adobeでは、予測可能性とトラブルシューティングを容易にするために、一度に1つのジョブのみを実行することをお勧めします。
 
-&#x200B;> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> 実行中にエラーが発生した場合、正常に適用されなかった変更は再入力して再送信する必要があります。
+>実行中にエラーが発生した場合、正常に適用されなかった変更は再入力して再送信する必要があります。
 
 ### 長時間実行中の割り当て
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 - ジョブは&#x200B;**[!UICONTROL 失敗]**&#x200B;としてマークされています。
 - そのジョブ内のその後の保留中のタスクは実行されません。
 
-![保留中のジョブ &#x200B;](assets/pending-jobs.png)
+![保留中のジョブ ](assets/pending-jobs.png)
 
 ## 実行中のジョブのキャンセル
 
@@ -99,9 +99,9 @@ ht-degree: 0%
 3. 完了までに数分または数時間かかるステップもあります。
 4. この間、ジョブは&#x200B;**[!UICONTROL キャンセル]**&#x200B;状態のままになる可能性があります。
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> 現在のステップが完了すると、ジョブが停止したときに大幅に遅れる可能性があることを理解して、キャンセルを計画します。
+>現在のステップが完了すると、ジョブが停止したときに大幅に遅れる可能性があることを理解して、キャンセルを計画します。
 
 ## ジョブ履歴の表示
 
@@ -116,6 +116,7 @@ ht-degree: 0%
    - **件のジョブ コマンドを送信しました**。
    - 実行に関連する&#x200B;**エラー**&#x200B;および&#x200B;**警告**&#x200B;が発生しました。
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> 関連オブジェクト **の後の名前の変更や削除は、ジョブ履歴でのコマンドの表示方法**&#x200B;に影響しません。 履歴は、送信時の状態を反映します。
+>関連オブジェクト **の後の名前の変更や削除は、ジョブ履歴でのコマンドの表示方法**&#x200B;に影響しません。 履歴は、送信時の状態を反映します。
+
