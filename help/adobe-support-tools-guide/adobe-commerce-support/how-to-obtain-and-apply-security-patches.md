@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL  セキュリティパッチ ]の取得方法と適用方法'
-description: この記事では、リリースされた[!UICONTROL  セキュリティパッチ ]を取得および適用する方法について説明しますが、手順は利用できません。
+title: '[!UICONTROL &#x200B; セキュリティパッチ &#x200B;]の取得方法と適用方法'
+description: この記事では、リリースされた[!UICONTROL &#x200B; セキュリティパッチ &#x200B;]を取得および適用する方法について説明しますが、手順は利用できません。
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
 source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
 workflow-type: tm+mt
@@ -9,12 +9,12 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL  セキュリティパッチを取得して適用する方法]
+# [!UICONTROL &#x200B; セキュリティパッチを取得して適用する方法]
 
 >[!NOTE]
 >オンプレミスのインストールがあり、[!DNL CVS]やGitHubなどのバージョン管理システムを使用してコードを管理していない場合、web ホストがパッチの適用を支援できる可能性があります。 アドビの担当者にご連絡いただき、サポートを受けることができます。
 
-この記事では、リリースされた[!UICONTROL  セキュリティパッチ ]を取得および適用する方法について説明しますが、手順は利用できません。
+この記事では、リリースされた[!UICONTROL &#x200B; セキュリティパッチ &#x200B;]を取得および適用する方法について説明しますが、手順は利用できません。
 
 ## 影響を受ける製品とバージョン
 
@@ -34,7 +34,7 @@ Adobe Commerce セキュリティ情報の場合、Adobeは、そのアーティ
 
 ### ケース I:
 
-* 個別のパッチファイル/ホットフィックスが[ リリースノート ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)に記載されている場合は、[https://account.magento.com](https://account.magento.com/downloads/view/)のダウンロードセクションからファイルをダウンロードしてください。 共有アクセスユーザーには、まずアカウント所有者またはライセンス所有者からダウンロード権限を付与する必要があります。
+* 個別のパッチファイル/ホットフィックスが[&#x200B; リリースノート &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/release-notes/cloud-tools-suite)に記載されている場合は、[https://account.magento.com](https://account.magento.com/downloads/view/)のダウンロードセクションからファイルをダウンロードしてください。 共有アクセスユーザーには、まずアカウント所有者またはライセンス所有者からダウンロード権限を付与する必要があります。
 
 **注意事項：**
 
@@ -54,15 +54,15 @@ Adobe Commerce セキュリティ情報の場合、Adobeは、そのアーティ
 
 * **クラウド：**
 
-1. 一部の[!UICONTROL  セキュリティパッチ ]は、最新バージョンのCloud Tools Suite （ECE Tools）に含まれたり、リリースされたりする可能性があります。Cloud Patches for Commerceの下で、[ リリースノート ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)を確認してください。リリースにセキュリティ修正が記載されている場合は、パッケージをそのバージョンにアップグレードしてください。
+1. 一部の[!UICONTROL &#x200B; セキュリティパッチ &#x200B;]は、最新バージョンのCloud Tools Suite （ECE Tools）に含まれたり、リリースされたりする可能性があります。Cloud Patches for Commerceの下で、[&#x200B; リリースノート &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite)を確認してください。リリースにセキュリティ修正が記載されている場合は、パッケージをそのバージョンにアップグレードしてください。
 1. リリースノートにセキュリティ修正が記載されていない場合は、引き続きお読みください。
 
 * **クラウド インフラストラクチャまたはオンプレミス：**
 
-* 分離されたパッチファイル/ホットフィックスが使用できない場合は、[ クラウドインフラストラクチャ上のAdobe Commerce バージョン ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.Xを最新のパッチバージョン 2.4.X-pYにアップグレードします。
-* 分離されたパッチファイル/ホットフィックスが使用できない場合は、[Adobe Commerce版オンプレミス ](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.Xを最新のパッチバージョン 2.4.X-pYにアップグレードします。
+* 分離されたパッチファイル/ホットフィックスが使用できない場合は、[&#x200B; クラウドインフラストラクチャ上のAdobe Commerce バージョン &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.Xを最新のパッチバージョン 2.4.X-pYにアップグレードします。
+* 分離されたパッチファイル/ホットフィックスが使用できない場合は、[Adobe Commerce版オンプレミス &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.Xを最新のパッチバージョン 2.4.X-pYにアップグレードします。
 
 ## 関連トピックス
 
 * Commerce Cloud Tools Suite[の](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) リリースノート（*Adobe Commerce on Cloud Infrastructure ガイド*）を参照してください。
-* [Adobe Commerce on Cloud Infrastructure ガイド ](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)の「*Adobe Commerce バージョンをアップグレードする*」を参照してください。
+* [Adobe Commerce on Cloud Infrastructure ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version)の「*Adobe Commerce バージョンをアップグレードする*」を参照してください。
