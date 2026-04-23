@@ -3,9 +3,9 @@ title: Experience League サポートリリースノート
 description: Experience League サポートに関する最新リリース情報。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 4%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年4月23日 – コールバック機能のリクエストの拡張
+
+Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは、コールバックのリクエスト機能を利用できるようになりました。
 
 ## 2026年4月8日 – コールバック機能のリクエストの拡張
 
