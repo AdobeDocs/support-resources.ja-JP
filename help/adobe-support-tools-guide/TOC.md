@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
+source-git-commit: b03f18c76d51510337daa563e3473c77d9734027
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
 
 - [Adobe サポートおよびツールガイドの概要](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League サポートリリースノート](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League サポートリリースノート](/help/adobe-support-tools-guide/release-notes.md)
 - [Adobe カスタマーサポート体験](adobe-customer-support-experience.md)
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
