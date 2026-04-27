@@ -32,7 +32,7 @@ Adobeチームは、一般的なサポート上の課題と新たなトレンド
 
 ## 可用性と範囲
 
-システムインサイトは現在、Adobe Commerceでのみ利用できます。 これらのインサイトは、Experience League サポートのケース作成プロセス中に表示され、[&#x200B; サイト全体の分析ツール（SWAT） &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro)からも入手できます。
+システムインサイトは現在、Adobe Commerceでのみ利用できます。 これらのインサイトは、Experience League サポートのケース作成プロセス中に表示され、[&#x200B; サイト全体の分析ツール（SWAT） &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)からも入手できます。
 
 >[ !N注]
 >
@@ -40,7 +40,7 @@ Adobeチームは、一般的なサポート上の課題と新たなトレンド
 
 ## システムインサイトへのアクセス
 
-ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの下に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[&#x200B; サポートチケットの記入](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
+ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの下に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[&#x200B; サポートチケットの記入](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
 
 このパネルには、特定のプロジェクトインスタンスに対してスコープ付けされたインサイトのスクロール可能なリストが表示されます。 スコーピングは、**[!UICONTROL プロジェクト URL]** フィールドに入力された情報に基づいています。 **[!UICONTROL プロジェクト URL]**&#x200B;を正確に入力して、インサイトが正しい環境を反映するようにします。
 
