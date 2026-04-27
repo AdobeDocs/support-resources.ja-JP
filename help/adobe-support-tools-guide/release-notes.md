@@ -3,10 +3,10 @@ title: Experience League サポートリリースノート
 description: Experience League サポートに関する最新リリース情報。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 4%
+source-wordcount: '917'
+ht-degree: 1%
 
 ---
 
@@ -17,6 +17,37 @@ ht-degree: 4%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+
+## 2026年4月27日 – Adobe Commerceのエスカレーション管理とシステムインサイトの機能強化
+
+### エスカレーション管理
+
+1. Experience League サポートのエスカレーション管理では、新しいセルフサービス機能のセットを提供し、ニーズに合わせて構築された合理化されたシステム駆動型ワークフローを使用して、サポートケースをより可視化できます。
+
+1. AIを活用したサポートケースのスナップショットを即座に取得します。現在のステータス、次のステップ、主要な更新、ケース履歴を読まずにケースの概要を確認できます。
+
+1. 新しい&#x200B;**[!UICONTROL Get Help]** オプションでは、トラブルシューティング、コールバック要求、セルフサービスの問題の緊急更新、管理上の注意の要求など、顧客がサポートチームとシームレスに共同作業できる一元的なエクスペリエンスを提供します。
+
+1. **[!UICONTROL 即時の呼び出しを依頼]** - P1 クリティカルなケースの場合は、ケースリストから直接テクニカルサポートエンジニアに即時の呼び出しを依頼します。 電話番号と問題の簡単な説明を入力するだけで、サポートエンジニアが対応できるとすぐに連絡します。
+
+1. **[!UICONTROL 予定された通話をリクエスト]** - P2-UrgentおよびP3-Importantの場合は、ご都合の良い日時にテクニカルサポートエンジニアとのweb ミーティングをスケジュールします。 Microsoft Teamsの画面共有セッションは、予約時にすべてのミーティングの詳細で確認されます。
+
+1. **[!UICONTROL 問題の緊急性の変更]** - P3重要度とP4重要度のケースの場合、セルフサービスは、簡単な理由を提供することで、ケースの優先度をP4重要度からP2重要度までエスカレーションします。 優先度リクエストの変更は、チケットなしで行われ、再割り当てされる可能性があります。
+
+1. **[!UICONTROL 問題が発生しました]** – すべての優先度について、**[!UICONTROL 解決までの時間]**、**[!UICONTROL 解決が期待に応じませんでした]**、**[!UICONTROL エージェントコミュニケーションスキル]**、**[!UICONTROL エージェントテクニカルナレッジ]**&#x200B;など、上記のオプションでカバーされていないシナリオのエスカレーションを発生させます。
+
+### Adobe Commerceのケース作成フォームのシステムインサイト
+
+1. システムインサイトを利用すれば、環境内の検出された問題を自動的に検出できます。 これには、API、New Relic、および[!DNL Splunk]からのテレメトリデータを使用したパフォーマンスの低下、セキュリティリスク、および設定ミスが含まれます。 これにより、課題をより迅速に特定して解決できます。
+
+1. システムインサイトは、現在、ケース作成プロセス中にExperience League上のAdobe Commerce サポートでのみ利用できます。
+
+1. インサイトは特定のプロジェクトインスタンスの範囲で取得され、表示される情報が環境に即していることを確認します。
+
+1. 詳細な説明、解決すべき手順、根本原因の分析、Adobe Adobeの関連ドキュメントへのリンクを確認できます。
+
+1. 個々のインサイトに関するフィードバックを送信することで、Adobeがシステムインサイトの精度と関連性を継続的に向上させることができます。
 
 ## 2026年4月23日 – コールバック機能のリクエストの拡張
 
@@ -39,7 +70,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 ![新規](../adobe-support-tools-guide/assets/new.svg) **[!UICONTROL 問題の説明]**&#x200B;に基づいてタイトルを自動的に生成できるようになりました。これにより、ユーザーはケースを送信する前にタイトルを編集できます。
 
-![新規](../adobe-support-tools-guide/assets/new.svg)さんが&#x200B;**[!UICONTROL を追加しました「問題は再現可能ですか？」トラブルシューティングの改善に役立つ]** オプション。 ユーザーが&#x200B;**[!UICONTROL Yes]**&#x200B;を選択すると、問題を再現するために実行した手順を入力するように求められます。 *No*&#x200B;が選択されている場合、ユーザーはケースの提出を進めることができます。
+![新規](../adobe-support-tools-guide/assets/new.svg)さんが&#x200B;**[!UICONTROL を追加しました「問題は再現可能ですか？」]** トラブルシューティングを改善するオプション。 ユーザーが&#x200B;**[!UICONTROL Yes]**&#x200B;を選択すると、問題を再現するために実行した手順を入力するように求められます。 *No*&#x200B;が選択されている場合、ユーザーはケースの提出を進めることができます。
 
 ![新規](../adobe-support-tools-guide/assets/new.svg)環境またはインスタンスに最近変更が加えられたかどうかを示すオプションを追加しました。 **[!UICONTROL はい]**&#x200B;が選択されている場合、変更に関する追加情報を入力するように求められます。
 
@@ -54,7 +85,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
    - RSID
    - サイト URL （タグプロパティ名） / cURL
    - Workspace Shortlink
-- **Adobe Journey Optimizer（AJO）**
+- **Adobe Journey Optimizer （AJO）**
    - ジャーニーID、URL/Campaign ID、URL/Channel ID、URL/Offer Decisioning IDまたはURL
    - プロファイル例
    - サンドボックス名
@@ -62,7 +93,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
    - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
    - プロファイル例
    - サンドボックス名
-- **Adobe Experience Platform（AEP）**
+- **Adobe Experience Platform （AEP）**
    - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
    - プロファイル例
    - サンドボックス名
