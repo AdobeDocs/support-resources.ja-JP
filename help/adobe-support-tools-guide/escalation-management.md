@@ -22,7 +22,7 @@ ht-degree: 1%
 2. 確認したいケースをケースリストから探します。
 3. **[!UICONTROL ケースの概要]**&#x200B;列で、ケースの&#x200B;**ケースの概要**&#x200B;をクリックします。
 
-![ ケースの概要](/help/adobe-support-tools-guide/assets/case-summary.png)
+![&#x200B; ケースの概要](/help/adobe-support-tools-guide/assets/case-summary.png)
 
 ケース概要パネルが開き、AIが生成した概要が次の情報とともに表示されます。
 
@@ -56,11 +56,11 @@ ht-degree: 1%
 1. エスカレーションパネルを確認します。 選択した製品、ケースの優先順位、ケース ID、使用可能なエスカレーションオプションが表示されます。 利用できるオプションは次のとおりです。
 
    - [!UICONTROL 即時の呼び出しを要求]
-   - [!UICONTROL  スケジュールされた通話をリクエスト ]
+   - [!UICONTROL &#x200B; スケジュールされた通話をリクエスト &#x200B;]
    - [!UICONTROL 問題の緊急性の変更]
    - [!UICONTROL 問題が表示されていません]
 
-![ ヘルプを受け取る](/help/adobe-support-tools-guide/assets/get-help.png)
+![&#x200B; ヘルプを受け取る](/help/adobe-support-tools-guide/assets/get-help.png)
 
 ### 即時呼び出しを要求
 
@@ -164,9 +164,9 @@ ht-degree: 1%
    - **[!UICONTROL 詳しい情報をお手伝いできます。]**
 1. ドロップダウンで、エスカレーション理由を選択します。
    - [問題解決までの時間を制御]
-   - [UICONTROLの解決策が期待に応じませんでした]
-   - [UICONTROL エージェント コミュニケーション スキル ]
-   - [UICONTROL エージェント テクニカル ナレッジ ]
+   - [!UICONTROL の解決策が期待に応じませんでした]
+   - [!UICONTROL エージェント コミュニケーション スキル &#x200B;]
+   - [!UICONTROL エージェント テクニカル ナレッジ &#x200B;]
 1. 「フリーテキスト」フィールドに、エスカレーションに関する追加のコンテキストを入力します。
 1. 「**[!UICONTROL ケースをエスカレーション]**」をクリックしてエスカレーションを送信するか、「**[!UICONTROL キャンセル]**」をクリックして送信せずに終了します。
 
