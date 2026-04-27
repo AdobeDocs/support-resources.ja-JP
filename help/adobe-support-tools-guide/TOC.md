@@ -16,7 +16,7 @@ ht-degree: 0%
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
 
 - [Adobe サポートおよびツールガイドの概要](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League サポートリリースノート](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League サポートリリースノート](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe カスタマーサポート体験](adobe-customer-support-experience.md)
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
