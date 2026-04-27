@@ -6,20 +6,22 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
+source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '349'
+ht-degree: 0%
 
 ---
 
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
 
 - [Adobe サポートおよびツールガイドの概要](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League サポートリリースノート](/help/adobe-support-tools-guide/release-notes.md)
+- [Experience League サポートリリースノート](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe カスタマーサポート体験](adobe-customer-support-experience.md)
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
+- [エスカレーション管理](/help/adobe-support-tools-guide/escalation-management.md)
+- [システムインサイト](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleの操作](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [保留中のジョブの実行](adobe-admin-console/execute-jobs.md)
