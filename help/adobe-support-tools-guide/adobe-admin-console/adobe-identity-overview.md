@@ -4,13 +4,13 @@ description: 自社のID タイプ（Federated ID、Enterprise ID、Adobe ID、P
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # IDの概要
 
@@ -167,7 +167,7 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 </tr>
 <tr>
 <th scope="row"><strong>パスワードのリセット</strong></th>
-<td><a href="https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html"> アカウントのパスワードをリセットします。</a>以下の注意セクションのポイント 2を参照してください。</td>
+<td><a href="https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html"> アカウントのパスワードをリセットします。</a>  以下の注意セクションのポイント 2を参照してください。</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud エンタープライズ版およびDocument Cloud エンタープライズ版</strong></th>
@@ -202,10 +202,10 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 >1. [enterprise storage](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-storage.html)を使用しているCreative Cloud エンタープライズ版のお客様の場合、管理者はAdobe ID ユーザーをAdmin Consoleに追加できますが、商品プロファイルに追加することはできません。 管理者は、Adobe ID ユーザーを別のID タイプに移行する必要があります。
 >1. **Adobe IDのみをサポートする** Adobe ライセンス Web サイトなど、一部の製品およびサービスがあります。
 
-## その他の関連リソース
+## その他
 
 - [IDの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)
-- [&#x200B; ユーザーIDの切り替え](https://helpx.adobe.com/jp/enterprise/using/switch-user-identity.html)
-- [Admin Consoleの概要](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [教育に関するFAQ](https://helpx.adobe.com/enterprise/using/education-faq.html)
-- [&#x200B; ユーザーの追加と管理](https://helpx.adobe.com/jp/enterprise/using/users.html)
+- [ユーザーIDの切り替え](https://helpx.adobe.com/jp/enterprise/using/switch-user-identity.html)
+- [Admin Consoleの概要](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [トレーニングに関するFAQ](https://helpx.adobe.com/jp/x-productkb/policy-pricing/education-faq.html)
+- [ユーザーの追加と管理](https://helpx.adobe.com/jp/enterprise/using/users.html)
