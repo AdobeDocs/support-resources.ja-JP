@@ -1,12 +1,12 @@
 ---
 keywords: Experience Platform サポート；プラットフォームサポート；インテリジェントサービスサポート；カスタマーai サポート；アトリビューション ai サポート；rtcdp サポート；サポートチケットの送信；カスタマーサポート
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One エンタープライズ版
 description: Adobe カスタマーサポート体験
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Experience League サポートチケット
 
-サポートチケットは[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[&#x200B; サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
+サポートチケットは[Experience League](https://experienceleague.adobe.com/home#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[ サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
 
 Adobe カスタマーサポートとのやり取りを改善できるように取り組んでいます。 「当社のビジョンは、Experience Leagueを利用して、単一のエントリーポイントに移行することで、サポート体験を合理化することです。 本番稼働後は、Adobeカスタマーサポートに簡単にアクセスできるようになり、製品間の共通システムを通じてサービス履歴をより詳細に把握できます。また、単一のポータルを通じて、電話、web、チャットでサポートを受けることができます。
 
-Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[&#x200B; サポートケースの送信](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
+Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[ サポートケースの送信](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
 
 ## ケース提出に必要な権限のある役割のサポート {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール &#x200B;](adobe-admin-console/admin-roles.md)を参照してください。
+[Experience League](https://experienceleague.adobe.com/home#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール ](adobe-admin-console/admin-roles.md)を参照してください。
 
-Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
+Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
 
 ### サポート資格の役割を組織に追加する
 
@@ -66,25 +66,25 @@ Commerceを使用している場合、サポートケースで作業するアク
 
 ![管理者権限の確認](assets/admin-rights-confirmation.png)
 
-詳細については、管理者ロールのドキュメントの「[&#x200B; エンタープライズ管理者ロールを編集](adobe-admin-console/admin-roles.md#add-enterprise-role)」の手順に従ってください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール &#x200B;](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
+詳細については、管理者ロールのドキュメントの「[ エンタープライズ管理者ロールを編集](adobe-admin-console/admin-roles.md#add-enterprise-role)」の手順に従ってください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール ](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
 
 ### Experience Leagueでサポートチケットを作成する
 
 >[!NOTE]
 >
-> サポートチケットを送信する前に、[Adobe ステータス &#x200B;](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
+> サポートチケットを送信する前に、[Adobe ステータス ](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
 
 Experience Leagueは、資格を持つお客様にパーソナライズされたサポートと使いやすいエクスペリエンスを提供するために設計されたセルフサービスポータルです。
 
-1. [Experience League](https://experienceleague.adobe.com/home?lang=ja#support)でチケットを作成するには、上部のナビゲーションで「**[!UICONTROL サポート]**」タブを選択します。
+1. [Experience League](https://experienceleague.adobe.com/home#support)でチケットを作成するには、上部のナビゲーションで「**[!UICONTROL サポート]**」タブを選択します。
 
-   ![Experience League サポート タブ &#x200B;](./assets/experience-league-support-tab.png)
+   ![Experience League サポート タブ ](./assets/experience-league-support-tab.png)
 
 1. **[!UICONTROL ホーム]** メニューから、**[!UICONTROL サポートチケットを開く]**、**[!UICONTROL ケースを表示して管理する]**、**[!UICONTROL コールバックをリクエストする]**、または追加の学習リソースにアクセスできます。
 
-   「**[!UICONTROL コールバックをリクエスト]**」オプションを使用すると、画面共有を使用してweb ミーティングをスケジュールでき、より迅速かつ効率的な問題解決が可能になります。 Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target、Workfrontで使用できます。 顧客の都合に合わせてミーティングをスケジュールしたり、インスタント招待状を提供したりすることができます。 Adobe Experience Manager P1の場合、重要な問題発生時に迅速なエンゲージメントを可能にするため、すぐにコールバックをおこない、ダウンタイムとビジネスへの影響を最小限に抑えることができます。
+「**[!UICONTROL コールバックをリクエスト]**」オプションを使用すると、P2およびP3のケースの画面共有を使用してweb ミーティングをスケジュールでき、より迅速かつ効率的な問題解決が可能になります。 Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Commerce、GenStudio、Marketo、Target、およびWorkfrontで使用できます。 お客様の都合に合わせてミーティングをスケジュールできます。 また、Adobe Commerceを除く、上記のすべての製品でP1 ケースの即時コールバックを提供します。
 
-   ![Experience League ホームメニュー](./assets/home-menu.png)
+![Experience League ホームメニュー](./assets/home-menu.png)
 
 1. ケースを送信するには、**[!UICONTROL サポートチケットを開く]**&#x200B;を選択します。 サイドバーメニューで「**[!UICONTROL チケットを開く]**」を選択することもできます。
 
@@ -141,7 +141,7 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
-   ![次のオプションをクリック &#x200B;](./assets/click-next.png)
+   ![次のオプションをクリック ](./assets/click-next.png)
 
 1. **[!UICONTROL システム情報]** セクションで、**[!UICONTROL 製品バージョン]**、**[!UICONTROL 環境]**、**[!UICONTROL 製品オファー]**&#x200B;を指定し、環境またはインスタンスに最近変更が加えられたかどうかを示します。 **はい**&#x200B;を選択して、変更に関する詳細を追加します。 変更が行われなかった場合は、**No**&#x200B;を選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
@@ -157,7 +157,7 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 
    ![Experience Leagueの優先度とビジネスへの影響](./assets/priority-business-impact.png)
 
-   ケースの優先度とビジネスへの影響がサポート応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[&#x200B; サポートの目標初期応答時間](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
+   ケースの優先度とビジネスへの影響がサポート応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[ サポートの目標初期応答時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
 
 1. **[!UICONTROL 連絡先情報と視聴者リスト]** セクションで、タイムゾーンを選択し、電話番号を入力し、視聴者を追加し、必要に応じてファイルを添付してから、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
