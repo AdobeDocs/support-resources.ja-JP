@@ -1,12 +1,12 @@
 ---
 keywords: Experience Platform サポート；プラットフォームサポート；インテリジェントサービスサポート；カスタマーai サポート；アトリビューション ai サポート；rtcdp サポート；サポートチケットの送信；カスタマーサポート
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One エンタープライズ版
 description: Adobe カスタマーサポート体験
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,9 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 
 1. **[!UICONTROL ホーム]** メニューから、**[!UICONTROL サポートチケットを開く]**、**[!UICONTROL ケースを表示して管理する]**、**[!UICONTROL コールバックをリクエストする]**、または追加の学習リソースにアクセスできます。
 
-   「**[!UICONTROL コールバックをリクエスト]**」オプションを使用すると、画面共有を使用してweb ミーティングをスケジュールでき、より迅速かつ効率的な問題解決が可能になります。 Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Marketo、Target、Workfrontで使用できます。 顧客の都合に合わせてミーティングをスケジュールしたり、インスタント招待状を提供したりすることができます。 Adobe Experience Manager P1の場合、重要な問題発生時に迅速なエンゲージメントを可能にするため、すぐにコールバックをおこない、ダウンタイムとビジネスへの影響を最小限に抑えることができます。
+「**[!UICONTROL コールバックをリクエスト]**」オプションを使用すると、P2およびP3のケースの画面共有を使用してweb ミーティングをスケジュールでき、より迅速かつ効率的な問題解決が可能になります。 Adobe Experience Manager、Admin Console、Analytics、Audience Manager、Campaign、Commerce、GenStudio、Marketo、Target、およびWorkfrontで使用できます。 お客様の都合に合わせてミーティングをスケジュールできます。 また、Adobe Commerceを除く、上記のすべての製品でP1 ケースの即時コールバックを提供します。
 
-   ![Experience League ホームメニュー](./assets/home-menu.png)
+![Experience League ホームメニュー](./assets/home-menu.png)
 
 1. ケースを送信するには、**[!UICONTROL サポートチケットを開く]**&#x200B;を選択します。 サイドバーメニューで「**[!UICONTROL チケットを開く]**」を選択することもできます。
 
