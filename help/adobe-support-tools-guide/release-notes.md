@@ -3,9 +3,9 @@ title: Experience League サポートリリースノート
 description: Experience League サポートに関する最新リリース情報。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ ht-degree: 1%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
 
+## 2026年5月7日 – コールバック機能のリクエストの拡張
+
+コールバックのリクエスト機能が、Adobe CommerceとAdobe GenStudioの両方で使用できるようになりました。 Adobe Commerceをご利用のお客様は、最適なタイミングでコールバックをスケジュールできます。また、Adobe GenStudioをご利用のお客様は、即時またはスケジュールされたコールバックのいずれかをリクエストできます。
 
 ## 2026年4月27日 – Adobe Commerceのエスカレーション管理とシステムインサイトの機能強化
 
