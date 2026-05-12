@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d487b7e82a01bf0d7e847a541be1eb3ca6e1c527
+source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,4 @@ ht-degree: 0%
    - [パートナーのAdobe Commerce on cloud infrastructure サンドボックス リクエスト](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [Adobe Commerce クラウドプロジェクトにユーザーを追加できません](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
    - [Adobeが提供するコンポーザーパッチの適用方法](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+   - [サポートツールの概要](adobe-commerce-support/overview.md)
