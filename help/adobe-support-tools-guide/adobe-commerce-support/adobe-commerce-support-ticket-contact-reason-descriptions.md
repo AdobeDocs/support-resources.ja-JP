@@ -1,58 +1,63 @@
 ---
-title: Adobe Commerce サポートチケット [!UICONTROL &#x200B; 問題の理由 &#x200B;] の説明
-description: この記事では、サポートチケット**[!UICONTROL &#x200B; 問題の理由 &#x200B;]**フィールドオプションの一覧を示し、それぞれのオプションの詳細を説明します。
-source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
+title: Adobe Commerce サポートチケット [!UICONTROL 問題理由]の説明
+description: この記事では、サポートチケット**[!UICONTROL 問題理由]**フィールドオプションの一覧と、それぞれの詳細について説明します。
+exl-id: 3af194c6-6f28-4ce1-bf60-af80057cb86b
+TQID: https://experienceleague.adobe.com/ON-DBtV4gobYWsItla-mCAVYYpngS6GX6Tq4Omtnf3Y
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: 256
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce サポートチケット [!UICONTROL &#x200B; 問題の理由 &#x200B;] の説明
+# Adobe Commerce サポートチケット [!UICONTROL 問題理由]の説明
 
-この記事では、サポートチケット **[!UICONTROL 問題の理由]** フィールドオプションの一覧と、それぞれの詳細な説明を示します。
+この記事では、サポートチケット **[!UICONTROL 問題の理由]** フィールドオプションの一覧と、それぞれの詳細について説明します。
 
 ## 問題の理由
 
 <table class="tg">
 <thead>
   <tr>
-    <th><span style="font-weight:bold;font-style:normal">問題の理由</span></th>
+    <th><span style="font-weight:bold;font-style:normal">イシューの理由</span></th>
     <th><span style="font-weight:700;font-style:normal">説明</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>セキュリティ</td>
-    <td>Adobe Commerce ストアフロントのセキュリティの問題が明らかになりました。</td>
+    <td>Adobe Commerce ストアフロントでセキュリティの問題を発見しました。</td>
   </tr>
   <tr>
-    <td>アカウント / ユーザー/ ID 管理</td>
-    <td>アカウント所有権の更新や、共有アクセス権限のトラブルシューティングに関するヘルプが必要です。 これは、アカウントのアクセスの管理や取得、SSH/sFTP のアクセス要求に関する問題 [!DNL New Relic] は適用されません。</td>
+    <td>アカウント/ユーザー/ID管理</td>
+    <td>アカウントの所有権の更新や、共有アクセス権限のトラブルシューティングに関するサポートが必要です。 これは、[!DNL New Relic] アカウントアクセスの管理と取得、およびSSH/sFTP アクセス要求に関する問題には適用されません。</td>
   </tr>
   <tr>
-    <td>Adobe Commerce アプリケーション</td>
-    <td>B2B、カタログサービス、[!DNL Live Search]、Product Recommendations、Adobe Commerce レポート、Adobe支払いサービス、Adobe CommerceのAdobe I/O Eventsなど、Adobe Commerce アプリケーションに関するヘルプが必要です。</td>
+    <td>Adobe Commerceアプリ</td>
+    <td>B2B、カタログサービス、[!DNL Live Search]、商品レコメンデーション、Adobe Commerce レポート、Adobe支払いサービス、Adobe Commerce用Adobe I/O Eventsなど、Adobe Commerce アプリケーションに関するサポートが必要です。</td>
   </tr>
   <tr>
-    <td>他のAdobe ソリューションとの統合</td>
-    <td>Adobe Experience Manager、Adobe Experience Platform、Adobe Analyticsなどに関するヘルプが必要です。</td>
+    <td>他のAdobeソリューションとの統合</td>
+    <td>Adobe Experience Manager、Adobe Experience Platform、Adobe Analyticsなどのサポートが必要です。</td>
   </tr>
   <tr>
     <td>インストール</td>
-    <td>Adobe Commerceのインストールやアップグレードに関するヘルプが必要です。</td>
+    <td>Adobe Commerceのインストールまたはアップグレードに関するサポートが必要です。</td>
   </tr>
   <tr>
     <td>インフラストラクチャ変更リクエスト</td>
-    <td>クラウドインフラストラクチャ上のAdobe Commerceに関するヘルプが必要であるか、一時的な vCPU の増加、バックアップ/スナップショットリクエスト、ドメインの更新などの設定変更リクエストがあります。</td>
+    <td>Adobe Commerce on cloud インフラストラクチャに関するサポートが必要な場合や、一時的なvCPUの増加、バックアップ/スナップショットリクエスト、ドメインの更新などの設定変更リクエストがある場合。</td>
   </tr>
   <tr>
-    <td>インフラ事故</td>
-    <td>クラウドインフラストラクチャー上のAdobe Commerceについて、停止したデプロイメント、[!DNL New Relic] アクセス、SSH/sFTP アクセス、サービスアップグレード（[!DNL OpenSearch]、[!DNL MariaDB]/[!DNL MySQL]、[!DNL Redis]、[!DNL RabbitMQ] （ただし PHP は除く）、SSL 証明書など、サポートが必要です。<strong> （[!DNL Live Search] には適用されません） </strong></td>
+    <td>インフラインシデント</td>
+    <td>デプロイメントの停止、[!DNL New Relic] アクセス、SSH/sFTP アクセス、サービスアップグレード （[!DNL OpenSearch]、[!DNL MariaDB]/[!DNL MySQL]、[!DNL Redis]、[!DNL RabbitMQ]）など、Adobe Commerce on cloud infrastructureのサポートが必要です。ただし、PHPは含まれません。SSL証明書など、<strong> （[!DNL Live Search]には適用されません。） </strong></td>
   </tr>  
 </tbody>
 </table>
 
-## 関連資料
+## 関連トピックス
 
-* Adobe Commerce Experience League サポートユーザーガイドの [&#x200B; サポートケースを送信 &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) します。
+* Adobe CommerceのExperience League サポートユーザーガイドの[ サポートケース ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を送信します。

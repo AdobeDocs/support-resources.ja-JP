@@ -3,9 +3,13 @@ title: Experience League サポートリリースノート
 description: Experience League サポートに関する最新リリース情報。
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
+TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: 973
 ht-degree: 1%
 
 ---
@@ -16,7 +20,7 @@ ht-degree: 1%
 
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
-![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+![ バグ ](../adobe-support-tools-guide/assets/bug.svg)既知の問題
 
 ## 2026年5月7日 – コールバック機能のリクエストの拡張
 
@@ -66,10 +70,10 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 - [!UICONTROL 製品の選択]
 - [!UICONTROL 問題の説明]
-- [!UICONTROL &#x200B; システム情報]
+- [!UICONTROL  システム情報]
 - [!UICONTROL 優先度とビジネスへの影響]
-- [!UICONTROL 連絡先情報と視聴者リスト &#x200B;]
-- [!UICONTROL &#x200B; レビューして送信]
+- [!UICONTROL 連絡先情報と視聴者リスト ]
+- [!UICONTROL  レビューして送信]
 
 ![新規](../adobe-support-tools-guide/assets/new.svg) **[!UICONTROL 問題の説明]**&#x200B;に基づいてタイトルを自動的に生成できるようになりました。これにより、ユーザーはケースを送信する前にタイトルを編集できます。
 
@@ -77,7 +81,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 ![新規](../adobe-support-tools-guide/assets/new.svg)環境またはインスタンスに最近変更が加えられたかどうかを示すオプションを追加しました。 **[!UICONTROL はい]**&#x200B;が選択されている場合、変更に関する追加情報を入力するように求められます。
 
-![新規](../adobe-support-tools-guide/assets/new.svg)さんが、重要な詳細をキャプチャするために、使用権限のある製品に&#x200B;**追加の[!UICONTROL 環境コンテキスト &#x200B;] フィールド**&#x200B;を追加しました：
+![新規](../adobe-support-tools-guide/assets/new.svg)さんが、重要な詳細をキャプチャするために、使用権限のある製品に&#x200B;**追加の[!UICONTROL 環境コンテキスト ] フィールド**&#x200B;を追加しました：
 
 - **Marketo**
    - Munchkin ID
@@ -105,7 +109,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
    - 接続ID / エラーメッセージ / コード
    - データビューID
 
-![新規](../adobe-support-tools-guide/assets/new.svg) ケース作成フローを中断せずに役立つガイダンスを表示するために、**AIを活用した[!UICONTROL &#x200B; レコメンデーションパネル]**&#x200B;を追加しました。
+![新規](../adobe-support-tools-guide/assets/new.svg) ケース作成フローを中断せずに役立つガイダンスを表示するために、**AIを活用した[!UICONTROL  レコメンデーションパネル]**&#x200B;を追加しました。
 
 ![新規](../adobe-support-tools-guide/assets/new.svg)入力したすべての情報の統合ビューを提供し、ユーザーが次のことを実行できるようにするために、**[!UICONTROL 概要の確認]**&#x200B;手順を追加しました。
 
