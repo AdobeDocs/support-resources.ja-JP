@@ -11,9 +11,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: 758
 ht-degree: 0%
 
 ---
@@ -49,7 +50,7 @@ ht-degree: 0%
 ## ポリシーテンプレートの作成
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)で、編集する組織を選択し、「**[!UICONTROL ポリシーテンプレート]**」タブに移動します。
-1. 「**[!UICONTROL テンプレートを作成]**.<br>」を選択
+1. 「**[!UICONTROL テンプレートを作成]**」を選択します。<br>
    ![写真1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
 1. **[!UICONTROL ポリシーテンプレートを作成]** ダイアログボックスで、ポリシーテンプレートの&#x200B;**name**&#x200B;と&#x200B;**description**&#x200B;を入力します。<br> ポリシーテンプレートの名前は、最大100文字までです。
@@ -95,7 +96,7 @@ ht-degree: 0%
 ## テンプレートの削除
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)で、編集する組織を選択し、「**[!UICONTROL ポリシーテンプレート]**」タブに移動します。
-1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL テンプレートを削除]**.<br>を選択します
+1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL テンプレートを削除]**&#x200B;を選択します。<br>
    ![写真6](./assets/DXSKB-3209-6-ga_15-2.png)
    <br>
 1. 表示されるダイアログボックスで「*はい*」を選択します。

@@ -1,98 +1,105 @@
 ---
 keywords: FAQ；よくある質問
-title: Adobe Business Platform およびAdmin Consoleに関する FAQ
-description: Adobe Workfrontに関するよくある質問（Faq）
-source-git-commit: 653e7ff37fefc20cb0d7c745a12d6f47038e8463
+title: Adobe Business PlatformとAdmin Consoleに関するFAQ
+description: Adobe Workfrontに関するよくある質問
+exl-id: 533d7a19-1bb2-4823-860f-d2c66412bb3d
+TQID: https://experienceleague.adobe.com/9vMmY3Kkuy1AuXuGvdqjOwq-eOtL54YaUr1jMVuR-Tw
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: 484
 ht-degree: 11%
 
 ---
 
-# [!DNL Adobe Business Platform] とAdmin Consoleに関するよくある質問
+# [!DNL Adobe Business Platform]とAdmin Consoleに関するFAQ
 
-+++**Adobe ID とAdmin Consoleとは**
++++**Adobe IDとAdmin Consoleとは何ですか？**
 
-この [!DNL Adobe Business Platform] は、管理者や部門のリーダーに、カスタマイズされたWorkfront ソフトウェアのバージョンを管理するための最先端の制御コンソールを提供します。
-
-+++
-
-+++**お客様がAdobe ID とAdmin Console（AAC）に移行する必要があるのはなぜですか？**
-
-お客様は、[!DNL Adobe Business Platform] に移行することで、より安全で直感的な管理コンソールを利用できるようになります。
+[!DNL Adobe Business Platform]は、管理者と機能担当者に、カスタマイズしたバージョンのWorkfront ソフトウェアを管理するための最先端のコントロール コンソールを提供します。
 
 +++
 
-+++**お客様が AAC に移行する必要があるのはいつですか？**
++++**お客様がAdobe IDとAdmin Console （AAC）に移行する必要があるのはなぜですか？**
 
-お客様には、2022 年後半から 2023 年まで、Adobe ID とAdmin Consoleへの移行を調整するために連絡が行われます。
-
-+++
-
-+++**IMS 組織とは**
-
-IMS は、Identity Management Services with Adobe Workfrontの頭字語で、以下を指します。
-
-組織とは、管理者がグループとユーザーを設定し、Experience Cloud でのシングルサインオンを制御できるエンティティのことです。この組織は、Experience Cloud のすべての製品とアプリケーションにまたがるログイン会社のように機能します。ほとんどの場合、組織は勤務先の会社名です。ただし、1 つの会社が多くの組織を持つことができます。
+[!DNL Adobe Business Platform]に移行すると、さらに安全で直感的な管理コンソールが体験できます。
 
 +++
 
-+++**お客様は AAC にどのように移行しますか？**
++++**お客様がAACに移動する必要があるのはいつですか？**
 
-お客様は、Adobe Workfront サポートチームにリアルタイムのサポートとコーチングを提供して、スムーズに移行できるようにし、お客様の一般的な質問に回答します。
-
-+++
-
-+++**既存のWorkfront アーキテクチャから AAC に移行するプロセスを教えてください。**
-
-お客様には、お客様の移行を支援するために割り当てられた内部Workfront チームから指示と調整を受け取ります。
+お客様には、2022年後半から2023年まで続くAdobe IdentityおよびAdmin Consoleへの移行を調整するために連絡が取られます。
 
 +++
 
-+++**Workfrontのお客様は、現在、AAC で使用できない新機能にはどのようなものがありますか？**
++++**IMS組織とは何ですか？**
+
+IMSは、Adobe Workfrontを使用したIdentity Management サービスの頭字語です。これは、...
+
+組織とは、管理者がグループとユーザーを設定し、Experience Cloud でのシングルサインオンを制御できるエンティティのことです。 この組織は、Experience Cloud のすべての製品とアプリケーションにまたがるログイン会社のように機能します。 ほとんどの場合、組織は勤務先の会社名です。 ただし、1 つの会社が多くの組織を持つことができます。
+
++++
+
++++**お客様はAACに移動する方法を教えてください。**
+
+Adobe Workfrontサポートチームが、リアルタイムの支援とコーチングを通じて顧客をスムーズに誘導し、顧客からの一般的な質問に回答します。
+
++++
+
++++**既存のWorkfront アーキテクチャからAACに移行するプロセスを教えてください。**
+
+お客様は、お客様の移行を支援するために割り当てられたWorkfront社内チームから指示と調整を受けます。
+
++++
+
++++**AACの新機能のうち、現在Workfrontのお客様が利用できないものは何ですか？**
 
 
 
 +++
 
-+++**AAC で利用できるトレーニングリソースには何がありますか？**
++++**AACで利用できるトレーニング リソースは何ですか？**
 
 &lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
 
 +++
 
-+++**Workfrontの個人用インスタンスは AAC に移行されますか？**
++++**Workfrontの個人用インスタンスはAACに移行されますか？**
 
 はい。
 
 +++
 
-+++**お客様がAdobe スイートに他の製品を含んでいる場合、AAC に移行すると管理コンソールは統合されますか？**
++++**お客様がAdobe スイートに他の製品を持っている場合、AACに移行すると管理コンソールが統合されますか？**
 
-はい。管理コンソールはAdobe全体で同じもので、管理者が 1 つのプラットフォームでWorkfrontやその他のほとんどのAdobe製品を使用できます。
-
-+++
-
-+++**Workfrontの一般的なユーザーが AAC に移行されるまでに、どのくらい時間がかかりますか？**
-
-お客様が AAC を実装する時間は様々ですが、通常、お客様は約 2 時間の電話会議でライブエクスペリエンスを得ることができます。
+はい。 管理コンソールはAdobe全体で同じであり、管理者はWorkfrontとほぼすべてのAdobe製品を使用できます。
 
 +++
 
-+++**Adobe Products 以外でWorkfront ソリューションに統合した他のテクノロジーにも影響はありますか？**
++++**一般的なWorkfrontのお客様のAACへの移行にはどのくらいの時間がかかりますか？**
 
-[!DNL Fusion] アプリケーションを使用して他のサービスに接続している顧客は、[!DNL Fusion] アプリケーションがこの変更を行う準備ができている場合にのみ移動されます。
-
-+++
-
-+++**AAC への移行に伴う費用はかかりますか？**
-
-AAC に移行する場合、お客様に追加コストはかかりません。
+AACを実装する時間は顧客によって異なりますが、一般的な体験では、約2時間の顧客との電話会議でのライブ体験が可能です。
 
 +++
 
-+++**AAC に移行しない理由はありますか？**
++++**これは、Adobe製品以外のWorkfront ソリューションに統合した他の技術に影響しますか？**
 
-AAC は、Workfrontの将来のエクスペリエンスにおいて、お客様に最高のアップデートと機能強化を提供します。これはユーザーにとって大きな前進です。 従来のデモ用コンソールがシャットダウンされるため、すべてのお客様は 2023 年末までに AAC に移行する必要があります。
+[!DNL Fusion] アプリケーションを使用して他のサービスに接続しているお客様は、[!DNL Fusion] アプリケーションがこの変更を行う準備ができたときにのみ移動されます。
+
++++
+
++++**お客様がAACに移行する際に発生するコストはありますか？**
+
+AACへの移行に追加コストはかかりません。
+
++++
+
++++**AACに移動しない理由はありますか？**
+
+AACは、Workfrontの将来の体験に最適なアップデートと強化機能をお客様に提供し、お客様にとって素晴らしい一歩となります。 2023年末までにすべての顧客がAACに移行する必要があり、従来の実演コンソールは閉鎖されます。
 
 +++

@@ -11,10 +11,11 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 579
-ht-degree: 1%
+source-wordcount: 758
+ht-degree: 0%
 
 ---
 
@@ -80,10 +81,10 @@ ht-degree: 1%
 
 ## 関連トピックス
 
-- [&#x200B; グローバル管理の導入](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
+- [グローバルな経営体制の導入](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
 - [管理者の管理](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
-- [&#x200B; ユーザーグループの管理](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
-- [製品を子組織に割り当て](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
+- [ユーザーグループの管理](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
+- [製品を子組織に割り当てる](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
 - [保留中のジョブの実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)
-- [&#x200B; サービスを有効/無効にする](https://helpx.adobe.com/jp/enterprise/using/enable-disable-services.html)
+- [サービスの有効化/無効化](https://helpx.adobe.com/jp/enterprise/using/enable-disable-services.html)
 - [Admin Consoleの概要](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)

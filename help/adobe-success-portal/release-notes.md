@@ -3,10 +3,18 @@ title: Adobe Success ポータルのリリースノート
 description: ' [!DNL Adobe Success portal] の最新のリリース情報をご確認ください。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,21 +22,21 @@ ht-degree: 83%
 
 このリリースノートには、[!DNL Adobe Success portal] の以下の更新内容が含まれています。
 
-![新規](../adobe-success-portal/assets/new.svg) - 新機能
-![修正](../adobe-success-portal/assets/fix.svg) - 修正点と改善点
-![バグ](../adobe-success-portal/assets/bug.svg) - 既知の問題
+![新機能](../adobe-success-portal/assets/new.svg) – 新機能
+![修正](../adobe-success-portal/assets/fix.svg) – 修正と改善
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) – 既知の問題
 
 ## 4.0
 
-_2025 年 11 月 11 日_
+_2025年11月11日_
 
-![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細ページの会話の順序を最適化し、最新のメッセージまで自動的にスクロールするようにしました。
+![修正](../adobe-success-portal/assets/fix.svg) ケースの詳細ページで会話の順序を最適化し、自動的に最新のメッセージにスクロールできるようにしました。
 
-![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl + クリック**/**Command + クリック** を使用して新しいタブで開くと、ナビゲーションエラーを防ぐために「戻る」ボタンが適切に無効になりました。
+![修正](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl+クリック** / **Command+クリック**&#x200B;を使用して新しいタブで開いたときに、「戻る」ボタンが正しく無効になり、ナビゲーションエラーが発生しないようにしました。
 
-![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]** で、**[!UICONTROL Adobeのステータス]** アラートに対して、誤ったステータス、地域またはタイムゾーンの詳細が表示される問題を修正しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]**&#x200B;の&#x200B;**[!UICONTROL Adobe Status]** アラートに対して、ステータス、地域、またはタイムゾーンの詳細が正しく表示されない問題を修正しました。
 
-![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)**[!UICONTROL 戦略的パートナー]** にリンクされた **[!UICONTROL アクセラレーター]** および **[!UICONTROL アクティビティ]** の表示の問題を解決しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)戦略的パートナー&#x200B;**[!UICONTROL にリンクされた**&#x200B;[!UICONTROL &#x200B; アクセラレーター&#x200B;]&#x200B;**および**&#x200B;[!UICONTROL &#x200B; アクティビティ &#x200B;]&#x200B;**の表示に関する問題を解決しました]**。
 
 ## 3.0
 
@@ -41,8 +49,8 @@ _2025年10月9日（PT）_
    * **[!UICONTROL アクセラレーター]**&#x200B;の場合は青色
    * **[!UICONTROL アクティビティ]**&#x200B;の場合は緑色
 * 各&#x200B;**[!UICONTROL アクセラレーター]**／**[!UICONTROL アクティビティ]**&#x200B;には、名前、ステータス、開始日／終了日（*YYYY年* *XX月*&#x200B;の形式）が表示されます。
-* イベントカードをクリックすると、イベントの詳細を含むページが開きます。「戻る」ボタンをクリックすると、戻ります。
-* イベントは色分けされています。**[!UICONTROL アクセラレーター]**&#x200B;の場合は青色、**[!UICONTROL アクティビティ]**&#x200B;の場合は緑色です。KBO を垂直方向にスクロールし、週または月ごとに水平方向にスクロールします。
+* イベントカードをクリックすると、イベントの詳細を含むページが開きます。 「戻る」ボタンをクリックすると、戻ります。
+* イベントは色分けされています。**[!UICONTROL アクセラレーター]**&#x200B;の場合は青色、**[!UICONTROL アクティビティ]**&#x200B;の場合は緑色です。 KBO を垂直方向にスクロールし、週または月ごとに水平方向にスクロールします。
 * テキストを切り捨てた際はツールチップに完全な名前が表示され、スクロール中ではタイムラインが表示されたままになります。
 * デフォルトの表示は現在の週です。ナビゲーション矢印を使用して週間を移動できます。
 * 月表示では、進行中の作業と予定されている作業の明確なタイムラインが表示されます。
@@ -58,7 +66,7 @@ _2025年10月9日（PT）_
 
 ![修正](../adobe-success-portal/assets/fix.svg) アカウントに関連付けられているすべての&#x200B;**[!UICONTROL 戦略的パートナー]**&#x200B;を、プライマリ連絡先のインジケーターと共に表示します。
 
-![&#x200B; 修正 &#x200B;](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobeステータス]** のタイムゾーンが、ログインしたユーザーのプロファイルを正しく反映しなかった問題を修正しました。
+![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートとAdobe Status]**&#x200B;のタイムゾーンがログインユーザーのプロファイルを正しく反映しない問題を修正しました。
 
 ![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アラートと Adobe ステータス]**&#x200B;のフィルターが期待どおりに連携しなかった問題を修正しました。
 
@@ -74,7 +82,7 @@ _2025年9月11日（PT）_
 
 ![新規](../adobe-success-portal/assets/new.svg)次のフィールドを&#x200B;**[!UICONTROL アクティビティの詳細]**&#x200B;ページに追加しました。
 
-* **[!UICONTROL 優先度]**：アクティビティの優先度レベルを示します。使用可能な値は、*緊急*、*高*、*標準*、*低*、*なし*&#x200B;です。値が&#x200B;*なし*&#x200B;の場合、「**[!UICONTROL 優先度]**」フィールドはポータルの UI に表示されません。
+* **[!UICONTROL 優先度]**：アクティビティの優先度レベルを示します。 使用可能な値は、*緊急*、*高*、*標準*、*低*、*なし*&#x200B;です。 値が&#x200B;*なし*&#x200B;の場合、「**[!UICONTROL 優先度]**」フィールドはポータルの UI に表示されません。
 * **[!UICONTROL アドビ所有者]**：アクティビティに対して指定されたアドビオーナーを表示します。
 * **[!UICONTROL クライアント所有者]**：顧客側の所有者を表示します。
 * **[!UICONTROL 次の手順]**：アクティビティに対してキャプチャされた次のアクションを表示します。

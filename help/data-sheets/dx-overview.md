@@ -1,19 +1,22 @@
 ---
 title: Experience Cloud サポートサービスの概要
-description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
+description: この記事では、Adobe Experience Cloud のカスタマーサポートオプションの概要について説明します。 これらのオプションには、オンライン、ビジネス、エンタープライズ、エリートが含まれます。
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
+TQID: https://experienceleague.adobe.com/m4dCNB7UaMrCL75Drv02GMnAGQbMjlA2FRQhA90x0Mo
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 203
 ht-degree: 100%
 
 ---
 
 # Experience Cloud サポートサービスの概要
 
-Adobe Experience Cloud カスタマーサポートは、お客様の成功のために尽力しています。どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
+Adobe Experience Cloud カスタマーサポートは、お客様の成功のために尽力しています。 どのサブスクリプションを選択しても、高度なスキルを持つアドビのテクニカルリソースに簡単にアクセスして技術支援を受けることができます。
 
-また、より包括的なニーズに対応するために、専任サポート担当者へのアクセスや、迅速なサービスレベルの応答目標、プロアクティブメンタリングやサービスレビューのためのセッションなど、様々なアドビサポートサービスを提供しています。お客様のサポートニーズがどれほど複雑であっても、アドビは、お客様がアドビソリューションから最高のパフォーマンスと最適な価値を得るために必要な技術的および運用上の専門知識を提供します。
+また、より包括的なニーズに対応するために、専任サポート担当者へのアクセスや、迅速なサービスレベルの応答ターゲット、プロアクティブメンタリングやサービスレビューのためのセッションなど、様々なアドビサポートサービスを提供しています。 お客様のサポートニーズがどれほど複雑であっても、アドビは、お客様がアドビソリューションから最高のパフォーマンスと最適な価値を得るために必要な技術的および運用上の専門知識を提供します。
 
 <table style="table-layout:fixed">
 <tr>
@@ -41,7 +44,7 @@ Adobe Experience Cloud カスタマーサポートは、お客様の成功のた
 <tr>
   <td>
     <a href="enterprise.md">
-    <img alt="エンタープライズ" src="assets/EnterpriseSupportThumbnail.png"/>
+    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
     <a href="enterprise.md"><strong>エンタープライズサポート</strong></a>（<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> を表示）

@@ -2,9 +2,14 @@
 title: ビジネスサポート
 description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: d9c68a402ce091063abf016bc4fd7e2eb9ca9644
+TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: 905
 ht-degree: 100%
 
 ---
@@ -94,7 +99,7 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
     <td></td>
   </tr>
   <tr>
-    <td>環境レビュー、メンテナンスと監視</td>
+    <td>環境レビュー、メンテナンスとモニタリング</td>
     <td></td>
     <td></td>
   </tr>
@@ -124,7 +129,7 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
 
 ## サービスレベルターゲット：初期対応
 
-| 優先度 | オンラインサポート | ビジネスサポート |
+| 優先度 | 標準サポート | ビジネスサポート |
 |--- |--- |--- |
 | <b>優先度 1</b><br>お客様の本番業務機能がダウンしている、または著しいデータ損失やサービス低下があり、機能およびユーザビリティを復元するための早急な処置が必要。 | 24 時間年中無休／<br>1 時間 | 24 時間年中無休／<br>1 時間 |
 | <b>優先度 2</b><br>お客様の業務機能に重大なサービス低下や潜在的なデータ損失があるか、主な機能が影響を受けている。 | 営業時間内／<br>4 時間 | 営業時間内／<br>2 時間 |
@@ -148,7 +153,7 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
     <img alt="電話サポート" src="assets/livetelephonesupport.png"/>
     <div>
     <p><b>電話サポート（ライブ）</b></p>
-    <p>お客様は、P2、P3、P4 のすべての問題について、地域のサポート時間内に電話でサポートケースを申請できます。サポートへの電話の回数に上限はありません。また、サポートからの折り返し連絡やミーティングをリクエストすることもできます。ミーティングでは、共有リモートデスクトップセッションを使用して、問題の説明や対処を受けることができます。</p>
+    <p>お客様は、P2、P3、P4 のすべての問題について、地域のサポート時間内に電話でサポートケースを申請できます。 サポートへの電話の回数に上限はありません。 また、サポートからの折り返し連絡やミーティングをリクエストすることもできます。ミーティングでは、共有リモートデスクトップセッションを使用して、問題の説明や対処を受けることができます。</p>
     </div>
   </td>
   <td>
@@ -174,7 +179,7 @@ Adobe Experience Cloud ビジネスサポートサービスは、アドビのテ
 </tr>
 </table>
 
-## オンラインサポートの特長
+## 標準サポートの特長
 
 <!--
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
@@ -187,7 +192,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>コミュニティフォーラム</p>
     <p><b>オンラインフォーラム</b></p>
-    <p>テクニカルソリューション、製品ドキュメント、FAQ などの増大するデータベースにオンラインで継続的にアクセスできます。何千人ものお客様同士が繋がり、ベストプラクティスや学習した内容を共有できます。</p>
+    <p>テクニカルソリューション、製品ドキュメント、FAQ などの増大するデータベースにオンラインで継続的にアクセスできます。 何千人ものお客様同士が繋がり、ベストプラクティスや学習した内容を共有できます。</p>
     </div>
   </td>
   <td>
@@ -203,7 +208,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Experience League</p>
     <p><b>セルフガイドジャーニー</b></p>
-    <p>エクスペリエンスメーカーは、Experience League から誕生します。Experience League に参加すると、パーソナライズされた学習で、顧客体験管理能力を強化することができます。スキルの向上や、グローバルコミュニティでの仲間との交流のほか、キャリアアップに役立つ評価の獲得も可能です。</p>
+    <p>エクスペリエンスメーカーは、Experience League から誕生します。 Experience League に参加すると、パーソナライズされた学習で、顧客体験管理能力を強化することができます。スキルの向上や、グローバルコミュニティでの仲間との交流のほか、キャリアアップに役立つ評価の獲得も可能です。</p>
     </div>
   </td>
 </tr>
@@ -213,7 +218,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Office Hours</p>
     <p><b>ウェビナー</b></p>
-    <p>Office Hours は、アドビカスタマーサポートチーム主導による取り組みの 1 つです。これらのセッションは、参加者に情報を提供するだけでなく、問題のトラブルシューティングや Adobe Experience Cloud で成功するためのヒントやテクニックを紹介することを目的としています。</p>
+    <p>Office Hours は、アドビカスタマーサポートチーム主導による取り組みの 1 つです。 これらのセッションは、参加者に情報を提供するだけでなく、問題のトラブルシューティングや Adobe Experience Cloud で成功するためのヒントやテクニックを紹介することを目的としています。</p>
     </div>
   </td>
   <td>
@@ -242,9 +247,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
-| [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
-| [本番環境の問題とシステム障害](https://status.adobe.com/ja-jp/) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。イベントには、定期的なメンテナンスや、様々な重大度レベルの問題が含まれています。 |
+| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。 セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
+| [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。 ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。 市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
+| [本番環境の問題とシステム障害](https://status.adobe.com/ja) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。 お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。 イベントには、スケジュール済みのメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [ビジネスサポート web サイト](https://helpx.adobe.com/jp/support/programs/enterprise-support-programs/premier-support-business.html) | アドビのビジネスサポート web サイトです。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
 
