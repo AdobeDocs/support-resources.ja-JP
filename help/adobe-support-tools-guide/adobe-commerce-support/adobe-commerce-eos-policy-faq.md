@@ -6,11 +6,19 @@ solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
 TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-subfeature_v2: id: f2261633-201d-46c5-8a66-999e70527a83
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2:
+  - id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 1808
@@ -26,7 +34,7 @@ ht-degree: 0%
 
 ### Adobe Commerceのすべてのバージョンのソフトウェアサポート日はどこで確認できますか？
 
-Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
+Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
 
 ### AdobeがAdobe Commerceのバージョンのサポートを終了するとはどういう意味ですか？
 
@@ -76,7 +84,7 @@ Adobe Commerceを常に最新の状態に保つことで大きなメリットを
 
 コマースプラットフォームは企業にとって重要なビジネスシステムであり、常に最新の情報を入手することは、ビジネスにおける重要な継続的な投資です。 デジタルストアフロントの最新テクノロジーとセキュリティアップデートは、さまざまな面で重要であり、イノベーションと成長の促進に役立ちます。
 
-Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド ](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)を公開しました。
+Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)を公開しました。
 
 もうひとつの重要な検討事項は、開発者とパートナーのリソースを可能な限り早く確保することです。 パートナーの時間とリソースは、サポート終了日よりも早く予約されることが多く、移行プロジェクトを支援するリソースが大幅に減少します。 最低でも3年間のローリングプランを策定し、来年の計画と予算を立てることをお勧めします。 リリース日を記録するには、[Adobeのリリースカレンダー](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)を使用します。
 
