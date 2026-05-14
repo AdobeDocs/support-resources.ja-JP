@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ### Adobe Commerceのすべてのバージョンのソフトウェアサポート日はどこで確認できますか？
 
-Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
+Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
 
 ### AdobeがAdobe Commerceのバージョンのサポートを終了するとはどういう意味ですか？
 
@@ -84,9 +84,9 @@ Adobe Commerceを常に最新の状態に保つことで大きなメリットを
 
 コマースプラットフォームは企業にとって重要なビジネスシステムであり、常に最新の情報を入手することは、ビジネスにおける重要な継続的な投資です。 デジタルストアフロントの最新テクノロジーとセキュリティアップデートは、さまざまな面で重要であり、イノベーションと成長の促進に役立ちます。
 
-Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)を公開しました。
+Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=ja)を公開しました。
 
-もうひとつの重要な検討事項は、開発者とパートナーのリソースを可能な限り早く確保することです。 パートナーの時間とリソースは、サポート終了日よりも早く予約されることが多く、移行プロジェクトを支援するリソースが大幅に減少します。 最低でも3年間のローリングプランを策定し、来年の計画と予算を立てることをお勧めします。 リリース日を記録するには、[Adobeのリリースカレンダー](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)を使用します。
+もうひとつの重要な検討事項は、開発者とパートナーのリソースを可能な限り早く確保することです。 パートナーの時間とリソースは、サポート終了日よりも早く予約されることが多く、移行プロジェクトを支援するリソースが大幅に減少します。 最低でも3年間のローリングプランを策定し、来年の計画と予算を立てることをお勧めします。 リリース日を記録するには、[Adobeのリリースカレンダー](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/schedule)を使用します。
 
 ### Adobe Commerce サポートが終了した場合、サードパーティのサービスプロバイダーをソフトウェアサポートに使用できますか？
 

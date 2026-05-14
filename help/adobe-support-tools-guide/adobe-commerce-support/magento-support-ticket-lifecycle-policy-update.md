@@ -20,7 +20,7 @@ ht-degree: 39%
 
 # Adobe Commerce サポートチケットライフサイクルポリシーの更新
 
-このドキュメントでは、カスタマーサクセスを確実にするために、コミュニケーションを強化し、できるだけ早くお客様に解決策を提供することを目的として、Adobe DX サポートケースのライフサイクルに対する改善点の概要について説明します。 これは、[Adobe Success Plans Overview: Support Case Lifecycle](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)にも記載されています。
+このドキュメントでは、カスタマーサクセスを確実にするために、コミュニケーションを強化し、できるだけ早くお客様に解決策を提供することを目的として、Adobe DX サポートケースのライフサイクルに対する改善点の概要について説明します。 これは、[Adobe Success Plans Overview: Support Case Lifecycle](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)にも記載されています。
 サポートプロセス中に発生する様々なシナリオのタイムラインと通知を以下に示します。
 
 ## ケースフォローアップリマインダー
@@ -56,7 +56,7 @@ ht-degree: 39%
 
 ## 関連トピックス
 
-* [サポートチケットを送信](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [Adobe Commerce ヘルプセンターのスタートページに「チケットを送信」リンクが表示されない](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [チケット提出フォーム：加盟店が「組織」ドロップダウンに表示されない](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Adobe Success プランの概要：サポートケースのライフサイクル](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [サポートチケットを送信](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [Adobe Commerce ヘルプセンターのスタートページに「チケットを送信」リンクが表示されない](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [チケット提出フォーム：加盟店が「組織」ドロップダウンに表示されない](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Adobe Success プランの概要：サポートケースのライフサイクル](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
