@@ -5,12 +5,19 @@ feature: Cloud, Support, Admin Workspace
 role: Admin, Developer
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 3d2865871a355ff70d146bb83780f7b92fd8f677
+exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
+TQID: 'https://experienceleague.adobe.com/fWRfvDT8NCwPfzmAx1Zowo4T8KvKLKWqhDkZDfX8stU'
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+subfeature_v2: id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 9f1760d31cd80e0358aa341c3f6091b2a86b6d67
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 10%
+source-wordcount: 305
+ht-degree: 12%
 
 ---
+
 
 # サポート通知にチームメンバーを含める方法
 
@@ -18,28 +25,28 @@ ht-degree: 10%
 
 ## 影響を受ける製品とバージョン
 
-* クラウドインフラストラクチャー上のAdobe Commerce、すべて [&#x200B; サポート対象バージョン &#x200B;](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)。
+* クラウドインフラストラクチャ上のAdobe Commerce、すべての[ サポートされているバージョン ](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)。
 
 ## 原因
 
-* チーム メンバーが必要な特権で [!DNL cloud project] に追加されていません。
-* チームメンバーにサポートアカウントがありません。
+* 必要な権限を持つチームメンバーが[!DNL cloud project]に追加されていません。
+* チームメンバーはサポートアカウントを持っていません。
 
 ## ソリューション
 
-1. **[!DNL Cloud Project URL]** に移動します（例：`https://us-3.magento.cloud/projects/xxxxxx/edit`）。
-1. チームメンバーがプロジェクトに追加されたかどうか、および [!DNL Super User] ーザーであるかどうかを確認します。
+1. **[!DNL Cloud Project URL]**&#x200B;に移動します（例：`https://us-3.magento.cloud/projects/xxxxxx/edit`）。
+1. チームメンバーがプロジェクトに追加され、[!DNL Project Admin]であるかどうかを確認します。
 
-アセットがプロジェクトに追加されていない場合は、アセットを [!DNL Super User] として追加し、[!DNL Shared Access] の権限を付与する必要があります。
+プロジェクトに追加されていない場合は、それらを[!DNL Project Admin]として追加し、[!DNL Shared Access]を付与する必要があります。
 
-* ユーザーガイドの [&#x200B; ユーザーアクセスの管理 &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja)。
-* Commerce ナレッジベースの [Adobe Commerce クラウドプロジェクトにユーザーを追加できない &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ja)。
-* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#shared-access) （Commerce ナレッジベース）。
+* ユーザーガイドの[ ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* [Commerce ナレッジベースのAdobe Commerce クラウドプロジェクト ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ja)にユーザーを追加できません。
+* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) （Commerce ナレッジベース）
 
-ユーザーが [!DNL cloud project] に追加されたが、[!DNL Super User role] がない場合、[!DNL role] ユーザーアクセスの管理 [&#x200B; で適切に &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja) を更新します。
+[!DNL cloud project]に追加されたが、[!DNL Project Admin role]を持っていない場合は、[ ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)で、それに応じて[!DNL role]を更新してください。
 
-チームメンバーを、組織で開始されたすべてのケースのウォッチャーにするには、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/home?lang=ja&support-tab=home#support) を送信します。
+組織で開かれたすべてのケースでチームメンバーがウォッチャーになるようにしたい場合は、[ サポートチケット ](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support)を送信します。
 
-## 関連資料
+## 関連トピックス
 
-[&#x200B; 以前のチームメンバーには、Adobe Commerce Cloud 通知メールが届きます &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=ja)
+[以前のチームメンバーがAdobe Commerce cloud通知メールを受信する](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)
