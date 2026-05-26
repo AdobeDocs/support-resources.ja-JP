@@ -1,8 +1,7 @@
 ---
 title: Experience League サポートポータル – 新しいユーザーインターフェイス
 description: サポートワークフロー、ケースインサイト、製品モニタリングを合理化し、ナビゲーション、分析、迅速なアクションを改善するとともに、現在のポータルにシームレスに切り替えてケース管理を行う、新しく設計されたExperience League サポートポータル。
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%

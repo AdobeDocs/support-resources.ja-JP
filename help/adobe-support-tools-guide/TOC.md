@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
+source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 0%
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
 - [エスカレーション管理](/help/adobe-support-tools-guide/escalation-management.md)
+- [Experience League サポートポータル – 新しいユーザーインターフェイス](/help/adobe-support-tools-guide/exl-new-ui.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Adobe Admin Consoleの操作](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [保留中のジョブの実行](adobe-admin-console/execute-jobs.md)
