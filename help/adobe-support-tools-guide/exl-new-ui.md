@@ -1,7 +1,7 @@
 ---
 title: Experience League サポートポータル – 新しいユーザーインターフェイス
 description: サポートワークフロー、ケースインサイト、製品モニタリングを合理化し、ナビゲーション、分析、迅速なアクションを改善するとともに、現在のポータルにシームレスに切り替えてケース管理を行う、新しく設計されたExperience League サポートポータル。
-source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
+source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 **[!UICONTROL ホーム]** ページは、サポート活動の中心的なハブとして機能します。 サポート環境の概要と主な機能への迅速なアクセスを提供します。
 
-![新しいEXL UIのホームページ &#x200B;](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+![新しいEXL UIのホームページ &#x200B;](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 左側のナビゲーションパネルでは、次のセクションにアクセスできます。
 
@@ -60,7 +60,7 @@ ht-degree: 2%
 
 「**[!UICONTROL サービス分析]**」セクションには、サポートケースのアクティビティの概要が表示されます。 **[!UICONTROL 自分のケース]**&#x200B;と&#x200B;**[!UICONTROL 自分の組織のケース]**&#x200B;のビューを切り替えます。 **[!UICONTROL My Cases]** ビューには個人に固有のケース統計が表示され、**[!UICONTROL My Org Cases]** ビューには組織全体のケース統計が表示されます。
 
-![&#x200B; サービス分析セクション &#x200B;](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![&#x200B; サービス分析セクション &#x200B;](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 次の指標を使用できます。
 
@@ -71,7 +71,7 @@ ht-degree: 2%
 
 このセクションでは、サポートケースの優先度レベル別の視覚的な内訳を表示します。
 
-![優先度セクション別のケース数](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+![優先度セクション別のケース数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 このグラフには、**[!UICONTROL マイケース]**&#x200B;と&#x200B;**[!UICONTROL 組織ケース]**&#x200B;の選択が適用され、個人レベルまたは組織レベルでの表示が可能になります。
 
@@ -85,7 +85,7 @@ ht-degree: 2%
 - 送信日
 - ステータス
 
-![自分が送信したユースケースのセクション &#x200B;](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![自分が送信したユースケースのセクション &#x200B;](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 現在のExperience League サポートポータルでケースの詳細を表示するには、**[!UICONTROL ケース ID]**&#x200B;を選択します。 「**[!UICONTROL すべてのケースを表示]**」を選択して、ケースの完全なリストを表示します。
 
@@ -93,7 +93,7 @@ ht-degree: 2%
 
 このセクションには、組織に割り当てられたAdobe製品の現在の運用ステータスが表示されます。 **[!UICONTROL Available]**&#x200B;というステータスは、製品が完全に動作しており、アクティブな停止がないことを示します。 1つ以上の問題が存在する場合、アクティブな問題の合計数が製品カードに表示されます。 商品カードを選択して、Adobe [&#x200B; ステータスサイト &#x200B;](https://status.adobe.com/ja)の詳細を表示します。
 
-![製品ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![製品ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## システムステータスアラート
 
@@ -115,7 +115,7 @@ ht-degree: 2%
 
 追加の詳細を表示するアラートを選択します。
 
-![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
 「**[!UICONTROL サブスクリプションを管理]**」を選択して、Adobe [&#x200B; ステータスサイト &#x200B;](https://status.adobe.com/ja)でAdobe製品の通知設定を行います。
 
@@ -131,7 +131,7 @@ ht-degree: 2%
 >  
 >このページは、**[!UICONTROL Ultimate Success]** プランのお客様のみが利用できます。
 
-![成功ページ &#x200B;](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![成功ページ &#x200B;](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 このページには、次の情報が含まれます。
 
@@ -148,4 +148,4 @@ ht-degree: 2%
 
 このセクションには、Adobe Success専任チームが表示されます。 チームメンバーの横にある&#x200B;**[!UICONTROL 連絡先]**&#x200B;を選択して、メールを送信します。
 
-![Adobe Success Team セクション &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Adobe Success Team セクション &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
