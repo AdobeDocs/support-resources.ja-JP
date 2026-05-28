@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
 source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4525'
 ht-degree: 3%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 Global Admin Consoleの書き出し機能と読み込み機能を使用して、グローバル管理者が組織管理と製品管理を効率化する方法について説明します。
 
-**[!UICONTROL Global Admin Console]**&#x200B;の「[組織](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)」タブにアクセスして、組織構造を書き出すか、読み込みます。 割り当てデータを表示するには、**[!UICONTROL 製品割り当て]** タブに移動します。 **[!UICONTROL 詳細オプション]** （⋮） アイコンを選択し、**[!UICONTROL 書き出し]**&#x200B;または&#x200B;**[!UICONTROL 読み込み]**&#x200B;を選択します。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com)。
+[Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)の「**[!UICONTROL 組織]**」タブにアクセスして、組織構造を書き出すか、読み込みます。 割り当てデータを表示するには、**[!UICONTROL 製品割り当て]** タブに移動します。 **[!UICONTROL 詳細オプション]** （⋮） アイコンを選択し、**[!UICONTROL 書き出し]**&#x200B;または&#x200B;**[!UICONTROL 読み込み]**&#x200B;を選択します。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com)。
 
 ## 組織構造の書き出し
 
