@@ -3,10 +3,8 @@ title: ビジネスサポート
 description: Adobe Experience Cloud ビジネスサポートサービスは、アドビのテクニカルサポートチームと、アカウント管理のためのアカウントサポートリードへの完全なアクセスを提供します。
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 905
@@ -247,7 +245,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。 セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
+| [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。 セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
 | [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。 ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。 市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/ja) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。 お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。 イベントには、スケジュール済みのメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [ビジネスサポート web サイト](https://helpx.adobe.com/jp/support/programs/enterprise-support-programs/premier-support-business.html) | アドビのビジネスサポート web サイトです。 |
