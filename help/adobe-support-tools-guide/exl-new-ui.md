@@ -1,7 +1,7 @@
 ---
 title: Experience League サポートポータル – 新しいユーザーインターフェイス
 description: サポートワークフロー、ケースインサイト、製品モニタリングを合理化し、ナビゲーション、分析、迅速なアクションを改善するとともに、現在のポータルにシームレスに切り替えてケース管理を行う、新しく設計されたExperience League サポートポータル。
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 ポータルのトグルを使用して、再設計されたExperience League サポートポータルと現在のポータルを切り替えます。
 
-![新しいUI](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![新しいUI](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 両方のポータルは同期されたままであり、ケースデータとサポート情報がエクスペリエンスをまたいで一貫性を保つようにします。
 
