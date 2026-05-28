@@ -44,14 +44,14 @@ ht-degree: 12%
 
 プロジェクトに追加されていない場合は、それらを[!DNL Project Admin]として追加し、[!DNL Shared Access]を付与する必要があります。
 
-* ユーザーガイドの[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)。
+* ユーザーガイドの[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja)。
 * [Commerce ナレッジベースのAdobe Commerce クラウドプロジェクト &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=ja)にユーザーを追加できません。
-* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) （Commerce ナレッジベース）
+* [Adobe Commerce ヘルプセンターユーザーガイド：共有アクセス &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=ja#shared-access) （Commerce ナレッジベース）
 
-[!DNL cloud project]に追加されたが、[!DNL Project Admin role]を持っていない場合は、[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html)で、それに応じて[!DNL role]を更新してください。
+[!DNL cloud project]に追加されたが、[!DNL Project Admin role]を持っていない場合は、[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja)で、それに応じて[!DNL role]を更新してください。
 
-組織で開かれたすべてのケースでチームメンバーがウォッチャーになるようにしたい場合は、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support)を送信します。
+組織で開かれたすべてのケースでチームメンバーがウォッチャーになるようにしたい場合は、[&#x200B; サポートチケット &#x200B;](https://experienceleague.adobe.com/home?lang=ja&support-tab=home#support)を送信します。
 
 ## 関連トピックス
 
-[以前のチームメンバーがAdobe Commerce cloud通知メールを受信する](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)
+[以前のチームメンバーがAdobe Commerce cloud通知メールを受信する](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=ja)
