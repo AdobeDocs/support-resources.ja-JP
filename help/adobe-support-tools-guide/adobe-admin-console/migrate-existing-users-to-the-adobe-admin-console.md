@@ -7,8 +7,8 @@ feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
+source-wordcount: '1257'
+ht-degree: 4%
 
 ---
 
@@ -90,7 +90,7 @@ Admin ConsoleのCSV テンプレートを使用して、一括操作でライセ
 * 更新期間外にライセンスを割り当てる必要があります。
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/enterprise)にアクセスし、ライセンスが追加されたら、**[!UICONTROL Users]** > **[!UICONTROL Users]**&#x200B;に移動します。
-2. ![&#x200B; ユーザー](assets/migrate-more-options.png) ページの右上隅にある&#x200B;**[!UICONTROL 詳細オプションメニュー]**&#x200B;をクリックし、**[!UICONTROL ユーザーの詳細をCSV]**&#x200B;で編集を選択します。
+2. **[!UICONTROL ユーザー]** ページの右上隅にある![詳細オプションメニュー](assets/migrate-more-options.png)をクリックし、**[!UICONTROL ユーザーの詳細をCSV]**&#x200B;で編集を選択します。
 3. **[!UICONTROL ユーザーをCSV]**&#x200B;で編集ダイアログで、**[!UICONTROL CSV テンプレートをダウンロード]**&#x200B;をクリックし、**[!UICONTROL 現在のユーザーリスト]**&#x200B;を選択します。
 
    ![CSVでユーザーを編集](assets/migrate-edit-users-by-csv.png)
