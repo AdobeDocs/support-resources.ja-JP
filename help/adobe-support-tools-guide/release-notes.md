@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 1%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年5月28日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+
+**[!UICONTROL コールバックのリクエスト]**&#x200B;機能が、Adobe Journey Optimizer、Customer Journey Analytics、およびReal-Time Customer Data Platform製品ユーザー向けに利用可能になりました。
 
 ## 2026年5月26日 – Experience League サポートポータル UI アップデート
 
@@ -44,7 +48,7 @@ ht-degree: 1%
 >
 >ケース作成、ケースの詳細、およびマイケース ページの更新は、今後のリリースで予定されています。 それまでは、これらのページは現在のExperience League サポートポータルで引き続き利用できます。
 
-## 2026年5月7日 – コールバック機能のリクエストの拡張
+## 2026年5月7日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
 
 コールバックのリクエスト機能が、Adobe CommerceとAdobe GenStudioの両方で使用できるようになりました。 Adobe Commerceをご利用のお客様は、最適なタイミングでコールバックをスケジュールできます。また、Adobe GenStudioをご利用のお客様は、即時またはスケジュールされたコールバックのいずれかをリクエストできます。
 
@@ -78,13 +82,13 @@ ht-degree: 1%
 
 1. 個々のインサイトに関するフィードバックを送信することで、Adobeがシステムインサイトの精度と関連性を継続的に向上させることができます。
 
-## 2026年4月23日 – コールバック機能のリクエストの拡張
+## 2026年4月23日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
 
-Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは、コールバックのリクエスト機能を利用できるようになりました。
+Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは、**[!UICONTROL コールバックのリクエスト]**&#x200B;機能を利用できるようになりました。
 
-## 2026年4月8日 – コールバック機能のリクエストの拡張
+## 2026年4月8日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
 
-コールバックのリクエスト機能が、Marketo製品ユーザー向けに利用可能になりました。
+**[!UICONTROL コールバックのリクエスト]**&#x200B;機能が、Marketo製品ユーザー向けに利用できるようになりました。
 
 ## 2026年3月30日 – Enhanced Case Form
 
@@ -143,9 +147,9 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 ![修正](../adobe-support-tools-guide/assets/fix.svg)完全性を確保し、送信エラーを減らすために、必須のフィールドインジケーターとしてアスタリスク （*）を追加しました。
 
-## 2026年3月18日 – コールバック機能のリクエストの拡張
+## 2026年3月18日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
 
-Experience Leagueでは、コールバックのリクエストオプションが提供され、画面共有機能を使用してセルフサービスのweb ミーティングスケジュールを有効にし、問題解決を迅速化できるようになりました。
+Experience Leagueでは、**[!UICONTROL コールバックをリクエスト]** オプションが提供されるようになりました。これにより、画面共有機能を使用したセルフサービスのweb ミーティングのスケジュール設定が可能になり、問題解決が迅速になりました。
 
 - この機能は、Adobe Experience Manager、Campaign、Workfrontで利用できます。
 - 顧客は都合の良いタイミングでミーティングを予約し、瞬時に招待状を受け取ることができます。
