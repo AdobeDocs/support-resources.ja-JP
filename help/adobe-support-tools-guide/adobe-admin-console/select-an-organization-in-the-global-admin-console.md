@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 2%
+source-wordcount: '705'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Global Admin Console内で編集する組織を選択する方法について説
 >
 >[Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)にアクセスできたら、最初に組織を選択して、組織の名前、ユーザーグループ、製品プロファイル、管理者、および組織ポリシーを表示および管理します。 ログインするには、[Global Admin Console](https://global-admin-console.adobe.com/)に移動します。
 
-Global Admin Consoleは、Adobeのリソースを一元管理する組織のハブとして機能します。 グローバル管理者は次のことが可能です。
+Global Admin Consoleは、Adobe Admin Consoleを階層内でグループ化します。 選択した各組織は、1つのAdobe Admin Consoleです。 グローバル管理者は次のことが可能です。
 
-- 組織の下に子組織を作成する
-- システム管理者を割り当てて管理する
-- 管理および割り当てのためのリソースをそれらの組織のユーザーに配布
+- 組織の下に子管理者コンソール（子組織）を作成する
+- 各子コンソールを管理するシステム管理者の割り当て
+- システム管理者がコンソール内のユーザーに割り当てることができるように、サポートされている製品リソース/ライセンスを子のAdmin Consoleに割り当てます
 
 >[!NOTE]
 >

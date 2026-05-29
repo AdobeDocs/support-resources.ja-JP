@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ ht-degree: 0%
 
 Global Admin Console[&#128279;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)に アクセスできるようになると、新しい組織を作成したり、既存の組織を階層に追加したり、組織を削除したり、親組織を変更したりできます。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com/)。
 
-組織とは、Adobe製品とユーザーを管理するために使用される構造です。 [Adobe Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を使用すると、管理者は組織内の製品とユーザーのデプロイメントと設定を管理できます。 [Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)を使用すると、グローバル管理者は複数の組織を作成、管理、削除できます。
+Global Admin Consoleでは、組織はAdobe Admin Consoleであり、企業内の1つのエンティティのAdobe製品とユーザーを管理するために使用される構造です。 [Adobe Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)を使用すると、システム管理者はそのコンソール内でデプロイメント、ユーザー、ライセンスを管理できます。 [Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)を使用すると、グローバル管理者は、階層内の子管理者コンソール（子組織）を作成、再ペアレント化、削除し、親コンソールから子コンソールに製品を割り当てることができます。
 
 ## 子組織の作成
+
+>[!NOTE]
+>
+> 子どもはAdobe Admin Consoleの子どもです。 1つを作成すると、新しいコンソールがGlobal Admin Console階層に追加されます。
 
 [&#x200B; グローバル管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、階層内の任意の組織の子組織を作成し、名前、国、ユーザーグループ、製品、製品プロファイル、管理者、ポリシーを設定できます。
 

@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1963'
+source-wordcount: '2011'
 ht-degree: 4%
 
 ---
@@ -43,11 +43,11 @@ Admin Consoleにログインできない場合は、[Adobe アカウントのロ
 
 ![管理コンソール組織を選択](assets/admin-console-select-your-org.png "組織セレクター")
 
-組織がGlobal Admin Consoleの一部である場合、組織名の横に階層アイコンが表示されます。 組織のパスも表示され、階層内での組織の配置を決定できます。 例えば、スクリーンショットでは、管理者は組織Bのメンバーであり、この組織のGlobal Admin Console パスはA > Bです。Bは組織Aの子です。
+組織がGlobal Admin Consoleの一部である場合、組織名の横に階層アイコンが表示されます。 組織のパスも表示され、階層内での組織の配置を決定できます。 例えば、スクリーンショットでは、管理者は最上位の組織のメンバーであり、子組織は親組織/子組織などのGlobal Admin Console パスを持ち、子組織は親組織の下にネストされています。 このコンテキストでは、パス内の各組織はAdobe Admin Consoleです。子組織は、階層内の子Admin Consoleです。
 
 ![管理コンソール子の組織を選択](assets/admin-console-select-your-org-hierarchy.png "Global Admin Consoleの階層内の組織プレースメント ")
 
-多くのAdmin Consoleを持つ複雑な組織構造がある場合、またはメインのAdmin Consoleを複数のコンソールに分割する場合は、[Global Admin Consoleを導入できます](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。 Global Admin Consoleでは、既存のAdmin Consoleを組織図などの階層構造にネストして、分散したエンタープライズ全体に透明性を提供します。
+多くのAdmin Consoleを持つ複雑な組織構造がある場合、またはメインのAdmin Consoleを複数のコンソールに分割する場合は、[Global Admin Consoleを導入できます](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 Global Admin Consoleでは、Adobe Admin Consoleを組織図のような階層構造にグループ化するため、グローバル管理者は子コンソールを管理し、それに製品を割り当てることができます。また、システム管理者は各コンソールで日々の管理を続けることができます。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。
 
 ## [!UICONTROL 製品] {#products}
 
