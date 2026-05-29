@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 665fb88bb2240bcf414697ee415569dc083a9539
+source-git-commit: 7581e9c50ea6e63d7bbf3ca235c3df433b02420c
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ ht-degree: 0%
    - [クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
    - [Adobe Commerce P1通知ホットライン](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe Commerce Intelligence Essentials：支払い方法を更新するか、サブスクリプションを解約します](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
-   - [Adobeサポート カスタマーデータへのアクセスとプライバシー](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Adobe Commerce サポートチケットライフサイクルポリシーの更新](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
    - [Adobe Commerce on cloud pro インフラストラクチャの監視ファクトシート](adobe-commerce-support/monitoring-whitepaper.md)
    - [Adobe Commerce ソフトウェアのサポート終了に関するFAQ](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
