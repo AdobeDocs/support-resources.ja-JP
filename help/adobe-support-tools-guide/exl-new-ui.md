@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,22 +69,33 @@ ht-degree: 2%
 
 ## Service Analytics
 
-「**[!UICONTROL サービス分析]**」セクションには、サポートケースのアクティビティの概要が表示されます。 **[!UICONTROL 自分のケース]**&#x200B;と&#x200B;**[!UICONTROL 自分の組織のケース]**&#x200B;のビューを切り替えます。 **[!UICONTROL My Cases]** ビューには個人に固有のケース統計が表示され、**[!UICONTROL My Org Cases]** ビューには組織全体のケース統計が表示されます。
+「**[!UICONTROL サービス分析]**」セクションには、サポートケースのアクティビティの概要が表示されます。 ビューセレクターを使用して、**[!UICONTROL My Cases]**&#x200B;と&#x200B;**[!UICONTROL My Org Cases]**&#x200B;を切り替えます。
 
-![&#x200B; サービス分析セクション &#x200B;](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL マイケース]** – 個人に固有のケース統計を表示します。
+- **[!UICONTROL My Org Cases]** – 選択した組織のケース統計を表示します。
 
-次の指標を使用できます。
+選択したビューは、このセクションのすべての指標とグラフに適用されます。これには、[[!UICONTROL 優先度でカウントされるケース &#x200B;]](#cases-count-by-priority)と[[!UICONTROL 自分が送信したケース &#x200B;]](#my-submitted-cases)のセクションが含まれます。
 
-**[!UICONTROL 保留中の応答ケース]** – 現在応答を待っているケースの数
-**[!UICONTROL 送信済みケース]** – 送信済みケースの合計数
+![&#x200B; サービス分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+**[!UICONTROL Service Analytics]** セクションには、次の指標が用意されています。
+
+- **[!UICONTROL 保留中の応答ケース]** – 応答を待っているケースの数を表示します。
+- **[!UICONTROL 送信済みケース]** – 送信されたケースの合計数を表示します。
 
 ## 優先度別のケース数
 
 このセクションでは、サポートケースの優先度レベル別の視覚的な内訳を表示します。
 
-![優先度セクション別のケース数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![優先度によるケース数](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-このグラフには、**[!UICONTROL マイケース]**&#x200B;と&#x200B;**[!UICONTROL 組織ケース]**&#x200B;の選択が適用され、個人レベルまたは組織レベルでの表示が可能になります。
+**[!UICONTROL サービス分析]** セクションの&#x200B;**[!UICONTROL マイケース]**&#x200B;と&#x200B;**[!UICONTROL マイオーガニケース]**&#x200B;の選択がこのグラフに適用され、個人レベルまたは組織レベルでの表示が可能になります。
+
+優先度セグメントにカーソルを合わせると、次のようなツールヒントが表示されます。
+
+- その優先度レベルのケースの合計数
+- オープン ケースの数
+- クローズされたケースの数
 
 ## 自分が送信したケース
 
@@ -96,15 +107,38 @@ ht-degree: 2%
 - 送信日
 - ステータス
 
-![自分が送信したユースケースのセクション &#x200B;](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![自分が送信したケース &#x200B;](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-現在のExperience League サポートポータルでケースの詳細を表示するには、**[!UICONTROL ケース ID]**&#x200B;を選択します。 「**[!UICONTROL すべてのケースを表示]**」を選択して、ケースの完全なリストを表示します。
+**[!UICONTROL マイケース]**&#x200B;を選択すると、このセクションには、最近送信された3つのケースが表示されます。 **[!UICONTROL サービス分析]** セクションで&#x200B;**[!UICONTROL 組織ケース]**&#x200B;が選択されると、組織全体で最近送信された3つのケースが表示されます。
+
+![自分のケース &#x200B;](/help/adobe-support-tools-guide/assets/my-case.png)
+
+現在のExperience League サポートポータルでケースの詳細を表示するには、**[!UICONTROL ケース ID]**&#x200B;を選択します。
+
+![&#x200B; ケース IDを選択](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+「**[!UICONTROL すべてのケースを表示]**」を選択して、現在のExperience League サポートポータルの&#x200B;**[!UICONTROL マイケース]** ページを開きます。
+
+![すべてのケースを表示](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+**[!UICONTROL Service Analytics]**&#x200B;で&#x200B;**[!UICONTROL マイケース]**&#x200B;が選択されると、**[!UICONTROL マイケース（すべて）]**&#x200B;が事前に選択され、Experience League サポートポータルで開きます。 **[!UICONTROL 組織のケース]**&#x200B;が選択されると、**[!UICONTROL 組織のケース （すべて）]**&#x200B;がExperience League サポートポータルで事前に選択されます。
 
 ## 製品ステータスアラート
 
-このセクションには、組織に割り当てられたAdobe製品の現在の運用ステータスが表示されます。 **[!UICONTROL Available]**&#x200B;というステータスは、製品が完全に動作しており、アクティブな停止がないことを示します。 1つ以上の問題が存在する場合、アクティブな問題の合計数が製品カードに表示されます。 商品カードを選択して、Adobe [&#x200B; ステータスサイト &#x200B;](https://status.adobe.com/ja)の詳細を表示します。
+このセクションには、組織に割り当てられたAdobe製品の現在の運用状況が表示されます。
 
-![製品ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![製品ステータスアラート &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+**[!UICONTROL Available]**&#x200B;というステータスは、製品が完全に動作しており、アクティブな停止がないことを示します。 1つ以上の問題が存在する場合、アクティブな問題の合計数が製品カードに表示されます。
+
+製品は次の順序で表示されます。
+
+1. アクティブな問題を含む製品
+1. 残りの製品（アルファベット順）
+
+これにより、注意が必要な製品を迅速に特定し、優先順位を付けることができます。 1つ以上の製品カードを選択して、**[!UICONTROL ホーム]** ページの&#x200B;**[!UICONTROL システムステータスアラート]**&#x200B;のアラートをフィルタリングできます。
+
+![&#x200B; アラートフィルター](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## システムステータスアラート
 
@@ -151,7 +185,7 @@ ht-degree: 2%
 - この計画の主要な構成要素は次のとおりです。
    - **[!UICONTROL 成功チーム]**
    - **[!UICONTROL サクセスアクセラレータ]**
-   - **[!UICONTROL 相互行動計画]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 また、Experience League、Experience League Community、Premium Learning Subscriptionsなどの学習リソースにもアクセスできます。
 
