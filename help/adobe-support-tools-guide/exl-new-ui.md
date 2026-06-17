@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
+source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
 workflow-type: tm+mt
-source-wordcount: 1083
+source-wordcount: 1084
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 1%
 - **[!UICONTROL マイケース]** – 個人に固有のケース統計を表示します。
 - **[!UICONTROL My Org Cases]** – 選択した組織のケース統計を表示します。
 
-選択したビューは、このセクションのすべての指標とグラフに適用されます。これには、[[!UICONTROL 優先度でカウントされるケース &#x200B;]](#cases-count-by-priority)と[[!UICONTROL 自分が送信したケース &#x200B;]](#my-submitted-cases)のセクションが含まれます。
+選択したビューは、このセクションのすべての指標とグラフに適用されます。これには、[[!UICONTROL 優先度によるケース数]](#cases-count-by-priority)および[[!UICONTROL 自分が送信したケース &#x200B;]](#my-submitted-cases)のセクションが含まれます。
 
 ![&#x200B; サービス分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
