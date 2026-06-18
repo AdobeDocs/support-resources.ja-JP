@@ -26,19 +26,19 @@ ht-degree: 2%
 
 ## Adobe Commerce on cloud infrastructure サンドボックスを更新するにはどうすればよいですか？ {#how-do-i-refresh-my-cloud-sandbox}
 
-サポート情報については、[ クラウド環境のリセット ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)を参照してください。
+サポート情報については、[&#x200B; クラウド環境のリセット &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)を参照してください。
 
 ## 行き詰まったデプロイメントはどうすればよいですか？ {#what-do-i-do-with-a-stuck-deployment}
 
-サポート ナレッジベースの[ デプロイメントのトラブルシューティング ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)を参照してください。
+サポート ナレッジベースの[&#x200B; デプロイメントのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)を参照してください。
 
 ## ソリューションパートナーやテクノロジーパートナーは、どこで/どのようにサポートリクエストを提出するのですか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)の「[ サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代わりに送信され、混乱を招く可能性があるため、販売者のアカウントを使用してチケットを送信しないでください。
+パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home)の「 サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代わりに送信され、混乱を招く可能性があるため、販売者のアカウントを使用してチケットを送信しないでください。
 
 この要件は、パートナーが特定の顧客向けではなく、内部環境で作業している場合にも適用されます。 パートナーは、お客様の代わりに積極的に関与しない限り、お客様の組織の下でサポートリクエストを送信してはなりません。
 
 共有アクセスが付与されていない販売者の代理でチケットを送信する場合は、アカウント所有者にアクセス権をリクエストしてください。 アクセスをリクエストする手順については、[共有アクセス：他のユーザーがアカウントにアクセスするための権限の付与](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)を参照してください。
 
 * ソリューションパートナーは、サンドボックス関連のサポートリクエストを[SPPHelp@adobe.com](mailto:SPPHelp@adobe.com)に電子メールで送信する必要があります。 これらのリクエストは、パートナーテクニカルサポートチームにルーティングされます。
-* 技術パートナーは、[ マーケットプレイスサポート ](mailto:commercemarketplacesupport@adobe.com)にお問い合わせください。
+* 技術パートナーは、[&#x200B; マーケットプレイスサポート &#x200B;](mailto:commercemarketplacesupport@adobe.com)にお問い合わせください。
