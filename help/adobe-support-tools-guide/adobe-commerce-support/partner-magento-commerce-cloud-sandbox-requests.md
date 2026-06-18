@@ -5,10 +5,10 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## Adobe Commerce on cloud infrastructure サンドボックスのサービスをアップグレードするにはどうすればよいですか？ {#how-do-i-upgrade-services-cloud-sandbox}
 
-ほとんどのサンドボックスプロジェクトは、[Cloud Pro](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow)ではなく[Cloud Starter projects](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment)のように設定されます。
+ほとんどのサンドボックスプロジェクトは、[Cloud Pro](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment)ではなく[Cloud Starter projects](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow)のように設定されます。
 
 これらのスタータースタイルのサンドボックスプロジェクトでは、必要に応じてサービスを自分でアップグレードする必要があります。
 
@@ -34,10 +34,9 @@ ht-degree: 0%
 
 ## ソリューションパートナーやテクノロジーパートナーは、どこで/どのようにサポートリクエストを提出するのですか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[の「](https://experienceleague.adobe.com/ja/support?support-tab=home#home) サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代わりに送信され、混乱を招く可能性があるため、販売者のアカウントを使用してチケットを送信しないでください。
+パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[&#128279;](https://experienceleague.adobe.com/ja/support?support-tab=home#home)の「 サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代わりに送信され、混乱を招く可能性があるため、販売者のアカウントを使用してチケットを送信しないでください。
 
-> **例：**
-> このセクションでは、Adobe Commerce Cloud サンドボックスアカウントについて説明しますが、パートナーが特定の顧客向けではなく内部環境で作業している場合にも同じ要件が適用されます。 パートナーは、お客様の代わりに積極的に関与しない限り、お客様の組織の下でサポートリクエストを送信してはなりません。
+この要件は、パートナーが特定の顧客向けではなく、内部環境で作業している場合にも適用されます。 パートナーは、お客様の代わりに積極的に関与しない限り、お客様の組織の下でサポートリクエストを送信してはなりません。
 
 共有アクセスが付与されていない販売者の代理でチケットを送信する場合は、アカウント所有者にアクセス権をリクエストしてください。 アクセスをリクエストする手順については、[共有アクセス：他のユーザーがアカウントにアクセスするための権限の付与](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)を参照してください。
 
