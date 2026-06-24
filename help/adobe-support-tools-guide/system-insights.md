@@ -2,7 +2,8 @@
 title: システムインサイト
 description: System Insightsは、Adobe Commerce環境の潜在的な問題を先見的に特定します。 ケース作成時にインサイトを確認することで、解決時間を短縮し、障害発生時の回避に役立ち、安定して安全なデプロイメントをサポートします。
 hide: true
-source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
+hold: true
+source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 1%
