@@ -11,7 +11,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +43,7 @@ _2025年11月11日_
 _2025年10月9日（PT）_
 
 ![新規](../adobe-success-portal/assets/new.svg) **[!UICONTROL 主要ビジネス目標]**（KBO）にリンクされた&#x200B;**[!UICONTROL アクセラレーター]**&#x200B;と&#x200B;**[!UICONTROL アクティビティ]**&#x200B;のタイムラインを視覚化するカレンダー表示を&#x200B;**[!UICONTROL アクションプラン]**&#x200B;モジュールに追加しました。
+
 * アクションプラン KBO ページまたは **[!UICONTROL KBO]**／**[!UICONTROL アクセラレーター]**／**[!UICONTROL アクティビティ]**&#x200B;の詳細ページ（KBO にリンクされている場合のみ）からカレンダーにアクセスします。
 * リスト表示（デフォルト）とカレンダー表示を切り替えます。
 * カレンダーには、各 KBO に対して折りたたみ可能なセクションが表示されます。
