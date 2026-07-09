@@ -5,19 +5,13 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
+source-wordcount: 1686
 ht-degree: 1%
 
 ---
@@ -29,7 +23,29 @@ ht-degree: 1%
 
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
-![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+![ バグ ](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年7月9日 – Experience League サポート AI チャット
+
+1. Experience League サポートでは、従来のケース作成フォームに代わる新しいAI チャットインターフェイスがオプトインとして利用できるようになりました。これにより、お客様は構造化フィールドに入力する代わりに、会話形式で問題を説明できます。 クラシックフォームは引き続き完全に使用でき、このエクスペリエンスに置き換えられることはありません。
+
+1. AI チャットは、タイプ入力と音声テキスト変換の両方をサポートしており、よりアクセスしやすく柔軟なケース作成エクスペリエンスを実現するハンズフリーなインタラクションを可能にします。
+
+1. AI チャットは、ターゲットを絞ったフォローアップの質問により、ケース作成を通じて顧客を誘導し、利用者の反応にもとづいて会話フローを動的に適応させ、再現ステップなどの必要な詳細を収集します。
+
+1. AI Chatを使用すれば、ケースを作成する前に、問題の説明にもとづいて関連するナレッジベース記事や既知のソリューションを先見的に表示できるため、セルフサービスでの解決を迅速に行うことができます。 解決策が見つからない場合は、AI チャットを利用してシームレスにケースを作成できます。
+
+1. 十分な情報が収集されると、AI Chatはタイトル、説明、再現手順などの構造化されたケースドラフトを自動的に生成し、顧客が提出前にレビューできるようにします。
+
+1. AI Chatを通じて送信されたすべてのケースは、クラシックフォームを通じて送信されたケースと同じバックエンドワークフローを通じて処理されるため、サポートチームがケースを受け取ったり処理したりする方法が変更されることはありません。
+
+1. お客様は、ケースの概要の取得、ステータスと優先度の確認、優先度レベルでグループ化されたオープンケースの表示、エスカレーションやコールバックなどのフォローアップアクションのリクエストなど、既存のサポートケースを会話形式で管理できます。
+
+1. エスカレーションやコールバックリクエストなど、従来のポータルで利用できるすべてのサポートアクションは、AI チャットの会話型コマンドを通じてアクセスできます。
+
+>[!NOTE]
+>
+>これはAI Chatの初期ベータ版です。 誰でも利用できますが、AIの回答と会話のフローは、一貫したデータ収集目標を維持しながら、セッションによって若干異なる場合があります。 AIが生成したすべての回答を再度確認してから、対応してください。
 
 ## 2026年6月17日 – 新デザインのExperience League サポートポータルの更新
 
@@ -39,11 +55,11 @@ ht-degree: 1%
 
 1. 優先度でカウントされる&#x200B;**[!UICONTROL ケース]**&#x200B;のグラフに、カーソルを合わせたより詳細な内訳が表示されるようになりました。 優先度セグメントの上にカーソルを合わせると、開いているケースと閉じているケースの合計数を示すツールチップが表示されます。
 
-1. **[!UICONTROL 製品ステータス]** ウィジェットで、インタラクティブな製品フィルタリングがサポートされるようになりました。 システムステータスアラートは、ホームページから直接1つ以上の製品を選択してフィルタリングできます。 このウィジェットで製品を選択すると、[status.adobe.com](http://status.adobe.com/ja-jp)にリダイレクトされなくなりました。
+1. **[!UICONTROL 製品ステータス]** ウィジェットで、インタラクティブな製品フィルタリングがサポートされるようになりました。 システムステータスアラートは、ホームページから直接1つ以上の製品を選択してフィルタリングできます。 このウィジェットで製品を選択すると、[status.adobe.com](http://status.adobe.com)にリダイレクトされなくなりました。
 
 1. **[!UICONTROL 製品ステータス]** ウィジェットでは、より直感的な順序で製品が一覧表示されるようになりました。 アクティブな問題を持つ製品が最初に表示され、残りの製品はアルファベット順に並べ替えられます。
 
-## 2026年5月28日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+## 2026年5月28日 – [!UICONTROL  コールバックをリクエスト ]機能の拡張
 
 **[!UICONTROL コールバックのリクエスト]**&#x200B;機能が、Adobe Journey Optimizer、Customer Journey Analytics、およびReal-Time Customer Data Platform製品ユーザー向けに利用可能になりました。
 
@@ -65,7 +81,7 @@ ht-degree: 1%
 >
 >ケース作成、ケースの詳細、およびマイケース ページの更新は、今後のリリースで予定されています。 それまでは、これらのページは現在のExperience League サポートポータルで引き続き利用できます。
 
-## 2026年5月7日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+## 2026年5月7日 – [!UICONTROL  コールバックをリクエスト ]機能の拡張
 
 コールバックのリクエスト機能が、Adobe CommerceとAdobe GenStudioの両方で使用できるようになりました。 Adobe Commerceをご利用のお客様は、最適なタイミングでコールバックをスケジュールできます。また、Adobe GenStudioをご利用のお客様は、即時またはスケジュールされたコールバックのいずれかをリクエストできます。
 
@@ -99,11 +115,11 @@ ht-degree: 1%
 
 1. 個々のインサイトに関するフィードバックを送信することで、Adobeがシステムインサイトの精度と関連性を継続的に向上させることができます。
 
-## 2026年4月23日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+## 2026年4月23日 – [!UICONTROL  コールバックをリクエスト ]機能の拡張
 
 Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは、**[!UICONTROL コールバックのリクエスト]**&#x200B;機能を利用できるようになりました。
 
-## 2026年4月8日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+## 2026年4月8日 – [!UICONTROL  コールバックをリクエスト ]機能の拡張
 
 **[!UICONTROL コールバックのリクエスト]**&#x200B;機能が、Marketo製品ユーザー向けに利用できるようになりました。
 
@@ -113,10 +129,10 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 - [!UICONTROL 製品の選択]
 - [!UICONTROL 問題の説明]
-- [!UICONTROL &#x200B; システム情報]
+- [!UICONTROL  システム情報]
 - [!UICONTROL 優先度とビジネスへの影響]
-- [!UICONTROL 連絡先情報と視聴者リスト &#x200B;]
-- [!UICONTROL &#x200B; レビューして送信]
+- [!UICONTROL 連絡先情報と視聴者リスト ]
+- [!UICONTROL  レビューして送信]
 
 ![新規](../adobe-support-tools-guide/assets/new.svg) **[!UICONTROL 問題の説明]**&#x200B;に基づいてタイトルを自動的に生成できるようになりました。これにより、ユーザーはケースを送信する前にタイトルを編集できます。
 
@@ -124,7 +140,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 ![新規](../adobe-support-tools-guide/assets/new.svg)環境またはインスタンスに最近変更が加えられたかどうかを示すオプションを追加しました。 **[!UICONTROL はい]**&#x200B;が選択されている場合、変更に関する追加情報を入力するように求められます。
 
-![新規](../adobe-support-tools-guide/assets/new.svg)さんが、重要な詳細をキャプチャするために、使用権限のある製品に&#x200B;**追加の[!UICONTROL 環境コンテキスト &#x200B;] フィールド**&#x200B;を追加しました：
+![新規](../adobe-support-tools-guide/assets/new.svg)さんが、重要な詳細をキャプチャするために、使用権限のある製品に&#x200B;**追加の[!UICONTROL 環境コンテキスト ] フィールド**&#x200B;を追加しました：
 
 - **Marketo**
    - Munchkin ID
@@ -152,7 +168,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
    - 接続ID / エラーメッセージ / コード
    - データビューID
 
-![新規](../adobe-support-tools-guide/assets/new.svg) ケース作成フローを中断せずに役立つガイダンスを表示するために、**AIを活用した[!UICONTROL &#x200B; レコメンデーションパネル]**&#x200B;を追加しました。
+![新規](../adobe-support-tools-guide/assets/new.svg) ケース作成フローを中断せずに役立つガイダンスを表示するために、**AIを活用した[!UICONTROL  レコメンデーションパネル]**&#x200B;を追加しました。
 
 ![新規](../adobe-support-tools-guide/assets/new.svg)入力したすべての情報の統合ビューを提供し、ユーザーが次のことを実行できるようにするために、**[!UICONTROL 概要の確認]**&#x200B;手順を追加しました。
 
@@ -164,7 +180,7 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 
 ![修正](../adobe-support-tools-guide/assets/fix.svg)完全性を確保し、送信エラーを減らすために、必須のフィールドインジケーターとしてアスタリスク （*）を追加しました。
 
-## 2026年3月18日 – [!UICONTROL &#x200B; コールバックをリクエスト &#x200B;]機能の拡張
+## 2026年3月18日 – [!UICONTROL  コールバックをリクエスト ]機能の拡張
 
 Experience Leagueでは、**[!UICONTROL コールバックをリクエスト]** オプションが提供されるようになりました。これにより、画面共有機能を使用したセルフサービスのweb ミーティングのスケジュール設定が可能になり、問題解決が迅速になりました。
 
