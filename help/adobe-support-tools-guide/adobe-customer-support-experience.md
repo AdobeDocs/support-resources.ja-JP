@@ -5,18 +5,12 @@ description: Adobe カスタマーサポート体験
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League サポートチケット
 
-サポートチケットは[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[&#x200B; サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
+サポートチケットは[Experience League](https://experienceleague.adobe.com/home#support)経由で送信されるようになりました。 サポートチケットの送信方法については、「[ サポートチケットの送信](#create-a-support-ticket-with-experience-league)」の節を参照してください。
 
 Adobe カスタマーサポートとのやり取りを改善できるように取り組んでいます。 「当社のビジョンは、Experience Leagueを利用して、単一のエントリーポイントに移行することで、サポート体験を合理化することです。 本番稼働後は、Adobeカスタマーサポートに簡単にアクセスできるようになり、製品間の共通システムを通じてサービス履歴をより詳細に把握できます。また、単一のポータルを通じて、電話、web、チャットでサポートを受けることができます。
 
-Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[&#x200B; サポートケースの送信](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
+Adobe Commerce ユーザーの場合は、Adobe CommerceのExperience League サポートユーザーガイドの[ サポートケースの送信](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)を参照してください。
 
 ## ケース提出に必要な権限のある役割のサポート {#submit-ticket}
 
-[Experience League](https://experienceleague.adobe.com/home?lang=ja#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール &#x200B;](adobe-admin-console/admin-roles.md)を参照してください。
+[Experience League](https://experienceleague.adobe.com/home#support)でサポートチケットを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 この役割を割り当てることができるのは、組織内のシステム管理者のみです。 製品、製品プロファイル、およびその他の管理者役割は、サポート管理者の役割を割り当てることができず、サポートチケットの送信に使用される「**[!UICONTROL ケースを作成]**」オプションを表示できません。 管理者ロールの種類とその使用権限について詳しくは、[管理者ロール ](adobe-admin-console/admin-roles.md)を参照してください。
 
-Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
+Commerceを使用している場合、サポートケースで作業するアクセスを共有するプロセスは異なります。 詳しくは、Adobe CommerceのExperience League サポートユーザーガイドの「[共有アクセス：他のユーザーがアカウントにアクセスするための権限を付与する](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)」を参照してください。
 
 ### サポート資格の役割を組織に追加する
 
@@ -76,19 +70,19 @@ Commerceを使用している場合、サポートケースで作業するアク
 
 ![管理者権限の確認](assets/admin-rights-confirmation.png)
 
-詳細については、管理者ロールのドキュメントの「[&#x200B; エンタープライズ管理者ロールを編集](adobe-admin-console/admin-roles.md#add-enterprise-role)」の手順に従ってください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール &#x200B;](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
+詳細については、管理者ロールのドキュメントの「[ エンタープライズ管理者ロールを編集](adobe-admin-console/admin-roles.md#add-enterprise-role)」の手順に従ってください。 この役割を割り当てることができるのは、組織のシステム管理者のみです。 管理階層について詳しくは、[管理ロール ](adobe-admin-console/admin-roles.md)のドキュメントを参照してください。
 
 ### Experience Leagueでサポートチケットを作成する
 
 >[!NOTE]
 >
-> サポートチケットを送信する前に、[Adobe ステータス &#x200B;](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
+> サポートチケットを送信する前に、[Adobe ステータス ](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
 
 Experience Leagueは、資格を持つお客様にパーソナライズされたサポートと使いやすいエクスペリエンスを提供するために設計されたセルフサービスポータルです。
 
-1. [Experience League](https://experienceleague.adobe.com/home?lang=ja#support)でチケットを作成するには、上部のナビゲーションで「**[!UICONTROL サポート]**」タブを選択します。
+1. [Experience League](https://experienceleague.adobe.com/home#support)でチケットを作成するには、上部のナビゲーションで「**[!UICONTROL サポート]**」タブを選択します。
 
-   ![Experience League サポート タブ &#x200B;](./assets/experience-league-support-tab.png)
+   ![Experience League サポート タブ ](./assets/experience-league-support-tab.png)
 
 1. **[!UICONTROL ホーム]** メニューから、**[!UICONTROL サポートチケットを開く]**、**[!UICONTROL ケースを表示して管理する]**、**[!UICONTROL コールバックをリクエストする]**、または追加の学習リソースにアクセスできます。
 
@@ -151,7 +145,7 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
-   ![次のオプションをクリック &#x200B;](./assets/click-next.png)
+   ![次のオプションをクリック ](./assets/click-next.png)
 
 1. **[!UICONTROL システム情報]** セクションで、**[!UICONTROL 製品バージョン]**、**[!UICONTROL 環境]**、**[!UICONTROL 製品オファー]**&#x200B;を指定し、環境またはインスタンスに最近変更が加えられたかどうかを示します。 **はい**&#x200B;を選択して、変更に関する詳細を追加します。 変更が行われなかった場合は、**No**&#x200B;を選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
@@ -167,7 +161,7 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 
    ![Experience Leagueの優先度とビジネスへの影響](./assets/priority-business-impact.png)
 
-   ケースの優先度とビジネスへの影響がサポート応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[&#x200B; サポートの目標初期応答時間](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
+   ケースの優先度とビジネスへの影響がサポート応答時間にどのような影響を与えるかについて詳しくは、サクセスプランのリソースドキュメントの「[ サポートの目標初期応答時間](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)」を参照してください。
 
 1. **[!UICONTROL 連絡先情報と視聴者リスト]** セクションで、タイムゾーンを選択し、電話番号を入力し、視聴者を追加し、必要に応じてファイルを添付してから、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
@@ -196,3 +190,78 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 >[!NOTE]
 >
 > 問題が原因で本番システムが停止したり、重大な障害が発生した場合は、すぐにサポートを受けるために電話番号が提供されます。
+
+### ケース作成エクスペリエンスにおけるAI チャット
+
+Experience League サポートでは、サポートケースを作成および管理する別の方法として、AIを活用したチャットインターフェイスを提供しています。 AI チャットエクスペリエンスはオプトインであり、従来のケース作成ワークフローに取って代わるものではありません。
+
+>[!NOTE]
+>
+> AI チャットは現在、ベータ機能として利用できます。 従来のケース作成フォームは、いつでも完全に利用でき、アクセスできます。
+
+AI チャットにアクセスするには、次の手順に従います。
+
+1. **[!UICONTROL ホーム]**&#x200B;に移動し、**[!UICONTROL サポートチケットを開く]**&#x200B;を選択します。 サイドバーメニューで「**[!UICONTROL チケットを開く]**」を選択することもできます。
+
+   ![Experience Leagueで製品を選択](./assets/product-selection.png)
+
+1. 製品名をクリックして影響を受ける製品を選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
+1. 右上隅で、**[!UICONTROL AI チャット]**&#x200B;を選択します。
+
+   ![AI チャット ](./assets/ai-chat.png)
+
+**[!UICONTROL クラシックフォーム]**&#x200B;と&#x200B;**[!UICONTROL AI チャット]**&#x200B;を切り替えるには、右上隅の切り替えスイッチを使用します。 切り替え時に現在の進行状況を引き継ぐことはありませんが、完了したケースやアクションは影響を受けません。
+
+### AI チャットを始める
+
+AI チャットを開くと、次のオプションが表示されます。
+
+* **[!UICONTROL 質問する]**
+* **[!UICONTROL 既存のケースの作業]**
+* **[!UICONTROL 新しいケースを開く]**
+
+  ![私たちとチャット ](./assets/chat-with-us.png)
+
+テキストフィールドに入力するか、音声テキスト変換を使用することで、問題を説明できます。
+
+#### 質問する
+
+「**[!UICONTROL 質問]**」を選択すると、サポートケースを開かずに、製品、Adobe サービス、サポート関連の質問に対する即座の回答をチャット内で直接取得できます。
+
+AIは、Adobeのナレッジベースを利用して、クエリに基づいた関連回答、ドキュメントのリンク、既知のソリューションを提供します。
+
+AIがチャットで直接問い合わせを解決できない場合は、新しいサポートケースを開いてAdobe サポートチームに連絡する方法を説明します。
+
+#### 既存のケースの作業
+
+「**[!UICONTROL 既存のケースに取り組む]**」を選択すると、チャット内で既存のサポートケースを直接管理および更新できます。
+
+AIは開いているケースのリストを表示します。 リスト内の位置またはケース番号によってケースを参照し、作業するケースを選択できます。
+
+ケースを選択すると、次のことが可能になります。
+
+* 概要をリクエスト
+* 更新を確認
+* 同じチャットエクスペリエンス内で、ケースのエスカレーションやコールバックのリクエストなどのフォローアップアクションを実行します。
+
+#### 新しいケースを開く
+
+構造化フォームフィールドに入力する代わりに、独自の単語で問題を説明するには、**[!UICONTROL 新しいケースを開く]**&#x200B;を選択します。
+
+AIは、ターゲットを絞ったフォローアップ質問により、必要な詳細情報を収集し、回答に応じてフローを動的に適応させることで、ケース作成プロセスを導きます。
+
+AIは、次のような必要な情報を収集します。
+
+* 製品の詳細
+* 問題タイプ
+* 再現手順
+
+情報が送信時にすぐに利用できない場合、オプションフィールドをスキップできます。
+
+十分な情報が収集されると、AIは会話にもとづいて次のような体系化されたケース概要を自動的に生成します。
+
+* ケースのタイトル
+* 説明
+* 再現手順
+
+送信前にドラフトを確認して、すべての詳細が正確であることを確認できます。また、ケース作成の会話中または会話後の任意の時点で、添付ファイル、ログ、スクリーンショット、その他の補足的な詳細を追加して、サポートチームに必要なコンテキストを提供できます。
