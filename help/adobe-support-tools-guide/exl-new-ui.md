@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 0e6073c6c2305dcc92c6fba789401a5c4916d63f
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1069
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 再設計されたExperience League サポートポータルでは、Adobe サポートアクティビティを管理するための統一された直感的なエクスペリエンスを提供します。 サポートケースの追跡、製品ステータスの監視、ケースインサイトへのアクセス、サクセスチームとの連携など、重要な機能にすばやくアクセスできます。
 
->[!NOTE]
->
->再設計されたポータルでサポートケースを作成および管理するには、[&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
-
 ## ホームページ
 
 **[!UICONTROL ホーム]** ページは、サポート活動の中心的なハブとして機能します。 サポート環境の概要と主な機能への迅速なアクセスを提供します。
@@ -39,8 +34,8 @@ ht-degree: 1%
 左側のナビゲーションパネルでは、次のセクションにアクセスできます。
 
 - **[!UICONTROL ホーム]**&#x200B;がデフォルトのランディングページとして開き、サポートアクティビティの一元的なビューが表示されます。
-- **[!UICONTROL ケースを開く]**&#x200B;は、再設計されたポータルでケース作成ワークフローを開きます。 [&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
-- **[!UICONTROL マイケース]**&#x200B;は、再設計されたポータルでケースリストを開きます。 [&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
+- **[!UICONTROL ケースを開く]**&#x200B;は、現在のExperience League サポートポータルでケース作成ワークフローを開きます。
+- **[!UICONTROL マイケース]**&#x200B;は、現在のExperience League サポートポータルでケースリストを開きます。
 - **[!UICONTROL My Success]**&#x200B;は、Ultimate Success plan ユーザーのみが利用できます。
 
 ## 組織の切り替え
@@ -59,13 +54,17 @@ ht-degree: 1%
 
 ![古いUI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>ポータルの環境設定が自動的に保存されます。 最後に使用したポータルが、今後のログイン用のデフォルトのポータルになります。 最後に再設計されたポータルを使用した場合は、従来のポータルを読み込まずに直接開きます。 最後にレガシーポータルを使用した場合、システムはレガシーポータルを開きます。
+
 ホームページには、Experience League サポートポータル全体での検索を可能にするグローバル検索バーを備えたパーソナライズされたウェルカムバナーが含まれています。
 
 次のクイックアクションは、**[!UICONTROL ホーム]** ページの上部で使用できます。
 
-1. **[!UICONTROL サポートケースを開く]** – 再設計されたポータルでケース作成ワークフローを開きます。 「**[!UICONTROL 基本を学ぶ]**」を選択します。
+1. **[!UICONTROL サポートケースを開く]** – 従来のサポートポータルでケース作成ワークフローを開きます。 「**[!UICONTROL 基本を学ぶ]**」を選択します。
 
-1. **[!UICONTROL ケースを表示して管理]** – 再設計されたポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。 **[!UICONTROL 今すぐ実行]**&#x200B;を選択します。
+1. **[!UICONTROL ケースの表示と管理]** – 従来のサポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。 **[!UICONTROL 今すぐ実行]**&#x200B;を選択します。
 
 1. **[!UICONTROL コールバックをリクエスト]** - Adobeの専門家とのケースに関する通話をスケジュールします。 P1 （クリティカル）ケースの場合は、直ちにコールバックをリクエストします。 P2およびP3の場合は、都合の良い日時にサポートエンジニアとのweb ミーティングをスケジュールします。 **[!UICONTROL 今すぐリクエスト]**&#x200B;を選択して開始してください。
 
@@ -115,11 +114,11 @@ ht-degree: 1%
 
 ![自分のケース &#x200B;](/help/adobe-support-tools-guide/assets/my-case.png)
 
-**[!UICONTROL ケース ID]**&#x200B;を選択して、再設計されたExperience League サポートポータルでケースの詳細を表示します。
+現在のExperience League サポートポータルでケースの詳細を表示するには、**[!UICONTROL ケース ID]**&#x200B;を選択します。
 
 ![&#x200B; ケース IDを選択](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-「**[!UICONTROL すべてのケースを表示]**」を選択して、再設計されたExperience League サポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。
+「**[!UICONTROL すべてのケースを表示]**」を選択して、現在のExperience League サポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。
 
 ![すべてのケースを表示](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -163,8 +162,6 @@ ht-degree: 1%
 追加の詳細を表示するアラートを選択します。
 
 ![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-「**[!UICONTROL サブスクリプションを管理]**」を選択して、Adobe [&#x200B; ステータスサイト &#x200B;](https://status.adobe.com/ja)でAdobe製品の通知設定を行います。
 
 ## プラン情報
 

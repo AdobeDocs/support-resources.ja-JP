@@ -15,10 +15,10 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,14 @@ ht-degree: 1%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年7月23日 – 再設計されたExperience League サポートポータルの永続ポータルの環境設定
+
+1. ポータルの環境設定が、前回の&#x200B;**[!UICONTROL 新しいホームページを試す]**&#x200B;の切り替え選択内容に基づいて自動的に保存されるようになりました。
+
+2. 最後のセッション中にトグルがオンになっている場合、次のログイン時に再設計されたポータルに直接移動し、従来のポータルは読み込まれません。
+
+3. 切り替えがオフになっている場合は、引き続き従来のポータルに移動します。
 
 ## 2026年7月9日 – Experience League サポート AI チャット
 
@@ -51,7 +59,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->これはAI Chatの初期ベータ版です。 誰でも利用できますが、AIの回答と会話のフローは、一貫したデータ収集目標を維持しながら、セッションによって若干異なる場合があります。 AIが生成したすべての回答を再度確認してから、対応してください。
+>このAI チャットは早期ベータ版です。 誰でも利用できますが、AIの回答と会話のフローは、一貫したデータ収集目標を維持しながら、セッションによって若干異なる場合があります。 AIが生成した回答を活用する前に、必ず再確認しましょう。
 
 ## 2026年6月17日 – 新デザインのExperience League サポートポータルの更新
 
@@ -149,30 +157,30 @@ Analytics、Admin Console、Audience ManagerおよびTarget製品ユーザーは
 ![新規](../adobe-support-tools-guide/assets/new.svg)さんが、重要な詳細をキャプチャするために、使用権限のある製品に&#x200B;**追加の[!UICONTROL 環境コンテキスト &#x200B;] フィールド**&#x200B;を追加しました：
 
 - **Marketo**
-   - Munchkin ID
+  - Munchkin ID
 - **Adobe Target**
-   - アクティビティ名
-   - サイト URL （タグプロパティ名）
+  - アクティビティ名
+  - サイト URL （タグプロパティ名）
 - **Adobe Analytics**
-   - RSID
-   - サイト URL （タグプロパティ名） / cURL
-   - Workspace Shortlink
+  - RSID
+  - サイト URL （タグプロパティ名） / cURL
+  - Workspace Shortlink
 - **Adobe Journey Optimizer （AJO）**
-   - ジャーニーID、URL/Campaign ID、URL/Channel ID、URL/Offer Decisioning IDまたはURL
-   - プロファイル例
-   - サンドボックス名
+  - ジャーニーID、URL/Campaign ID、URL/Channel ID、URL/Offer Decisioning IDまたはURL
+  - プロファイル例
+  - サンドボックス名
 - **Real-Time Customer Data Platform （RTCDP）**
-   - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
-   - プロファイル例
-   - サンドボックス名
+  - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
+  - プロファイル例
+  - サンドボックス名
 - **Adobe Experience Platform （AEP）**
-   - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
-   - プロファイル例
-   - サンドボックス名
+  - 影響を受けるコンポーネント ID （宛先ID/オーディエンス ID/データセット ID/データフローID/結合ポリシーID/スキーマ ID/Source ID/バッチ ID）
+  - プロファイル例
+  - サンドボックス名
 - **Customer Journey Analytics （CJA）**
-   - Workspace プロジェクト URL
-   - 接続ID / エラーメッセージ / コード
-   - データビューID
+  - Workspace プロジェクト URL
+  - 接続ID / エラーメッセージ / コード
+  - データビューID
 
 ![新規](../adobe-support-tools-guide/assets/new.svg) ケース作成フローを中断せずに役立つガイダンスを表示するために、**AIを活用した[!UICONTROL &#x200B; レコメンデーションパネル]**&#x200B;を追加しました。
 
