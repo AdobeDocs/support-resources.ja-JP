@@ -2,10 +2,16 @@
 title: Experience League サポートポータル – 新しいユーザーインターフェイス
 description: サポートワークフロー、ケースインサイト、製品モニタリングを合理化し、ナビゲーション、分析、迅速なアクションを改善するとともに、現在のポータルにシームレスに切り替えてケース管理を行う、新しく設計されたExperience League サポートポータル。
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
 source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
@@ -22,19 +28,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->再設計されたポータルでサポートケースを作成および管理するには、[ サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
+>再設計されたポータルでサポートケースを作成および管理するには、[&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
 
 ## ホームページ
 
 **[!UICONTROL ホーム]** ページは、サポート活動の中心的なハブとして機能します。 サポート環境の概要と主な機能への迅速なアクセスを提供します。
 
-![新しいEXL UIのホームページ ](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
+![新しいEXL UIのホームページ &#x200B;](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 左側のナビゲーションパネルでは、次のセクションにアクセスできます。
 
 - **[!UICONTROL ホーム]**&#x200B;がデフォルトのランディングページとして開き、サポートアクティビティの一元的なビューが表示されます。
-- **[!UICONTROL ケースを開く]**&#x200B;は、再設計されたポータルでケース作成ワークフローを開きます。 [ サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
-- **[!UICONTROL マイケース]**&#x200B;は、再設計されたポータルでケースリストを開きます。 [ サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
+- **[!UICONTROL ケースを開く]**&#x200B;は、再設計されたポータルでケース作成ワークフローを開きます。 [&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
+- **[!UICONTROL マイケース]**&#x200B;は、再設計されたポータルでケースリストを開きます。 [&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
 - **[!UICONTROL My Success]**&#x200B;は、Ultimate Success plan ユーザーのみが利用できます。
 
 ## 組織の切り替え
@@ -70,9 +76,9 @@ ht-degree: 0%
 - **[!UICONTROL マイケース]** – 個人に固有のケース統計を表示します。
 - **[!UICONTROL My Org Cases]** – 選択した組織のケース統計を表示します。
 
-選択したビューは、このセクションのすべての指標とグラフに適用されます。これには、[[!UICONTROL 優先度によるケース数]](#cases-count-by-priority)および[[!UICONTROL 自分が送信したケース ]](#my-submitted-cases)のセクションが含まれます。
+選択したビューは、このセクションのすべての指標とグラフに適用されます。これには、[[!UICONTROL 優先度によるケース数]](#cases-count-by-priority)および[[!UICONTROL 自分が送信したケース &#x200B;]](#my-submitted-cases)のセクションが含まれます。
 
-![ サービス分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+![&#x200B; サービス分析](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 **[!UICONTROL Service Analytics]** セクションには、次の指標が用意されています。
 
@@ -103,15 +109,15 @@ ht-degree: 0%
 - 送信日
 - ステータス
 
-![自分が送信したケース ](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![自分が送信したケース &#x200B;](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 **[!UICONTROL Service Analytics]**&#x200B;で&#x200B;**[!UICONTROL マイケース]**&#x200B;が選択されている場合、このセクションには、最近送信された3つのケースが表示されます。 **[!UICONTROL サービス分析]** セクションで&#x200B;**[!UICONTROL 組織ケース]**&#x200B;が選択されると、組織全体で最近送信された3つのケースが表示されます。
 
-![自分のケース ](/help/adobe-support-tools-guide/assets/my-case.png)
+![自分のケース &#x200B;](/help/adobe-support-tools-guide/assets/my-case.png)
 
 **[!UICONTROL ケース ID]**&#x200B;を選択して、再設計されたExperience League サポートポータルでケースの詳細を表示します。
 
-![ ケース IDを選択](/help/adobe-support-tools-guide/assets/select-case-id.png)
+![&#x200B; ケース IDを選択](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
 「**[!UICONTROL すべてのケースを表示]**」を選択して、再設計されたExperience League サポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。
 
@@ -123,7 +129,7 @@ ht-degree: 0%
 
 このセクションには、組織に割り当てられたAdobe製品の現在の運用状況が表示されます。
 
-![製品ステータスアラート ](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![製品ステータスアラート &#x200B;](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 **[!UICONTROL Available]**&#x200B;というステータスは、製品が完全に動作しており、アクティブな停止がないことを示します。 1つ以上の問題が存在する場合、アクティブな問題の合計数が製品カードに表示されます。
 
@@ -134,7 +140,7 @@ ht-degree: 0%
 
 これにより、注意が必要な製品を迅速に特定し、優先順位を付けることができます。 1つ以上の製品カードを選択して、**[!UICONTROL ホーム]** ページの&#x200B;**[!UICONTROL システムステータスアラート]**&#x200B;のアラートをフィルタリングできます。
 
-![ アラートフィルター](/help/adobe-support-tools-guide/assets/select-more-products.png)
+![&#x200B; アラートフィルター](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## システムステータスアラート
 
@@ -156,29 +162,29 @@ ht-degree: 0%
 
 追加の詳細を表示するアラートを選択します。
 
-![ システム ステータスの警告セクション ](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
+![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
 ### 購読の管理
 
-**[UICONTROL Manage Subscriptions]**&#x200B;を使用して、Adobeの製品およびサービスのステータス イベントに関するメール通知を設定します。 サブスクリプションを使用すると、選択した製品や地域のイベントをAdobeが作成、更新、解決する際に、情報を常に把握できます。
+**[!UICONTROL Manage Subscriptions]**&#x200B;を使用して、Adobeの製品およびサービスのステータス イベントに関するメール通知を設定します。 サブスクリプションを使用すると、選択した製品や地域のイベントをAdobeが作成、更新、解決する際に、情報を常に把握できます。
 
 1. 「**[!UICONTROL システムステータスアラート]**」セクションで、**[!UICONTROL サブスクリプションの管理]**&#x200B;を選択します。
 
-   ![ サブスクリプションの管理](assets/manage-subscriptions.png)
+   ![&#x200B; サブスクリプションの管理](assets/manage-subscriptions.png)
 
 1. **[!UICONTROL 購読の管理]** ページで、**[!UICONTROL 購読の作成]**&#x200B;を選択します。
 
-   ![ サブスクリプションを作成](assets/create-subscriptions.png)
+   ![&#x200B; サブスクリプションを作成](assets/create-subscriptions.png)
 
 1. **[!UICONTROL クラウドを選択してください]**&#x200B;で、モニターする商品を含むAdobe クラウドを選択します。
 1. 「**[!UICONTROL 製品とサービスを選択してください]**」で、通知を受け取る製品を選択します。
 1. **[!UICONTROL 地域を選択してください]**&#x200B;で、監視する1つ以上の地域を選択してください。
 1. **[!UICONTROL イベントタイプを選択してください]**。次の1つ以上のイベントタイプを選択してください。
 
-   * サービスに関する大きな問題
-   * マイナーサービスの問題
-   * サービスメンテナンス
-   * 発表
+   &#x200B;* サービスに関する大きな問題
+   &#x200B;* マイナーサービスの問題
+   &#x200B;* サービスメンテナンス
+   &#x200B;* 発表
 
    ![購読ページの作成](assets/create-subscription-page.png)
 
@@ -187,7 +193,7 @@ ht-degree: 0%
 1. 選択したクラウド、製品、サービス、地域、イベントタイプなど、サブスクリプションの詳細を確認します。
 1. サブスクリプションを作成するには、**[!UICONTROL 確認]**&#x200B;を選択します。
 
-   ![ サブスクリプションの詳細を確認](assets/confirm-subscription.png)
+   ![&#x200B; サブスクリプションの詳細を確認](assets/confirm-subscription.png)
 
 1. 確認メッセージが表示され、サブスクリプションが作成されます。
 
@@ -203,9 +209,9 @@ ht-degree: 0%
 
 このページから、次のアクションを実行できます。
 
-* **[!UICONTROL サブスクリプションを編集]**&#x200B;を選択して、既存のサブスクリプションを変更します。
-* 「**[!UICONTROL すべて購読解除]**」を選択してすべての購読を削除します。
-* サブスクリプションの横にある削除アイコンを選択して、個々のサブスクリプションを削除します。
+&#x200B;* **[!UICONTROL サブスクリプションを編集]**&#x200B;を選択して、既存のサブスクリプションを変更します。
+&#x200B;* 「**[!UICONTROL すべて購読解除]**」を選択してすべての購読を削除します。
+&#x200B;* サブスクリプションの横にある削除アイコンを選択して、個々のサブスクリプションを削除します。
 
 ## プラン情報
 
@@ -219,7 +225,7 @@ ht-degree: 0%
 >  
 >このページは、**[!UICONTROL Ultimate Success]** プランのお客様のみが利用できます。
 
-![成功ページ ](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
+![成功ページ &#x200B;](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 このページには、次の情報が含まれます。
 
@@ -236,4 +242,4 @@ ht-degree: 0%
 
 このセクションには、Adobe Success専任チームが表示されます。 チームメンバーの横にある&#x200B;**[!UICONTROL 連絡先]**&#x200B;を選択して、メールを送信します。
 
-![Adobe Success Team セクション ](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
+![Adobe Success Team セクション &#x200B;](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
