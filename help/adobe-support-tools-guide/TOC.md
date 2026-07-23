@@ -7,7 +7,7 @@ type: Documentation
 index: true
 role: User, Admin
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 - [Adobe カスタマーサポートの使用権限の設定](adobe-customer-support-entitlement-configuration.md)
 - [サポート電話番号の更新](phone-numbers.md)
 - [エスカレーション管理](/help/adobe-support-tools-guide/escalation-management.md)
-- [Experience League サポートポータル – 新しいユーザーインターフェイス ]{#exl-new-ui}
+- Experience League サポートポータル – 新しいユーザーインターフェイス {#exl-new-ui}
   - [概要](/help/adobe-support-tools-guide/exl-new-ui.md)
   - [サポートケースの作成と管理](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - [システムインサイト](/help/adobe-support-tools-guide/system-insights.md)
