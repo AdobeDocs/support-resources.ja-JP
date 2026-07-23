@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # サポートケースの作成と管理
 
-[Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)でサポートケースを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 サポートの使用権限と役割の要件については、[&#x200B; ケース提出に必要な使用権限のある役割のサポート &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)を参照してください。
+[Experience League](https://experienceleague.adobe.com/ja/support?support-tab=home#home)でサポートケースを送信するには、システム管理者がサポート管理者の役割を割り当てる必要があります。 サポートの使用権限と役割の要件については、[&#x200B; ケース提出に必要な使用権限のある役割のサポート &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket)を参照してください。
 
 ## 新しいユーザーインターフェイスでサポートケースを作成する
 
@@ -79,7 +79,7 @@ Experience Leagueでサポートケースを作成するには、次の手順に
 
    ![問題の説明ステップ &#x200B;](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   右上隅の&#x200B;**[!UICONTROL クラシックフォーム]**&#x200B;または&#x200B;**[!UICONTROL AI チャット]**&#x200B;を選択して、ケース作成エクスペリエンスを切り替えます。 AI チャットの詳細については、ケース作成エクスペリエンスの[AI チャットを参照してください](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)。
+   右上隅の&#x200B;**[!UICONTROL クラシックフォーム]**&#x200B;または&#x200B;**[!UICONTROL AI チャット]**&#x200B;を選択して、ケース作成エクスペリエンスを切り替えます。 AI チャットの詳細については、ケース作成エクスペリエンスの[AI チャットを参照してください](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience)。
 
    ![AI チャット &#x200B;](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -93,7 +93,7 @@ Experience Leagueでサポートケースを作成するには、次の手順に
 
 4. 「**[!UICONTROL 優先度とビジネスへの影響]**」セクションで、ケースの優先度を選択します（P4 - マイナー、P3 – 重要、P2 - Urgent、P1 - Critical）。 選択した優先度がP1 - Criticalの場合にBusiness Impactの詳細を指定し、**[!UICONTROL Next]**&#x200B;を選択します。
 
-   ケースの優先度とビジネスへの影響がサポートの応答時間にどのような影響を与えるかについて詳しくは、[&#x200B; サポートの初期応答時間をターゲット &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)を参照してください。
+   ケースの優先度とビジネスへの影響がサポートの応答時間にどのような影響を与えるかについて詳しくは、[&#x200B; サポートの初期応答時間をターゲット &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)を参照してください。
 
    ![優先度とビジネスへの影響ステップ &#x200B;](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
