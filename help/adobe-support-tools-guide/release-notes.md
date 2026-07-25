@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,3 +232,4 @@ Experience Leagueでは、**[!UICONTROL コールバックをリクエスト]** 
 - この機能は、Adobe Experience Manager、Campaign、Workfrontで利用できます。
 - 顧客は都合の良いタイミングでミーティングを予約し、瞬時に招待状を受け取ることができます。
 - Adobe Experience Manager P1の場合、すぐにコールバックをおこなうことで、重要な問題が発生した際のエンゲージメントを加速し、ダウンタイムとビジネスへの影響を最小限に抑えることができます。
+
