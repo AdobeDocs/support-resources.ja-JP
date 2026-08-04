@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Ultimate Success ポッドキャスト - エピソード 6
 
->[!VIDEO](https://video.tv.adobe.com/v/3429331?quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452928?captions=jpn&quality=12learn=on)
