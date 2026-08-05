@@ -14,4 +14,4 @@ ht-degree: 100%
 
 # Ultimate Success ポッドキャスト - エピソード 8
 
->[!VIDEO](https://video.tv.adobe.com/v/3453786?captions=jpn&quality=12learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452836?captions=jpn&quality=12learn=on)
