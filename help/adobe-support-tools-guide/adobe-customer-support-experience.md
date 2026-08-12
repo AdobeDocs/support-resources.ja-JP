@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2034
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Adobe カスタマーサポート体験
+
+>[!NOTE]
+>
+>このページでは、Adobe Customer Experience Orchestration （CXO）ソリューションのサポートチケットを作成および管理する方法について説明します。 Adobe Creative Cloud ソリューションのサポート情報については、[ここをクリック &#x200B;](https://helpx.adobe.com/jp/support.html)してください。
 
 ## Experience League サポートチケット
 
@@ -82,7 +86,7 @@ Commerceを使用している場合、サポートケースで作業するアク
 
 >[!NOTE]
 >
-> サポートチケットを送信する前に、[Adobe ステータス &#x200B;](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
+>サポートチケットを送信する前に、[Adobe ステータス &#x200B;](https://status.adobe.com/ja) サイトでAdobe システムのパフォーマンス、可用性、既知の問題を確認してください。
 
 Experience Leagueは、資格を持つお客様にパーソナライズされたサポートと使いやすいエクスペリエンスを提供するために設計されたセルフサービスポータルです。
 
