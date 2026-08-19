@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Experience Leagueでサポートケースを作成するには、次の手順に
    >[!NOTE]
    >
    >AIを活用したレコメンデーションは、Adobe Admin Console商品には表示されません。
+
+   問題の詳細を入力すると、AIを活用したレコメンデーションセクションの下に、システムインサイトパネルが画面の右側に表示されます。 システムインサイトは現在、Adobe Commerceでのみ利用できます。 詳しくは、[&#x200B; システムインサイト &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/system-insights)を参照してください。
 
    ![問題の説明ステップ &#x200B;](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 

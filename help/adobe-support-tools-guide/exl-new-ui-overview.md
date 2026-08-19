@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
-source-wordcount: 1070
-ht-degree: 1%
+source-wordcount: 1311
+ht-degree: 0%
 
 ---
 
@@ -25,17 +25,21 @@ ht-degree: 1%
 
 再設計されたExperience League サポートポータルでは、Adobe サポートアクティビティを管理するための統一された直感的なエクスペリエンスを提供します。 サポートケースの追跡、製品ステータスの監視、ケースインサイトへのアクセス、サクセスチームとの連携など、重要な機能にすばやくアクセスできます。
 
+>[!NOTE]
+>
+>再設計されたポータルでサポートケースを作成および管理するには、[&#x200B; サポートケースの作成と管理](exl-new-ui-support-cases.md)を参照してください。
+
 ## ホームページ
 
 **[!UICONTROL ホーム]** ページは、サポート活動の中心的なハブとして機能します。 サポート環境の概要と主な機能への迅速なアクセスを提供します。
 
-![新しいEXL UIのホームページ &#x200B;](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
+![新しいEXL UIのホームページ &#x200B;](/help/adobe-support-tools-guide/assets/home-page-new-ui-2.png)
 
 左側のナビゲーションパネルでは、次のセクションにアクセスできます。
 
 - **[!UICONTROL ホーム]**&#x200B;がデフォルトのランディングページとして開き、サポートアクティビティの一元的なビューが表示されます。
-- **[!UICONTROL ケースを開く]**&#x200B;は、現在のExperience League サポートポータルでケース作成ワークフローを開きます。
-- **[!UICONTROL マイケース]**&#x200B;は、現在のExperience League サポートポータルでケースリストを開きます。
+- **[!UICONTROL ケースを開く]**&#x200B;は、再設計されたポータルでケース作成ワークフローを開きます。
+- **[!UICONTROL マイケース]**&#x200B;は、再設計されたポータルでケースリストを開きます。
 - **[!UICONTROL My Success]**&#x200B;は、Ultimate Success plan ユーザーのみが利用できます。
 
 ## 組織の切り替え
@@ -54,17 +58,13 @@ ht-degree: 1%
 
 ![古いUI](/help/adobe-support-tools-guide/assets/old-ui.png)
 
->[!NOTE]
->
->ポータルの環境設定が自動的に保存されます。 最後に使用したポータルが、今後のログイン用のデフォルトのポータルになります。 最後に再設計されたポータルを使用した場合は、従来のポータルを読み込まずに直接開きます。 最後にレガシーポータルを使用した場合、システムはレガシーポータルを開きます。
-
 ホームページには、Experience League サポートポータル全体での検索を可能にするグローバル検索バーを備えたパーソナライズされたウェルカムバナーが含まれています。
 
 次のクイックアクションは、**[!UICONTROL ホーム]** ページの上部で使用できます。
 
-1. **[!UICONTROL サポートケースを開く]** – 従来のサポートポータルでケース作成ワークフローを開きます。 「**[!UICONTROL 基本を学ぶ]**」を選択します。
+1. **[!UICONTROL サポートケースを開く]** – 再設計されたポータルでケース作成ワークフローを開きます。 「**[!UICONTROL 基本を学ぶ]**」を選択します。
 
-1. **[!UICONTROL ケースの表示と管理]** – 従来のサポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。 **[!UICONTROL 今すぐ実行]**&#x200B;を選択します。
+1. **[!UICONTROL ケースを表示して管理]** – 再設計されたポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。 **[!UICONTROL 今すぐ実行]**&#x200B;を選択します。
 
 1. **[!UICONTROL コールバックをリクエスト]** - Adobeの専門家とのケースに関する通話をスケジュールします。 P1 （クリティカル）ケースの場合は、直ちにコールバックをリクエストします。 P2およびP3の場合は、都合の良い日時にサポートエンジニアとのweb ミーティングをスケジュールします。 **[!UICONTROL 今すぐリクエスト]**&#x200B;を選択して開始してください。
 
@@ -114,15 +114,18 @@ ht-degree: 1%
 
 ![自分のケース &#x200B;](/help/adobe-support-tools-guide/assets/my-case.png)
 
-現在のExperience League サポートポータルでケースの詳細を表示するには、**[!UICONTROL ケース ID]**&#x200B;を選択します。
+**[!UICONTROL ケース ID]**&#x200B;を選択して、再設計されたExperience League サポートポータルでケースの詳細を表示します。
 
 ![&#x200B; ケース IDを選択](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-「**[!UICONTROL すべてのケースを表示]**」を選択して、現在のExperience League サポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。
+「**[!UICONTROL すべてのケースを表示]**」を選択して、再設計されたExperience League サポートポータルで&#x200B;**[!UICONTROL マイケース]** ページを開きます。
 
 ![すべてのケースを表示](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
-**[!UICONTROL Service Analytics]**&#x200B;で&#x200B;**[!UICONTROL マイケース]**&#x200B;が選択されると、**[!UICONTROL マイケース（すべて）]**&#x200B;が事前に選択され、Experience League サポートポータルで開きます。 **[!UICONTROL 組織のケース]**&#x200B;が選択されると、**[!UICONTROL 組織のケース （すべて）]**&#x200B;がExperience League サポートポータルで事前に選択されます。
+ポータルは、元の選択範囲に一致するタブを事前選択します。
+
+- **[!UICONTROL Service Analytics]**&#x200B;で&#x200B;**[!UICONTROL マイケース]**&#x200B;を選択した場合、**[!UICONTROL マイケース]** タブが事前に選択されています。
+- **[!UICONTROL Service Analytics]**&#x200B;で&#x200B;**[!UICONTROL My Org Cases]**&#x200B;を選択した場合、**[!UICONTROL My Org Cases]** タブが事前に選択されています。
 
 ## 製品ステータスアラート
 
@@ -139,7 +142,7 @@ ht-degree: 1%
 
 これにより、注意が必要な製品を迅速に特定し、優先順位を付けることができます。 1つ以上の製品カードを選択して、**[!UICONTROL ホーム]** ページの&#x200B;**[!UICONTROL システムステータスアラート]**&#x200B;のアラートをフィルタリングできます。
 
-![&#x200B; アラートフィルター](/help/adobe-support-tools-guide/assets/select-more-products.png)
+![&#x200B; アラートフィルター](/help/adobe-support-tools-guide/assets/select-more-products-1.png)
 
 ## システムステータスアラート
 
@@ -161,7 +164,56 @@ ht-degree: 1%
 
 追加の詳細を表示するアラートを選択します。
 
-![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
+![&#x200B; システム ステータスの警告セクション &#x200B;](/help/adobe-support-tools-guide/assets/system-alerts-updated.png)
+
+### 購読の管理
+
+**[!UICONTROL サブスクリプションの管理]**&#x200B;を使用して、Adobeの製品およびサービスのステータス イベントに関するメール通知を設定します。 購読した製品に更新があると、アラートが届きます。
+
+1. 「**[!UICONTROL システムステータスアラート]**」セクションで、**[!UICONTROL サブスクリプションの管理]**&#x200B;を選択します。
+
+   ![&#x200B; サブスクリプションの管理](assets/manage-subscriptions.png)
+
+2. **[!UICONTROL 購読の管理]** ページで、**[!UICONTROL 購読の作成]**&#x200B;を選択します。
+
+   ![&#x200B; サブスクリプションを作成](assets/create-subscriptions.png)
+
+3. **[!UICONTROL クラウドを選択してください]**&#x200B;で、モニターする商品を含むAdobe クラウドを選択します。
+4. 「**[!UICONTROL 製品とサービスを選択してください]**」で、通知を受け取る製品を選択します。
+5. **[!UICONTROL 地域を選択してください]**&#x200B;で、監視する1つ以上の地域を選択してください。
+6. **[!UICONTROL イベントタイプを選択してください]**。次の1つ以上のイベントタイプを選択してください。
+
+   &#x200B;* サービスに関する大きな問題
+   &#x200B;* マイナーサービスの問題
+   &#x200B;* サービスメンテナンス
+   &#x200B;* 発表
+
+   ![購読ページの作成](assets/create-subscription-page.png)
+
+7. 言語やタイムゾーンなどのデフォルトの通知設定を確認します。
+8. **[!UICONTROL 続行]**&#x200B;を選択します。
+9. 選択したクラウド、製品、サービス、地域、イベントタイプなど、サブスクリプションの詳細を確認します。
+10. サブスクリプションを作成するには、**[!UICONTROL 確認]**&#x200B;を選択します。
+
+    ![&#x200B; サブスクリプションの詳細を確認](assets/confirm-subscription.png)
+
+11. 確認メッセージが表示され、サブスクリプションが作成されます。
+
+サブスクリプションを作成した後、選択した製品、地域、イベントタイプの条件に一致するイベントが作成、更新、または解決されると、Adobeはメール通知を送信します。
+
+>[!NOTE]
+>
+>メールは、ステータス通知のデフォルトのコミュニケーションチャネルです。 サブスクリプションの環境設定は、選択した製品、地域、およびイベントタイプにのみ適用されます。
+
+次回&#x200B;**[!UICONTROL サブスクリプションの管理]**&#x200B;を開くと、選択したクラウド、製品、サービス、地域、イベントタイプなど、現在のサブスクリプションの詳細がページに表示されます。
+
+![既存のサブスクリプションを管理](assets/edit-subscriptions.png)
+
+このページから、次のアクションを実行できます。
+
+&#x200B;* **[!UICONTROL サブスクリプションを編集]**&#x200B;を選択して、既存のサブスクリプションを変更します。
+&#x200B;* 「**[!UICONTROL すべて購読解除]**」を選択してすべての購読を削除します。
+&#x200B;* サブスクリプションの横にある削除アイコンを選択して、個々のサブスクリプションを削除します。
 
 ## プラン情報
 
