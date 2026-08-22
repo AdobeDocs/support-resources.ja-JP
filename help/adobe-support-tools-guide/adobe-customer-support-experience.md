@@ -90,7 +90,7 @@ Commerceを使用している場合、サポートケースで作業するアク
 
 >[!NOTE]
 >
->再設計されたExperience League サポートポータルを使用してサポートケースを開く場合は、[&#x200B; サポートケースの作成と管理](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)を参照してください。 次の手順では、現在の（従来の）ポータル インターフェイスについて説明します。
+>再設計されたExperience League サポートポータルを使用してサポートケースを開く場合は、[&#x200B; サポートケースの作成と管理](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases)を参照してください。 次の手順では、現在の（従来の）ポータル インターフェイスについて説明します。
 
 Experience Leagueは、資格を持つお客様にパーソナライズされたサポートと使いやすいエクスペリエンスを提供するために設計されたセルフサービスポータルです。
 
