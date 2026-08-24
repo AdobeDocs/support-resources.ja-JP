@@ -1,13 +1,14 @@
 ---
 title: サポートケースの作成と管理
 description: 新しくデザインされたExperience League サポートポータルで、サポートケースを作成、表示、管理する方法について説明します。
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Experience Leagueでサポートケースを作成するには、次の手順に
    ![問題の説明ステップ &#x200B;](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    説明に含まれる文字数が50文字未満の場合、システムにはガイダンス用の推奨記事が表示されます。 組み込みの文字カウンターは、最小要件をリアルタイムで追跡します。
-
-   >[!NOTE]
-   >
-   >AIを活用したレコメンデーションは、Adobe Admin Console商品には表示されません。
 
    問題の詳細を入力すると、AIを活用したレコメンデーションセクションの下に、システムインサイトパネルが画面の右側に表示されます。 システムインサイトは現在、Adobe Commerceでのみ利用できます。 詳しくは、[&#x200B; システムインサイト &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/system-insights)を参照してください。
 
@@ -148,6 +145,6 @@ Experience Leagueでサポートケースを作成するには、次の手順に
 
 ![&#x200B; ケースの概要](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-ケースの詳細ページには、ケースのタイトル、ケース ID、ステータス、最終更新日、ケースの説明、再現性が表示されます。 詳細パネルには、Adobe Support Agent、Requestor、Product、Priority、Time Zone、Watcher、Case Attachmentsが含まれます。 コメントを追加するには、コメントエディターにメッセージを入力し、**[!UICONTROL メッセージを送信]**&#x200B;を選択します。 添付アイコンを使用してファイルを添付できます。 コメントのピン留めアイコンを選択して、ケースにピン留めします。 複数のコメントをピン留めおよびピン留めを解除できます。
+ケースの詳細ページには、ケースのタイトル、ケース ID、ステータス、最終更新日、ケースの説明、再現性が表示されます。 詳細パネルには、Adobe Support Agent、Requestor、Product、Priority、Time Zone、Watcher、Case Attachmentsが含まれます。 コメントを追加するには、コメントエディターにメッセージを入力し、**[!UICONTROL メッセージを送信]**&#x200B;を選択します。 添付アイコンを使用してファイルを添付し、ポータル内の添付ファイルを削除できます。 コメントのピン留めアイコンを選択して、ケースにピン留めします。 複数のコメントをピン留めおよびピン留めを解除できます。
 
 ![&#x200B; ケースの詳細](/help/adobe-support-tools-guide/assets/case-details.png)
