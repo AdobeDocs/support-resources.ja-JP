@@ -4,10 +4,14 @@ description: Adobeサポート音声アシスタントは、日本のお客様�
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2:
+  - id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: 80954ede888781a9ee571c9779d9ca2bb78387e7
 workflow-type: tm+mt
 source-wordcount: 1032
@@ -20,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->このページでは、ライブエージェントが利用できない時間外および週末の時間帯に、日本の電話ベース（IVR）サポートで利用できるAI音声アシスタントについて説明します。 営業時間中の一般的なケースの提出については、標準の[Adobe カスタマーサポート エクスペリエンス ](/help/adobe-support-tools-guide/adobe-customer-support-experience.md) ドキュメントを参照してください。
+>このページでは、ライブエージェントが利用できない時間外および週末の時間帯に、日本の電話ベース（IVR）サポートで利用できるAI音声アシスタントについて説明します。 営業時間中の一般的なケースの提出については、標準の[Adobe カスタマーサポート エクスペリエンス &#x200B;](/help/adobe-support-tools-guide/adobe-customer-support-experience.md) ドキュメントを参照してください。
 
 ## 概要
 
