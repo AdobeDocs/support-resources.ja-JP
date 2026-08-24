@@ -15,7 +15,7 @@ ht-degree: 64%
 # Success Planリソース {#data-sheets}
 
 + [Adobe Success Planの概要](overview.md)
-+ [Adobe DX Solutions統合ホリデーシーズン対応ガイド ](unified-holiday-readiness.md)
++ [Adobe DX Solutions統合ホリデーシーズン対応ガイド &#x200B;](unified-holiday-readiness.md)
 + The Crux ポッドキャスト{#crux-podcast}
   + [Ep.1 - ビリー・ゲオガロス](episode1.md)
   + [Ep.2 - Karrie Benjamin](episode2.md)
