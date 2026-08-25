@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ Experience Leagueでサポートケースを作成するには、次の手順に
 ケースの詳細ページには、ケースのタイトル、ケース ID、ステータス、最終更新日、ケースの説明、再現性が表示されます。 詳細パネルには、Adobe Support Agent、Requestor、Product、Priority、Time Zone、Watcher、Case Attachmentsが含まれます。 コメントを追加するには、コメントエディターにメッセージを入力し、**[!UICONTROL メッセージを送信]**&#x200B;を選択します。 添付アイコンを使用してファイルを添付し、ポータル内の添付ファイルを削除できます。 コメントのピン留めアイコンを選択して、ケースにピン留めします。 複数のコメントをピン留めおよびピン留めを解除できます。
 
 ![&#x200B; ケースの詳細](/help/adobe-support-tools-guide/assets/case-details.png)
+

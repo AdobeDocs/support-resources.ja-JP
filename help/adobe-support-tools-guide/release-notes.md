@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2254
 ht-degree: 0%
@@ -35,11 +35,8 @@ ht-degree: 0%
 ## 2026年8月26日 – 新デザインのExperience League サポートポータルの更新
 
 1. ケース作成インターフェイスで、最後に選択したエクスペリエンス（**[!UICONTROL クラシックフォーム]**&#x200B;または&#x200B;**[!UICONTROL AI チャット]**）が記憶されるようになりました。 最近&#x200B;**[!UICONTROL AI チャット]**&#x200B;を使用した場合、次回ケースを作成するときに自動的に選択されるので、毎回手動で切り替える必要はありません。
-
 1. 添付ファイルは、各添付ファイルに表示されている削除アイコンを使用して、**[!UICONTROL ケースの詳細]** ページから直接削除できるようになりました。 この機能は、クローズドケースやWorkfront組織では使用できません。
-
 1. 並べ替えは、**[!UICONTROL マイケース]** ページのすべての列でサポートされるようになりました。
-
 1. ケース作成中に&#x200B;**[!UICONTROL Admin Console]**&#x200B;が商品として選択されると、**[!UICONTROL AI Recommendations]**&#x200B;が利用できるようになりました。
 
 ## 2026年8月19日 – 新デザインのExperience League サポートポータルで、ケース作成、マイケース、ケースの詳細を利用できるようになりました
