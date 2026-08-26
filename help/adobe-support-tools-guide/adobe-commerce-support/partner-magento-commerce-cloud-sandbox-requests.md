@@ -26,15 +26,15 @@ ht-degree: 2%
 
 ## Adobe Commerce on cloud infrastructure サンドボックスを更新するにはどうすればよいですか？ {#how-do-i-refresh-my-cloud-sandbox}
 
-サポート情報の「[ クラウド上の環境をリセットする](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)」を参照してください。
+サポート情報の「[&#x200B; クラウド上の環境をリセットする](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)」を参照してください。
 
 ## 行き詰まったデプロイメントはどうすればよいですか？ {#what-do-i-do-with-a-stuck-deployment}
 
-サポート情報の「[ デプロイメントのトラブルシューティング ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)」を参照してください。
+サポート情報の「[&#x200B; デプロイメントのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)」を参照してください。
 
 ## ソリューションパートナーやテクノロジーパートナーは、どこで/どのようにサポートリクエストを提出するのですか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home)の「[ サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代理で提出され、混乱を招くようなので、販売者のアカウントを使用してチケットを送信しないでください。
+パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[&#128279;](https://experienceleague.adobe.com/en/support?support-tab=home#home)の「 サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代理で提出され、混乱を招くようなので、販売者のアカウントを使用してチケットを送信しないでください。
 
 この要件は、パートナーが特定の顧客向けではなく、内部環境で作業している場合にも適用されます。 パートナーは、お客様の代わりに積極的にエンゲージしている場合にのみ、お客様の組織の下でサポートリクエストを送信する必要があります。
 
