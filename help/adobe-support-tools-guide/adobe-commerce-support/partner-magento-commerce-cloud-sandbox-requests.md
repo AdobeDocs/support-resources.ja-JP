@@ -5,9 +5,9 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
+source-git-commit: 162d1fbc2fe4767e508f77d961580bf04f9ab769
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '406'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 このFAQには、Adobe Commerce on cloud infrastructure サンドボックスのリクエストに関する役立つリソースへのリンクが含まれています。 また、パートナーは、顧客の代理として行動しない場合、顧客の組織の下でチケットを送信してはならないことを明確にします。
 
-## Adobe Commerce on cloud infrastructure サンドボックスのサービスをアップグレードするにはどうすればよいですか？ {#how-do-i-upgrade-services-cloud-sandbox}
+## Adobe Commerce on cloud infrastructure サンドボックスでサービスをアップグレードするにはどうすればよいですか？ {#how-do-i-upgrade-services-cloud-sandbox}
 
 ほとんどのサンドボックスプロジェクトは、[Cloud Pro](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/pro-architecture#staging-environment)ではなく[Cloud Starter projects](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/architecture/starter-develop-deploy-workflow)のように設定されます。
 
@@ -26,19 +26,18 @@ ht-degree: 2%
 
 ## Adobe Commerce on cloud infrastructure サンドボックスを更新するにはどうすればよいですか？ {#how-do-i-refresh-my-cloud-sandbox}
 
-サポート情報については、[&#x200B; クラウド環境のリセット &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)を参照してください。
+サポート情報の「[&#x200B; クラウド上の環境をリセットする](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/how-to/reset-environment-on-cloud)」を参照してください。
 
 ## 行き詰まったデプロイメントはどうすればよいですか？ {#what-do-i-do-with-a-stuck-deployment}
 
-サポート ナレッジベースの[&#x200B; デプロイメントのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)を参照してください。
+サポート情報の「[&#x200B; デプロイメントのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640)」を参照してください。
 
-## ソリューションパートナーやテクノロジーパートナーは、どこで/どのようにサポートリクエストを提出するのですか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
+## パートナーはどこでどのようにサポートリクエストを送信しますか？ {#wherehow-do-solution-partners-or-tech-partners-submit-a-support-request}
 
-パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[&#128279;](https://experienceleague.adobe.com/ja/support?support-tab=home#home)の「 サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代わりに送信され、混乱を招く可能性があるため、販売者のアカウントを使用してチケットを送信しないでください。
+パートナーサンドボックスクラウドプロジェクトを持つパートナーは、Experience League[&#128279;](https://experienceleague.adobe.com/ja/support?support-tab=home#home)の「 サポート」セクションを通じて、サンドボックス関連の問題に関するチケットを送信できません。 これらのチケットは販売者の代理で提出され、混乱を招くようなので、販売者のアカウントを使用してチケットを送信しないでください。
 
-この要件は、パートナーが特定の顧客向けではなく、内部環境で作業している場合にも適用されます。 パートナーは、お客様の代わりに積極的に関与しない限り、お客様の組織の下でサポートリクエストを送信してはなりません。
+この要件は、パートナーが特定の顧客向けではなく、内部環境で作業している場合にも適用されます。 パートナーは、お客様の代わりに積極的にエンゲージしている場合にのみ、お客様の組織の下でサポートリクエストを送信する必要があります。
 
-共有アクセスが付与されていない販売者の代理でチケットを送信する場合は、アカウント所有者にアクセス権をリクエストしてください。 アクセスをリクエストする手順については、[共有アクセス：他のユーザーがアカウントにアクセスするための権限の付与](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)を参照してください。
+共有アクセスが付与されていない販売者の代理でチケットを送信する場合は、アカウント所有者にアクセス権をリクエストしてください。 アクセスをリクエストする手順については、[共有アクセス：他のユーザーがアカウントにアクセスするための権限の付与](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#shared-access)を参照してください。
 
-* ソリューションパートナーは、サンドボックス関連のサポートリクエストを[SPPHelp@adobe.com](mailto:SPPHelp@adobe.com)に電子メールで送信する必要があります。 これらのリクエストは、パートナーテクニカルサポートチームにルーティングされます。
-* 技術パートナーは、[&#x200B; マーケットプレイスサポート &#x200B;](mailto:commercemarketplacesupport@adobe.com)にお問い合わせください。
+パートナーは、サポートケース [ここ](https://partners.adobe.com/digitalexperience/m/forms/case)を送信できます。
