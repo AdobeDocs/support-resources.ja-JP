@@ -2,7 +2,6 @@
 title: Experience League サポートリリースノート
 description: Experience League サポートに関する最新リリース情報。
 feature: Release Notes
-hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -16,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
-source-wordcount: 2254
+source-wordcount: 2250
 ht-degree: 0%
 
 ---
@@ -32,12 +31,12 @@ ht-degree: 0%
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
 
-## 2026年8月26日 – 新デザインのExperience League サポートポータルの更新
+## 2026年8月27日 – 新デザインのExperience League サポートポータルの更新
 
-1. ケース作成インターフェイスで、最後に選択したエクスペリエンス（**[!UICONTROL クラシックフォーム]**&#x200B;または&#x200B;**[!UICONTROL AI チャット]**）が記憶されるようになりました。 最近&#x200B;**[!UICONTROL AI チャット]**&#x200B;を使用した場合、次回ケースを作成するときに自動的に選択されるので、毎回手動で切り替える必要はありません。
-1. 添付ファイルは、各添付ファイルに表示されている削除アイコンを使用して、**[!UICONTROL ケースの詳細]** ページから直接削除できるようになりました。 この機能は、クローズドケースやWorkfront組織では使用できません。
-1. 並べ替えは、**[!UICONTROL マイケース]** ページのすべての列でサポートされるようになりました。
-1. ケース作成中に&#x200B;**[!UICONTROL Admin Console]**&#x200B;が商品として選択されると、**[!UICONTROL AI Recommendations]**&#x200B;が利用できるようになりました。
+1. ケース作成インターフェイスは、最後に選択したエクスペリエンス（**[!UICONTROL クラシックフォーム]**&#x200B;または&#x200B;**[!UICONTROL AI チャット]**）を記憶します。 最近&#x200B;**[!UICONTROL AI チャット]**&#x200B;を使用した場合、次回ケースを作成するときに自動的に選択されるので、毎回手動で切り替える必要はありません。
+1. 添付ファイルは、各添付ファイルに表示されている削除アイコンを使用して、**[!UICONTROL ケースの詳細]** ページから直接削除できます。 この機能は、クローズドケースやWorkfront組織では使用できません。
+1. 並べ替えは、**[!UICONTROL マイケース]** ページのすべての列でサポートされています。
+1. **[!UICONTROL AIの推奨事項]**&#x200B;は、ケース作成時に&#x200B;**[!UICONTROL Admin Console]**&#x200B;が商品として選択されている場合に使用できます。
 
 ## 2026年8月19日 – 新デザインのExperience League サポートポータルで、ケース作成、マイケース、ケースの詳細を利用できるようになりました
 

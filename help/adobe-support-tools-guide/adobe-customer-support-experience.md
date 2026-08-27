@@ -2,7 +2,6 @@
 keywords: Experience Platform サポート；プラットフォームサポート；インテリジェントサービスサポート；カスタマーai サポート；アトリビューション ai サポート；rtcdp サポート；サポートチケットの送信；カスタマーサポート
 title: Adobe Experience Cloud Customer One エンタープライズ版
 description: Adobe カスタマーサポート体験
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -207,8 +206,8 @@ Experience Leagueは、資格を持つお客様にパーソナライズされた
 Experience League サポートでは、サポートケースを作成および管理する別の方法として、AIを活用したチャットインターフェイスを提供しています。 AI チャットエクスペリエンスはオプトインであり、従来のケース作成ワークフローに取って代わるものではありません。
 
 >[!NOTE]
-&#x200B;>>
-ポータルは、ユーザーの&#x200B;**[!UICONTROL AI チャット]**&#x200B;の選択を好みのケース作成エクスペリエンスとして保存し、次回の訪問に備えて記憶します。
+>
+>ポータルは、ユーザーの&#x200B;**[!UICONTROL AI チャット]**&#x200B;の選択を好みのケース作成エクスペリエンスとして保存し、次回の訪問に備えて記憶します。
 
 >[!NOTE]
 >
