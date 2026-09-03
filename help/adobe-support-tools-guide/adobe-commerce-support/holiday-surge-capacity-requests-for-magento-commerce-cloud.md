@@ -4,9 +4,10 @@ description: ホリデーシーズンの繁忙期（11月中旬～1月中旬）�
 feature: Support
 feature-set: Commerce
 role: Admin
-source-git-commit: e6ae0022bac9c91eb52c76a6b7a8d8f6c45257cb
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,13 +44,13 @@ ht-degree: 0%
 
 **さらにヘルプ？**
 
-繁忙期のトラフィックの準備に関する詳細なガイダンスが必要ですか？ アドビのクラウドインフラストラクチャを使用しているAdobe Commerceをご利用のマーチャントは、Adobeアカウントチームに連絡して、繁忙期を成功させるためのヘルプ、戦略、計画のヒントを入手できます。 また、年間を通じて戦略のヒントを得るには、[Magento ブログ &#x200B;](https://magento.com/blog)を参照することをお勧めします。
+繁忙期のトラフィックの準備に関する詳細なガイダンスが必要ですか？ アドビのクラウドインフラストラクチャを使用しているAdobe Commerceをご利用のマーチャントは、Adobeアカウントチームに連絡して、繁忙期を成功させるためのヘルプ、戦略、計画のヒントを入手できます。 また、年間を通じて戦略のヒントを得るには、[Adobe for Business ブログ &#x200B;](https://magento.com/blog)を参照することをお勧めします。
 
 ## キャパシティの確認に関するリソース
 
 サポートナレッジベース：
 
-* [&#x200B; クラウド上のAdobe CommerceのCPU割り当て計算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=ja)
-* [&#x200B; クラウド上のAdobe Commerceにホストのインスタンスのアップサイズが必要かどうかを確認します](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=ja)
-* [&#x200B; クラウド上のAdobe Commerce用のホストのCPU設定を確認](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=ja)
-* [&#x200B; クラウド上のAdobe Commerceの停止を特定して測定する](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=ja)
+* [Adobe Commerce クラウド版のCPU割り当て計算](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=ja)
+* [Adobe Commerce on cloudでホストのインスタンスのアップサイズが必要かどうかを確認します](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=ja)
+* [Adobe Commerce on cloud用のホストのCPU設定を確認します](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=ja)
+* [Adobe Commerce on cloudの障害発生時の特定と測定](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=ja)
