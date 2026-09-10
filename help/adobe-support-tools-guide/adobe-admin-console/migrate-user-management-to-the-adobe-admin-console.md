@@ -1,40 +1,48 @@
 ---
-title: Frame.io ユーザー管理のAdmin Consoleへの移行
+title: Adobe Admin Consoleへのユーザー管理の移行
 description: 適格なエンタープライズアカウントがAdobe Admin Consoleにユーザー管理を移行する方法について説明します。
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: a6a7aab607abb90d94736d957d57cf4659237cd4
+TQID: 'https://experienceleague.adobe.com/l0jyxNyd32NYh6ggu2iNYz-7DgSsKSmgl1wgQAVskIc'
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: d1c959e9-891f-4624-8eb1-4d6658c0f72f
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 70691859da7915a2a4680ba19aca444ac9a94293
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 286
 ht-degree: 0%
 
 ---
 
-# Frame.io ユーザー管理のAdmin Consoleへの移行
+# Adobe Admin Consoleへのユーザー管理の移行
 
-対象となるV4 アカウントを一元管理ユーザーに移行するには、Frame.io アカウントチームにお問い合わせください
-管理：
+Adobeのアカウントチームに連絡して、Adobe Admin Consoleを通じて対象ソリューションを一元管理に移行する方法について話し合います。
 
->[!NOTE]
->
->Frame.ioのwebおよびモバイルアプリは、英語、日本語、ドイツ語、ロシア語
->スペイン語、イタリア語、フランス語、ポルトガル語（ブラジル）。
+Adobe アカウントチームに連絡する前に、お客様の組織が適格要件を満たしていることを確認し、移行計画に参加する関係者を特定します。
 
-アカウントチームに連絡する前に、組織が適格要件を満たしていることを確認し、移行計画に参加する必要がある関係者を特定します。
+移行の実施要件はソリューションによって異なります。 移行プロセスを開始する前に、組織に次の要件があることを確認してください。
 
-- Frame.io V4 エンタープライズアカウント（2024年10月以降に作成されたアカウント、またはV4に移行済みのアカウント）
-- Enterprise版およびTeams版では、Adobe Admin ConsoleおよびGlobal Admin Consoleを通じてFrame.ioを管理できます。
-- 現在のFrame.io アカウントバージョンを確認するためのシステム管理者アクセス権
-- Frame.io アカウントチームの連絡先情報
+- Adobe Admin Console ベースのユーザー管理への移行をサポートする、対象となるエンタープライズソリューションまたはデプロイメント。
+- 該当する場合、Adobe Admin Consoleへのアクセス。
+- 現在のユーザー管理設定を確認するには、管理アクセスが必要です。
+- Adobeのアカウントチームまたは実装担当者への問い合わせ先。
+- ソリューション固有の前提条件が完了した（該当する場合）。
 
 ## 実施要件を確認し、移行をリクエスト
 
-1. Frame.io [&#x200B; エンタープライズアカウント &#x200B;](https://accounts.frame.io/welcome)にログインし、アカウントがV4であることを確認します。
-1. Frame.ioのアカウントチームに連絡し、Adobe Admin Consoleへの移行をリクエストしてください。
-1. 移行のタイミングとロールアウトについては、Adobe アカウントチームにお問い合わせください。
-1. 影響を受ける管理者およびユーザーに、ログインまたはアクセスの変更を伝えます。
+1. 現在のソリューション設定を確認し、Adobe Admin Console ベースのユーザー管理への移行がサポートされていることを確認します。
+2. ソリューションに特化した適格性の要件と前提条件を確認します。
+3. Adobeのアカウントチームにお問い合わせいただき、Adobe Admin Console ユーザー管理への移行をご依頼ください。
+4. Adobeのアカウントチームと協力し、移行のタイミング、実装要件、組織の準備状況を確認します。
+5. 影響を受ける管理者およびユーザーに、ログインまたはアクセスの変更を伝えます。
 
-移行が完了したら、Frame.ioのインターフェイスではなくAdobe Admin ConsoleでFrame.io ユーザーを管理し、役割を割り当てます。 移行中、既存のユーザーはアクセス権と権限を保持します。
+## 移行後
 
-お客様のアカウントが資格基準を満たさない場合は、Frame.io アカウントチームに連絡して、Adobe Admin Consoleのユーザー管理の対象となるオプションを検討してください。
+移行が完了したら、次の操作を行います。
+
+- 利用者の管理はAdobe Admin Consoleを通じて管理します。
+- ユーザーのログインとアクセスのエクスペリエンスは、組織のID設定に基づいて更新される場合があります。
+- 継続的なユーザーのライフサイクル管理アクティビティは、ソリューションに関して特に文書化されていない限り、Adobe Admin Consoleを通じて実行する必要があります。
+
+お客様の組織が利用条件を満たさない場合は、Adobeのアカウントチームに連絡して、Adobe Admin Console ユーザー管理の対象となるオプションを検討してください。
