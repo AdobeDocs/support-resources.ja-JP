@@ -3,9 +3,15 @@ title: システムインサイト
 description: System Insightsは、Adobe Commerce環境の潜在的な問題を先見的に特定します。 ケース作成時にインサイトを確認することで、解決時間を短縮し、障害発生時の回避に役立ち、安定して安全なデプロイメントをサポートします。
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
@@ -37,15 +43,15 @@ Adobeチームは、一般的なサポート上の課題と新たなトレンド
 
 ## 可用性と範囲
 
-システムインサイトは現在、Adobe Commerceでのみ利用できます。 これらのインサイトは、Experience League サポートのケース作成プロセス中に表示され、[ サイト全体の分析ツール（SWAT） ](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)からも入手できます。
+システムインサイトは現在、Adobe Commerceでのみ利用できます。 これらのインサイトは、Experience League サポートのケース作成プロセス中に表示され、[&#x200B; サイト全体の分析ツール（SWAT） &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)からも入手できます。
 
->[!N注]
+>[ !N注]
 >
 >システムインサイトは、本番環境用にのみデータを表示します。
 
 ## システムインサイトへのアクセス
 
-ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの上に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[ サポートチケットの記入](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
+ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの上に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[&#x200B; サポートチケットの記入](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
 
 このパネルには、特定のプロジェクトインスタンスに対してスコープ付けされたインサイトのスクロール可能なリストが表示されます。 スコーピングは、**[!UICONTROL プロジェクト URL]** フィールドに入力された情報に基づいています。 **[!UICONTROL プロジェクト URL]**&#x200B;を正確に入力して、インサイトが正しい環境を反映するようにします。
 
@@ -54,7 +60,7 @@ Adobeチームは、一般的なサポート上の課題と新たなトレンド
 - 問題をまとめたタイトル
 - Insightの概要
 
-![ サポートリソースへのアクセス ](/help/adobe-support-tools-guide/assets/access-support-resources.png)
+![&#x200B; サポートリソースへのアクセス &#x200B;](/help/adobe-support-tools-guide/assets/access-support-resources.png)
 
 Insightの詳細を表示するには、リストからinsight カードを選択します。 詳細ビューには、次の情報が表示されます。
 
@@ -64,12 +70,12 @@ Insightの詳細を表示するには、リストからinsight カードを選�
   - [!UICONTROL 機能]
   - [!UICONTROL パフォーマンス]
   - [!UICONTROL セキュリティ]
-- 重要度を示す[!UICONTROL  リスクレベル ]
+- 重要度を示す[!UICONTROL &#x200B; リスクレベル &#x200B;]
 - [!UICONTROL 前回のチェック実行]は、検索結果が検出された日時を示します。
 - [!UICONTROL Insight Source] （SWAT （Site-Wide Analysis Tool）が提供）
 - 問題とその潜在的な影響に関する詳細な説明、問題を調査して対処するための実行可能なステップ。 詳細ビューでは、このタイプの問題の一般的な原因についても説明し、関連するAdobe ドキュメントへのリンクも含まれています。
 
-![ クリックケースカード ](/help/adobe-support-tools-guide/assets/click-case-card.png)
+![&#x200B; クリックケースカード &#x200B;](/help/adobe-support-tools-guide/assets/click-case-card.png)
 
 Insightで発生する問題に直接対処できる場合があるので、先に進む前にパネルのすべてのインサイトを確認してください。
 
@@ -90,7 +96,7 @@ Insightで問題が解決し、サポートケースが不要になった場合�
 - 確認ダイアログが表示されます。
 - このダイアログは、入力したすべてのケースデータが完全に消去されることを示します。
 
-![insightに対するアクション ](/help/adobe-support-tools-guide/assets/issue-resolved.png)
+![insightに対するアクション &#x200B;](/help/adobe-support-tools-guide/assets/issue-resolved.png)
 
 「**[!UICONTROL 完了]**」を選択して確認し、**[!UICONTROL 自分のケース]** ページに戻ります。 「**[!UICONTROL キャンセル]**」を選択して、insightの詳細ビューに戻ります。
 
@@ -100,7 +106,7 @@ Insightで問題が解決し、サポートケースが不要になった場合�
 
 各insightの詳細ビューの下部では、insightが役に立ったかどうかについてフィードバックを提供できます。 このフィードバックは、Adobeがシステムインサイトの関連性と精度を継続的に向上させるのに役立ちます。
 
-![ フィードバックを提供](/help/adobe-support-tools-guide/assets/submit-feedback.png)
+![&#x200B; フィードバックを提供](/help/adobe-support-tools-guide/assets/submit-feedback.png)
 
 フィードバックを提供するには：
 
