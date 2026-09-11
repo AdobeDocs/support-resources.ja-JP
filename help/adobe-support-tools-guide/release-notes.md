@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ ht-degree: 0%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年9月10日 – 再設計されたExperience League サポートポータルがデフォルトのエクスペリエンスになりました
+
+1. 再設計されたExperience League サポートポータルは、すべてのユーザーのデフォルトエクスペリエンスとして設定されるようになりました。 サポートアプリケーションにアクセスすると、ユーザーは自動的に再設計されたポータルに誘導されます。
+
+1. UI スイッチャーラベルが&#x200B;**[!UICONTROL 新しいホームページを試す]**&#x200B;から&#x200B;**[!UICONTROL 前のエクスペリエンスに戻る]**&#x200B;に更新されました。より明確にできます。
+
+1. ポータルの環境設定は、**[!UICONTROL 以前のエクスペリエンスに戻る]** スイッチャーの選択に基づいて引き続き保存および適用されるため、ユーザーは毎回最後に選択したポータル エクスペリエンスに誘導されます。
+
+1. **[!UICONTROL マイケース]** ページの&#x200B;**[!UICONTROL 時間範囲]** フィルタードロップダウンに新しい&#x200B;**[!UICONTROL すべての時間]** オプションが導入され、過去24か月間を超えてケースの履歴を完全に表示できるようになりました。
+
+1. ケース作成フォームのAdobe Commerce **[!UICONTROL System Insights]** ウィジェットが、右側のサイドバーの&#x200B;**[!UICONTROL AI Recommendations]** セクションの上に表示されるように再配置されました。
 
 ## 2026年8月27日 – 新デザインのExperience League サポートポータルの更新
 

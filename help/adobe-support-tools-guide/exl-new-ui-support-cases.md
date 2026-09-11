@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Experience Leagueでサポートケースを作成するには、次の手順に
 
 ![&#x200B; ユースケースのエントリポイントを表示および管理](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-**[!UICONTROL すべてのケース]** ページが開きます。 組織全体でケースまたはケースを表示するには、**[!UICONTROL 自分のケース]**&#x200B;と&#x200B;**[!UICONTROL 自分の組織ケース]**&#x200B;を切り替えます。 **[!UICONTROL 検索ケース]**&#x200B;を使用して、選択した時間範囲内で検索します。 右上隅で、過去3、6、12、18、または24か月間のデータを表示する時間範囲を選択します。 デフォルトでは、ケース、検索結果、フィルターには、過去3か月間のデータが表示されます。
+**[!UICONTROL すべてのケース]** ページが開きます。 ケースを表示するには、**[!UICONTROL マイケース]**&#x200B;を選択するか、組織全体のケースを表示するには、**[!UICONTROL マイオーグケース]**&#x200B;を選択します。 **[!UICONTROL 検索ケース]**&#x200B;を使用して、選択した時間範囲内で検索します。
+
+右上隅で、過去3、6、12、18、24か月または全期間のケースを表示する時間範囲を選択します。 デフォルトでは、ケースリスト、検索結果、フィルターには、過去3か月間のデータが表示されます。
+
+24か月を超えるケースを含むケースの履歴を表示するには、ドロップダウンから「**[!UICONTROL すべての時間]**」オプションを選択します。
 
 ![自分のユースケースページ &#x200B;](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

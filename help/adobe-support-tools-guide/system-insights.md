@@ -12,10 +12,10 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ Adobeチームは、一般的なサポート上の課題と新たなトレンド
 
 ## システムインサイトへのアクセス
 
-ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの下に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[&#x200B; サポートチケットの記入](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
+ケース作成ワークフロー全体でシステムインサイトが表示されます。 問題の詳細を入力すると、**[!UICONTROL システムインサイト]** パネルが画面の右側のAIを活用したレコメンデーションセクションの上に表示されます。 AIを活用したレコメンデーションについて詳しくは、Adobe カスタマーサポート体験記事の[&#x200B; サポートチケットの記入](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket)を参照してください。
 
 このパネルには、特定のプロジェクトインスタンスに対してスコープ付けされたインサイトのスクロール可能なリストが表示されます。 スコーピングは、**[!UICONTROL プロジェクト URL]** フィールドに入力された情報に基づいています。 **[!UICONTROL プロジェクト URL]**&#x200B;を正確に入力して、インサイトが正しい環境を反映するようにします。
 
@@ -67,9 +67,9 @@ Insightの詳細を表示するには、リストからinsight カードを選�
 - Insight名
 - insightにフラグが付けられているAdobe製品
 - Insightの種類。次の種類があります。
-   - [!UICONTROL 機能]
-   - [!UICONTROL パフォーマンス]
-   - [!UICONTROL セキュリティ]
+  - [!UICONTROL 機能]
+  - [!UICONTROL パフォーマンス]
+  - [!UICONTROL セキュリティ]
 - 重要度を示す[!UICONTROL &#x200B; リスクレベル &#x200B;]
 - [!UICONTROL 前回のチェック実行]は、検索結果が検出された日時を示します。
 - [!UICONTROL Insight Source] （SWAT （Site-Wide Analysis Tool）が提供）
