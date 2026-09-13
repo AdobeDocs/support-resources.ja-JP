@@ -328,7 +328,7 @@ Workfront リリースに関する情報を入手し、サンドボックス環�
 * [Adobe Workfront リリースの準備](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront リリースノートのアーカイブ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [2025年第1四半期リリースの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Workfront リリースウェビナーの録画](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Workfront リリースウェビナーの録画](https://experienceleague.adobe.com/ja/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### ベストプラクティス
 
@@ -350,7 +350,7 @@ Adobe Campaignがホリデーシーズンに対応できるように、配信品
 
 ### ホリデーキャンペーンを際立たせるエキスパートのヒント
 
-休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画も、早く始めるに越したことはありません。 Adobe Campaignなら、組織の休暇に関するあらゆる要望を満たすキャンペーンを設計、計画、実行できます。 しかし、今年の終わりに大きな成果をもたらすキャンペーンを実施するためのヒントを把握していますか？ このビデオ「[&#x200B; ホリデーキャンペーンを際立たせるための専門家のヒント &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)」では、配信品質と実行のベストプラクティスについて説明し、Adobe Campaignですべての方法について説明しています。
+休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画も、早く始めるに越したことはありません。 Adobe Campaignなら、組織の休暇に関するあらゆる要望を満たすキャンペーンを設計、計画、実行できます。 しかし、今年の終わりに大きな成果をもたらすキャンペーンを実施するためのヒントを把握していますか？ このビデオ「[&#x200B; ホリデーキャンペーンを際立たせるための専門家のヒント &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03)」では、配信品質と実行のベストプラクティスについて説明し、Adobe Campaignですべての方法について説明しています。
 
 ### 休暇期間に関する考慮事項と準備
 
