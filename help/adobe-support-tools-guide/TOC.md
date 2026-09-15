@@ -6,13 +6,11 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
+source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '372'
 ht-degree: 1%
-
 ---
-
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
 
 - [Adobe サポートおよびツールガイドの概要](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
@@ -25,6 +23,7 @@ ht-degree: 1%
 - Experience League サポートポータル – 新しいユーザーインターフェイス {#exl-new-ui}
   - [概要](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [サポートケースの作成と管理](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
+- [Adobeサポート音声アシスタント – 営業時間外および週末サポート（日本）](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Adobe Admin Consoleの操作](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [保留中のジョブの実行](adobe-admin-console/execute-jobs.md)
