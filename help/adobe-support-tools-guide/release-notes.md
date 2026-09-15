@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Experience League サポートリリースノート
 
@@ -30,6 +34,24 @@ ht-degree: 0%
 ![新機能](../adobe-support-tools-guide/assets/new.svg)
 ![修正](../adobe-support-tools-guide/assets/fix.svg)修正と機能強化
 ![&#x200B; バグ &#x200B;](../adobe-support-tools-guide/assets/bug.svg)既知の問題
+
+## 2026年9月15日 – 日本での時間外サポートの更新
+
+1. 日本のお客様は、ライブエージェントが利用できない夜、夜、週末に、新しい&#x200B;**AI Voice Assistant**&#x200B;から電話ベース（IVR）サポートを受けることができるようになりました。 日本語の自然言語に対応しています。キーワードやメニューナビゲーションは不要です。
+
+1. **AI音声アシスタント**&#x200B;は、ケースの状態を即座に確認し、ケースがまだ調査中か、詳細情報を待っているか、または解決済みかを確認できます。
+
+1. **AI音声アシスタント**&#x200B;は、ケースに記録された最新のメモや進捗状況を共有でき、コールバックやメールを待たずにアクティビティを可視化できます。
+
+1. 重大な障害または深刻なビジネスへの影響については、アシスタントはケースを&#x200B;**[!UICONTROL P1 （クリティカル）]**&#x200B;優先度にエスカレーションできます。
+
+1. Adobe サポートエンジニアから、アシスタントを通じて、いつでもコールバックをリクエストできます。
+
+1. アシスタントが技術的な質問（エラーメッセージ、再生手順など）を行うと、回答はケースノートに自動的に保存され、次のエンジニアに繰り返す必要がなくなります。
+
+>[!NOTE]
+>
+>このサービスは、営業時間外および週末の時間帯のみ、日本語での会話に対応しています。 アシスタントがケース情報を共有する前に、IDまたはケースの詳細を確認する必要があります。 複雑な技術的トラブルシューティングや製品設定の変更は、コールバックを介してライブエンジニアにルーティングされます。
 
 ## 2026年9月10日 – 再設計されたExperience League サポートポータルがデフォルトのエクスペリエンスになりました
 
@@ -42,6 +64,7 @@ ht-degree: 0%
 1. **[!UICONTROL マイケース]** ページの&#x200B;**[!UICONTROL 時間範囲]** フィルタードロップダウンに新しい&#x200B;**[!UICONTROL すべての時間]** オプションが導入され、過去24か月間を超えてケースの履歴を完全に表示できるようになりました。
 
 1. ケース作成フォームのAdobe Commerce **[!UICONTROL System Insights]** ウィジェットが、右側のサイドバーの&#x200B;**[!UICONTROL AI Recommendations]** セクションの上に表示されるように再配置されました。
+
 
 ## 2026年8月27日 – 新デザインのExperience League サポートポータルの更新
 
