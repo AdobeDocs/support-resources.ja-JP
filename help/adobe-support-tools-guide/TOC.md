@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
+source-git-commit: 25fc32de197848e34e84db29113d17689442678f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '365'
 ht-degree: 1%
 ---
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
@@ -54,7 +54,6 @@ ht-degree: 1%
 - Adobe Commerceサポート {#adobe-commerce-support}
   - [Adobe Commerceサポートの概要](adobe-commerce-support/adobe-commerce-support-overview.md)
   - [Adobe CommerceのMySQL サポート終了のお知らせとデータベース互換性ガイダンス](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
-  - [セキュリティパッチの取得方法と適用方法](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
   - [クラウド基盤の一時的なAdobe Commerceのアップグレードをリクエストする方法](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
   - [Adobe Commerce P1通知ホットライン](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
