@@ -4,13 +4,12 @@ description: この記事では、Adobe Commerce オンプレミス、Adobe Comm
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: fa46bb7187c55a0c7d75930868c74bf8ba072c41
+exl-id: 66d8df60-4c4a-49ef-8107-986e10d6e289
+source-git-commit: 32e69e55405db4f7bb78ef055e07175336401179
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '225'
 ht-degree: 0%
-
 ---
-
 # Adobeが提供するコンポーザーパッチの適用方法
 
 この記事では、Adobe Commerce オンプレミス、Adobe Commerce オンクラウドインフラストラクチャ、およびMagento Open Sourceにコンポーザーパッチを適用する方法について説明します。
@@ -37,7 +36,7 @@ ht-degree: 0%
    git push origin
    ```
 
-Cloud プロジェクトへのパッチの適用について詳しくは、開発者ドキュメントの「[&#x200B; パッチを適用](https://experienceleague.adobe.com/ja/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)」を参照してください。
+Cloud プロジェクトへのパッチの適用について詳しくは、開発者ドキュメントの「[ パッチを適用](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches)」を参照してください。
 
 ## Adobe Commerce オンプレミスおよびMagento Open Sourceにコンポーザーパッチを適用する方法 {#commerce}
 
@@ -48,6 +47,6 @@ Cloud プロジェクトへのパッチの適用について詳しくは、開�
    patch -p1 < %patch_name%.composer.patch
    ```
 
-   （上記のコマンドが機能しない場合は、`-p2`ではなく`-p1`を使用してみてください）
+   （上記のコマンドが機能しない場合は、`-p1`ではなく`-p2`を使用してみてください）
 
 1. 変更を反映するには、**[!UICONTROL システム]**/**[!UICONTROL キャッシュ管理]**&#x200B;の下の管理者のキャッシュを更新します。

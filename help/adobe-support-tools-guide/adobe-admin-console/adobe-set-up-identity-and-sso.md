@@ -4,22 +4,21 @@ description: Adobe ID、Enterprise ID、Federated IDを使用して、Adobe Admi
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # IDとシングルサインオンの設定
 
 **適用先：** Enterprise
 
 Adobe Admin ConsoleでIDを設定する方法を説明します。 Adobe ID、Enterprise ID、Federated IDを比較し、Adobe アプリケーションへの安全なアクセスのためにシングルサインオン（SSO）を設定します。
 
-IDを設定し、シングルサインオン（SSO）を設定して、従業員が既存の組織資格情報を使用して[&#x200B; ログイン &#x200B;](https://adminconsole.adobe.com/settings/)できるようにします。
+IDを設定し、シングルサインオン（SSO）を設定して、従業員が既存の組織資格情報を使用して[ ログイン ](https://adminconsole.adobe.com/settings/)できるようにします。
 
-ここでは、[IDとSSOの設定（YouTube） &#x200B;](https://youtu.be/V57lU4zaSBs)方法に関するビデオチュートリアルを紹介します。
+ここでは、[IDとSSOの設定（YouTube） ](https://youtu.be/V57lU4zaSBs)方法に関するビデオチュートリアルを紹介します。
 
 ## 主な用語と概念
 
@@ -48,13 +47,13 @@ ID プロバイダー（IdP）とは、次のような組織のID プロバイ�
 
 ### Adobe ID
 
-エンドユーザーが作成、所有、管理します。 Adobeが認証を実行し、エンドユーザーがIDを管理します。 [&#x200B; ストレージモデル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/storage-for-business.html)に応じて、ユーザーまたは企業はファイルとデータを引き続き管理できます。
+エンドユーザーが作成、所有、管理します。 Adobeが認証を実行し、エンドユーザーがIDを管理します。 [ ストレージモデル ](https://helpx.adobe.com/enterprise/using/storage-for-business.html)に応じて、ユーザーまたは企業はファイルとデータを引き続き管理できます。
 
 エンタープライズストレージモデルに更新された組織の場合、アセットとデータは組織によって管理されます。 更新されていない組織の場合、個人はAdobe ID アセットを所有および管理します。
 
 ### Enterprise ID
 
-組織で作成、所有、管理されます。 AdobeはEnterprise IDをホストし、認証を実行しますが、Enterprise IDは組織で管理されます。 管理者がEnterprise IDを作成し、ユーザーに発行します。 管理者は、アカウントを引き継ぐか、Enterprise IDを削除して関連データへのアクセスを完全にブロックすることで、製品およびサービスへのアクセスを取り消すことができます。 詳しくは、[こちら](https://helpx.adobe.com/jp/enterprise/using/setup-enterprise-id.html)をクリックしてください。
+組織で作成、所有、管理されます。 AdobeはEnterprise IDをホストし、認証を実行しますが、Enterprise IDは組織で管理されます。 管理者がEnterprise IDを作成し、ユーザーに発行します。 管理者は、アカウントを引き継ぐか、Enterprise IDを削除して関連データへのアクセスを完全にブロックすることで、製品およびサービスへのアクセスを取り消すことができます。 詳しくは、[こちら](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)をクリックしてください。
 
 ### Federated ID
 
@@ -72,15 +71,15 @@ Federated IDが推奨される要件とシナリオを以下に示します。
 
 ## Adobe IDの使用
 
-Adobeでは、すべての組織を[&#x200B; エンタープライズ ストレージ モデル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/storage-for-business.html)に更新しています。 これにより、ユーザーのアセットとデータをより詳細に制御できるようになります。
+Adobeでは、すべての組織を[ エンタープライズ ストレージ モデル ](https://helpx.adobe.com/enterprise/using/storage-for-business.html)に更新しています。 これにより、ユーザーのアセットとデータをより詳細に制御できるようになります。
 
-Admin Consoleにユーザー[を追加する](https://helpx.adobe.com/jp/enterprise/using/users.html)を開始します。
+Admin Consoleにユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html)を追加する[を開始します。
 
 ## Enterprise IDでIDを設定する
 
 SSOを使用せずにユーザーのデータをより詳細に制御する場合は、Enterprise ID ディレクトリを設定できます。 管理者のみがEnterprise IDを作成し、ユーザーに発行します。
 
-Enterprise ID ディレクトリを作成するための要件と手順については、[Enterprise IDを使用した組織の設定](https://helpx.adobe.com/jp/enterprise/using/setup-enterprise-id.html)を参照してください。
+Enterprise ID ディレクトリを作成するための要件と手順については、[Enterprise IDを使用した組織の設定](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html)を参照してください。
 
 ## シングルサインオンでのIDの設定
 
@@ -96,11 +95,11 @@ Federated IDは、次の場合に推奨されます。
 
 Microsoft Azure AD、Googleなどの一般的なID プロバイダーを使用するか、その他のSAML ベースのIdPを使用して、組織とAdobe製品の間でSSOを設定できます。
 
-**Azure AD** （推奨） - [Azure AD コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html)
+**Azure AD** （推奨） - [Azure AD コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html)
 
-**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/jp/enterprise/using/create-directory.html)
+**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/enterprise/using/create-directory.html)
 
-**Google** （推奨） - [Google コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html)
+**Google** （推奨） - [Google コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
 
 ## 既存のSSO設定の管理
 
@@ -108,16 +107,16 @@ Microsoft Azure AD、Googleなどの一般的なID プロバイダーを使用�
 
 ドメインとディレクトリの管理方法について説明します。
 
-- [&#x200B; ユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/users.html)および[&#x200B; グループ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups..html)
-- [&#x200B; ドメインをディレクトリ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/add-domains-directories.html#link-domains-to-directoies)にリンクして、ユーザーによるアプリ、サービス、設定へのアクセスを制御します
-- [別の組織によって要求されたドメインを使用するようにディレクトリの信頼](https://helpx.adobe.com/jp/enterprise/using/directory-trust.html)を管理する
+- [ ユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/users.html)および[ グループ ](https://helpx.adobe.com/enterprise/using/user-groups..html)
+- [ ドメインをディレクトリ ](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies)にリンクして、ユーザーによるアプリ、サービス、設定へのアクセスを制御します
+- [別の組織によって要求されたドメインを使用するようにディレクトリの信頼](https://helpx.adobe.com/enterprise/using/directory-trust.html)を管理する
 
 ID プロバイダーを変更する方法について説明します。
 
-- [&#x200B; ユーザーの作業を中断せずにIdP](https://helpx.adobe.com/jp/enterprise/using/migrate-authentication-provider.html)を変更する
-- [&#x200B; ディレクトリ間でドメインを移動](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
-- [&#x200B; レガシーディレクトリユーザーの削除](https://helpx.adobe.com/jp/enterprise/using/manage-directory-users.html)
-- [古い/要求されていないドメインと空のディレクトリを削除](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html#delete)
+- [ ユーザーの作業を中断せずにIdP](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html)を変更する
+- [ ディレクトリ間でドメインを移動](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
+- [ レガシーディレクトリユーザーの削除](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
+- [古い/要求されていないドメインと空のディレクトリを削除](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
 
 ## エラーとよくある質問
 
@@ -127,37 +126,37 @@ SSOの設定と管理時のよくある質問とエラーの解決策：
 
 #### よくある質問（FAQ）
 
-- [Azure AD コネクタに関するFAQ](https://helpx.adobe.com/jp/enterprise/using/azure-ad-connector-faq.html)
-- [&#x200B; ディレクトリとドメインを削除する方法](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
+- [Azure AD コネクタに関するFAQ](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
+- [ ディレクトリとドメインを削除する方法](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
 #### トラブルシューティング
 
-- [&#x200B; ユーザーがアクセスを拒否しました](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html#sync-issues)
-- [同期の問題](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html#sync-issues)
+- [ ユーザーがアクセスを拒否しました](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [同期の問題](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### その他のSAML IdP - FAQとトラブルシューティング
 
 #### よくある質問（FAQ）
 
-[SAML統合に関するFAQ](https://helpx.adobe.com/jp/enterprise/using/sso-faq.html)
+[SAML統合に関するFAQ](https://helpx.adobe.com/enterprise/using/sso-faq.html)
 
 #### トラブルシューティング
 
-- [一般的なSSOのトラブルシューティング &#x200B;](https://helpx.adobe.com/jp/enterprise/kb/tshoot-fed-id.html)
-- [&#x200B; 「アクセスが拒否されました」エラー](https://helpx.adobe.com/jp/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [&#x200B; 「別のユーザーが現在ログインしています」エラー](https://helpx.adobe.com/jp/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
-- [SAML トレースを実行](https://helpx.adobe.com/jp/enterprise/kb/perform-a-saml-trace.html)
+- [一般的なSSOのトラブルシューティング ](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
+- [ 「アクセスが拒否されました」エラー](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [ 「別のユーザーが現在ログインしています」エラー](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [SAML トレースを実行](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
 
 ### Google – よくある質問
 
-- [Google コネクタに関するFAQ](https://helpx.adobe.com/jp/enterprise/using/google-federation-faq.html)
-- [&#x200B; ディレクトリとドメインを削除する方法](https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
+- [Google コネクタに関するFAQ](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
+- [ ディレクトリとドメインを削除する方法](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## 会話に参加
 
-共同作業、質問、他の管理者とのチャットを行うには、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://www.adobe.com/go/entcom_jp)を利用してください。
+共同作業、質問、他の管理者とのチャットを行うには、[ エンタープライズ版およびグループ版コミュニティ ](https://www.adobe.com/go/entcom)を利用してください。
 
 ## 法務とプライバシー
 
-- [法的通知](https://helpx.adobe.com/jp/legal/legal-notices.html)
-- [&#x200B; オンラインプライバシーポリシー](https://www.adobe.com/jp/privacy.html)
+- [法的通知](https://helpx.adobe.com/legal/legal-notices.html)
+- [オンラインプライバシーポリシー](https://www.adobe.com/privacy.html)
