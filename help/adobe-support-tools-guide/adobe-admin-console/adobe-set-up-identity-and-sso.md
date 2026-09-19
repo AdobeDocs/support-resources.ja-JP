@@ -97,7 +97,7 @@ Microsoft Azure AD、Googleなどの一般的なID プロバイダーを使用�
 
 **Azure AD** （推奨） - [Azure AD コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html)
 
-**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/enterprise/using/create-directory.html)
+**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/jp/enterprise/using/create-directory.html)
 
 **Google** （推奨） - [Google コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html)
 
