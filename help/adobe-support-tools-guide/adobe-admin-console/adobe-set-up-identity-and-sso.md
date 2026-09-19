@@ -4,13 +4,12 @@ description: Adobe ID、Enterprise ID、Federated IDを使用して、Adobe Admi
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # IDとシングルサインオンの設定
 
 **適用先：** Enterprise
@@ -74,7 +73,7 @@ Federated IDが推奨される要件とシナリオを以下に示します。
 
 Adobeでは、すべての組織を[&#x200B; エンタープライズ ストレージ モデル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/storage-for-business.html)に更新しています。 これにより、ユーザーのアセットとデータをより詳細に制御できるようになります。
 
-Admin Consoleにユーザー[を追加する](https://helpx.adobe.com/jp/enterprise/using/users.html)を開始します。
+Admin Consoleにユーザー[&#128279;](https://helpx.adobe.com/jp/enterprise/using/users.html)を追加するを開始します。
 
 ## Enterprise IDでIDを設定する
 
@@ -98,7 +97,7 @@ Microsoft Azure AD、Googleなどの一般的なID プロバイダーを使用�
 
 **Azure AD** （推奨） - [Azure AD コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html)
 
-**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/jp/enterprise/using/create-directory.html)
+**その他のSAML IdP** - [他のSAML プロバイダーとのSSOの設定](https://helpx.adobe.com/enterprise/using/create-directory.html)
 
 **Google** （推奨） - [Google コネクタを使用したSSOとユーザー同期の設定](https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html)
 
@@ -108,7 +107,7 @@ Microsoft Azure AD、Googleなどの一般的なID プロバイダーを使用�
 
 ドメインとディレクトリの管理方法について説明します。
 
-- [&#x200B; ユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/users.html)および[&#x200B; グループ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/user-groups..html)
+- [&#x200B; ユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/users.html)および[&#x200B; グループ &#x200B;](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [&#x200B; ドメインをディレクトリ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/add-domains-directories.html#link-domains-to-directoies)にリンクして、ユーザーによるアプリ、サービス、設定へのアクセスを制御します
 - [別の組織によって要求されたドメインを使用するようにディレクトリの信頼](https://helpx.adobe.com/jp/enterprise/using/directory-trust.html)を管理する
 
@@ -160,4 +159,4 @@ SSOの設定と管理時のよくある質問とエラーの解決策：
 ## 法務とプライバシー
 
 - [法的通知](https://helpx.adobe.com/jp/legal/legal-notices.html)
-- [&#x200B; オンラインプライバシーポリシー](https://www.adobe.com/jp/privacy.html)
+- [オンラインプライバシーポリシー](https://www.adobe.com/privacy.html)
