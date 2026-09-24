@@ -5,23 +5,29 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # 保留中のジョブの実行
 
 この機能は、[[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)を使用しているエンタープライズ組織に適用されます。
 
 - [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)の変更は、次の2つのフェーズで完了します。
 
-   1. **フェーズを編集**：組織に変更を加えるか、製品を割り当てます。
-   2. **実行フェーズ**：保留中の変更を確認して実行し、変更を有効にします。
+  1. **フェーズを編集**：組織に変更を加えるか、製品を割り当てます。
+  2. **実行フェーズ**：保留中の変更を確認して実行し、変更を有効にします。
 
-- [[!DNL Global Admin Console]](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
+- [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で行われたすべての変更が実装され、有効になっていることを確認するには、「**[!UICONTROL ジョブ実行]**」タブを選択し、保留中の変更の実行に進みます。
 
   [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/)にログインします。
 
@@ -31,8 +37,8 @@ ht-degree: 0%
 
 - 保留中の変更を失うことなく、後でログアウトして返品できます。
 - 未実行の変更：
-   - 30日後に破棄されます。
-   - ブラウザーのタブやウィンドウを閉じるなど、セッションが終了するとクリアされます。
+  - 30日後に破棄されます。
+  - ブラウザーのタブやウィンドウを閉じるなど、セッションが終了するとクリアされます。
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ ht-degree: 0%
 ### 複数の管理者と競合
 
 - 同じ組織で作業している2人の管理者：
-   - お互いの未実行の変更が表示されない。
-   - 次の後でのみ変更を表示：
-      - 実行、および
-      - ディスプレイを更新するか、再度ログインします。
+  - お互いの未実行の変更が表示されない。
+  - 次の後でのみ変更を表示：
+    - 実行、および
+    - ディスプレイを更新するか、再度ログインします。
 - 未実行の変更は、既に実行された変更と競合する可能性があります。
 
 ### 対立の処理
@@ -80,7 +86,7 @@ ht-degree: 0%
 - ジョブは&#x200B;**[!UICONTROL 失敗]**&#x200B;としてマークされています。
 - そのジョブ内のその後の保留中のタスクは実行されません。
 
-![保留中のジョブ &#x200B;](assets/pending-jobs.png)
+![保留中のジョブ ](assets/pending-jobs.png)
 
 ## 実行中のジョブのキャンセル
 
@@ -107,14 +113,14 @@ ht-degree: 0%
 
 - 過去30日間に実行されたジョブを表示するには：
 
-   1. [!DNL Global Admin Console]にログインします。
-   2. 「**[!UICONTROL ジョブ実行]**」を選択します。
-   3. ページの一番下までスクロールします。
-   4. **[!UICONTROL 最近のジョブ]**&#x200B;を選択します。
+  1. [!DNL Global Admin Console]にログインします。
+  2. 「**[!UICONTROL ジョブ実行]**」を選択します。
+  3. ページの一番下までスクロールします。
+  4. **[!UICONTROL 最近のジョブ]**&#x200B;を選択します。
 
 - 最近のジョブの表示：
-   - **件のジョブ コマンドを送信しました**。
-   - 実行に関連する&#x200B;**エラー**&#x200B;および&#x200B;**警告**&#x200B;が発生しました。
+  - **件のジョブ コマンドを送信しました**。
+  - 実行に関連する&#x200B;**エラー**&#x200B;および&#x200B;**警告**&#x200B;が発生しました。
 
 >[!NOTE]
 >

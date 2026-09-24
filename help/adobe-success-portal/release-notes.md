@@ -1,30 +1,38 @@
 ---
 title: Adobe Success ポータルのリリースノート
-description: ' [!DNL Adobe Success portal] の最新のリリース情報をご確認ください。'
+description: '[!DNL Adobe Success portal]の最新のリリース情報。'
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # [!DNL Adobe Success portal] リリースノート
 
 このリリースノートには、[!DNL Adobe Success portal] の以下の更新内容が含まれています。
 
 ![新機能](../adobe-success-portal/assets/new.svg) – 新機能
 ![修正](../adobe-success-portal/assets/fix.svg) – 修正と改善
-![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) – 既知の問題
+![ バグ ](../adobe-success-portal/assets/bug.svg) – 既知の問題
 
 ## 4.0
 
@@ -34,9 +42,9 @@ _2025年11月11日_
 
 ![修正](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl+クリック** / **Command+クリック**&#x200B;を使用して新しいタブで開いたときに、「戻る」ボタンが正しく無効になり、ナビゲーションエラーが発生しないようにしました。
 
-![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]**&#x200B;の&#x200B;**[!UICONTROL Adobe Status]** アラートに対して、ステータス、地域、またはタイムゾーンの詳細が正しく表示されない問題を修正しました。
+![ バグ ](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]**&#x200B;の&#x200B;**[!UICONTROL Adobe Status]** アラートに対して、ステータス、地域、またはタイムゾーンの詳細が正しく表示されない問題を修正しました。
 
-![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)戦略的パートナー&#x200B;**[!UICONTROL にリンクされた**&#x200B;[!UICONTROL &#x200B; アクセラレーター&#x200B;]&#x200B;**および**&#x200B;[!UICONTROL &#x200B; アクティビティ &#x200B;]&#x200B;**の表示に関する問題を解決しました]**。
+![ バグ ](../adobe-success-portal/assets/bug.svg)戦略的パートナー&#x200B;**[!UICONTROL にリンクされた**[!UICONTROL  アクセラレーター&#x200B;]**および**[!UICONTROL  アクティビティ ]**の表示に関する問題を解決しました]**。
 
 ## 3.0
 
@@ -47,13 +55,13 @@ _2025年10月9日（PT）_
 * アクションプラン KBO ページまたは **[!UICONTROL KBO]**／**[!UICONTROL アクセラレーター]**／**[!UICONTROL アクティビティ]**&#x200B;の詳細ページ（KBO にリンクされている場合のみ）からカレンダーにアクセスします。
 * リスト表示（デフォルト）とカレンダー表示を切り替えます。
 * カレンダーには、各 KBO に対して折りたたみ可能なセクションが表示されます。
-   * **[!UICONTROL アクセラレーター]**&#x200B;の場合は青色
-   * **[!UICONTROL アクティビティ]**&#x200B;の場合は緑色
+  * **[!UICONTROL アクセラレーター]**&#x200B;の場合は青色
+  * **[!UICONTROL アクティビティ]**&#x200B;の場合は緑色
 * 各&#x200B;**[!UICONTROL アクセラレーター]**／**[!UICONTROL アクティビティ]**&#x200B;には、名前、ステータス、開始日／終了日（*YYYY年* *XX月*&#x200B;の形式）が表示されます。
-* イベントカードをクリックすると、イベントの詳細を含むページが開きます。 「戻る」ボタンをクリックすると、戻ります。
+* イベントカードをクリックすると、イベントの詳細を含むページが開きます。 「戻る」ボタンをクリックすると、次に戻ります：
 * イベントは色分けされています。**[!UICONTROL アクセラレーター]**&#x200B;の場合は青色、**[!UICONTROL アクティビティ]**&#x200B;の場合は緑色です。 KBO を垂直方向にスクロールし、週または月ごとに水平方向にスクロールします。
 * テキストを切り捨てた際はツールチップに完全な名前が表示され、スクロール中ではタイムラインが表示されたままになります。
-* デフォルトの表示は現在の週です。ナビゲーション矢印を使用して週間を移動できます。
+* デフォルトの表示は現在の週です。ナビゲーション矢印を使用して週の間を移動できます。
 * 月表示では、進行中の作業と予定されている作業の明確なタイムラインが表示されます。
 
 ![修正](../adobe-success-portal/assets/fix.svg) **[!UICONTROL アクションプラン]**&#x200B;の&#x200B;**[!UICONTROL 主要ビジネス目標]**&#x200B;および&#x200B;**[!UICONTROL アクティビティ]**&#x200B;ページを拡張し、完了日にツールチップを表示し、タイムラインの可視性を向上させました。

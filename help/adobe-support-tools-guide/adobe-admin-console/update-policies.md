@@ -4,22 +4,29 @@ description: Global Admin Consoleで、グローバル管理者が組織とそ�
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: 'https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1045
+source-wordcount: '1045'
 ht-degree: 1%
-
 ---
-
 # Global Admin Consoleでの組織ポリシーの更新
 
 **適用先：** Enterprise
@@ -28,9 +35,9 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 
 >[!NOTE]
 >
->[Global Admin Console](https://helpx.adobe.com/jp/enterprise/global-admin-console/adopt-global-administration.html)で、階層から組織を選択し、「**ポリシー**」タブに移動して、ポリシーを許可または禁止またはロックします。
+>[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で、階層から組織を選択し、「**ポリシー**」タブに移動して、ポリシーを許可または禁止またはロックします。
 >
-> [Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com/)
+> [Global Admin Consoleにログイン ](https://global-admin-console.adobe.com/)
 
 ポリシーは組織に関連付けられ、その組織で実行できる操作を制限します。 ポリシー値を設定すると、その時点からアクションが制限または有効になります。
 例えば、**要求ドメイン** ポリシーが&#x200B;*許可されていません*&#x200B;に設定されている場合、追加のドメインは要求できませんが、ポリシー値を設定する前に要求されたドメインは影響を受けません。
@@ -39,14 +46,14 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 
 組織のポリシーを変更するには、次の操作を行います。
 
-1. Global Admin Consoleで、[編集する組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)を選択し、**[!UICONTROL ポリシー]** タブに移動します。
-1. 関連するポリシーのトグルを選択して、ポリシーを許可または禁止します。 また、ポリシーをロックして、[選択した組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)またはその親組織以外のユーザーが変更またはロック解除できないようにすることもできます。
-1. ポリシーをロックするには、**[!UICONTROL ロック]** ![&#x200B; ロック &#x200B;](./assets/lock.png) アイコンを選択します。 ロックにカーソルを合わせると、選択した組織の名前が表示されます。 [&#x200B; ポリシーロック &#x200B;](#policy-locks)の詳細をご覧ください。
-1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
+1. Global Admin Consoleで、[編集する組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)を選択し、**[!UICONTROL ポリシー]** タブに移動します。
+1. 関連するポリシーのトグルを選択して、ポリシーを許可または禁止します。 また、ポリシーをロックして、[選択した組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)またはその親組織以外のユーザーが変更またはロック解除できないようにすることもできます。
+1. ポリシーをロックするには、**[!UICONTROL ロック]** ![ ロック ](./assets/lock.png) アイコンを選択します。 ロックにカーソルを合わせると、選択した組織の名前が表示されます。 [ ポリシーロック ](#policy-locks)の詳細をご覧ください。
+1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## ポリシーロック {#policy-locks}
 
-ポリシーがロックされている場合、その値はポリシーがロック解除されるまで変更できません。 Global Admin Consoleは、組織ピッカーの[選択した組織](https://helpx.adobe.com/jp/enterprise/global-admin-console/overview.html)を、ポリシーがロックされた組織として記憶します。 選択した組織またはツリー内の上位の組織のグローバル管理者には、ポリシーのロックを解除する権限があります。 スコープがその組織よりも低いグローバル管理者には、ポリシー値のロックを解除して変更する権限がありません。
+ポリシーがロックされている場合、その値はポリシーがロック解除されるまで変更できません。 Global Admin Consoleは、組織ピッカーの[選択した組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)を、ポリシーがロックされた組織として記憶します。 選択した組織またはツリー内の上位の組織のグローバル管理者には、ポリシーのロックを解除する権限があります。 スコープがその組織よりも低いグローバル管理者には、ポリシー値のロックを解除して変更する権限がありません。
 
 ロックダウン環境を作成するには、子組織に必要なポリシー値を設定してからロックします。 これらの子組織のグローバル管理者は、ポリシー値を編集できません。
 

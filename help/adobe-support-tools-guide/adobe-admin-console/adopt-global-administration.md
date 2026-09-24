@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # グローバルな経営体制の導入
 
 エンタープライズ版に適用されます。
@@ -22,7 +28,7 @@ Adobe Admin Consoleでサポートケースを作成して、Global Admin Consol
 
 ## 概要
 
-[Global Admin Console](https://global-admin-console.adobe.com)は、複数の[Adobe管理コンソール &#x200B;](https://adminconsole.adobe.com)を1つの階層にグループ化します。 その階層の各組織はAdobe Admin Consoleです。 管理者は、各コンソールで同じコア機能を使用し、その組織のユーザー、ライセンス、設定を管理します。 Global Admin Consoleでは、子コンソールの整理、製品とライセンスの階層への割り当て、グループ全体での組織レベルのポリシーの適用など、複数のコンソール管理が追加されます。
+[Global Admin Console](https://global-admin-console.adobe.com)は、複数の[Adobe管理コンソール ](https://adminconsole.adobe.com)を1つの階層にグループ化します。 その階層の各組織はAdobe Admin Consoleです。 管理者は、各コンソールで同じコア機能を使用し、その組織のユーザー、ライセンス、設定を管理します。 Global Admin Consoleでは、子コンソールの整理、製品とライセンスの階層への割り当て、グループ全体での組織レベルのポリシーの適用など、複数のコンソール管理が追加されます。
 
 Global Admin Consoleは、多数のAdmin Consoleを持つ複雑な組織構造を持つユーザーや、メインのAdmin Consoleを複数のコンソールに分割したいユーザー向けです。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。 既存の管理コンソールを組織チャートのような階層構造にネストし、分散型エンタープライズ全体に透明性を提供します。
 
@@ -30,7 +36,7 @@ Global Admin Consoleは、多数のAdmin Consoleを持つ複雑な組織構造�
 
 Global Admin Consoleは、既存のAdmin Consoleの日常機能を置き換えたり、変更したりすることはありません。 階層構造として機能し、ルート組織が上部にあり、すべてのリンクされたコンソールがその下にネストされています。 ルートコンソールは、購入と組織の設定に基づいて決定されます。
 
-Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[&#128279;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)に関する ホワイトペーパーを参照し、次の[&#x200B; ビデオ &#x200B;](https://youtu.be/FLBWR78wpok)をご覧ください。
+Global Admin Consoleの機能と利点について詳しくは、Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)に関する[ ホワイトペーパーを参照し、次の[ ビデオ ](https://youtu.be/FLBWR78wpok)をご覧ください。
 
 このビデオのコンテンツとボイスオーバーは現在英語でのみ利用できます。
 
@@ -48,7 +54,7 @@ Global Admin Consoleの主な利点は次のとおりです。
 - 製品プロファイルとユーザーグループを作成、編集、削除します。
 - レポート用に組織情報をエクスポートしたり、他のプロセスで使用したりできます。
 - 組織の更新と組織階層の変更を読み込みます。
-- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/jp/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
+- 今後の有効期限、期限切れ、非アクティブな契約など、子組織のETLA契約ステータスに関する通知を受け取ります。 詳しくは、[契約の有効期限](https://helpx.adobe.com/enterprise/using/contract-expiry.html)のドキュメントを参照してください。
 
 ## 実施要件
 
@@ -82,7 +88,7 @@ Adobeでは、次の条件の1つ以上を満たしている場合は、グロ�
 1. 「**[!UICONTROL お客様が直面している問題の性質を説明する]**」に、お客様の組織がGlobal Admin Consoleへのアクセスを要求していることを明記し、次の詳細を記載します。
 
    - **名前とコンソール ID** （「@AdobeOrg」の前の数字と文字のシリーズとしてURLに含まれる）をAdmin Consoleの&#x200B;*ルート（上）*組織として指定するか、新しいコンソールをリクエストして目的の名前を指定します。
- – 場合によっては、新しいコンソールが推奨されるオプションです。Adobeの担当者がサポートします。後で変更が困難なため、*root*&#x200B;組織を慎重に選択してください。
+      – 場合によっては、新しいコンソールが推奨されるオプションです。 Adobeの担当者がサポートします。 後で変更が困難なため、*root*&#x200B;組織を慎重に選択してください。
    - 少なくとも1人の現在のシステム管理者をグローバル管理者ロールに割り当てます。 後で追加の管理者を追加できます。
    - Adobe担当者またはCustomer Success Managerの名前とメールアドレス。
 

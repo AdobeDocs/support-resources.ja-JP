@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 1%
-
+source-wordcount: '279'
+ht-degree: 3%
 ---
-
 # Adobe Admin Consoleのアクセシビリティ
 
 エンタープライズおよびチームに適用されます。
@@ -24,11 +30,11 @@ ht-degree: 1%
 
 ## キーボード対応
 
-Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) （*英語のみ*）で説明されているように、一部の例外が引き続き存在する可能性があります。
+Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html) （*英語のみ*）で説明されているように、一部の例外が引き続き存在する可能性があります。
 
 ## 技術サポート
 
-Admin Consoleは、支援テクノロジ（スクリーンリーダーやスクリーン拡大鏡を含む）をサポートしています。 詳しくは、[&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html)を参照してください。
+Admin Consoleは、支援テクノロジ（スクリーンリーダーやスクリーン拡大鏡を含む）をサポートしています。 詳しくは、[ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html)を参照してください。
 
 ## Admin Consoleでサポートされているアクセシビリティ機能は何ですか？
 
@@ -36,4 +42,4 @@ Admin Consoleは、支援テクノロジ（スクリーンリーダーやスク�
 
 ## フィードバックがある場合
 
-Admin Consoleチームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 アクセシビリティ機能に関するフィードバックは、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://community.adobe.com/enterprise-teams-622)で共有できます。
+Admin Consoleチームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 アクセシビリティ機能に関するフィードバックは、[ エンタープライズ版およびグループ版コミュニティ ](https://community.adobe.com/enterprise-teams-622)で共有できます。

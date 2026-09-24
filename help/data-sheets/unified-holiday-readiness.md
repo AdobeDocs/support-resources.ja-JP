@@ -8,75 +8,45 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-autotag-review: '2026-09-21T21:20:32.279Z'
-TQID: 'https://experienceleague.adobe.com/4rgFqi4Af8ZndgiuhQG6L63dvvPxCfUvcPNkMe8zu90'
 product_v2:
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
 feature_v2:
-  - id: 1e0ea71a-a210-5748-9b0f-c02c2ef6a746
-    internal-label: Workflows
-  - id: 498495a2-cf39-51d9-b3fa-0013e205931b
-    internal-label: Marketing
-  - id: 4ba071ad-cd19-5536-8ec6-24c224dd4e87
-    internal-label: Programs
-  - id: 5c3c43cd-8c0e-55fc-95ba-cd0f8b685d97
-    internal-label: Segmentation
-  - id: 82d07ce8-bd4a-51ff-9469-838be0c168bf
-    internal-label: Campaigns
-  - id: a4a9911c-3a92-4f17-a7f9-fe2eb3235fef
-    internal-label: Monitoring
-  - id: b726bf67-3ea0-5ccf-a4b6-64d44fc843ef
-    internal-label: Deliverability
-  - id: b8f5b046-8215-56ca-9113-4e34a8eaec1e
-    internal-label: Projects
-  - id: c9e8aacc-3520-5f37-83f1-3025bd0e798b
-    internal-label: Database
-  - id: cfc34eeb-a172-5f8f-87e2-7b1278be8c7b
-    internal-label: Use Cases
-  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-    internal-label: Integrations
   - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
     internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
 role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-    internal-label: Implementation
-  - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-    internal-label: Experimentation
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-    internal-label: Customer experience
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-    internal-label: Governance
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-    internal-label: Customer journeys
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-    internal-label: Security
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-    internal-label: Personalization
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-    internal-label: Administration
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-    internal-label: Privacy
-  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
-    internal-label: Audience segmentation
-source-git-commit: 272a44c635e3a1a1eda46405940bb52d665a8e35
+source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
 workflow-type: tm+mt
 source-wordcount: '4677'
 ht-degree: 3%
@@ -91,7 +61,7 @@ AdobeのCXM （顧客体験管理）ソリューションが、レジリエン�
 * 繁忙期における大きな変化を回避し、ホリデーシーズンの前後にアップデートをスケジュールします。
 * ダッシュボードとアラートを使用して、パフォーマンスを監視し、ボトルネックを早期に検出します。
 * 承認済みのサポート担当者が最新であることを確認します。
-* [可能な限り、事前にAdobe サポート &#x200B;](https://experienceleague.adobe.com/ja/docs/learning-manager/using/faq/how-to-submit-support-ticket){target="_blank"}にお問い合わせください。
+* [可能な限り、事前にAdobe サポート ](https://experienceleague.adobe.com/en/docs/learning-manager/using/faq/how-to-submit-support-ticket){target="_blank"}にお問い合わせください。
 
 Adobeのソリューション固有の休暇準備状況に関する推奨事項については、次の節を参照してください。
 
@@ -119,15 +89,15 @@ Adobe Experience Platform（AEP）は、リアルタイムの顧客体験を強�
 
 ### 季節需要の予測
 
-季節的なトラフィックの急増に備えるために、Adobeではキャパシティの計画とストリーミングプロファイルの取り込みのモニタリングを推奨しています。 これには、データ量を予測し、システムがスループットの向上に対応できるようにすることも含まれます。 [&#x200B; キャパシティとシーズントラフィックのプラン &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}を参照してください。
+季節的なトラフィックの急増に備えるために、Adobeではキャパシティの計画とストリーミングプロファイルの取り込みのモニタリングを推奨しています。 これには、データ量を予測し、システムがスループットの向上に対応できるようにすることも含まれます。 [ キャパシティとシーズントラフィックのプラン ](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}を参照してください。
 
 ### 拡張の準備
 
 Adobeでは、お客様の環境がホリデートラフィックに対応できるよう、いくつかの対策を用意しています。
 
 * サンドボックスの割り当て容量を増やします。
-* [監視ダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/dataflows/ui/monitor-streaming-profile){target="_blank"}で高スループットデータフローを特定し、必要に応じてスロットルまたはフィルタリングを適用します。
-* [&#x200B; ライセンスの使用状況と容量：ストリーミングスループットのベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/landing/license/capacity#plan-and-schedule-streaming-and-edge-capacity){target="_blank"}の説明に従って、パフォーマンスを最適化するために、バッチ取り込みを低遅延のユースケースに使用します。
+* [監視ダッシュボード ](https://experienceleague.adobe.com/en/docs/experience-platform/dataflows/ui/monitor-streaming-profile){target="_blank"}で高スループットデータフローを特定し、必要に応じてスロットルまたはフィルタリングを適用します。
+* [ ライセンスの使用状況と容量：ストリーミングスループットのベストプラクティス ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity#plan-and-schedule-streaming-and-edge-capacity){target="_blank"}の説明に従って、パフォーマンスを最適化するために、バッチ取り込みを低遅延のユースケースに使用します。
 
 これらのプラクティスは、取り込みの信頼性を維持し、ピーク時の待ち時間を短縮するのに役立ちます。
 
@@ -135,16 +105,16 @@ Adobeでは、お客様の環境がホリデートラフィックに対応でき
 
 運用上の制限内に収まり、サービスの中断を回避するために、Adobeでは次の取り込みとプロファイルガードレールをお勧めします。
 
-* [ストリーミングスループットのベストプラクティス](https://experienceleague.adobe.com/ja/docs/experience-platform/landing/license/capacity){target="_blank"}
+* [ストリーミングスループットのベストプラクティス](https://experienceleague.adobe.com/en/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [データ取り込みのガードレール](https://experienceleague.adobe.com/ja/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [リアルタイム顧客プロファイルデータとセグメンテーションのデフォルトガードレール](https://experienceleague.adobe.com/ja/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP ブループリント：ガードレール](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP ブループリント：ガードレール](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### セキュリティとガバナンス
 
 Adobeでは、特にデータの機密性が高いトラフィックの多いシーズンには、強力なセキュリティとガバナンスの実践を重視しています。
 
-AEPの実装全体で顧客データを保護し、プライバシー制御を適用し、コンプライアンスを維持する方法に関する推奨事項については、[Adobe Experience Platformのガバナンス、プライバシー、セキュリティ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/landing/governance-privacy-security/overview#security){target="_blank"}を参照してください。
+AEPの実装全体で顧客データを保護し、プライバシー制御を適用し、コンプライアンスを維持する方法に関する推奨事項については、[Adobe Experience Platformのガバナンス、プライバシー、セキュリティ ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/overview#security){target="_blank"}を参照してください。
 
 これらのガイドラインに従い、Adobeの公開ドキュメントを活用することで、Adobe Experience Platformのレジリエンスとセキュリティを確保し、ホリデーシーズンを通じて優れた顧客体験を提供する準備を整えることができます。
 
@@ -168,17 +138,17 @@ Adobe Adobe Journey Optimizerを活用して、ホリデーシーズンに備え
 
 ### 拡張の準備
 
-* AJOのすべてのチャネル設定が適切に設定されていることを確認します（メール、プッシュ、SMS、web、アプリ内）。 「[&#x200B; チャネル設定の設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/configuration/channel-surfaces){target="_blank"}」を参照してください。
+* AJOのすべてのチャネル設定が適切に設定されていることを確認します（メール、プッシュ、SMS、web、アプリ内）。 「[ チャネル設定の設定](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/channel-surfaces){target="_blank"}」を参照してください。
 * 頻度の上限と上限のルールを設定して、メッセージボリュームを制御します。 [頻度の上限](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules){target="_blank"}の記事を参照してください。
-* チャネル/ジャーニーのルールセットの設定：[&#x200B; ルールセットの操作](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets){target="_blank"}を参照してください。
+* チャネル/ジャーニーのルールセットの設定：[ ルールセットの操作](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets){target="_blank"}を参照してください。
 * データの健全性を保つ/リアルタイムのイベントストリームとセグメンテーションフレームワークを準備する。
 * 次のようなホリデーキャンペーンのターゲットオーディエンスを定義していることを確認します。
   * 有望個客
   * 優良顧客セグメント
   * cart-abandoners
   * 初回購入者
-* ホリデージャーニーのテンプレートをプリロードまたは準備し、意思決定ロジック（オファー/制約）を活用して、在庫、時間制限のあるオファー、チャネルの好みにもとづいて動的に適応させます。 [&#x200B; オファーに制約を追加](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints){target="_blank"}の記事の例を参照してください。
-* 技術的準備状況：API/エンドポイントの読み込み容量、カスタムアクションおよび外部統合のスロットル/キャッピングルールを確認します。 [&#x200B; ガードレールと制限](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/get-started/guardrails){target="_blank"}を参照してください。
+* ホリデージャーニーのテンプレートをプリロードまたは準備し、意思決定ロジック（オファー/制約）を活用して、在庫、時間制限のあるオファー、チャネルの好みにもとづいて動的に適応させます。 [ オファーに制約を追加](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints){target="_blank"}の記事の例を参照してください。
+* 技術的準備状況：API/エンドポイントの読み込み容量、カスタムアクションおよび外部統合のスロットル/キャッピングルールを確認します。 [ ガードレールと制限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/guardrails){target="_blank"}を参照してください。
 
 ### 検証
 
@@ -186,7 +156,7 @@ Adobe Adobe Journey Optimizerを活用して、ホリデーシーズンに備え
   * 送信時間
   * オファータイプ
   * チャネルミックス
-    [AJO Experimentation Acceleratorのベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices){target="_blank"}を参照してください。
+    [AJO Experimentation Acceleratorのベストプラクティス ](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices){target="_blank"}を参照してください。
 * エンドツーエンドのジャーニー検証の実施：
   * イベントトリガー
   * セグメント化エントリ
@@ -194,16 +164,16 @@ Adobe Adobe Journey Optimizerを活用して、ホリデーシーズンに備え
   * パーソナライゼーションロジック
   * オファーの制約
   * 出口基準
-* キャッピングルールと競合ルールを確認します。 [ジャーニーの上限設定と調停](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/conflict-prioritization/journey-capping){target="_blank"}の記事を参照してください。
+* キャッピングルールと競合ルールを確認します。 [ジャーニーの上限設定と調停](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/journey-capping){target="_blank"}の記事を参照してください。
 * ピーク時の送信またはスパイクに対するストレステストのスケーリングされたボリューム：高トリガーボリュームをシミュレートして、負荷時のシステム動作を検証します。
 * 配信品質の検証：電子メールのドメイン/送信者をウォームアップし、モバイルプッシュ設定を確認し、SMS/アプリ内のフォールバックチャネルをチェックします。
 
 ### ベストプラクティス
 
-* オムニチャネルオーケストレーション。 AJOのホリデーシーズンの例を紹介したブログ [&#x200B; エンゲージメントと成長に不可欠なオムニチャネルカスタマージャーニー](https://business.adobe.com/jp/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"}の記事を参照してください。
+* オムニチャネルオーケストレーション。 AJOのホリデーシーズンの例を紹介したブログ [ エンゲージメントと成長に不可欠なオムニチャネルカスタマージャーニー](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement){target="_blank"}の記事を参照してください。
 * 必要に応じて、リアルタイムのトリガーに優先順位を付ける： 例：買い物客の反応が高いほど、カートの放棄、放棄の閲覧、在庫アラートを送信する
 * セグメンテーションとパーソナライゼーションを活用する：インテントの高いセグメントをターゲットにし、過去の購買行動や嗜好にもとづいてオファーをカスタマイズします。
-* メッセージの疲労を最小限に抑える：過剰な勧誘を避けるために、上限とサイレントアワーを実施します。 AJO[&#128279;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=ja){target="_blank"}のブログ記事で、日次の配信頻度の上限を設定して顧客体験を向上させるを参照してください。
+* メッセージの疲労を最小限に抑える：過剰な勧誘を避けるために、上限とサイレントアワーを実施します。 AJO](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510){target="_blank"}のブログ記事で、[日次の配信頻度の上限を設定して顧客体験を向上させるを参照してください。
 * タイミングが重要：プランでは、ホリデーウィンドウ（圧縮されたシーズンを考慮）で配信を早め、タイムゾーンや地域のオーディエンスの行動に合わせてチャネルを調整します。
 * 動的なオファーや期間限定のオファーを提供することで、緊急性を高めつつ、チャネルをまたいで調整し、オファーの重複や競合を回避します。
 * 抑制ロジックを使用する：購入したばかりのオーディエンスを抑制するか、冗長なメッセージを避けるために購入後のジャーニーを適用します。
@@ -211,7 +181,7 @@ Adobe Adobe Journey Optimizerを活用して、ホリデーシーズンに備え
 ### セキュリティとガバナンス
 
 * アクセス制御と権限が設定されていることを確認し、必要なユーザーのみがジャーニーをデプロイしたり、ビジネスルールを変更したりできるようにします。
-* API呼び出し/接続の上限を監視して適用します。例えば、[Capping API | Adobe Journey Optimizer](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"}を参照してください。
+* API呼び出し/接続の上限を監視して適用します。例えば、[Capping API | Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/connect-systems/external-systems/capping){target="_blank"}を参照してください。
 * クリーンな1st パーティデータを使用し、適切なIDをつなぎ合わせることで、メッセージが顧客中心となり、重複や不整合を防ぎます。
 * 配信品質ドメインのウォームを徹底し、特に大量のバリエーション送信に対してスパム対策を講じます。
 * 監査ログとジャーニーの変更を繁忙期に頻繁に確認し、ミス実行やエラージャーニーを早期に検出します。
@@ -239,20 +209,20 @@ Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズ�
 
 ### パフォーマンスを監視
 
-* RAM （[[!UICONTROL Reporting Activity Manager]概要](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）を活用して、アクティブなレポートリクエストとキューに入れられたレポートリクエストをリアルタイムで監視し、容量に応じた接続を特定し、ボトルネックを検出します。
-* [&#x200B; エラーとトラブルシューティング ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}および[既知の制限事項](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}の記事を使用して、ピーク時の読み込み中に遅延が増加することを確認します。
-* 管理者は、RAM経由で長時間実行/ブロックされたリクエストを先制的に一時停止またはキャンセルできます。 CJA[&#128279;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}の「 レポートのキャンセル」を参照してください。
+* RAM （[[!UICONTROL Reporting Activity Manager]概要](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）を活用して、アクティブなレポートリクエストとキューに入れられたレポートリクエストをリアルタイムで監視し、容量に応じた接続を特定し、ボトルネックを検出します。
+* [ エラーとトラブルシューティング ガイド ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}および[既知の制限事項](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations){target="_blank"}の記事を使用して、ピーク時の読み込み中に遅延が増加することを確認します。
+* 管理者は、RAM経由で長時間実行/ブロックされたリクエストを先制的に一時停止またはキャンセルできます。 CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-cancel-requests){target="_blank"}の「[ レポートのキャンセル」を参照してください。
 
 ### ベストプラクティス
 
-* 低トラフィック期間に書き出し/レポートをスケジュールして、読み込みをスムーズにし、遅延を最小限に抑えます。 [&#x200B; スケジュール済みレポート &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}の記事を参照してください。
+* 低トラフィック期間に書き出し/レポートをスケジュールして、読み込みをスムーズにし、遅延を最小限に抑えます。 [ スケジュール済みレポート ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}の記事を参照してください。
 * リクエストの分散：1日を通して異なる間隔でレポートをスケジュールします。
-* パネルを削減し、セグメントを簡素化し、日付範囲を短縮して、過剰な同時作業を回避します。 詳しくは、[CJA Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}の記事を参照してください。
+* パネルを削減し、セグメントを簡素化し、日付範囲を短縮して、過剰な同時作業を回避します。 詳しくは、[CJA Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}の記事を参照してください。
 
 ### トラブルシューティング
 
-* ワークスペースのエラーをトラブルシューティングする場合は、原因と推奨されるアクションについてエラーメッセージを参照してください。RAM （[!UICONTROL Reporting Activity Manager]）を使用して、ボトルネックをクリアし、同時実行を効果的に管理してください。 詳しくは、[CJA Workspace エラー処理](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}を参照してください。
-* RAM （[[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）を使用して、問題のあるユーザー、クエリ、またはプロジェクトを特定します。必要に応じて優先順位を付け、終了/キャンセルします。
+* ワークスペースのエラーをトラブルシューティングする場合は、原因と推奨されるアクションについてエラーメッセージを参照してください。RAM （[!UICONTROL Reporting Activity Manager]）を使用して、ボトルネックをクリアし、同時実行を効果的に管理してください。 詳しくは、[CJA Workspace エラー処理](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages){target="_blank"}を参照してください。
+* RAM （[[!UICONTROL Reporting Activity Manager] in CJA](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)）を使用して、問題のあるユーザー、クエリ、またはプロジェクトを特定します。必要に応じて優先順位を付け、終了/キャンセルします。
 
 ### ピーク後の学習
 
@@ -271,16 +241,16 @@ Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズ�
 
 ### 需要の予測
 
-* ホリデーシーズン（11月中旬から1月中旬）には、Adobeでは、クラウドインフラストラクチャでホストされているすべてのAdobe Commerce加盟店が、ホリデーサージキャパシティリクエストを送信することで、訪問者の増加を積極的に計画することをお勧めします。 詳しくは、[&#x200B; クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}を参照してください。
+* ホリデーシーズン（11月中旬から1月中旬）には、Adobeでは、クラウドインフラストラクチャでホストされているすべてのAdobe Commerce加盟店が、ホリデーサージキャパシティリクエストを送信することで、訪問者の増加を積極的に計画することをお勧めします。 詳しくは、[ クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}を参照してください。
 
 ### 拡張の準備
 
-「[計画と方向転換：繁忙期2025](https://experienceleague.adobe.com/ja/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}年の繁忙期における戦略的アプローチ」の推奨事項に従います。このガイドでは、Adobe Commerce（およびオプションのAdobe Experience Cloud ツール）を使用して実用的な戦略を提供し、最も混雑する時期に優れた顧客体験を計画、方向転換、配信するのに役立てています。
+「[計画と方向転換：繁忙期2025](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}年の繁忙期における戦略的アプローチ」の推奨事項に従います。このガイドでは、Adobe Commerce（およびオプションのAdobe Experience Cloud ツール）を使用して実用的な戦略を提供し、最も混雑する時期に優れた顧客体験を計画、方向転換、配信するのに役立てています。
 
 ### ベストプラクティス
 
-* Adobeのガイド [高トラフィックに対応するためのインフラストラクチャの準備方法（繁忙期のパフォーマンスの5 P） &#x200B;](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}。
-* Commerceの休暇期間中のインフラストラクチャを高トラフィックに備え、ダウンタイムを防ぎ、パフォーマンスを最適化する方法に関するヒントについては、[の休暇準備に関する技術のヒント &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness){target="_blank"}を参照してください。
+* Adobeのガイド [高トラフィックに対応するためのインフラストラクチャの準備方法（繁忙期のパフォーマンスの5 P） ](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic){target="_blank"}。
+* Commerceの休暇期間中のインフラストラクチャを高トラフィックに備え、ダウンタイムを防ぎ、パフォーマンスを最適化する方法に関するヒントについては、[の休暇準備に関する技術のヒント ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/tech-tips-for-commerce-holiday-readiness){target="_blank"}を参照してください。
 
 +++
 
@@ -298,14 +268,14 @@ Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズ�
 
 * Adobe Experience Manager Cloud Servicesを使用して高トラフィックに対応するための詳細なインサイトとガイダンスについては、次のリンクを参照してください。
 
-  * [AEM as a Cloud Service での CDN](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn){target="_blank"}
-  * [AEM as a Cloud Serviceのキャッシュ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/caching/overview){target="_blank"}
+  * [AEM as a Cloud Service での CDN](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn){target="_blank"}
+  * [AEM as a Cloud Serviceのキャッシュ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/caching/overview){target="_blank"}
 
 * Ultimate Successをご利用のお客様で、最近Adobe アカウントチームと配信数の予測情報を共有した場合は、既にビューがあるので、もう一度お送りいただくことについて心配する必要はありません。
 
-私たちはあなたの旅のあらゆる段階であなたをサポートするためにここにいます。 ご質問や懸念がある場合は、[&#x200B; サポートチケットを送信してください](https://experienceleague.adobe.com/ja/docs/learning-manager/using/faq/how-to-submit-support-ticket){target="_blank"}。
+私たちはあなたの旅のあらゆる段階であなたをサポートするためにここにいます。 ご質問や懸念がある場合は、[ サポートチケットを送信してください](https://experienceleague.adobe.com/en/docs/learning-manager/using/faq/how-to-submit-support-ticket){target="_blank"}。
 
-ホリデーシーズンにマーケティングキャンペーンを準備するには、[AEMaaCS ユーザーガイド：概要 – マーケティングキャンペーンパラメーター](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching#marketing-parameters){target="_blank"}のドキュメントを参照してください。
+ホリデーシーズンにマーケティングキャンペーンを準備するには、[AEMaaCS ユーザーガイド：概要 – マーケティングキャンペーンパラメーター](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching#marketing-parameters){target="_blank"}のドキュメントを参照してください。
 
 #### セキュリティとガバナンス
 
@@ -319,7 +289,7 @@ Adobeでは、重要な休暇期間に中断のないサービスを保証する
   * 2026年11月23日月曜日～2026年12月1日火曜日。
   * 2026年12月14日（月）から2027年1月3日（日）まで。
 
-これにより、トラフィックの多い時間帯での安定性が確保されます。 完全なリリーススケジュールとメンテナンスウィンドウについては、[AEM リリースロードマップ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}を参照してください。
+これにより、トラフィックの多い時間帯での安定性が確保されます。 完全なリリーススケジュールとメンテナンスウィンドウについては、[AEM リリースロードマップ ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}を参照してください。
 
 
 ### Adobe Experience Manager（AEM）とAdobe Managed Services（AMS）
@@ -336,34 +306,34 @@ Adobe Marketoを活用して、ホリデーキャンペーンを成功させる�
 
 ### 拡張の準備
 
-* SPF/DKIMの設定を確認し、すべての設定が正しく動作していることを確認します。 詳しくは、「[&#x200B; メール配信のSPFとDKIMの設定](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability){target="_blank"}」を参照してください。
+* SPF/DKIMの設定を確認し、すべての設定が正しく動作していることを確認します。 詳しくは、「[ メール配信のSPFとDKIMの設定](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability){target="_blank"}」を参照してください。
 * 非アクティブ/無効なレコードをパージして、Marketo データベースを監査およびクリーニングします。 これにより、電子メールが最も多くのリードの受信トレイに届く可能性が高まります。 詳しくは、[Marketo データベースのヘルスチェックとクリーンを維持する方法](https://nation.marketo.com/t5/champion-program-blogs/marketo-database-health-check-up-amp-how-to-keep-it-clean/ba-p/323563){target="_blank"}の記事を参照してください。
-* チームメンバーがタスクを実行し、意図しないアクセスやメールの変更を防ぐための適切な権限を持っていることを確認します。 **[!UICONTROL 管理者]**&#x200B;または&#x200B;**[!UICONTROL Admin Console]**&#x200B;を通じて変更を行う場合でも、対応できます。 [&#x200B; ユーザーの役割と権限の管理](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions){target="_blank"}の記事を参照してください。
-* Launchpadの統合を確認して、正しい認証を確認し、潜在的なエラーを使用する前に解決します。 [Marketo Developer Guide: Authentication](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}を参照してください。
+* チームメンバーがタスクを実行し、意図しないアクセスやメールの変更を防ぐための適切な権限を持っていることを確認します。 **[!UICONTROL 管理者]**&#x200B;または&#x200B;**[!UICONTROL Admin Console]**&#x200B;を通じて変更を行う場合でも、対応できます。 [ ユーザーの役割と権限の管理](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions){target="_blank"}の記事を参照してください。
+* Launchpadの統合を確認して、正しい認証を確認し、潜在的なエラーを使用する前に解決します。 [Marketo Developer Guide: Authentication](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}を参照してください。
 
 ### ベストプラクティス
 
 Marketoがキャンペーンの優先順位やプロセスをどのように正確に把握することから始まります。 最適化のヒントで、キャンペーンにスピードのギフトを与えましょう。
 
-* Marketoでキャンペーンフローの各段階の処理の優先順位を把握することは、緊急メールや優先度の高いメールを誤って配信してしまうことを防ぐために非常に重要です。 [&#x200B; キャンペーン処理の仕組み](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264)の記事を参照してください。
-* スマートリストロジックを念頭に置くことで、キャンペーンを迅速かつピーク時にパフォーマンスを確保することができます。 「[&#x200B; スマートリストのベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"}」の記事を参照してください。
-* **[!UICONTROL Head Start]**&#x200B;または&#x200B;**[!UICONTROL 受信者タイムゾーン]**&#x200B;は、送信前にメールの作成を開始でき、遅延を減らし、リソースロジックが高いリードの選定に追加の準備時間を提供できます。 詳しくは、[電子メールプログラムの先行スタート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}および[受信者のタイムゾーンを使用した電子メールプログラムのスケジュール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"}の記事を参照してください。
-* キャンペーンがアクティブになり、リードが流入すると、フローステップの間違いに気が付きます。 迅速な調整で修正したいと考えがちですが、ライブ待機ステップを変更したり、フローを並べ替えたりすると何が起こるかを知ることで、多くの頭痛を避け、後でクリーンアップすることができます。 待機手順[&#128279;](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294)の記事の「 メンバーを含むキャンペーンフローの編集」を参照してください。
+* Marketoでキャンペーンフローの各段階の処理の優先順位を把握することは、緊急メールや優先度の高いメールを誤って配信してしまうことを防ぐために非常に重要です。 [ キャンペーン処理の仕組み](https://nation.marketo.com/t5/knowledgebase/how-campaign-processing-works/ta-p/248264)の記事を参照してください。
+* スマートリストロジックを念頭に置くことで、キャンペーンを迅速かつピーク時にパフォーマンスを確保することができます。 「[ スマートリストのベストプラクティス ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists){target="_blank"}」の記事を参照してください。
+* **[!UICONTROL Head Start]**&#x200B;または&#x200B;**[!UICONTROL 受信者タイムゾーン]**&#x200B;は、送信前にメールの作成を開始でき、遅延を減らし、リソースロジックが高いリードの選定に追加の準備時間を提供できます。 詳しくは、[電子メールプログラムの先行スタート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}および[受信者のタイムゾーンを使用した電子メールプログラムのスケジュール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone){target="_blank"}の記事を参照してください。
+* キャンペーンがアクティブになり、リードが流入すると、フローステップの間違いに気が付きます。 迅速な調整で修正したいと考えがちですが、ライブ待機ステップを変更したり、フローを並べ替えたりすると何が起こるかを知ることで、多くの頭痛を避け、後でクリーンアップすることができます。 待機手順](https://nation.marketo.com/t5/knowledgebase/editing-campaign-flow-with-members-in-wait-steps/ta-p/254294)の記事の「[ メンバーを含むキャンペーンフローの編集」を参照してください。
 
 ### 検証
 
 **[!UICONTROL Send]**&#x200B;をクリックする前に、電子メールの表示とパフォーマンスが意図したとおりに行われていることを確認してください。
 
 * Marketoでは、メールの外観をテストする複数の方法が用意されています。 これらを使用して、思い描いたとおりに表示されるようにします。
-  * **[!UICONTROL Preview]**&#x200B;関数を使用して、セグメント化または個々のリードによるプレビューによって、動的コンテンツとトークンが正しくレンダリングされていることを確認します。 動的コンテンツを含むメールのプレビュー[記事](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"}を参照してください。
-  * テストレコードにダイレクトメールをすばやく簡単に送信し、様々なクライアントやデバイスでメールがどのように表示されるかを確認できます。 「[&#x200B; スマートリストから単一フローステップを実行する](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"}」の記事を参照してください。
-  * [!DNL Litmus] ユーザーの場合、アカウントを統合し、メールエディターから直接レンダリングテストを開始することが、これまで以上に簡単になりました。  [!DNL Litmus]&#x200B;[&#128279;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)の記事「 メールのレンダリングをテストする」を参照してください。
-* [!DNL SpamAssassin]と統合された電子メールスパムレポート機能を確認して、電子メールの内容を確認し、受信トレイに届く可能性や&#x200B;*スパム*&#x200B;としてマークされる可能性についてスコアを割り当てます。 [電子メールスパムレポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"}の記事を参照してください。
-* [!UICONTROL &#x200B; キャンペーンキュー]に注目して、キャンペーンが処理され、緊急度の高い項目が正しく優先順位付けされていることを確認します。 「[&#x200B; キャンペーンは実行中ですか？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"}」を参照してください。 ガイド。
+  * **[!UICONTROL Preview]**&#x200B;関数を使用して、セグメント化または個々のリードによるプレビューによって、動的コンテンツとトークンが正しくレンダリングされていることを確認します。 動的コンテンツを含むメールのプレビュー[記事](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content){target="_blank"}を参照してください。
+  * テストレコードにダイレクトメールをすばやく簡単に送信し、様々なクライアントやデバイスでメールがどのように表示されるかを確認できます。 「[ スマートリストから単一フローステップを実行する](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list){target="_blank"}」の記事を参照してください。
+  * [!DNL Litmus] ユーザーの場合、アカウントを統合し、メールエディターから直接レンダリングテストを開始することが、これまで以上に簡単になりました。  [!DNL Litmus]](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering)の記事「[ メールのレンダリングをテストする」を参照してください。
+* [!DNL SpamAssassin]と統合された電子メールスパムレポート機能を確認して、電子メールの内容を確認し、受信トレイに届く可能性や&#x200B;*スパム*&#x200B;としてマークされる可能性についてスコアを割り当てます。 [電子メールスパムレポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report){target="_blank"}の記事を参照してください。
+* [!UICONTROL  キャンペーンキュー]に注目して、キャンペーンが処理され、緊急度の高い項目が正しく優先順位付けされていることを確認します。 「[ キャンペーンは実行中ですか？](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662){target="_blank"}」を参照してください。 ガイド。
 
 ### サポートエクスペリエンスの効率化
 
-何か問題が発生した場合は、スピードが重要です。Marketoサポートがお手伝いします。 サポートケースにこれらの詳細を含めることで、行き来を避け、迅速な解決に向けてチームが取り組めるように支援します。 Marketo サポートの利用に関する[&#x200B; ベストプラクティス &#x200B;](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491)の記事を参照してください。
+何か問題が発生した場合は、スピードが重要です。Marketoサポートがお手伝いします。 サポートケースにこれらの詳細を含めることで、行き来を避け、迅速な解決に向けてチームが取り組めるように支援します。 Marketo サポートの利用に関する[ ベストプラクティス ](https://nation.marketo.com/t5/knowledgebase/best-practices-for-working-with-marketo-support/ta-p/253491)の記事を参照してください。
 
 このガイドを活用すれば、この重要な時期に、エンゲージメントとコンバージョンを促進する優れた立場から始めることができるので、安心して休憩できます。 ストレスは大きなものですが、その必要はありません。 今日から準備を始め、このホリデーシーズンを今までで最も成功させましょう。
 
@@ -388,7 +358,7 @@ Marketoがキャンペーンの優先順位やプロセスをどのように正�
 
 Workfront リリースに関する情報を入手し、サンドボックス環境で新機能をテストします。
 
-* [Adobe Workfront リリースの準備](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-readiness){target="_blank"}
+* [Adobe Workfront リリースの準備](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-readiness){target="_blank"}
 * [Workfront リリースノートのアーカイブ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 ### ベストプラクティス
@@ -413,13 +383,13 @@ Adobe Adobe Campaignを利用して、ホリデーシーズンに備えるため
 
 **Adobe Campaign v8およびAdobe Campaign Classic v7の場合：**
 
-* [配信品質の改善](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/send/deliverability-management/about-deliverability){target="_blank"}
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/ja/docs/campaign/automation/workflows/introduction/workflow-best-practices){target="_blank"}
+* [配信品質の改善](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/deliverability-management/about-deliverability){target="_blank"}
+* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/en/docs/campaign/automation/workflows/introduction/workflow-best-practices){target="_blank"}
 
 **Adobe Campaign Standardの場合：**
 
-* [配達品質の向上](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/testing-and-sending/managing-deliverability/about-deliverability){target="_blank"}
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows){target="_blank"}
+* [配達品質の向上](https://experienceleague.adobe.com/en/docs/campaign-standard/using/testing-and-sending/managing-deliverability/about-deliverability){target="_blank"}
+* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows){target="_blank"}
 
 **一般的な配信品質のベストプラクティス：**
 
@@ -437,21 +407,21 @@ Adobe Adobe Campaignを利用して、ホリデーシーズンに備えるため
 
 適切なハードウェア割り当てとシステムの応答性を確保するために、Adobeでは、事前に&#x200B;**ピーク時および毎日のサーバーのヒット/コールボリューム**&#x200B;を送信することをお勧めします。
 
-* データがどれだけ迅速に利用可能になるかを理解することは、大量の期間におけるリアルタイムの意思決定に不可欠であるため、[&#x200B; トラフィックスパイクスケジュールとハードウェア割り当てリードタイム &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/traffic-management/t-traffic-schedule-spike#hardware-allocation-lead-times){target="_blank"}を確認してください。
+* データがどれだけ迅速に利用可能になるかを理解することは、大量の期間におけるリアルタイムの意思決定に不可欠であるため、[ トラフィックスパイクスケジュールとハードウェア割り当てリードタイム ](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/traffic-management/t-traffic-schedule-spike#hardware-allocation-lead-times){target="_blank"}を確認してください。
 
-* 予期しないトラフィックの急増やハードウェアの問題など、Adobe Analyticsのデータ可用性と待ち時間に与える影響について、[Adobe Analytics データ待ち時間の概要](https://experienceleague.adobe.com/ja/docs/analytics/technotes/latency){target="_blank"}で説明し、データ遅延を低減するための推奨される戦略を見つけます。
+* 予期しないトラフィックの急増やハードウェアの問題など、Adobe Analyticsのデータ可用性と待ち時間に与える影響について、[Adobe Analytics データ待ち時間の概要](https://experienceleague.adobe.com/en/docs/analytics/technotes/latency){target="_blank"}で説明し、データ遅延を低減するための推奨される戦略を見つけます。
 
 ### ベストプラクティス
 
 データフィードを使用して生の分析データを書き出す場合、Adobeは、フィード設定を最適化し、よくある落とし穴を回避するためのガイダンスを提供します。
 
-* [Adobe Analytics データフィードのベストプラクティス](https://experienceleague.adobe.com/ja/docs/analytics/export/analytics-data-feed/data-feeds-best-practices){target="_blank"}
+* [Adobe Analytics データフィードのベストプラクティス](https://experienceleague.adobe.com/en/docs/analytics/export/analytics-data-feed/data-feeds-best-practices){target="_blank"}
 
 休暇中に迅速かつ信頼性の高いレポートを維持するために、Adobeでは次をお勧めします。
 
-* [Analysis Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/ja/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance){target="_blank"}
-* [Report Builderのトラブルシューティングとベストプラクティス：リクエストを最適化するための推奨事項](https://experienceleague.adobe.com/ja/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F){target="_blank"}
-* [Analytics コンポーネントガイド：スケジュール済みレポートキュー](https://experienceleague.adobe.com/ja/docs/analytics/components/scheduled-reports-admin){target="_blank"}
+* [Analysis Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance){target="_blank"}
+* [Report Builderのトラブルシューティングとベストプラクティス：リクエストを最適化するための推奨事項](https://experienceleague.adobe.com/en/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F){target="_blank"}
+* [Analytics コンポーネントガイド：スケジュール済みレポートキュー](https://experienceleague.adobe.com/en/docs/analytics/components/scheduled-reports-admin){target="_blank"}
 
 ### ホリデーメンテナンス計画
 
@@ -473,7 +443,7 @@ Adobeでは、通常、休暇期間のピーク時に&#x200B;**メンテナン�
 
 また、チェックアウト、商品レコメンデーション、プロモーションオファーなど、重要な役割を果たすジャーニーを特定することも重要です。そのため、パーソナライゼーションを推進するには、最も重要なチャネルに焦点を当てる必要があります。
 
-Adobe Targetでの最適化については、[&#x200B; ベストプラクティス &#x200B;](https://experienceleague.adobe.com/ja/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization){target="_blank"}を参照してください。
+Adobe Targetでの最適化については、[ ベストプラクティス ](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization){target="_blank"}を参照してください。
 
 ### 拡張の準備
 
@@ -485,11 +455,11 @@ Adobe Targetでの最適化については、[&#x200B; ベストプラクティ�
 
 ### 検証
 
-[QA リンク &#x200B;](https://experienceleague.adobe.com/ja/docs/target/using/activities/activity-qa/activity-qa){target="_blank"}を使用してコンテンツ配信を検証し、すべてが期待どおりに動作することを確認します。 「**[!UICONTROL オーディエンスルールを一致してエクスペリエンスを表示]**」トグルを使用して、テスト中のアクティビティに適したオーディエンスが適格であることを確認します。 **[!UICONTROL 目標指標]**&#x200B;の設定が、アクティビティの&#x200B;**[!UICONTROL 目標]**&#x200B;に一致していることを再確認します。 また、念のために常にバックアッププランを用意しておきます。
+[QA リンク ](https://experienceleague.adobe.com/en/docs/target/using/activities/activity-qa/activity-qa){target="_blank"}を使用してコンテンツ配信を検証し、すべてが期待どおりに動作することを確認します。 「**[!UICONTROL オーディエンスルールを一致してエクスペリエンスを表示]**」トグルを使用して、テスト中のアクティビティに適したオーディエンスが適格であることを確認します。 **[!UICONTROL 目標指標]**&#x200B;の設定が、アクティビティの&#x200B;**[!UICONTROL 目標]**&#x200B;に一致していることを再確認します。 また、念のために常にバックアッププランを用意しておきます。
 
 ### ベストプラクティス
 
-実装は、[Adobe Targetの制限](https://experienceleague.adobe.com/ja/docs/target/using/troubleshoot/target-limits){target="_blank"}内に収め、[GDPRおよびCCPAのコンプライアンス &#x200B;](https://experienceleague.adobe.com/ja/docs/target-dev/developer/implementation/privacy/cmp-privacy-and-general-data-protection-regulation){target="_blank"}を事前に検証してから開始してください。 作業中のアクティビティを100個未満しか管理せず、古いアクティビティをアーカイブすることで、作業を効率化します。 AI主導の最適化のために&#x200B;**[!UICONTROL 自動割り当て]**/**[!UICONTROL 自動ターゲット]**&#x200B;を活用します。 ロールバックプランとリアルタイムのモニタリングダッシュボードを確立する。
+実装は、[Adobe Targetの制限](https://experienceleague.adobe.com/en/docs/target/using/troubleshoot/target-limits){target="_blank"}内に収め、[GDPRおよびCCPAのコンプライアンス ](https://experienceleague.adobe.com/en/docs/target-dev/developer/implementation/privacy/cmp-privacy-and-general-data-protection-regulation){target="_blank"}を事前に検証してから開始してください。 作業中のアクティビティを100個未満しか管理せず、古いアクティビティをアーカイブすることで、作業を効率化します。 AI主導の最適化のために&#x200B;**[!UICONTROL 自動割り当て]**/**[!UICONTROL 自動ターゲット]**&#x200B;を活用します。 ロールバックプランとリアルタイムのモニタリングダッシュボードを確立する。
 
 ### セキュリティとガバナンス
 

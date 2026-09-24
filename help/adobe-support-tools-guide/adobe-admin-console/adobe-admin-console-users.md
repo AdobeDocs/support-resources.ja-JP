@@ -5,7 +5,15 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
-source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '1173'
 ht-degree: 7%
@@ -17,10 +25,10 @@ ht-degree: 7%
 何らかの課題に直面していませんか？ 問題を選択して解決策を表示します。
 
 - [管理者の役割の管理](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)
-- [ダウンロードとインストールの問題](https://helpx.adobe.com/jp/download-install.html)
-- [Enterprise ID ユーザーパスワードのリセット](https://helpx.adobe.com/jp/enterprise/kb/enterprise-id-faq.html#faq)
-- [Federated ID エラーの解決](https://helpx.adobe.com/jp/enterprise/kb/tshoot-fed-id.html)
-- [ユーザーの削除または削除されたユーザーの復元](https://helpx.adobe.com/jp/enterprise/using/manage-directory-users.html)
+- [ダウンロードとインストールの問題](https://helpx.adobe.com/download-install.html)
+- [Enterprise ID ユーザーパスワードのリセット](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#faq)
+- [Federated ID エラーの解決](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
+- [ユーザーの削除または削除されたユーザーの復元](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
 
 **Adobe Admin Console - ユーザー** — [YouTubeを視聴](https://youtu.be/w8b36YX2TEM)
 
@@ -28,7 +36,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Adobe Admin Consoleの管理者は、[ID タイプ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/identity.html)と[IDを設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)した後、次の作業としてユーザーをAdmin Consoleに追加します。
+>Adobe Admin Consoleの管理者は、[ID タイプ ](https://helpx.adobe.com/jp/enterprise/using/identity.html)と[IDを設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)した後、次の作業としてユーザーをAdmin Consoleに追加します。
 
 Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義しています。
 
@@ -36,7 +44,7 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 
 エンタープライズ版またはグループ版の管理者は、Admin Consoleで管理タスクを実行します。 管理者を追加すると、Adobe製品へのアクセス、使用、その他の管理タスクをきめ細かく管理できる、柔軟な管理階層を定義できます。
 
-すべての管理者をAdmin Consoleに追加する必要があります。 管理者権限を追加する場合は、管理者権限は[管理者ロール &#x200B;](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)に基づきます。
+すべての管理者をAdmin Consoleに追加する必要があります。 管理者権限を追加する場合は、管理者権限は[管理者ロール ](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)に基づきます。
 
 ### エンドユーザー
 
@@ -48,7 +56,7 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 
 >[!NOTE]
 >
->Adobeのエンタープライズ版またはグループ版をご利用の場合は、Admin Consoleでのユーザー管理を開始する前に、この表を参照することをお勧めします。 既存顧客は、特に、あるID タイプから別のID タイプに移行する予定がある場合に、これを使用できます（[ID タイプの編集](https://helpx.adobe.com/jp/enterprise/using/switch-user-identity.html)を参照）。
+>Adobeのエンタープライズ版またはグループ版をご利用の場合は、Admin Consoleでのユーザー管理を開始する前に、この表を参照することをお勧めします。 既存顧客は、特に、あるID タイプから別のID タイプに移行する予定がある場合に、これを使用できます（[ID タイプの編集](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)を参照）。
 
 <table>
 <thead>
@@ -77,22 +85,22 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 <tr>
 <th scope="row"><strong>ユーザーの追加</strong></th>
 <td><strong>Admin Console</strong>の「<strong> ユーザー</strong>」タブ。 <a href="https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html#add-users">詳細情報</a>。</td>
-<td><strong>Admin Console</strong>で<strong>Add users by CSV</strong>を使用します。 <a href="https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
-<td><a href="https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html">Azure</a>または<a href="https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html">Google</a>にユーザーを追加します。 <strong>Admin Console</strong>経由で送信できます。</td>
+<td><strong>Admin Console</strong>で<strong>Add users by CSV</strong>を使用します。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a>または<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>にユーザーを追加します。 <strong>Admin Console</strong>経由で送信できます。</td>
 <td colspan="2">ユーザーは、組織のLDAPに追加する必要があります。</td>
 </tr>
 <tr>
 <th scope="row"><strong>ユーザーの削除</strong></th>
-<td><strong>Admin Console</strong>でユーザーを選択して削除します。 <a href="https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html#remove-users">詳細情報</a>。</td>
-<td><strong>Admin Console</strong>の「<strong> ユーザー</strong>」タブで「<strong> ユーザーをCSV</strong>で削除」を選択します。 <a href="https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#remove-users">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
-<td><a href="https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html">Google</a>または<a href="https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html">Azure</a>でユーザーを削除する必要があります。</td>
+<td><strong>Admin Console</strong>でユーザーを選択して削除します。 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#remove-users">詳細情報</a>。</td>
+<td><strong>Admin Console</strong>の「<strong> ユーザー</strong>」タブで「<strong> ユーザーをCSV</strong>で削除」を選択します。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#remove-users">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Google</a>または<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Azure</a>でユーザーを削除する必要があります。</td>
 <td colspan="2">ユーザー情報が同期していることを確認します。 <strong>注意：</strong>組織のLDAPに含まれていないユーザーがAdmin Consoleから削除されます。</td>
 </tr>
 <tr>
 <th scope="row"><strong>ユーザーの詳細を編集</strong></th>
-<td>Admin Consoleでユーザーを選択し、<strong> ユーザーの詳細を編集</strong>します。 <a href="https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html#edit-user-details">詳細情報</a>。</td>
-<td><strong>Admin Console</strong>の「<strong> ユーザー</strong>」タブで「<strong> ユーザーの詳細をCSV</strong>で編集」を選択します。 <a href="https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#edit-user-details">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
-<td>すべてのユーザー情報は、<a href="https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html">Azure</a>または<a href="https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html">Google</a>で変更する必要があります。</td>
+<td>Admin Consoleでユーザーを選択し、<strong> ユーザーの詳細を編集</strong>します。 <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#edit-user-details">詳細情報</a>。</td>
+<td><strong>Admin Console</strong>の「<strong> ユーザー</strong>」タブで「<strong> ユーザーの詳細をCSV</strong>で編集」を選択します。 <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#edit-user-details">詳細情報</a>。 <em> （デフォルトのCSV テンプレートを使用） </em></td>
+<td>すべてのユーザー情報は、<a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">Azure</a>または<a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">Google</a>で変更する必要があります。</td>
 <td colspan="2">ユーザー情報が同期していることを確認します。</td>
 </tr>
 <tr>
@@ -129,12 +137,12 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html">
+      <a href="https://helpx.adobe.com/enterprise/using/bulk-upload-users.html">
         ユーザーの管理| CSVの一括アップロード
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/jp/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
+      <a href="https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html">
         ユーザーのCSVの一括アップロードのトラブルシューティング
       </a>
     </li>
@@ -144,12 +152,12 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 <td>
   <ul>
     <li>
-      <a href="https://helpx.adobe.com/jp/enterprise/using/sso-setup-azure.html">
+      <a href="https://helpx.adobe.com/enterprise/using/sso-setup-azure.html">
         Azure AD コネクタ
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/jp/enterprise/using/setup-sso-google.html">
+      <a href="https://helpx.adobe.com/enterprise/using/setup-sso-google.html">
         Google フェデレーションコネクタ
       </a>
     </li>
@@ -169,7 +177,7 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
       </a>
     </li>
     <li>
-      <a href="https://helpx.adobe.com/jp/enterprise/using/user-sync.html">
+      <a href="https://helpx.adobe.com/enterprise/using/user-sync.html">
         ステップバイステップガイド
       </a>
     </li>
@@ -188,8 +196,8 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 
 ライセンス方法に基づいて、エンドユーザーにライセンスを割り当てます。
 
-- **ユーザー指定ライセンス：**&#x200B;これらのユーザーを&#x200B;**製品** （[&#x200B; グループ版](https://helpx.adobe.com/jp/enterprise/using/assign-licenses-to-teams-users.html)）または&#x200B;**製品プロファイル** （[&#x200B; エンタープライズ版](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html)）に追加して、Adobe製品とサービスの使用権限を付与します。 詳しくは、[&#x200B; ユーザー指定ライセンスパッケージを作成](https://helpx.adobe.com/jp/enterprise/using/create-nul-packages.html)する方法と[製品プロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html#create-product-profile)を参照してください。
-- **共有デバイスライセンス :** [追加されたユーザー](https://helpx.adobe.com/jp/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)は、**組織ユーザーのみがアクセスできる構成済みの共有デバイスを使用できます**。 詳しくは、[SDL パッケージの作成](https://helpx.adobe.com/jp/enterprise/using/create-sdl-packages.html)を参照してください。
+- **ユーザー指定ライセンス：**&#x200B;これらのユーザーを&#x200B;**製品** （[ グループ版](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)）または&#x200B;**製品プロファイル** （[ エンタープライズ版](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html)）に追加して、Adobe製品とサービスの使用権限を付与します。 詳しくは、[ ユーザー指定ライセンスパッケージを作成](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)する方法と[製品プロファイル ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)を参照してください。
+- **共有デバイスライセンス :** [追加されたユーザー](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)は、**組織ユーザーのみがアクセスできる構成済みの共有デバイスを使用できます**。 詳しくは、[SDL パッケージの作成](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)を参照してください。
 
 ### パッケージのデプロイ
 
@@ -198,18 +206,18 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 - クライアントマシンに移動し、パッケージファイル（WindowsまたはmacOS）をダブルクリックします。
 - Windows コマンドプロンプトまたはmacOS ターミナルを使用します。
 - サードパーティ製ツールの使用：
-  - [Microsoft Intune](https://helpx.adobe.com/jp/enterprise/kb/deploy-packages-using-ms-intune.html)
-  - [Microsoft System Center Configuration Manager （SCCM）](https://helpx.adobe.com/jp/enterprise/kb/deploy-packages-using-sccm.html)
-  - [Apple Remote Desktop （ARD）](https://helpx.adobe.com/jp/enterprise/kb/deploy-packages-using-ard.html)
-  - [JAMF Pro](https://helpx.adobe.com/jp/enterprise/kb/deploy-packages-using-jamf-pro.html)
-  - [ムンキ](https://helpx.adobe.com/jp/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Microsoft System Center Configuration Manager （SCCM）](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Apple Remote Desktop （ARD）](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [ムンキ](https://helpx.adobe.com/enterprise/kb/deploy-packages-using-munki.html)
 
 ## 関連トピックス
 
 - [ユーザーの管理|個別](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html)
-- [ユーザーの管理| CSVの一括アップロード](https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html)
-- [ディレクトリユーザーの管理](https://helpx.adobe.com/jp/enterprise/using/manage-directory-users.html)
+- [ユーザーの管理| CSVの一括アップロード](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+- [ディレクトリユーザーの管理](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)
-- [製品プロファイルへのユーザーの割り当て（企業および機関向け）](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html#assign-users)
-- [グループ ユーザーへのライセンスの割り当て](https://helpx.adobe.com/jp/enterprise/using/assign-licenses-to-teams-users.html)
-- [ビジネスストレージモデル](https://helpx.adobe.com/jp/enterprise/kb/business-storage-model-introduction.html)
+- [製品プロファイルへのユーザーの割り当て（企業および機関向け）](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#assign-users)
+- [グループ ユーザーへのライセンスの割り当て](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+- [ビジネスストレージモデル](https://helpx.adobe.com/enterprise/kb/business-storage-model-introduction.html)

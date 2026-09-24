@@ -3,7 +3,15 @@ title: Adobe CommerceのMySQL サポート終了のお知らせとデータベ�
 description: この記事では、サポート対象のAdobe Commerce バージョンのMySQL サポート終了タイムラインとデータベース互換性ガイダンスについて説明します。
 solution: Commerce
 exl-id: f4ef2b3b-316c-421e-a645-9445cdd13448
-source-git-commit: 6603038e6b5857c3bb34cc62002a0b860702f561
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -12,7 +20,7 @@ ht-degree: 1%
 
 この記事では、サポート対象のAdobe Commerce バージョンのMySQL サポート終了（EOS）とデータベースの互換性に関する重要な情報を提供します。
 Adobeでは、この発表を確認し、プラットフォームの安定性を維持し、サポート要件に準拠し続けるために行動を起こすことを販売者に強くお勧めします。
-詳しくは、[MariaDB](https://experienceleague.adobe.com/ja/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)および[必要システム構成](https://experienceleague.adobe.com/ja/docs/commerce-operations/installation-guide/system-requirements)のアップグレードの前提条件を参照してください。
+詳しくは、[MariaDB](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade)および[必要システム構成](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/system-requirements)のアップグレードの前提条件を参照してください。
 
 ## MySQL 8.0 サポート終了（EOS）
 

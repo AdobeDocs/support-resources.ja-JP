@@ -5,20 +5,26 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 1%
-
 ---
-
 # Global Admin Consoleで組織を選択する
 
 Global Admin Console内で編集する組織を選択する方法について説明します。
 
 >[!NOTE]
 >
->[Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)にアクセスできたら、最初に組織を選択して、組織の名前、ユーザーグループ、製品プロファイル、管理者、および組織ポリシーを表示および管理します。 ログインするには、[Global Admin Console](https://global-admin-console.adobe.com/)に移動します。
+>[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console)にアクセスできたら、最初に組織を選択して、組織の名前、ユーザーグループ、製品プロファイル、管理者、および組織ポリシーを表示および管理します。 ログインするには、[Global Admin Console](https://global-admin-console.adobe.com/)に移動します。
 
 Global Admin Consoleは、Adobe Admin Consoleを階層内でグループ化します。 選択した各組織は、1つのAdobe Admin Consoleです。 グローバル管理者は次のことが可能です。
 
@@ -79,6 +85,6 @@ Global Admin Consoleでは、[!UICONTROL 階層ツリー]から組織を選択�
 
 - 組織のパス名は一意ですが、単純な名前は兄弟の間でのみ一意です。 組織階層の他の場所に、同じ単純な名前を持つ組織が存在する場合があります。
 
-- Global Admin Consoleを使用して、選択した組織にリンクされているドメインのリストのみを表示できます。 選択した組織のシステム管理者である場合は、「**[!UICONTROL Admin Consoleで開く]**」から「[&#x200B; ドメインを管理する](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html)」を選択します。 「ドメイン」タブに表示される情報については、[&#x200B; スキーマの書き出しと読み込み](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)を参照してください。
+- Global Admin Consoleを使用して、選択した組織にリンクされているドメインのリストのみを表示できます。 選択した組織のシステム管理者である場合は、「**[!UICONTROL Admin Consoleで開く]**」から「[ ドメインを管理する](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)」を選択します。 「ドメイン」タブに表示される情報については、[ スキーマの書き出しと読み込み](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)を参照してください。
 
 - IE 11は、グローバル管理アクセスではサポートされていません。 別のブラウザーまたは新しいバージョンのIE ブラウザーを使用します。

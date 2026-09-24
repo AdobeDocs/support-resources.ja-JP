@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 1%
-
 ---
-
 # IP アドレスによる製品アクセスの制限
 
 エンタープライズ版に適用されます。
@@ -27,7 +33,7 @@ IP ベースのアクセス制御では、IP アドレスのAdobeを使用して
 信頼できるパブリック IPを&#x200B;**許可IP アドレス** リストに追加すると、ユーザーを次の場所から停止できます。
 
 - 許可されたIP範囲外のパブリック IPからの製品へのアクセス
-- 許可されたIP範囲外のパブリック IPからAdobe [&#x200B; ユーザープロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-profiles.html)にログインします
+- 許可されたIP範囲外のパブリック IPからAdobe [ ユーザープロファイル ](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html)にログインします
 - 許可されたIP範囲外のweb アプリでのユーザープロファイルの切り替え
 
   ![組織構造の書き出し](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ IP アドレスは数分以内に追加されます。 関連するユーザー�
 >[!NOTE]
 >
 >- IP ベースのアクセスが有効になっている場合、**強制ログアウトは発生しません**。 ユーザーが影響を受けるのは、webでログインまたはプロファイルを切り替える際に、制限されたプロファイルを選択しようとしたときだけです。
->- セキュリティで保護されたweb ゲートウェイを使用している場合は、すべてのトラフィックがそのゲートウェイを通じてルーティングされていることを確認します。 Adobe アプリとサービスが正しく機能するために許可されるドメインの[&#x200B; リスト &#x200B;](https://helpx.adobe.com/jp/enterprise/kb/network-endpoints.html)を表示します。
->- 無効なIP アドレスを入力したためにAdmin Consoleからロックされている場合は、[Adobe カスタマーケア &#x200B;](https://helpx.adobe.com/jp/enterprise/using/support-for-enterprise.html)にお問い合わせください。
+>- セキュリティで保護されたweb ゲートウェイを使用している場合は、すべてのトラフィックがそのゲートウェイを通じてルーティングされていることを確認します。 Adobe アプリとサービスが正しく機能するために許可されるドメインの[ リスト ](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)を表示します。
+>- 無効なIP アドレスを入力したためにAdmin Consoleからロックされている場合は、[Adobe カスタマーケア ](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)にお問い合わせください。
 
 ## 会話に参加
 
-共同作業、質問、他の管理者とのチャットを行うには、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://www.adobe.com/go/entcom_jp)にアクセスしてください。
+共同作業、質問、他の管理者とのチャットを行うには、[ エンタープライズ版およびグループ版コミュニティ ](https://www.adobe.com/go/entcom)にアクセスしてください。

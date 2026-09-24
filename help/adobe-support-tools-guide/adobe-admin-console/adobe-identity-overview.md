@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # IDの概要
 
 エンタープライズおよびチームに適用されます。
@@ -25,7 +28,7 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 次の表に、自社に最適なID モデルを選択する方法を示します。
 
 >[!NOTE]
->組織がAdobeのエンタープライズストレージモデルに更新されておらず、個人向けのAdobe IDをまだ使用している場合は、以下の[ID タイプの表](https://helpx.adobe.com/jp/enterprise/using/identity.html#using-personal-adobe-id)の説明を参照してください。
+>組織がAdobeのエンタープライズストレージモデルに更新されておらず、個人向けのAdobe IDをまだ使用している場合は、以下の[ID タイプの表](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id)の説明を参照してください。
 
 <table>
 <thead>
@@ -51,7 +54,7 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 <th scope="row"><strong>主な製品</strong></th>
 <td>組織で作成、所有、管理されます。 組織はユーザー認証情報を管理し、SAML2 ID プロバイダー（IdP）を介したシングルサインオン（SSO）を使用します。</td>
 <td>組織で作成、所有、管理されます。 検証済みのドメインでユーザーアカウントを作成する独占的な権利を、組織が保持します。</td>
-<td>エンドユーザーが作成、所有、管理します。 Adobeが認証を実行し、エンドユーザーがIDを管理します。 <a href="https://helpx.adobe.com/jp/enterprise/using/storage-for-business.html"> ストレージモデル </a>に応じて、ユーザーまたは企業はファイルとデータを引き続き管理できます。 Adobe ID アカウントは、未検証、公開、または信頼できるドメインで作成されます。 以下の備考セクションのポイント 2を参照のこと。</td>
+<td>エンドユーザーが作成、所有、管理します。 Adobeが認証を実行し、エンドユーザーがIDを管理します。 <a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html"> ストレージモデル </a>に応じて、ユーザーまたは企業はファイルとデータを引き続き管理できます。 Adobe ID アカウントは、未検証、公開、または信頼できるドメインで作成されます。 以下の備考セクションのポイント 2を参照のこと。</td>
 </tr>
 <tr>
 <th scope="row"><strong>アカウントとデータの所有権</strong></th>
@@ -81,20 +84,20 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 <tr>
 <th scope="row"><strong>パスワードのリセット</strong></th>
 <td colspan="2">サポートなし</td>
-<td><a href="https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html">アカウントのパスワードをリセット</a></td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">アカウントのパスワードをリセット</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud エンタープライズ版およびDocument Cloud エンタープライズ版</strong></th>
-<td colspan="3">サポートあり</td>
+<td colspan="3">対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud グループ版およびDocument Cloud グループ版</strong></th>
 <td colspan="2">サポートなし</td>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td colspan="3">サポートあり</td>
+<td colspan="3">対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>おすすめ対象</strong></th>
@@ -124,8 +127,8 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 <tr>
 <th scope="row"><strong>基本を学ぶ</strong></th>
 <td><a href="https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html">IDの設定</a></td>
-<td><a href="https://helpx.adobe.com/jp/enterprise/using/add-domains-directories.html#claim-domains">要求ドメイン</a></td>
-<td><a href="https://helpx.adobe.com/jp/enterprise/using/users.html#add-users">ユーザーを追加</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">要求ドメイン</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">ユーザーを追加</a></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +136,7 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 >[!NOTE]
 >
 >1. Creative Cloud グループ版のパスワードポリシーは、Creative Cloud グループ版のパスワードポリシーと同じです。
->1. Adobe ID ユーザーは、Adobe IDの資格情報または所有する組織の認証モデル（SSO、2FAなど）を使用して認証を行います。 このような場合、ユーザーは所有組織のSSO ページにリダイレクトされます。 認証後、ユーザーは[&#x200B; ビジネスプロファイルの選択](https://helpx.adobe.com/jp/enterprise/kb/enterprise-id-faq.html#choose-profile)が必要になる場合があります。
+>1. Adobe ID ユーザーは、Adobe IDの資格情報または所有する組織の認証モデル（SSO、2FAなど）を使用して認証を行います。 このような場合、ユーザーは所有組織のSSO ページにリダイレクトされます。 認証後、ユーザーは[ ビジネスプロファイルの選択](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)が必要になる場合があります。
 
 ## Adobeの個人IDの使用
 
@@ -167,15 +170,15 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 </tr>
 <tr>
 <th scope="row"><strong>パスワードのリセット</strong></th>
-<td><a href="https://helpx.adobe.com/jp/manage-account/using/change-or-reset-password.html"> アカウントのパスワードをリセットします。</a>  以下の注意セクションのポイント 2を参照してください。</td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html"> アカウントのパスワードをリセットします。</a>  以下の注意セクションのポイント 2を参照してください。</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud エンタープライズ版およびDocument Cloud エンタープライズ版</strong></th>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>/に対してのみ使用可能</strong></th>
@@ -191,7 +194,7 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 </tr>
 <tr>
 <th scope="row"><strong>基本を学ぶ</strong></th>
-<td><a href="https://helpx.adobe.com/jp/enterprise/using/users.html#add-users">ユーザーを追加</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">ユーザーを追加</a></td>
 </tr>
 </tbody>
 </table>
@@ -199,13 +202,13 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 >[!NOTE]
 >
 >1. Creative Cloud グループ版のパスワードポリシーは、Creative Cloud グループ版のパスワードポリシーと同じです。
->1. [enterprise storage](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-storage.html)を使用しているCreative Cloud エンタープライズ版のお客様の場合、管理者はAdobe ID ユーザーをAdmin Consoleに追加できますが、商品プロファイルに追加することはできません。 管理者は、Adobe ID ユーザーを別のID タイプに移行する必要があります。
+>1. [enterprise storage](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)を使用しているCreative Cloud エンタープライズ版のお客様の場合、管理者はAdobe ID ユーザーをAdmin Consoleに追加できますが、商品プロファイルに追加することはできません。 管理者は、Adobe ID ユーザーを別のID タイプに移行する必要があります。
 >1. **Adobe IDのみをサポートする** Adobe ライセンス Web サイトなど、一部の製品およびサービスがあります。
 
 ## その他
 
 - [IDの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)
-- [ユーザーIDの切り替え](https://helpx.adobe.com/jp/enterprise/using/switch-user-identity.html)
-- [Admin Consoleの概要](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
-- [トレーニングに関するFAQ](https://helpx.adobe.com/jp/x-productkb/policy-pricing/education-faq.html)
+- [ユーザーIDの切り替え](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
+- [Admin Consoleの概要](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [トレーニングに関するFAQ](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
 - [ユーザーの追加と管理](https://helpx.adobe.com/jp/enterprise/using/users.html)
