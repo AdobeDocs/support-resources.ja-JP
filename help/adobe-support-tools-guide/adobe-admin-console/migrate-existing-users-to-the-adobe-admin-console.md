@@ -30,9 +30,9 @@ ht-degree: 4%
 
 エンドユーザーの製品アクセスの失効を防ぐには、既存のVIP サブスクリプション期間が終了する前に、Adobe Admin Consoleでライセンスを割り当てます。
 
-* ETLAをご利用のお客様は、少なくとも30日間の製品重複が可能です。 ユーザーがAdobe アプリやサービスにアクセスできるように、契約応当日より前に移行を完了します。 ETLA コントラクトの有効期限の詳細については、[ETLA コントラクトの自動有効期限](https://helpx.adobe.com/enterprise/using/contract-expiry.html)を参照してください。
+* ETLAをご利用のお客様は、少なくとも30日間の製品重複が可能です。 ユーザーがAdobe アプリやサービスにアクセスできるように、契約応当日より前に移行を完了します。 ETLA コントラクトの有効期限の詳細については、[ETLA コントラクトの自動有効期限](https://helpx.adobe.com/jp/enterprise/using/contract-expiry.html)を参照してください。
 * VIPをご利用のお客様は、契約応当日までにライセンスを購入し、現在のVIP期間が終了する前にライセンスを割り当てることができます。
-* CLPまたはTLPのお客様は、[&#x200B; ライセンス &#x200B;](https://helpx.adobe.com/enterprise/using/licensing.html)の移行手順を使用して、シリアル化されたAcrobatまたはCreative Suiteからユーザー指定ライセンスに移行できます。
+* CLPまたはTLPのお客様は、[&#x200B; ライセンス &#x200B;](https://helpx.adobe.com/jp/enterprise/using/licensing.html)の移行手順を使用して、シリアル化されたAcrobatまたはCreative Suiteからユーザー指定ライセンスに移行できます。
 
 >[!NOTE]
 >
@@ -80,7 +80,7 @@ Admin Consoleでは、クイックライセンス割り当てを使用してラ�
 
    ![&#x200B; ライセンス割り当て確認](assets/migrate-license-assignment.png)
 
-すべてのライセンスが割り当てられていることを確認するには、Admin Consoleの[結果レポート &#x200B;](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 確認メールの日付より前に完了した場合、エンドユーザーはサービスの失効を経験しないでください。
+すべてのライセンスが割り当てられていることを確認するには、Admin Consoleの[結果レポート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 確認メールの日付より前に完了した場合、エンドユーザーはサービスの失効を経験しないでください。
 
 Adobe オンボーディングスペシャリストとの1:1のオンボーディングコールを予約して、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)や[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)など、Admin Consoleの詳細を確認します（まだ参加していない場合）。
 
@@ -101,12 +101,12 @@ Admin ConsoleのCSV テンプレートを使用して、一括操作でライセ
 
    ![CSVでユーザーを編集](assets/migrate-edit-users-by-csv.png)
 
-   ダウンロードしたファイルのフィールドの説明については、[CSV ファイル形式](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header)を参照してください。
+   ダウンロードしたファイルのフィールドの説明については、[CSV ファイル形式](https://helpx.adobe.com/jp/enterprise/using/users.html#main-pars_header)を参照してください。
 4. CSVにライセンスの割り当てを追加し、更新されたファイルを&#x200B;**[!UICONTROL CSVでユーザーを編集]** ダイアログにドラッグして、**[!UICONTROL アップロード]**&#x200B;をクリックします。 操作が完了すると、メールが届きます。
 
    ![&#x200B; ユーザーの編集完了](assets/migrate-user-edit-complete.png)
 
-割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 次に、Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)と[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)について学習します。
+割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 次に、Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)と[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)について学習します。
 
 ## 一括ライセンス割り当て（VIPからETLA）
 
@@ -125,9 +125,9 @@ ETLA組織にユーザーが追加されたときにメールが届きます。
 
 ![VIPからETLAへの移行後にユーザーが追加されました](assets/migrate-users-added-vip-etla.png)
 
-割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)および[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)を担当します。
+割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)および[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)を担当します。
 
-一括アップロードの問題については、[&#x200B; ユーザーの一括アップロードのトラブルシューティング &#x200B;](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)を参照してください。
+一括アップロードの問題については、[&#x200B; ユーザーの一括アップロードのトラブルシューティング &#x200B;](https://helpx.adobe.com/jp/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)を参照してください。
 
 ## 一括ライセンス割り当て（ETLAからVIP）
 
@@ -149,6 +149,6 @@ VIP組織にユーザーが追加されたときにメールが届きます。
 
 ![ETLAからVIPへの移行後にユーザーが追加されました](assets/migrate-users-added-etla-vip.png)
 
-割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)および[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)を担当します。
+割り当てを検証するには、[結果レポート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/users.html#main-pars_header_1346350355)をダウンロードしてください。 Adobe オンボーディングスペシャリストとのオンボーディングをスケジュールして、[管理者の役割](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)および[ID](https://helpx.adobe.com/jp/enterprise/using/identity.html)を担当します。
 
-一括アップロードの問題については、[&#x200B; ユーザーの一括アップロードのトラブルシューティング &#x200B;](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)を参照してください。
+一括アップロードの問題については、[&#x200B; ユーザーの一括アップロードのトラブルシューティング &#x200B;](https://helpx.adobe.com/jp/enterprise/kb/troubleshoot-bulk-user-csv-upload.html)を参照してください。

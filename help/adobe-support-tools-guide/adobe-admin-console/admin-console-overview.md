@@ -35,7 +35,7 @@ Admin Consoleの各タブでは、様々なタスクを実行できます。 リ
 - [&#x200B; インサイト &#x200B;](#insights): Admin Consoleで行われたライセンス割り当てレポートを表示、作成、ダウンロードし、変更内容を追跡します。
 - [設定](#settings): ドメインの要求、共有機能へのアクセスの制限、エンドユーザーのメモの追加、パスワード保護レベルの設定。
 
-Admin Consoleにログインできない場合は、[Adobe アカウントのログインに関する問題を解決](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html)を参照してください。
+Admin Consoleにログインできない場合は、[Adobe アカウントのログインに関する問題を解決](https://helpx.adobe.com/jp/manage-account/kb/account-password-sign-help.html)を参照してください。
 
 ## [!UICONTROL 概要] {#overview}
 
@@ -53,7 +53,7 @@ Admin Consoleにログインできない場合は、[Adobe アカウントのロ
 
 ![管理コンソール子の組織を選択](assets/admin-console-select-your-org-hierarchy.png "Global Admin Consoleの階層内の組織プレースメント ")
 
-多くのAdmin Consoleを持つ複雑な組織構造がある場合、またはメインのAdmin Consoleを複数のコンソールに分割する場合は、[Global Admin Consoleを導入できます](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 Global Admin Consoleでは、Adobe Admin Consoleを組織図のような階層構造にグループ化するため、グローバル管理者は子コンソールを管理し、それに製品を割り当てることができます。また、システム管理者は各コンソールで日々の管理を続けることができます。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。
+多くのAdmin Consoleを持つ複雑な組織構造がある場合、またはメインのAdmin Consoleを複数のコンソールに分割する場合は、[Global Admin Consoleを導入できます](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)。 Global Admin Consoleでは、Adobe Admin Consoleを組織図のような階層構造にグループ化するため、グローバル管理者は子コンソールを管理し、それに製品を割り当てることができます。また、システム管理者は各コンソールで日々の管理を続けることができます。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。
 
 ## [!UICONTROL 製品] {#products}
 
@@ -66,7 +66,7 @@ Admin Consoleにログインできない場合は、[Adobe アカウントのロ
 詳しくは、次を参照してください。
 
 - [製品の管理](https://helpx.adobe.com/jp/enterprise/using/manage-products.html)
-- [製品プロファイルの管理](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
+- [製品プロファイルの管理](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
 
 **チーム**
 
@@ -76,8 +76,8 @@ Admin Consoleにログインできない場合は、[Adobe アカウントのロ
 
 詳しくは、次を参照してください。
 
-- [ライセンスの割り当てまたは割り当て解除](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [製品またはライセンスの追加または削除](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
+- [ライセンスの割り当てまたは割り当て解除](https://helpx.adobe.com/jp/enterprise/using/assign-licenses-to-teams-users.html)
+- [製品またはライセンスの追加または削除](https://helpx.adobe.com/jp/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL ユーザー] {#users}
 
@@ -102,7 +102,7 @@ Enterprise、VIP、VIP Marketplace、Teamsなどのプランに応じて、次�
 - 支払いの詳細、請求書、更新を管理します。
 - Adobe アカウントマネージャーの連絡先の詳細を表示します。
 
-詳細：[&#x200B; アカウントの管理](https://helpx.adobe.com/enterprise/using/accounts.html)。
+詳細：[&#x200B; アカウントの管理](https://helpx.adobe.com/jp/enterprise/using/accounts.html)。
 
 ## [!UICONTROL インサイト] {#insights}
 
@@ -114,23 +114,23 @@ Enterprise、VIP、VIP Marketplace、Teamsなどのプランに応じて、次�
 
 システム管理者は、[Admin Console](https://adminconsole.adobe.com/)で行われた変更を完全に把握できます。 監査ログは、アクションのタイプ、アクションが発生したタイミング、アクションを実行したユーザーに基づいて検索できます。
 
-次に、これらのレポートを表示してダウンロードし、さらに分析します。 詳細：[監査ログを使用して、ユーザーの割り当てとイベントを追跡する](https://helpx.adobe.com/enterprise/using/audit-logs.html)。
+次に、これらのレポートを表示してダウンロードし、さらに分析します。 詳細：[監査ログを使用して、ユーザーの割り当てとイベントを追跡する](https://helpx.adobe.com/jp/enterprise/using/audit-logs.html)。
 
 ### [!UICONTROL 割り当てレポート &#x200B;]
 
 ライセンス割り当てレポートを使用すると、組織のライセンス割り当てデータを追跡し、ユーザーのライセンスのデプロイメントを計画できます。 ライセンス割り当てデータは、エンタープライズタームライセンス契約に基づいて購入されたCreative CloudおよびDocument Cloud製品のユーザー指定ライセンスのみをサポートします。
 
-詳細：[&#x200B; エンタープライズ製品のライセンス割り当てレポート &#x200B;](https://helpx.adobe.com/enterprise/using/assignment-reports.html)。
+詳細：[&#x200B; エンタープライズ製品のライセンス割り当てレポート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/assignment-reports.html)。
 
 ## [!UICONTROL &#x200B; ストレージ &#x200B;] {#storage}
 
-このタブを表示できるユーザー：システム管理者とストレージ管理者（[&#x200B; プールされたストレージモデル &#x200B;](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)に移行された顧客のみ）。
+このタブを表示できるユーザー：システム管理者とストレージ管理者（[&#x200B; プールされたストレージモデル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-storage.html)に移行された顧客のみ）。
 
 [Creative Cloud](https://adminconsole.adobe.com)の&#x200B;**[!UICONTROL ストレージ ページ]**&#x200B;は、Admin Console アプリケーション全体のストレージを表示します。 ストレージの割り当ては、組織が購入するストレージの量まで、エンドユーザーに対して柔軟です。
 
 また、個々のユーザーが使用する割り当て量と、すべてのユーザーが使用する全体的な割り当て量を表示することもできます。
 
-詳細：[Adobe ストレージの管理](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)。
+詳細：[Adobe ストレージの管理](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-storage.html)。
 
 ## [!UICONTROL &#x200B; パッケージ &#x200B;] {#packages}
 
@@ -138,20 +138,20 @@ Enterprise、VIP、VIP Marketplace、Teamsなどのプランに応じて、次�
 
 [Admin Console](https://adminconsole.adobe.com)の&#x200B;**[!UICONTROL パッケージ]** ページには、次の機能が用意されています。 組織内のエンドユーザーにデスクトップアプリケーションをデプロイする場合に使用します。
 
-- [Adobe テンプレート &#x200B;](https://helpx.adobe.com/enterprise/using/package-templates.html)を使用して、事前設定済みのパッケージをダウンロードします。
-- カスタマイズされた[&#x200B; ユーザー指定ライセンス &#x200B;](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)または[共有デバイス &#x200B;](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html) ライセンス （教育機関向け）のパッケージャーを、エンドユーザーが持つ設定とアプリケーションを使用して作成します。
+- [Adobe テンプレート &#x200B;](https://helpx.adobe.com/jp/enterprise/using/package-templates.html)を使用して、事前設定済みのパッケージをダウンロードします。
+- カスタマイズされた[&#x200B; ユーザー指定ライセンス &#x200B;](https://helpx.adobe.com/jp/enterprise/using/create-nul-packages.html)または[共有デバイス &#x200B;](https://helpx.adobe.com/jp/enterprise/using/create-sdl-packages.html) ライセンス （教育機関向け）のパッケージャーを、エンドユーザーが持つ設定とアプリケーションを使用して作成します。
 - メール通知を有効にすると、新しい製品バージョンが利用可能になったときに通知を受け取ることができます。
 - 自分または組織内の他の管理者が作成した以前のパッケージを表示します。 また、特定のパッケージの詳細を表示し、パッケージ内のアプリに関する利用可能な更新を追跡します。
-- [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html)や[Adobe Update Server Setup Tool](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html)などのIT ツールをダウンロードします。
-- Adobe Extension Manager コマンドラインツールをダウンロードして、ZXP ファイルコンテナフォーマットから[拡張機能とプラグイン &#x200B;](https://helpx.adobe.com/enterprise/using/manage-extensions.html)をインストールします。
+- [Remote Update Manager](https://helpx.adobe.com/jp/enterprise/using/using-remote-update-manager.html)や[Adobe Update Server Setup Tool](https://helpx.adobe.com/jp/enterprise/using/update-server-setup-tool.html)などのIT ツールをダウンロードします。
+- Adobe Extension Manager コマンドラインツールをダウンロードして、ZXP ファイルコンテナフォーマットから[拡張機能とプラグイン &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-extensions.html)をインストールします。
 
-詳しくは、「[Admin Consoleを介したアプリのパッケージ化](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html)」を参照してください。
+詳しくは、「[Admin Consoleを介したアプリのパッケージ化](https://helpx.adobe.com/jp/enterprise/using/package-apps-admin-console.html)」を参照してください。
 
 ## [!UICONTROL 設定] {#settings}
 
 このタブを表示できるユーザー：システム管理者とストレージ管理者。
 
-ストレージ管理者がアクセスできるのは、[&#x200B; アセット設定](https://helpx.adobe.com/enterprise/using/asset-settings.html)および[&#x200B; コンテンツログ &#x200B;](https://helpx.adobe.com/enterprise/using/content-logs.html)のみです。 システム管理者は、プランに応じて設定を表示または変更できます。
+ストレージ管理者がアクセスできるのは、[&#x200B; アセット設定](https://helpx.adobe.com/jp/enterprise/using/asset-settings.html)および[&#x200B; コンテンツログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/content-logs.html)のみです。 システム管理者は、プランに応じて設定を表示または変更できます。
 
 >[!NOTE]
 >
@@ -159,23 +159,23 @@ Enterprise、VIP、VIP Marketplace、Teamsなどのプランに応じて、次�
 
 ## プライバシーとセキュリティの連絡先
 
-当社のソフトウェアソリューションに関するセキュリティインシデントが発生した場合、適切なコンプライアンス担当者に通知が送信されます。 迅速な通知を実現するには、システム管理者として、セキュリティ、データ保護、コンプライアンスに関する担当役員を特定する必要があります。 詳しくは、[&#x200B; プライバシーとセキュリティに関する連絡先](https://helpx.adobe.com/enterprise/using/security-contacts.html)を参照してください。
+当社のソフトウェアソリューションに関するセキュリティインシデントが発生した場合、適切なコンプライアンス担当者に通知が送信されます。 迅速な通知を実現するには、システム管理者として、セキュリティ、データ保護、コンプライアンスに関する担当役員を特定する必要があります。 詳しくは、[&#x200B; プライバシーとセキュリティに関する連絡先](https://helpx.adobe.com/jp/enterprise/using/security-contacts.html)を参照してください。
 
 ## [!UICONTROL &#x200B; コンソール設定]
 
-[&#x200B; コンソール設定](https://helpx.adobe.com/enterprise/using/console-settings.html)を使用すると、問題が発生した場合やサポートが必要な場合にサポートを受ける方法について、エンドユーザーにカスタムノートを追加できます。
+[&#x200B; コンソール設定](https://helpx.adobe.com/jp/enterprise/using/console-settings.html)を使用すると、問題が発生した場合やサポートが必要な場合にサポートを受ける方法について、エンドユーザーにカスタムノートを追加できます。
 
 サブスクリプションの変更やクレジットカードの有効期限など、アカウントのステータスに関するメールを受信するには、組織のデフォルトのメール言語を選択します。 Adobeから直接購入したグループ版メンバーシップがある場合は、**[!UICONTROL コンソール設定]**&#x200B;からグループ名を変更できます。
 
 ## [!UICONTROL &#x200B; コンテンツログ &#x200B;]
 
-管理者は、エンドユーザーがフォルダー、ファイル、ライブラリなどの企業アセットをどのように使用しているかに関する詳細なレポートをダウンロードできます。 これらのレポートは[&#x200B; コンテンツログ &#x200B;](https://helpx.adobe.com/enterprise/using/content-logs.html)と呼ばれます。
+管理者は、エンドユーザーがフォルダー、ファイル、ライブラリなどの企業アセットをどのように使用しているかに関する詳細なレポートをダウンロードできます。 これらのレポートは[&#x200B; コンテンツログ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/content-logs.html)と呼ばれます。
 
 ## ドメインの適用
 
 システム管理者は、組織が所有するドメインを制限して、ユーザーが個人のAdobe ID アカウントを作成および使用できないようにすることができます。 これにより、個人データの使用を制限し、セキュリティを強化し、組織ユーザー間でのみアセットを共有できます。
 
-詳細：[制限付き認証のドメインの適用](https://helpx.adobe.com/enterprise/using/restricting-domains.html)。
+詳細：[制限付き認証のドメインの適用](https://helpx.adobe.com/jp/enterprise/using/restricting-domains.html)。
 
 ## ID
 
@@ -183,21 +183,21 @@ Enterprise、VIP、VIP Marketplace、Teamsなどのプランに応じて、次�
 
 ## [!UICONTROL &#x200B; アセット設定]
 
-[&#x200B; アセット設定](https://helpx.adobe.com/enterprise/using/asset-settings.html)により、組織は、従業員が組織外でアセットを共有する方法を制御できます。 アセット設定は、他の組織ポリシー適用システム（Adobeでは提供されていません）と共に使用され、適切な外部の個人や組織とのみアセットを共有するように設定されます。
+[&#x200B; アセット設定](https://helpx.adobe.com/jp/enterprise/using/asset-settings.html)により、組織は、従業員が組織外でアセットを共有する方法を制御できます。 アセット設定は、他の組織ポリシー適用システム（Adobeでは提供されていません）と共に使用され、適切な外部の個人や組織とのみアセットを共有するように設定されます。
 
 ## 認証設定
 
-[認証設定](https://helpx.adobe.com/enterprise/using/authentication-settings.html)では、安全性とセキュリティを確保するために、いくつかのパスワード保護レベルとポリシーがサポートされています。 パスワード保護レベルを指定して、組織のすべてのユーザーに適用できます。
+[認証設定](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html)では、安全性とセキュリティを確保するために、いくつかのパスワード保護レベルとポリシーがサポートされています。 パスワード保護レベルを指定して、組織のすべてのユーザーに適用できます。
 
 ## 暗号化設定
 
-[暗号化設定](https://helpx.adobe.com/enterprise/using/encryption.html)は、制御とセキュリティの追加レイヤー用に専用の暗号化キーを生成します。
+[暗号化設定](https://helpx.adobe.com/jp/enterprise/using/encryption.html)は、制御とセキュリティの追加レイヤー用に専用の暗号化キーを生成します。
 
 ## プロジェクトポリシー
 
 システム管理者は、組織内のプロジェクトを作成および管理する権限を持つユーザーを制御できます。 デフォルトでは、Admin Consoleに追加されたすべてのユーザーがプロジェクトを作成および管理できます。
 
-詳細：[&#x200B; プロジェクトポリシー](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies)。
+詳細：[&#x200B; プロジェクトポリシー](https://helpx.adobe.com/jp/enterprise/using/projects-in-business-storage.html#project-policies)。
 
 ## サポート
 
@@ -209,4 +209,4 @@ Adobe カスタマーケアにお問い合わせするには、[Admin Console](h
 - エキスパートセッションのスケジュール
 - 人気のヘルプトピックとフォーラムを参照する
 
-サポートオプションについて詳しくは、[&#x200B; サポートとエキスパートセッション &#x200B;](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)を参照してください。
+サポートオプションについて詳しくは、[&#x200B; サポートとエキスパートセッション &#x200B;](https://helpx.adobe.com/jp/enterprise/using/support-and-expert-services.html)を参照してください。

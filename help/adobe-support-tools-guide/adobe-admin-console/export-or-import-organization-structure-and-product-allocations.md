@@ -24,11 +24,11 @@ ht-degree: 3%
 
 Global Admin Consoleの書き出し機能と読み込み機能を使用して、グローバル管理者が組織管理と製品管理を効率化する方法について説明します。
 
-[Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)の「**[!UICONTROL 組織]**」タブにアクセスして、組織構造を書き出すか、読み込みます。 割り当てデータを表示するには、**[!UICONTROL 製品割り当て]** タブに移動します。 **[!UICONTROL 詳細オプション]** （⋮） アイコンを選択し、**[!UICONTROL 書き出し]**&#x200B;または&#x200B;**[!UICONTROL 読み込み]**&#x200B;を選択します。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com)。
+[Global Admin Console](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)の「**[!UICONTROL 組織]**」タブにアクセスして、組織構造を書き出すか、読み込みます。 割り当てデータを表示するには、**[!UICONTROL 製品割り当て]** タブに移動します。 **[!UICONTROL 詳細オプション]** （⋮） アイコンを選択し、**[!UICONTROL 書き出し]**&#x200B;または&#x200B;**[!UICONTROL 読み込み]**&#x200B;を選択します。 [Global Admin Consoleにログインするには、こちらに移動します](https://global-admin-console.adobe.com)。
 
 ## 組織構造の書き出し
 
-[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、組織階層を書き出すことができます。 組織階層全体またはそのサブセットのJSON、CSV、またはXLSX表現をダウンロードできます。 このデータは、分析や修正に使用できます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、組織階層を書き出すことができます。 組織階層全体またはそのサブセットのJSON、CSV、またはXLSX表現をダウンロードできます。 このデータは、分析や修正に使用できます。
 
 選択した書き出し形式は、書き出したデータの構造に影響します。
 
@@ -57,7 +57,7 @@ Global Admin Consoleの書き出し機能と読み込み機能を使用して、
 
 ## 組織構造のインポート
 
-[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、変更された可能性のあるデータをインポートできます。 アップロードすると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべての読み込み操作は、更新された組織階層のコピーに対して実行されます。 保留中の変更がある場合、読み込まれた変更は、階層内の既存の保留中の変更の上に追加されます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、変更された可能性のあるデータをインポートできます。 アップロードすると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべての読み込み操作は、更新された組織階層のコピーに対して実行されます。 保留中の変更がある場合、読み込まれた変更は、階層内の既存の保留中の変更の上に追加されます。
 
 ### 読み込む手順
 
@@ -65,7 +65,7 @@ Global Admin Consoleの書き出し機能と読み込み機能を使用して、
 2. **[!UICONTROL 詳細オプション]** **⋮** アイコンを選択し、**[!UICONTROL 読み込み]**&#x200B;を選択します。 インポートファイルのサイズと複雑さによっては、処理に数秒から数分かかる場合があります。
 3. **[!UICONTROL ファイル]**&#x200B;を選択し、アップロードするJSON、CSV、またはXLSX ファイルを選択します。 CSVの場合、一度に1つの組織の詳細のみを読み込むことができ、製品の読み込みはサポートされていません。 読み込まれた変更は、データを手動で編集したかのように表示されます。
 4. **[!UICONTROL 閉じる]**&#x200B;を選択します。
-5. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。 変更を実行する前に、保留中のアクションは、Global Admin Consoleで手動で編集する場合と同じ方法で表示されます。
+5. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 次に、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。 変更を実行する前に、保留中のアクションは、Global Admin Consoleで手動で編集する場合と同じ方法で表示されます。
 
 ## スキーマの書き出しと読み込み
 
@@ -634,7 +634,7 @@ XLSX ファイルには、製品用とリソース用の2つのシートがあ�
 
 ## 製品割り当てデータのインポートとエクスポート
 
-[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、製品割り当てデータをJSONまたはCSV ファイルとして書き出すことができます。 その後、このデータを変更してアップロードし、変更をインポートできます。 変更の可能性のあるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、製品割り当てデータをJSONまたはCSV ファイルとして書き出すことができます。 その後、このデータを変更してアップロードし、変更をインポートできます。 変更の可能性のあるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
 
 ## 製品配分モデルのエクスポート
 
@@ -650,7 +650,7 @@ XLSX ファイルには、製品用とリソース用の2つのシートがあ�
 1. [Global Admin Console](https://global-admin-console.adobe.com/)にログインし、**[!UICONTROL Product Allocation]** タブに移動します。
 2. **[!UICONTROL 詳細オプション]** ⋮ アイコンを選択し、**[!UICONTROL 読み込み]**&#x200B;を選択します。
 3. アップロードするJSON ファイルまたはCSV ファイルを選択します。
-4. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 変更を確認したら、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
+4. 「**[!UICONTROL 保留中の変更を確認]**」を選択します。 変更を確認したら、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/jp/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## 製品配分用のエクスポートおよびインポート形式
 

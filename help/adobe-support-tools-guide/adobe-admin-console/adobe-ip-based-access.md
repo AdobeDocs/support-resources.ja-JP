@@ -33,7 +33,7 @@ IP ベースのアクセス制御では、IP アドレスのAdobeを使用して
 信頼できるパブリック IPを&#x200B;**許可IP アドレス** リストに追加すると、ユーザーを次の場所から停止できます。
 
 - 許可されたIP範囲外のパブリック IPからの製品へのアクセス
-- 許可されたIP範囲外のパブリック IPからAdobe [&#x200B; ユーザープロファイル &#x200B;](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html)にログインします
+- 許可されたIP範囲外のパブリック IPからAdobe [&#x200B; ユーザープロファイル &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-adobe-profiles.html)にログインします
 - 許可されたIP範囲外のweb アプリでのユーザープロファイルの切り替え
 
   ![組織構造の書き出し](./assets/ip-based-access.avif)
@@ -70,9 +70,9 @@ IP アドレスは数分以内に追加されます。 関連するユーザー�
 >[!NOTE]
 >
 >- IP ベースのアクセスが有効になっている場合、**強制ログアウトは発生しません**。 ユーザーが影響を受けるのは、webでログインまたはプロファイルを切り替える際に、制限されたプロファイルを選択しようとしたときだけです。
->- セキュリティで保護されたweb ゲートウェイを使用している場合は、すべてのトラフィックがそのゲートウェイを通じてルーティングされていることを確認します。 Adobe アプリとサービスが正しく機能するために許可されるドメインの[&#x200B; リスト &#x200B;](https://helpx.adobe.com/enterprise/kb/network-endpoints.html)を表示します。
->- 無効なIP アドレスを入力したためにAdmin Consoleからロックされている場合は、[Adobe カスタマーケア &#x200B;](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)にお問い合わせください。
+>- セキュリティで保護されたweb ゲートウェイを使用している場合は、すべてのトラフィックがそのゲートウェイを通じてルーティングされていることを確認します。 Adobe アプリとサービスが正しく機能するために許可されるドメインの[&#x200B; リスト &#x200B;](https://helpx.adobe.com/jp/enterprise/kb/network-endpoints.html)を表示します。
+>- 無効なIP アドレスを入力したためにAdmin Consoleからロックされている場合は、[Adobe カスタマーケア &#x200B;](https://helpx.adobe.com/jp/enterprise/using/support-for-enterprise.html)にお問い合わせください。
 
 ## 会話に参加
 
-共同作業、質問、他の管理者とのチャットを行うには、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://www.adobe.com/go/entcom)にアクセスしてください。
+共同作業、質問、他の管理者とのチャットを行うには、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://www.adobe.com/go/entcom_jp)にアクセスしてください。

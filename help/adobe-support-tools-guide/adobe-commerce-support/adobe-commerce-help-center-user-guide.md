@@ -38,7 +38,7 @@ ht-degree: 0%
 ---
 # Adobe CommerceのExperience League サポートユーザーガイド
 
-このガイドでは、[Experience League サポート &#x200B;](https://experienceleague.adobe.com/home#support)にサポートチケットを送信し、Adobe Commerce アカウントへの共有アクセスを提供する方法について説明します。
+このガイドでは、[Experience League サポート &#x200B;](https://experienceleague.adobe.com/home?lang=ja#support)にサポートチケットを送信し、Adobe Commerce アカウントへの共有アクセスを提供する方法について説明します。
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->現時点では、Adobe Commerce ヘルプセンターで以前に提出されたケースを確認するには、https://support.magento.com/hc/en-us/requestsにアクセスする必要があります。これらのケースは新しいサポートチケットシステムに移行されていないためです。 ヘルプセンターは読み取り専用になりました。元の問題のサポートを受け取るには、[Experience League サポート &#x200B;](https://experienceleague.adobe.com/home#support)にフォローアップチケットを送信する必要があります。
+>現時点では、Adobe Commerce ヘルプセンターで以前に提出されたケースを確認するには、https://support.magento.com/hc/en-us/requestsにアクセスする必要があります。これらのケースは新しいサポートチケットシステムに移行されていないためです。 ヘルプセンターは読み取り専用になりました。元の問題のサポートを受け取るには、[Experience League サポート &#x200B;](https://experienceleague.adobe.com/home?lang=ja#support)にフォローアップチケットを送信する必要があります。
 
 >[!NOTE]
 >
@@ -101,7 +101,7 @@ Adobe Experience League サポートケース管理では、契約中のすべ�
 
 Adobe Experience League サポートにログインするには、次の手順に従います。
 
-1. [experienceleague.adobe.com](https://experienceleague.adobe.com/?lang=ja)に移動します。
+1. [experienceleague.adobe.com](https://experienceleague.adobe.com/ja?lang=ja)に移動します。
 1. Adobeのログイン資格情報を使用してログインします。
 
 ![sign-into-experience-league](/help/adobe-support-tools-guide/assets/experience_league_sign_in.png)
@@ -124,7 +124,7 @@ Adobe Experience League サポートにログインするには、次の手順�
 
 #### Adobe Experience Leagueのスタートページ {#experience-league-start-page}
 
-Adobe Experience Leagueのスタートページを使用して新しいサポートケースを送信するには、[Experience Leagueでサポートチケットを作成](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league)を参照してください。
+Adobe Experience Leagueのスタートページを使用して新しいサポートケースを送信するには、[Experience Leagueでサポートチケットを作成](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#create-a-support-ticket-with-experience-league)を参照してください。
 
 >[!INFO]
 >
@@ -149,7 +149,7 @@ Adobe Experience Leagueのスタートページを使用して新しいサポー
 >1. accounts.magento.comに移動し、Adobe Experience Leagueでサポートケースの管理に使用するのと同じプロファイル（企業、学校、または個人）でログインします。
 >1. accounts.magento.com プロファイルに正常にログインしたら、experienceleague.adobe.comに戻ってログインします。
 >1. 組織ドロップダウンメニューから組織を選択します。
->1. それでも組織が表示されない場合は、Commerce管理者に連絡して、サポート委任者権限を取得してください。 詳しくは、[Commerce Account Share](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share)のヘルプ記事を参照してください。
+>1. それでも組織が表示されない場合は、Commerce管理者に連絡して、サポート委任者権限を取得してください。 詳しくは、[Commerce Account Share](https://experienceleague.adobe.com/ja/docs/commerce-admin/start/commerce-account/commerce-account-share)のヘルプ記事を参照してください。
 
 >[!NOTE]
 >
@@ -179,11 +179,11 @@ Adobe Experience Leagueのスタートページを使用して新しいサポー
 >* Commerceの使用権限が期限切れになっているか、非アクティブです（請求やライセンスの問題が原因など）。
 >* Adobe Commerce on cloud infrastructure （PaaS）でホストされているインスタンスの場合、Cloud プロジェクトに追加されていません。
 >
->クラウドプロジェクト上のAdobe Commerceの場合は、アカウントオーナーに連絡して、適切なクラウドプロジェクトに追加するようにリクエストしてください。 詳しくは、「[&#x200B; クラウドインフラストラクチャ上のAdobe Commerceのユーザーアクセスを管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)」を参照してください。
+>クラウドプロジェクト上のAdobe Commerceの場合は、アカウントオーナーに連絡して、適切なクラウドプロジェクトに追加するようにリクエストしてください。 詳しくは、「[&#x200B; クラウドインフラストラクチャ上のAdobe Commerceのユーザーアクセスを管理](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/project/user-access)」を参照してください。
 >
 >共有アクセスが付与され、Cloud プロジェクトに追加された後：
 >
->1. [Adobe サポート &#x200B;](https://experienceleague.adobe.com/home?lang=en#support) ページに移動します。
+>1. [Adobe サポート &#x200B;](https://experienceleague.adobe.com/home?lang=ja#support) ページに移動します。
 >1. 左側の組織ドロップダウンで、名前が&#x200B;**（Commerce）**&#x200B;で終わる組織を選択します。
 >1. 適切な製品のチケットを送信し、高度なレポートに特に関連する問題については&#x200B;**Commerce レポート**&#x200B;を選択しないでください。
 
@@ -200,14 +200,14 @@ Adobe Experience Leagueのスタートページを使用して新しいサポー
 
 Adobe Commerce アカウントページを使用して新しいサポートチケットを送信するには、次の手順に従います。
 
-1. Adobe Commerce アカウントにログインします。 ユーザーガイドの[詳細な手順](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=en#create-a-commerce-account)を参照してください。
+1. Adobe Commerce アカウントにログインします。 ユーザーガイドの[詳細な手順](https://experienceleague.adobe.com/docs/commerce-admin/start/commerce-account/commerce-account-create.html?lang=ja#create-a-commerce-account)を参照してください。
 1. 「**サポート**」タブをクリックします。
 
    ![magento_account_support_tab](/help/adobe-support-tools-guide/assets/magento_account_support_tab.png){width="800"}
 
 1. Adobe Experience Leagueのサポートページが読み込まれます。
 1. 左側のメニューから「**[!UICONTROL チケットを開く]**」を選択します。
-1. [&#x200B; フィールド &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)に入力します。
+1. [&#x200B; フィールド &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)に入力します。
 1. 「**送信**」をクリックします。
 
 #### *メールアドレスを確認してください* Adobe Commerce アカウント ページのエラー {#verify-email-address-error}
@@ -276,7 +276,7 @@ Adobe Commerce アカウントページを使用して新しいサポートチ�
 
 >[!NOTE]
 >
->ケースのウォッチャーを追加および削除する方法について詳しくは、[&#x200B; ウォッチャーの追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
+>ケースのウォッチャーを追加および削除する方法について詳しくは、[&#x200B; ウォッチャーの追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
 
 ### あなたの場合のコメント {#comments-in-your-case}
 
@@ -296,13 +296,13 @@ Adobe Commerce アカウントページを使用して新しいサポートチ�
 
 >[!NOTE]
 >
->ケースをクローズする方法について詳しくは、[視聴者の追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
+>ケースをクローズする方法について詳しくは、[視聴者の追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
 
 ### ケースを再度開く {#reopen-case}
 
 >[!NOTE]
 >
->**ケースは、クローズ後14日以内にのみ再開できます。** ケース閉鎖から14日を超えていても、問題についてヘルプを依頼したい場合は、新しいケースを開く必要があります。<br> ケースのクローズと再開について詳しくは、[視聴者の追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
+>**ケースは、クローズ後14日以内にのみ再開できます。** ケース閉鎖から14日を超えていても、問題についてヘルプを依頼したい場合は、新しいケースを開く必要があります。<br> ケースのクローズと再開について詳しくは、[視聴者の追加と削除、チケットのクローズと再開のビデオ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket)を参照してください。
 
 >[!NOTE]
 >
@@ -316,16 +316,16 @@ Cloud Consoleを使用して新しいサポートチケットを送信するに�
 1. ユーザーメニューで「**[!UICONTROL サポート]**」を選択します。
 1. **[!UICONTROL マイチケット]** ページが読み込まれます。
 1. 右上隅の「**[!UICONTROL チケットを送信]**」をクリックします。
-1. [&#x200B; フィールド &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)に入力します。
+1. [&#x200B; フィールド &#x200B;](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions)に入力します。
 1. 「**[!UICONTROL 送信]**」をクリックします。
 
 ### Adobe Commerce P1 ホットライン {#P1-hotline}
 
-[Adobe Commerce P1 ホットライン &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html)記事では、P1 インシデント中にヘルプを求める際にAdobe CommerceのP1 ホットライン番号を提供し、提供する情報について説明しています。
+[Adobe Commerce P1 ホットライン &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/adobe-commerce-p1-notification-hotline.html?lang=ja)記事では、P1 インシデント中にヘルプを求める際にAdobe CommerceのP1 ホットライン番号を提供し、提供する情報について説明しています。
 
 ### Adobe Commerceの共通責任運用モデル {#shared-responsibility-operational-model}
 
-[Adobe Commerce Shared Responsibility Operational Model](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary)の記事を参照してください。
+[Adobe Commerce Shared Responsibility Operational Model](https://experienceleague.adobe.com/ja/docs/commerce-operations/security-and-compliance/shared-responsibility#operational-responsibilities-summary)の記事を参照してください。
 この目的は、Pro インフラストラクチャの提供のみに対する運用上の責任を明確にすることです。
 
 ### フォローアップチケットの発行 {#follow-up}
@@ -350,17 +350,17 @@ Adobe Commerce アカウントページ（[https://account.magento.com](https://
 
 ### 共有アクセスの提供 {#provide-shared-access}
 
-共有アカウントの設定に関する詳細な手順については、Adobe Commerce入門ガイドの「[Commerce アカウントの共有](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-share)」セクションを参照してください。
+共有アカウントの設定に関する詳細な手順については、Adobe Commerce入門ガイドの「[Commerce アカウントの共有](https://experienceleague.adobe.com/ja/docs/commerce-admin/start/commerce-account/commerce-account-share)」セクションを参照してください。
 
 >[!NOTE]
 >
->共有アクセスを許可するには、既存のアカウントが必要です。詳しくは、[Commerce アカウントの作成](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account)を参照してください。
+>共有アクセスを許可するには、既存のアカウントが必要です。詳しくは、[Commerce アカウントの作成](https://experienceleague.adobe.com/ja/docs/commerce-admin/start/commerce-account/commerce-account-create#create-a-commerce-account)を参照してください。
 
 新しいユーザーに共有アクセスを提供すると、関連する情報は、Adobe Commerce アカウントページの&#x200B;**共有アクセス** > **権限の管理**&#x200B;で利用できます。
 
 >[!NOTE]
 >
->Shared Accessは、Commerce Cloud Consoleへのアクセス権を自動的に付与しません。 ユーザーをクラウドプロジェクト [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project)に個別に追加する必要があります。
+>Shared Accessは、Commerce Cloud Consoleへのアクセス権を自動的に付与しません。 ユーザーをクラウドプロジェクト [&#128279;](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/project/user-access#add-a-user-to-the-project)に個別に追加する必要があります。
 
 ![magento-account-shared-manage-permissions](/help/adobe-support-tools-guide/assets/magento_account_shared_manage_permissions.png)
 
@@ -409,14 +409,14 @@ Adobe Commerce Cloud プロジェクトを所有しており、ユーザーを�
 
 ![grant-account-permissions-image](/help/adobe-support-tools-guide/assets/help-center-user-guide-grant-account-permissions-image.png){width="800"}
 
-詳しくは、「Commerce on Cloud Infrastructure Guide」の[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html#manage-users-from-the-project-web-interface) ドキュメントを参照してください。
+詳しくは、「Commerce on Cloud Infrastructure Guide」の[&#x200B; ユーザーアクセスの管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=ja#manage-users-from-the-project-web-interface) ドキュメントを参照してください。
 
 ### 共有アカウントへのアクセス（アカウントの切り替え） {#switch-accounts}
 
 >[!NOTE]
 >
 >この手順は、Adobe Commerceのチケットを送信する場合には必要ありません。
->Adobe Commerce チケットの送信に関するデモについては、[このビデオ &#x200B;](https://experienceleague.adobe.com/en/playlists/support-requests)を参照してください。
+>Adobe Commerce チケットの送信に関するデモについては、[このビデオ &#x200B;](https://experienceleague.adobe.com/ja/playlists/support-requests)を参照してください。
 
 提供された共有アクセスを使用するには、次の手順に従います。
 
@@ -429,4 +429,4 @@ Adobe Commerce Cloud プロジェクトを所有しており、ユーザーを�
 
 ### 共有アクセスのトラブルシューティング {#troubleshooting-shared-access}
 
-サポート ナレッジベースの[共有アクセスのトラブルシューティング記事](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting)を参照してください。
+サポート ナレッジベースの[共有アクセスのトラブルシューティング記事](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/shared-access-troubleshooting)を参照してください。
