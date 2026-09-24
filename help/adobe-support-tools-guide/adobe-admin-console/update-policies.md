@@ -37,7 +37,7 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 >
 >[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で、階層から組織を選択し、「**ポリシー**」タブに移動して、ポリシーを許可または禁止またはロックします。
 >
-> [Global Admin Consoleにログイン ](https://global-admin-console.adobe.com/)
+> [Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com/)
 
 ポリシーは組織に関連付けられ、その組織で実行できる操作を制限します。 ポリシー値を設定すると、その時点からアクションが制限または有効になります。
 例えば、**要求ドメイン** ポリシーが&#x200B;*許可されていません*&#x200B;に設定されている場合、追加のドメインは要求できませんが、ポリシー値を設定する前に要求されたドメインは影響を受けません。
@@ -48,7 +48,7 @@ Global Admin Consoleで、グローバル管理者が組織とその子のポリ
 
 1. Global Admin Consoleで、[編集する組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)を選択し、**[!UICONTROL ポリシー]** タブに移動します。
 1. 関連するポリシーのトグルを選択して、ポリシーを許可または禁止します。 また、ポリシーをロックして、[選択した組織](https://helpx.adobe.com/enterprise/global-admin-console/overview.html)またはその親組織以外のユーザーが変更またはロック解除できないようにすることもできます。
-1. ポリシーをロックするには、**[!UICONTROL ロック]** ![ ロック ](./assets/lock.png) アイコンを選択します。 ロックにカーソルを合わせると、選択した組織の名前が表示されます。 [ ポリシーロック ](#policy-locks)の詳細をご覧ください。
+1. ポリシーをロックするには、**[!UICONTROL ロック]** ![&#x200B; ロック &#x200B;](./assets/lock.png) アイコンを選択します。 ロックにカーソルを合わせると、選択した組織の名前が表示されます。 [&#x200B; ポリシーロック &#x200B;](#policy-locks)の詳細をご覧ください。
 1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
 ## ポリシーロック {#policy-locks}

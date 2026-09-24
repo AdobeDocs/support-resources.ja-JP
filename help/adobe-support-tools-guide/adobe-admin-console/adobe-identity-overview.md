@@ -136,7 +136,7 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 >[!NOTE]
 >
 >1. Creative Cloud グループ版のパスワードポリシーは、Creative Cloud グループ版のパスワードポリシーと同じです。
->1. Adobe ID ユーザーは、Adobe IDの資格情報または所有する組織の認証モデル（SSO、2FAなど）を使用して認証を行います。 このような場合、ユーザーは所有組織のSSO ページにリダイレクトされます。 認証後、ユーザーは[ ビジネスプロファイルの選択](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)が必要になる場合があります。
+>1. Adobe ID ユーザーは、Adobe IDの資格情報または所有する組織の認証モデル（SSO、2FAなど）を使用して認証を行います。 このような場合、ユーザーは所有組織のSSO ページにリダイレクトされます。 認証後、ユーザーは[&#x200B; ビジネスプロファイルの選択](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile)が必要になる場合があります。
 
 ## Adobeの個人IDの使用
 

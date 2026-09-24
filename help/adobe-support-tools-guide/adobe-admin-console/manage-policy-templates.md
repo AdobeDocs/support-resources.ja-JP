@@ -35,7 +35,7 @@ ht-degree: 0%
 >
 >[Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html)で、編集する組織を選択し、「**ポリシーテンプレート**」タブに移動して、セットアップを合理化し、組織全体で一貫性のあるポリシー管理を容易にします。
 >
-> [Global Admin Consoleにログイン ](https://global-admin-console.adobe.com/)
+> [Global Admin Consoleにログイン &#x200B;](https://global-admin-console.adobe.com/)
 
 ## ポリシーテンプレートの機能
 
@@ -61,14 +61,14 @@ ht-degree: 0%
    <br>
 1. **[!UICONTROL ポリシーテンプレートを作成]** ダイアログボックスで、ポリシーテンプレートの&#x200B;**name**&#x200B;と&#x200B;**description**&#x200B;を入力します。<br> ポリシーテンプレートの名前は、最大100文字までです。
 1. テンプレートに含めるポリシーを選択します。
-1. 選択したポリシーの値を設定します（以下の[ ポリシー値の設定](#setting-policy-values)を参照）。
+1. 選択したポリシーの値を設定します（以下の[&#x200B; ポリシー値の設定](#setting-policy-values)を参照）。
 1. 「**[!UICONTROL 保存]**」を選択します。
 
 ### ポリシー値の設定 {#setting-policy-values}
 
 テンプレートに含まれる各ポリシーについて、次の2つの設定を行います。
 
-* **許可/許可されていません：** スライダーを目的の値に設定します。 [ ポリシーの詳細](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)について説明します。
+* **許可/許可されていません：** スライダーを目的の値に設定します。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details)について説明します。
 * **ロック値：**&#x200B;次のいずれかのオプションを使用して、ポリシーのロック状態を変更します。
   * **ロック** — テンプレートの適用後にポリシーがロックされます。
   * **ロック解除** — テンプレートを適用すると、ポリシーがロック解除されます。
@@ -79,7 +79,7 @@ ht-degree: 0%
 ## 組織へのテンプレートの適用
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)で、編集する組織を選択し、「**[!UICONTROL ポリシーテンプレート]**」タブに移動します。
-1. 関連するポリシーテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション ](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL 組織にテンプレートを適用]**&#x200B;を選択します。<br>
+1. 関連するポリシーテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL 組織にテンプレートを適用]**&#x200B;を選択します。<br>
    ![写真3](./assets/DXSKB-3209-3-ga_15.png)
    <br>
 1. テンプレートを適用する組織を選択します。 複数の組織を選択できます。<br>
@@ -93,7 +93,7 @@ ht-degree: 0%
 ## テンプレートの編集
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)で、編集する組織を選択し、「**[!UICONTROL ポリシーテンプレート]**」タブに移動します。
-1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** アイコン ![詳細オプション ](./assets/manage-product-profiles_more-options.png)を選択し、**[!UICONTROL テンプレートを編集]**&#x200B;を選択します。<br>
+1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** アイコン ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png)を選択し、**[!UICONTROL テンプレートを編集]**&#x200B;を選択します。<br>
    ![写真5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. ポリシーテンプレートを更新し、**[!UICONTROL 今すぐ更新]**&#x200B;を選択します。
@@ -102,7 +102,7 @@ ht-degree: 0%
 ## テンプレートの削除
 
 1. [Global Admin Console](https://global-admin-console.adobe.com/)で、編集する組織を選択し、「**[!UICONTROL ポリシーテンプレート]**」タブに移動します。
-1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション ](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL テンプレートを削除]**&#x200B;を選択します。<br>
+1. 関連するテンプレートの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL テンプレートを削除]**&#x200B;を選択します。<br>
    ![写真6](./assets/DXSKB-3209-6-ga_15-2.png)
    <br>
 1. 表示されるダイアログボックスで「*はい*」を選択します。

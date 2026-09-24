@@ -28,7 +28,7 @@ Adobe Admin Consoleでサポートケースを作成して、Global Admin Consol
 
 ## 概要
 
-[Global Admin Console](https://global-admin-console.adobe.com)は、複数の[Adobe管理コンソール ](https://adminconsole.adobe.com)を1つの階層にグループ化します。 その階層の各組織はAdobe Admin Consoleです。 管理者は、各コンソールで同じコア機能を使用し、その組織のユーザー、ライセンス、設定を管理します。 Global Admin Consoleでは、子コンソールの整理、製品とライセンスの階層への割り当て、グループ全体での組織レベルのポリシーの適用など、複数のコンソール管理が追加されます。
+[Global Admin Console](https://global-admin-console.adobe.com)は、複数の[Adobe管理コンソール &#x200B;](https://adminconsole.adobe.com)を1つの階層にグループ化します。 その階層の各組織はAdobe Admin Consoleです。 管理者は、各コンソールで同じコア機能を使用し、その組織のユーザー、ライセンス、設定を管理します。 Global Admin Consoleでは、子コンソールの整理、製品とライセンスの階層への割り当て、グループ全体での組織レベルのポリシーの適用など、複数のコンソール管理が追加されます。
 
 Global Admin Consoleは、多数のAdmin Consoleを持つ複雑な組織構造を持つユーザーや、メインのAdmin Consoleを複数のコンソールに分割したいユーザー向けです。 たとえば、多国籍企業、教育コンソーシアム、大規模な学区、大規模な政府機関などです。 既存の管理コンソールを組織チャートのような階層構造にネストし、分散型エンタープライズ全体に透明性を提供します。
 
@@ -36,7 +36,7 @@ Global Admin Consoleは、多数のAdmin Consoleを持つ複雑な組織構造�
 
 Global Admin Consoleは、既存のAdmin Consoleの日常機能を置き換えたり、変更したりすることはありません。 階層構造として機能し、ルート組織が上部にあり、すべてのリンクされたコンソールがその下にネストされています。 ルートコンソールは、購入と組織の設定に基づいて決定されます。
 
-Global Admin Consoleの機能と利点について詳しくは、Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)に関する[ ホワイトペーパーを参照し、次の[ ビデオ ](https://youtu.be/FLBWR78wpok)をご覧ください。
+Global Admin Consoleの機能と利点について詳しくは、Global Admin Console[&#128279;](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625)に関する ホワイトペーパーを参照し、次の[&#x200B; ビデオ &#x200B;](https://youtu.be/FLBWR78wpok)をご覧ください。
 
 このビデオのコンテンツとボイスオーバーは現在英語でのみ利用できます。
 

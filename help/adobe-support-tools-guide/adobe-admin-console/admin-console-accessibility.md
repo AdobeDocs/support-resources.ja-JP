@@ -30,11 +30,11 @@ ht-degree: 3%
 
 ## キーボード対応
 
-Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html) （*英語のみ*）で説明されているように、一部の例外が引き続き存在する可能性があります。
+Admin Consoleのインタラクティブコンテンツの多くは、キーボード操作だけで操作できます。 例えば、**[!UICONTROL Tab]**&#x200B;または&#x200B;**[!UICONTROL Shift]** + **[!UICONTROL Tab]**&#x200B;をナビゲーションと制御に使用できます。 正しいリンクまたはボタンに移動したら、**[!UICONTROL Enter]**&#x200B;または&#x200B;**[!UICONTROL Return]** キーを押して選択します。 [&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html) （*英語のみ*）で説明されているように、一部の例外が引き続き存在する可能性があります。
 
 ## 技術サポート
 
-Admin Consoleは、支援テクノロジ（スクリーンリーダーやスクリーン拡大鏡を含む）をサポートしています。 詳しくは、[ アクセシビリティ準拠レポート ](https://www.adobe.com/accessibility/compliance.html)を参照してください。
+Admin Consoleは、支援テクノロジ（スクリーンリーダーやスクリーン拡大鏡を含む）をサポートしています。 詳しくは、[&#x200B; アクセシビリティ準拠レポート &#x200B;](https://www.adobe.com/accessibility/compliance.html)を参照してください。
 
 ## Admin Consoleでサポートされているアクセシビリティ機能は何ですか？
 
@@ -42,4 +42,4 @@ Admin Consoleは、支援テクノロジ（スクリーンリーダーやスク�
 
 ## フィードバックがある場合
 
-Admin Consoleチームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 アクセシビリティ機能に関するフィードバックは、[ エンタープライズ版およびグループ版コミュニティ ](https://community.adobe.com/enterprise-teams-622)で共有できます。
+Admin Consoleチームは、アクセシビリティとユーザーエクスペリエンスの向上に継続的に取り組んでいます。 アクセシビリティ機能に関するフィードバックは、[&#x200B; エンタープライズ版およびグループ版コミュニティ &#x200B;](https://community.adobe.com/enterprise-teams-622)で共有できます。

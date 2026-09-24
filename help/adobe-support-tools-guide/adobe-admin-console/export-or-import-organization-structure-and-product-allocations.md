@@ -28,7 +28,7 @@ Global Admin Consoleの書き出し機能と読み込み機能を使用して、
 
 ## 組織構造の書き出し
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、組織階層を書き出すことができます。 組織階層全体またはそのサブセットのJSON、CSV、またはXLSX表現をダウンロードできます。 このデータは、分析や修正に使用できます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、組織階層を書き出すことができます。 組織階層全体またはそのサブセットのJSON、CSV、またはXLSX表現をダウンロードできます。 このデータは、分析や修正に使用できます。
 
 選択した書き出し形式は、書き出したデータの構造に影響します。
 
@@ -45,7 +45,7 @@ Global Admin Consoleの書き出し機能と読み込み機能を使用して、
 
 3. **[!UICONTROL 書き出し]** ダイアログボックスで、書き出す内容とデータの書き出し形式を選択します。
 
-   ![Admin Console書き出しダイアログボックス ](./assets/export-12.png)
+   ![Admin Console書き出しダイアログボックス &#x200B;](./assets/export-12.png)
 
 4. 「**[!UICONTROL 書き出し]**」を選択します。 エクスポートファイルの生成には数分かかる場合があります。 レポートをダウンロードするには、**[!UICONTROL Global Admin Console]** > **[!UICONTROL インサイト]** > **[!UICONTROL レポートの書き出し]**&#x200B;に移動します。
 
@@ -57,7 +57,7 @@ Global Admin Consoleの書き出し機能と読み込み機能を使用して、
 
 ## 組織構造のインポート
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、変更された可能性のあるデータをインポートできます。 アップロードすると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべての読み込み操作は、更新された組織階層のコピーに対して実行されます。 保留中の変更がある場合、読み込まれた変更は、階層内の既存の保留中の変更の上に追加されます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)として、変更された可能性のあるデータをインポートできます。 アップロードすると、新しいデータが現在のデータと比較され、変更が組織階層に適用されます。 すべての読み込み操作は、更新された組織階層のコピーに対して実行されます。 保留中の変更がある場合、読み込まれた変更は、階層内の既存の保留中の変更の上に追加されます。
 
 ### 読み込む手順
 
@@ -634,7 +634,7 @@ XLSX ファイルには、製品用とリソース用の2つのシートがあ�
 
 ## 製品割り当てデータのインポートとエクスポート
 
-[ グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、製品割り当てデータをJSONまたはCSV ファイルとして書き出すことができます。 その後、このデータを変更してアップロードし、変更をインポートできます。 変更の可能性のあるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
+[&#x200B; グローバル管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)は、製品割り当てデータをJSONまたはCSV ファイルとして書き出すことができます。 その後、このデータを変更してアップロードし、変更をインポートできます。 変更の可能性のあるデータがアップロードされると、新しいデータが現在のデータと比較され、変更が製品割り当てデータに適用されます。 その後、保留中の変更を確認して送信し、有効にすることができます。
 
 ## 製品配分モデルのエクスポート
 

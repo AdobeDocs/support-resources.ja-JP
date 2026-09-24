@@ -32,7 +32,7 @@ ht-degree: 80%
 
 ![新機能](../adobe-success-portal/assets/new.svg) – 新機能
 ![修正](../adobe-success-portal/assets/fix.svg) – 修正と改善
-![ バグ ](../adobe-success-portal/assets/bug.svg) – 既知の問題
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) – 既知の問題
 
 ## 4.0
 
@@ -42,9 +42,9 @@ _2025年11月11日_
 
 ![修正](../adobe-success-portal/assets/fix.svg) ケースの詳細を更新し、**Ctrl+クリック** / **Command+クリック**&#x200B;を使用して新しいタブで開いたときに、「戻る」ボタンが正しく無効になり、ナビゲーションエラーが発生しないようにしました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]**&#x200B;の&#x200B;**[!UICONTROL Adobe Status]** アラートに対して、ステータス、地域、またはタイムゾーンの詳細が正しく表示されない問題を修正しました。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg) **[!UICONTROL サポートとインサイト]**&#x200B;の&#x200B;**[!UICONTROL Adobe Status]** アラートに対して、ステータス、地域、またはタイムゾーンの詳細が正しく表示されない問題を修正しました。
 
-![ バグ ](../adobe-success-portal/assets/bug.svg)戦略的パートナー&#x200B;**[!UICONTROL にリンクされた**[!UICONTROL  アクセラレーター&#x200B;]**および**[!UICONTROL  アクティビティ ]**の表示に関する問題を解決しました]**。
+![&#x200B; バグ &#x200B;](../adobe-success-portal/assets/bug.svg)戦略的パートナー&#x200B;**[!UICONTROL にリンクされた**&#x200B;[!UICONTROL &#x200B; アクセラレーター&#x200B;]&#x200B;**および**&#x200B;[!UICONTROL &#x200B; アクティビティ &#x200B;]&#x200B;**の表示に関する問題を解決しました]**。
 
 ## 3.0
 

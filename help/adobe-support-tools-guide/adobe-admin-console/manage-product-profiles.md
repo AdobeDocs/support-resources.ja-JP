@@ -54,12 +54,12 @@ ht-degree: 0%
    |---|---|
    | **[!UICONTROL 名前]** | 組織内の製品プロファイルの一意の名前。他の製品プロファイルおよびユーザーグループとは異なります。 |
    | **[!UICONTROL 割り当て]** | このプロファイルに割り当てられたライセンスの目標数。 |
-   | **[!UICONTROL ユーザーグループ]** | ドロップダウンから選択するか、ユーザーグループ名を入力します。 ユーザーグループがまだ存在しない場合は、最初に「[**[!UICONTROL  ユーザーグループ ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)」タブから作成します。 |
+   | **[!UICONTROL ユーザーグループ]** | ドロップダウンから選択するか、ユーザーグループ名を入力します。 ユーザーグループがまだ存在しない場合は、最初に「[**[!UICONTROL &#x200B; ユーザーグループ &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html)」タブから作成します。 |
    | **[!UICONTROL 管理者]** | ドロップダウンから選択するか、管理者のメールアドレスを入力します。 管理者がまだ存在しない場合は、[**[!UICONTROL 管理者&#x200B;]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) タブを使用して最初に作成します。 |
 
-   指定された[!UICONTROL  ユーザーグループ ]が製品プロファイルに割り当てられます。 指定された管理者は&#x200B;**[!UICONTROL 製品プロファイル管理者]**&#x200B;になります。この管理者は、関連する組織のAdobe Admin Consoleを介してプロファイルを管理できます。
+   指定された[!UICONTROL &#x200B; ユーザーグループ &#x200B;]が製品プロファイルに割り当てられます。 指定された管理者は&#x200B;**[!UICONTROL 製品プロファイル管理者]**&#x200B;になります。この管理者は、関連する組織のAdobe Admin Consoleを介してプロファイルを管理できます。
 
-   ![ プロファイルを追加](./assets/manage-product-profiles_add-profile.png)
+   ![&#x200B; プロファイルを追加](./assets/manage-product-profiles_add-profile.png)
 
 1. **[!UICONTROL 通知]** トグルを使用して、メール通知を有効または無効にします。 有効にすると、プロファイルにユーザーが追加または削除されたときに、ユーザーにメールで通知されます。
 1. 個々の&#x200B;**[!UICONTROL サービス]** トグルを使用して、製品プロファイルの特定のサービスを有効または無効にします。 詳しくは、[製品プロファイルのサービスの有効化/無効化](https://helpx.adobe.com/enterprise/using/enable-disable-services.html)を参照してください。
@@ -69,7 +69,7 @@ ht-degree: 0%
 ## 製品プロファイルの編集
 
 1. 編集する組織を選択し、**[!UICONTROL 製品]** タブに移動して、製品を選択します。
-1. 関連する製品プロファイルの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション ](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL プロファイルを編集]**&#x200B;を選択します。
+1. 関連する製品プロファイルの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL プロファイルを編集]**&#x200B;を選択します。
 1. 必要に応じて製品プロファイルの詳細を更新し、**[!UICONTROL 保存]**&#x200B;を選択します。
 1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 > 製品プロファイルを削除すると、そのプロファイルのメンバーであるか、そのプロファイルに添付されたユーザーグループに属しているすべてのユーザーの製品アクセスが削除されます。
 
 1. 編集する組織を選択し、**[!UICONTROL 製品]** タブに移動して、製品を選択します。
-1. 関連する製品プロファイルの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション ](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL プロファイルを削除]**&#x200B;を選択します。
+1. 関連する製品プロファイルの&#x200B;**[!UICONTROL 詳細オプション]** ![詳細オプション &#x200B;](./assets/manage-product-profiles_more-options.png) アイコンを選択し、**[!UICONTROL プロファイルを削除]**&#x200B;を選択します。
 1. 確認ダイアログボックスで「**[!UICONTROL OK]**」を選択します。
 1. 組織の編集が完了したら、「**[!UICONTROL 保留中の変更を確認]**」を選択します。 レビュー後、**[!UICONTROL 変更を送信]**&#x200B;から[実行](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html)を選択します。
 

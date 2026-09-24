@@ -36,7 +36,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Adobe Admin Consoleの管理者は、[ID タイプ ](https://helpx.adobe.com/jp/enterprise/using/identity.html)と[IDを設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)した後、次の作業としてユーザーをAdmin Consoleに追加します。
+>Adobe Admin Consoleの管理者は、[ID タイプ &#x200B;](https://helpx.adobe.com/jp/enterprise/using/identity.html)と[IDを設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html)した後、次の作業としてユーザーをAdmin Consoleに追加します。
 
 Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義しています。
 
@@ -44,7 +44,7 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 
 エンタープライズ版またはグループ版の管理者は、Admin Consoleで管理タスクを実行します。 管理者を追加すると、Adobe製品へのアクセス、使用、その他の管理タスクをきめ細かく管理できる、柔軟な管理階層を定義できます。
 
-すべての管理者をAdmin Consoleに追加する必要があります。 管理者権限を追加する場合は、管理者権限は[管理者ロール ](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)に基づきます。
+すべての管理者をAdmin Consoleに追加する必要があります。 管理者権限を追加する場合は、管理者権限は[管理者ロール &#x200B;](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html)に基づきます。
 
 ### エンドユーザー
 
@@ -196,7 +196,7 @@ Adobe enterpriseとteamsは、次の2種類のユーザーを広く定義して�
 
 ライセンス方法に基づいて、エンドユーザーにライセンスを割り当てます。
 
-- **ユーザー指定ライセンス：**&#x200B;これらのユーザーを&#x200B;**製品** （[ グループ版](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)）または&#x200B;**製品プロファイル** （[ エンタープライズ版](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html)）に追加して、Adobe製品とサービスの使用権限を付与します。 詳しくは、[ ユーザー指定ライセンスパッケージを作成](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)する方法と[製品プロファイル ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)を参照してください。
+- **ユーザー指定ライセンス：**&#x200B;これらのユーザーを&#x200B;**製品** （[&#x200B; グループ版](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)）または&#x200B;**製品プロファイル** （[&#x200B; エンタープライズ版](https://helpx.adobe.com/jp/enterprise/using/manage-product-profiles.html)）に追加して、Adobe製品とサービスの使用権限を付与します。 詳しくは、[&#x200B; ユーザー指定ライセンスパッケージを作成](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)する方法と[製品プロファイル &#x200B;](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html#create-product-profile)を参照してください。
 - **共有デバイスライセンス :** [追加されたユーザー](https://helpx.adobe.com/enterprise/using/sdl-deployment-guide.html#add-users-admin-console)は、**組織ユーザーのみがアクセスできる構成済みの共有デバイスを使用できます**。 詳しくは、[SDL パッケージの作成](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)を参照してください。
 
 ### パッケージのデプロイ

@@ -85,6 +85,6 @@ Global Admin Consoleでは、[!UICONTROL 階層ツリー]から組織を選択�
 
 - 組織のパス名は一意ですが、単純な名前は兄弟の間でのみ一意です。 組織階層の他の場所に、同じ単純な名前を持つ組織が存在する場合があります。
 
-- Global Admin Consoleを使用して、選択した組織にリンクされているドメインのリストのみを表示できます。 選択した組織のシステム管理者である場合は、「**[!UICONTROL Admin Consoleで開く]**」から「[ ドメインを管理する](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)」を選択します。 「ドメイン」タブに表示される情報については、[ スキーマの書き出しと読み込み](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)を参照してください。
+- Global Admin Consoleを使用して、選択した組織にリンクされているドメインのリストのみを表示できます。 選択した組織のシステム管理者である場合は、「**[!UICONTROL Admin Consoleで開く]**」から「[&#x200B; ドメインを管理する](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html)」を選択します。 「ドメイン」タブに表示される情報については、[&#x200B; スキーマの書き出しと読み込み](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas)を参照してください。
 
 - IE 11は、グローバル管理アクセスではサポートされていません。 別のブラウザーまたは新しいバージョンのIE ブラウザーを使用します。
