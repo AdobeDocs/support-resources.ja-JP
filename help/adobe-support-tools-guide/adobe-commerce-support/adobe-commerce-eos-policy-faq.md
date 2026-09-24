@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Adobe Commerce ソフトウェアのサポート終了に関するFAQ
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 ### Adobe Commerceのすべてのバージョンのソフトウェアサポート日はどこで確認できますか？
 
-Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
+Adobe Commerce ソフトウェアライフサイクルポリシーは、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)にあります。 バージョン固有のライフサイクルとソフトウェアのサポート日については、[Adobe Commerce ライフサイクルポリシーとサポート日](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)を参照してください。 また、[開発者向けドキュメントページ ](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
 
 ### AdobeがAdobe Commerceのバージョンのサポートを終了するとはどういう意味ですか？
 
@@ -96,7 +96,7 @@ Adobe Commerceを常に最新の状態に保つことで大きなメリットを
 
 コマースプラットフォームは企業にとって重要なビジネスシステムであり、常に最新の情報を入手することは、ビジネスにおける重要な継続的な投資です。 デジタルストアフロントの最新テクノロジーとセキュリティアップデートは、さまざまな面で重要であり、イノベーションと成長の促進に役立ちます。
 
-Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=ja)を公開しました。
+Adobe Commerce製品の最新版に移行するには、時間とリソースが必要です。 サポート終了日をできるだけ早く計画して、スケジュールどおり、予算内に戦略目標を達成するために適切な時間とリソースを確保できるようにすることがベストプラクティスです。 次のアップグレードに役立てるために、Adobeは、従うべきベストプラクティスと技術的ステップ、およびアップグレードを実行する際に使用するツールとリソースを含む[2.4 アップグレードガイド ](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf)を公開しました。
 
 もうひとつの重要な検討事項は、開発者とパートナーのリソースを可能な限り早く確保することです。 パートナーの時間とリソースは、サポート終了日よりも早く予約されることが多く、移行プロジェクトを支援するリソースが大幅に減少します。 最低でも3年間のローリングプランを策定し、来年の計画と予算を立てることをお勧めします。 リリース日を記録するには、[Adobeのリリースカレンダー](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/schedule)を使用します。
 
@@ -130,7 +130,7 @@ Adobe Commerce ライセンスの有効期限が切れたら、Adobe Commerce �
 
 ### サポート終了日より前に開封されたサポートチケットの場合、サポート終了を通知する通知はありますか？
 
-いいえ、サポート終了日をサポートチケットのユーザーに通知するリマインダーアラートはありません。 チケットの開封者は、Adobe Commerce版のサポート終了日を確認する必要があります。この日付は、[Adobe Commerce Software Lifecycle policy](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)に記載されています。
+いいえ、サポート終了日をサポートチケットのユーザーに通知するリマインダーアラートはありません。 チケットの開封者は、チケットのサポート終了日を確認する必要があります。この日付は、[Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)および[Adobe Commerce Lifecycle Policy and Support Date](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)に記載されています。
 
 ### ソフトウェアバージョンのサポートチケットが、そのバージョンのサポート日が終了した後に開かれた場合、解決に向けて引き続き作業されますか？
 
