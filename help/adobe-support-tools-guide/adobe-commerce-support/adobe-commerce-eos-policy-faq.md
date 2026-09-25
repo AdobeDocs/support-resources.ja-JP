@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: 1808
-ht-degree: 0%
-
+source-wordcount: '1855'
+ht-degree: 1%
 ---
-
 # Adobe Commerce ソフトウェアのサポート終了に関するFAQ
 
 次のFAQは、販売者、開発者、およびパートナーが、影響を受けるバージョンのAdobe Commerceに関するAdobe Commerceのサポート終了日（EOS）の影響を理解するのに役立つことを目的としています。
@@ -34,7 +46,7 @@ ht-degree: 0%
 
 ### Adobe Commerceのすべてのバージョンのソフトウェアサポート日はどこで確認できますか？
 
-Adobe Commerce ソフトウェアライフサイクルポリシーとソフトウェアサポートの日付については、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
+Adobe Commerce ソフトウェアライフサイクルポリシーは、[Adobe Commerce ソフトウェアライフサイクルポリシー](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)にあります。 バージョン固有のライフサイクルとソフトウェアのサポート日については、[Adobe Commerce ライフサイクルポリシーとサポート日](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)を参照してください。 また、[開発者向けドキュメントページ &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/versions)でサポート終了（EOS）の日付を公開しています。
 
 ### AdobeがAdobe Commerceのバージョンのサポートを終了するとはどういう意味ですか？
 
@@ -74,11 +86,11 @@ Adobe Commerceを常に最新の状態に保つことで大きなメリットを
 
 * PCI認定を含む最新のセキュリティ保護を備えたプラットフォームを最新の状態に保つだけでなく、サポート対象のバージョンにアップグレードすると、パフォーマンスと拡張性が向上し、最新のイノベーションにアクセスできるようになります。
 * 2022年4月12日（PT）にリリースされるAdobe Commerce 2.4.4は、コマース機能、パフォーマンス、保護の新しい一歩を踏み出します。 これは、コマースビジネスの回復力を高めるための今後数年間のAdobeイノベーションの基盤となります。 最新バージョンのPHP 8.1に基づいて構築された最新バージョンは、小売業者がデジタルコマースビジネスの将来性を確実なものにします。
-   * 商品レコメンデーション、有料サービス、ライブサーチなど、SaaS サービスとして提供される革新的な機能に、より迅速にアクセスできます
-   * メンテナンスとアップグレードが容易でコスト効率が向上
-   * 独自のビジネスニーズに対応するための継続的な柔軟性
-   * パフォーマンスと拡張性が大幅に向上
-   * プラットフォームの健全性を監視するための開発者体験とツールの向上
+  * 商品レコメンデーション、有料サービス、ライブサーチなど、SaaS サービスとして提供される革新的な機能に、より迅速にアクセスできます
+  * メンテナンスとアップグレードが容易でコスト効率が向上
+  * 独自のビジネスニーズに対応するための継続的な柔軟性
+  * パフォーマンスと拡張性が大幅に向上
+  * プラットフォームの健全性を監視するための開発者体験とツールの向上
 
 ### ソフトウェアのサポート終了の問題を回避するにはどうすればよいですか？
 
@@ -118,7 +130,7 @@ Adobe Commerce ライセンスの有効期限が切れたら、Adobe Commerce �
 
 ### サポート終了日より前に開封されたサポートチケットの場合、サポート終了を通知する通知はありますか？
 
-いいえ、サポート終了日をサポートチケットのユーザーに通知するリマインダーアラートはありません。 チケットの開封者は、Adobe Commerce版のサポート終了日を確認する必要があります。この日付は、[Adobe Commerce Software Lifecycle policy](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)に記載されています。
+いいえ、サポート終了日をサポートチケットのユーザーに通知するリマインダーアラートはありません。 チケットの開封者は、チケットのサポート終了日を確認する必要があります。この日付は、[Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf)および[Adobe Commerce Lifecycle Policy and Support Date](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)に記載されています。
 
 ### ソフトウェアバージョンのサポートチケットが、そのバージョンのサポート日が終了した後に開かれた場合、解決に向けて引き続き作業されますか？
 

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1653'
+source-wordcount: '1654'
 ht-degree: 1%
-
 ---
-
 # 一般社員
 
 Adobe Admin Consoleを活用することで、企業はAdobe製品へのアクセスと使用をきめ細かく管理できる、柔軟な管理階層を定義できます。 エンタープライズオンボーディングプロセスでプロビジョニングされた1人以上のシステム管理者は、階層の最上位に位置します。 これらのシステム管理者は、引き続き全体的な制御を維持しながら、他の管理者に責任を委任できます。

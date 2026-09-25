@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # グローバルな経営体制の導入
 
 エンタープライズ版に適用されます。
@@ -82,7 +88,7 @@ Adobeでは、次の条件の1つ以上を満たしている場合は、グロ�
 1. 「**[!UICONTROL お客様が直面している問題の性質を説明する]**」に、お客様の組織がGlobal Admin Consoleへのアクセスを要求していることを明記し、次の詳細を記載します。
 
    - **名前とコンソール ID** （「@AdobeOrg」の前の数字と文字のシリーズとしてURLに含まれる）をAdmin Consoleの&#x200B;*ルート（上）*組織として指定するか、新しいコンソールをリクエストして目的の名前を指定します。
- – 場合によっては、新しいコンソールが推奨されるオプションです。Adobeの担当者がサポートします。後で変更が困難なため、*root*&#x200B;組織を慎重に選択してください。
+      – 場合によっては、新しいコンソールが推奨されるオプションです。 Adobeの担当者がサポートします。 後で変更が困難なため、*root*&#x200B;組織を慎重に選択してください。
    - 少なくとも1人の現在のシステム管理者をグローバル管理者ロールに割り当てます。 後で追加の管理者を追加できます。
    - Adobe担当者またはCustomer Success Managerの名前とメールアドレス。
 

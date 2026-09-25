@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # IDの概要
 
 エンタープライズおよびチームに適用されます。
@@ -85,16 +88,16 @@ ID タイプにより、組織はユーザーのアカウントとデータを�
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud エンタープライズ版およびDocument Cloud エンタープライズ版</strong></th>
-<td colspan="3">サポートあり</td>
+<td colspan="3">対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud グループ版およびDocument Cloud グループ版</strong></th>
 <td colspan="2">サポートなし</td>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td colspan="3">サポートあり</td>
+<td colspan="3">対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>おすすめ対象</strong></th>
@@ -171,11 +174,11 @@ Adobeでは、すべてのチームとエンタープライズ版のお客様が
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud エンタープライズ版およびDocument Cloud エンタープライズ版</strong></th>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td>サポートあり</td>
+<td>対応</td>
 </tr>
 <tr>
 <th scope="row"><strong>/に対してのみ使用可能</strong></th>

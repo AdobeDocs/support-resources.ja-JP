@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # 組織の階層の管理
 
 エンタープライズ版に適用されます。
@@ -35,8 +41,8 @@ Global Admin Consoleでは、組織はAdobe Admin Consoleであり、企業内�
 - 組織の[&#x200B; ポリシー](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)設定（存在する場合はロックを含む）。
 - システム管理者のリスト（**[!UICONTROL 作成時にシステム管理者を継承]** [&#x200B; ポリシー](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)）。
 次の手順を実行すると、システム管理者が継承されるのを防ぐことができます。
-   - [&#x200B; ドメインの信頼](https://helpx.adobe.com/jp/enterprise/using/directory-trust.html)がありません。
-   - ユーザータイプの制限（Adobe ID / Enterprise ID / Federated ID ユーザーポリシーの追加）。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)について説明します。
+  - [&#x200B; ドメインの信頼](https://helpx.adobe.com/jp/enterprise/using/directory-trust.html)がありません。
+  - ユーザータイプの制限（Adobe ID / Enterprise ID / Federated ID ユーザーポリシーの追加）。 [&#x200B; ポリシーの詳細](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)について説明します。
 - 親組織がアクセスできるドメインからFederated IDまたはEnterprise ID ユーザーへのアクセス。 これにより、親内のドメインユーザーを子組織で使用できるようになります。 ユーザーアクセスの継承は、**親組織が管理するディレクトリからユーザーを継承** [&#x200B; ポリシー](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)によって制御されます。
 - 共有ポリシー、パスワードポリシー、およびセキュリティ連絡先（**によって管理）子組織の作成時にアセット共有設定を継承** [&#x200B; ポリシー](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html)）。
 

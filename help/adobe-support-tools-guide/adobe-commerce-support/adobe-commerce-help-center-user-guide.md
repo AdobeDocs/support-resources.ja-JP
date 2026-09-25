@@ -5,13 +5,37 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: e439352c-5b67-587d-b34e-d2a0aa5a0242
+    internal-label: Roles/Permissions
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: df5e974b-6742-4873-a687-a6bedaafdaa2
+    internal-label: IaaS
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '3602'
+source-wordcount: '3662'
 ht-degree: 0%
-
 ---
-
 # Adobe CommerceのExperience League サポートユーザーガイド
 
 このガイドでは、[Experience League サポート &#x200B;](https://experienceleague.adobe.com/home?lang=ja#support)にサポートチケットを送信し、Adobe Commerce アカウントへの共有アクセスを提供する方法について説明します。
@@ -203,7 +227,7 @@ Adobe Commerce アカウントページを使用して新しいサポートチ�
 >[!NOTE]
 >
 >Commerce以外の他のAdobe製品に送信されたサポートケースがある場合、それらのチケットを同じ画面から追跡することはできません。最初に、製品の使用権限に関連付けられている組織に切り替える必要があります。
->例えば、以前に「（Commerce）」で終わる組織を選択してCommerce ケースをトラッキングしていますが、AEP サポートケースもあります。これらのケースはここでは表示されません。
+>例えば、以前に「（Commerce）」で終わる組織を選択してCommerce ケースをトラッキングしていましたが、AEP サポートケースもあります。これらのケースはここでは表示されません。
 
 #### ユースケースの表示
 
@@ -256,7 +280,7 @@ Adobe Commerce アカウントページを使用して新しいサポートチ�
 
 ### あなたの場合のコメント {#comments-in-your-case}
 
-お客様のケースのコメントには、お客様またはAdobe Commerce サポートチームが作成したすべてのコメントが含まれます。コメントは、最新（上）から最も早い（下）まで表示されます。
+お客様のケースのコメントには、お客様またはAdobe Commerce サポートチームが作成したすべてのコメントが含まれます。 コメントは、最新（上）から最も早い（下）まで表示されます。
 コメントを追加するには、次の手順に従います。
 
 1. チケットの一番下までスクロールします。
@@ -392,7 +416,7 @@ Adobe Commerce Cloud プロジェクトを所有しており、ユーザーを�
 >[!NOTE]
 >
 >この手順は、Adobe Commerceのチケットを送信する場合には必要ありません。
->Adobe Commerce チケットの送信に関するデモについては、[このビデオを参照してください](https://experienceleague.adobe.com/ja/playlists/support-requests)。
+>Adobe Commerce チケットの送信に関するデモについては、[このビデオ &#x200B;](https://experienceleague.adobe.com/ja/playlists/support-requests)を参照してください。
 
 提供された共有アクセスを使用するには、次の手順に従います。
 

@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1192'
 ht-degree: 0%
-
 ---
-
 # Global Admin Consoleを使用して製品を子組織に割り当てる
 
 エンタープライズ版に適用されます。
@@ -56,7 +62,7 @@ Global Admin Consoleの「**[!UICONTROL 製品割り当て]**」タブには、�
    >子組織に既に購入契約がある場合、親からその子組織への製品割り当てが制限される場合があります。 [学習を増やす](https://helpx.adobe.com/jp/enterprise/global-admin-console/allocate-products.html#limited-product-allocation)。
 
 1. 製品を割り当てるには、関連する組織の「**[!UICONTROL 追加+]**」アイコンを選択します。\
-   一部の製品には、複数の割り当て可能なリソースが含まれています。この場合、ダイアログボックスに複数のリソースが一覧表示され、それぞれに値を指定する必要があります。例えば、Adobe Stockには、Adobe Stock画像クレジットとプレミアムクレジットを含めることができます。
+   一部の製品には、複数の割り当て可能なリソースが含まれています。この場合、ダイアログボックスに複数のリソースが一覧表示され、それぞれに値を指定する必要があります。 例えば、Adobe Stockには、Adobe Stock画像クレジットとプレミアムクレジットを含めることができます。
    ![Adobe Stock Images](/help/adobe-support-tools-guide/assets/adobe-stock-images.png)
 1. 表示されるダイアログボックスで、製品数量を指定します。
 1. 「**[!UICONTROL 保存]**」を選択します。
@@ -89,8 +95,8 @@ Admin Consoleでの[Adobe Acrobat Signの管理について詳しくは、](http
 
 製品と組織に関連付けられた配分[&#x200B; ポリシー](https://helpx.adobe.com/jp/enterprise/global-admin-console/update-policies.html#update-policies)は、過剰配分が許可されているかどうかを示します。
 
-割り当て超過を使用すると、親組織で使用できる以上の製品リソースを子組織に付与できます。割り当てが近似値で、リソース割り当てを追加したまま管理者に負担をかけたくない場合に便利です。
-組織内の製品リソースに対して割り当て超過が無効になっている場合、子付与の合計は親付与を超えることはできません。割り当て超過が無効になっているリソースを割り当て超過するリクエストは実行されません。
+割り当て超過を使用すると、親組織で使用できる以上の製品リソースを子組織に付与できます。 割り当てが近似値で、リソース割り当てを追加したまま管理者に負担をかけたくない場合に便利です。
+組織内の製品リソースに対して割り当て超過が無効になっている場合、子付与の合計は親付与を超えることはできません。 割り当て超過が無効になっているリソースを割り当て超過するリクエストは実行されません。
 割り当て超過トグルが「有効」から「無効」に切り替わった場合、リソースの割り当て超過量に割り当て超過状況が存在する場合、割り当て更新を実行する前に、割り当て超過を排除するために割り当て値を調整する必要があります。
 
 ![割り当て超過](/help/adobe-support-tools-guide/assets/overallocation.png)
