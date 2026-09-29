@@ -46,9 +46,9 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: ec060fad85a22f6d55c4de3dc2d7fbf8a1ecb8c7
+source-git-commit: 743b2b6ac4401c01df9590bb749d56734334a05b
 workflow-type: tm+mt
-source-wordcount: '4677'
+source-wordcount: '4679'
 ht-degree: 3%
 ---
 # Adobe CX ソリューション統合ホリデーシーズン対応ガイド
@@ -89,7 +89,7 @@ Adobe Experience Platform（AEP）は、リアルタイムの顧客体験を強�
 
 ### 季節需要の予測
 
-季節的なトラフィックの急増に備えるために、Adobeではキャパシティの計画とストリーミングプロファイルの取り込みのモニタリングを推奨しています。 これには、データ量を予測し、システムがスループットの向上に対応できるようにすることも含まれます。 [&#x200B; キャパシティとシーズントラフィックのプラン &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}を参照してください。
+過去のパターンと計画されたアクティビティを使用して、季節のデータ量とピークストリーミングプロファイルの取り込みを予測します。 取り込み監視を確認して、需要がピークに達する可能性があるタイミングと、キャパシティが制約になる可能性があるかどうかを特定します。 [&#x200B; キャパシティとシーズントラフィックのプラン &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/dataflows/ui/monitor-streaming-profile#plan-for-capacity-and-seasonal-traffic){target="_blank"}を参照してください。
 
 ### 拡張の準備
 
@@ -108,7 +108,7 @@ Adobeでは、お客様の環境がホリデートラフィックに対応でき
 * [ストリーミングスループットのベストプラクティス](https://experienceleague.adobe.com/ja/docs/experience-platform/landing/license/capacity){target="_blank"}
 * [データ取り込みのガードレール](https://experienceleague.adobe.com/ja/docs/experience-platform/ingestion/guardrails){target="_blank"}
 * [リアルタイム顧客プロファイルデータとセグメンテーションのデフォルトガードレール](https://experienceleague.adobe.com/ja/docs/experience-platform/profile/guardrails){target="_blank"}
-* [AEP ブループリント：ガードレール](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
+* [AEP ブループリント：ガードレール](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/guardrails){target="_blank"}
 
 ### セキュリティとガバナンス
 
@@ -200,7 +200,7 @@ Adobe Adobe Journey Optimizerを活用して、ホリデーシーズンに備え
 
 +++**クリックすると、Customer Journey Analytics（CJA）の休暇準備に関する推奨事項が表示されます。**
 
-Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズンやピークシーズンの準備態勢を整えます。
+Adobeでは、ホリデーシーズンに向けてCustomer Journey Analytics インスタンスを準備するために、次の手順をお勧めします。
 
 ### 拡張の準備
 
@@ -215,8 +215,7 @@ Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズ�
 
 ### ベストプラクティス
 
-* 低トラフィック期間に書き出し/レポートをスケジュールして、読み込みをスムーズにし、遅延を最小限に抑えます。 [&#x200B; スケジュール済みレポート &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}の記事を参照してください。
-* リクエストの分散：1日を通して異なる間隔でレポートをスケジュールします。
+* レポートの分散とエクスポートを1日で実行し、可能な限りオフピーク期間を優先して、負荷を分散させ、遅延を最小限に抑えます。 [&#x200B; スケジュール済みレポート &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-components/scheduled-projects-manager){target="_blank"}の記事を参照してください。
 * パネルを削減し、セグメントを簡素化し、日付範囲を短縮して、過剰な同時作業を回避します。 詳しくは、[CJA Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/cja-workspace/workspace-faq/optimizing-performance){target="_blank"}の記事を参照してください。
 
 ### トラブルシューティング
@@ -241,7 +240,7 @@ Customer Journey Analyticsでは、5P法を適用して、ホリデーシーズ�
 
 ### 需要の予測
 
-* ホリデーシーズン（11月中旬から1月中旬）には、Adobeでは、クラウドインフラストラクチャでホストされているすべてのAdobe Commerce加盟店が、ホリデーサージキャパシティリクエストを送信することで、訪問者の増加を積極的に計画することをお勧めします。 詳しくは、[&#x200B; クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}を参照してください。
+ホリデーシーズン（11月中旬から1月中旬）には、Adobeでは、クラウドインフラストラクチャでホストされているすべてのAdobe Commerce加盟店が、ホリデーサージキャパシティリクエストを送信することで、訪問者の増加を積極的に計画することをお勧めします。 詳しくは、[&#x200B; クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/holiday-surge-capacity-requests-for-magento-commerce-cloud){target="_blank"}を参照してください。
 
 ### 拡張の準備
 
@@ -285,9 +284,9 @@ AEM web サイトのトラフィックセキュリティ/保護について詳�
 
 Adobeでは、重要な休暇期間に中断のないサービスを保証するために、メンテナンスの対象外期間を設定しています。
 
-* **AEMaaCSの自動メンテナンス**&#x200B;は、深夜（00:00） CETに開始および終了する次の時間枠で発生しません。
-  * 2026年11月23日月曜日～2026年12月1日火曜日。
-  * 2026年12月14日（月）から2027年1月3日（日）まで。
+**AEMaaCSの自動メンテナンス**&#x200B;は、深夜（00:00） CETに開始および終了する次の時間枠で発生しません。
+* 2026年11月23日月曜日～2026年12月1日火曜日。
+* 2026年12月14日（月）から2027年1月3日（日）まで。
 
 これにより、トラフィックの多い時間帯での安定性が確保されます。 完全なリリーススケジュールとメンテナンスウィンドウについては、[AEM リリースロードマップ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap){target="_blank"}を参照してください。
 
@@ -466,3 +465,4 @@ Adobe Targetでの最適化については、[&#x200B; ベストプラクティ�
 エクスペリエンスをパーソナライズする前に、GDPRとCCPAの下で同意のコンプライアンスを確認してください。 個人情報（PII）をプロファイルパラメーターに保存することを避け、API セキュリティを検証して顧客データを保護します。
 
 +++
+
