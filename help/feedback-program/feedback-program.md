@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 26f0db852a212d32871e683a25d5f5c450b166cd
+source-git-commit: 7b5afccb698e3c1e1881b236aef077fb210d564e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 0%
 ---
 # Adobeフィードバックプログラム
@@ -24,9 +24,9 @@ ht-degree: 0%
 | プログラムタイプ | 別名 |
 | --- | --- |
 | [!BADGE Alpha]{type=Informative} | 共同イノベーション、早期アクセス、実験的 |
-| [!BADGE &#x200B; プレミアム &#x200B;]{type=Positive} | エクスプローラー、プレビュー |
-| [!BADGE &#x200B; アドバイザリーボード &#x200B;]{type=Neutral} | ユーザー諮問委員会 |
-| [!BADGE &#x200B; ユーザーラボ &#x200B;]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
+| [!BADGE  プレミアム ]{type=Positive} | エクスプローラー、プレビュー |
+| [!BADGE  アドバイザリーボード ]{type=Neutral} | ユーザー諮問委員会 |
+| [!BADGE  ユーザーラボ ]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
 
 ## 参加者の期待値
 
@@ -73,6 +73,8 @@ Adobeフィードバックプログラムへの参加は完全に任意で、さ
 
 +++
 
+<p> </p>
+
 >[!BEGINSHADEBOX]
 
 ## Adobeのフィードバックプログラムに参加する
@@ -83,6 +85,6 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
 
-[!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" tooltip="https://experienceleague.adobe.com/ja/feedback-programにアクセスします。"}
+[!BADGE 今日の参加]{type=Informative url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=&quot;Go to https://experienceleague.adobe.com/en/feedback-program&quot;}
 
 >[!ENDSHADEBOX]
