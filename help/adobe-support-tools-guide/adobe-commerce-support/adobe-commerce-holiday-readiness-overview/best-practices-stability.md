@@ -42,13 +42,13 @@ ht-degree: 4%
 
 サイトがサポートされていないバージョンのAdobe Commerceになっていないことを確認します。これにより、サイトのパフォーマンスに影響を与え、セキュリティ問題に対する脆弱性が高まる可能性があります。 最新バージョンのAdobe Commerceにアップグレードして、安全でホリデーシーズンに備えることができます。
 
-Adobe Commerceの[最新リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)には、以前のバージョンからアップグレードする際にプロジェクトに役立つ機能強化や軽減された問題など、多くの[重要なセキュリティ修正](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)が含まれています。
+Adobe Commerceの[最新リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)には、以前のバージョンからアップグレードする際にプロジェクトに役立つ機能強化や軽減された問題など、多くの[重要なセキュリティ修正](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/security-patches/overview)が含まれています。
 
 サポートされていないバージョンのAdobe Commerceについて詳しくは、[Adobe Commerceのライフサイクルポリシー](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)を参照してください。
 
 ## 最新のECE-ToolsとQPT （Quality Patch Tool）をインストールする {#install-latest-ece-tools-and-quality-patch-tool-qpt}
 
-`--with-dependencies` スイッチを使用して、最新の`ece-tools` モジュールとその依存モジュールがインストールされていることを確認し、お使いのAdobe Commerceのバージョンに必要なすべてのクラウドパッチが適切にインストールされるようにします。 手順については、[ECE-Tools パッケージの更新](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package)を参照してください。
+`--with-dependencies` スイッチを使用して、最新の`ece-tools` モジュールとその依存モジュールがインストールされていることを確認し、お使いのAdobe Commerceのバージョンに必要なすべてのクラウドパッチが適切にインストールされるようにします。 手順については、[ECE-Tools パッケージの更新](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/update-package)を参照してください。
 
 品質パッチツールで使用可能なパッチリストを確認し、Adobe Commerceのバージョンと互換性のあるパフォーマンスパッチが適用されていることを確認します。 「[品質パッチツール：パッチを検索](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)」を参照してください。
 
@@ -58,12 +58,12 @@ Adobe Commerceの[最新リリース &#x200B;](https://experienceleague.adobe.co
 
 ## ログファイルの確認とクリーニング {#review-and-clean-log-files}
 
-クラウド環境のログファイル（例えば、`~/var/log`以下のアプリケーションログファイル）を確認し、デフォルトまたはカスタムログファイルに書き込まれる頻繁に記録されるレコードを特定します。 詳しくは、[&#x200B; ログの表示と管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations)を参照してください。
+クラウド環境のログファイル（例えば、`~/var/log`以下のアプリケーションログファイル）を確認し、デフォルトまたはカスタムログファイルに書き込まれる頻繁に記録されるレコードを特定します。 詳しくは、[&#x200B; ログの表示と管理](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/develop/test/log-locations)を参照してください。
 
 * 次の既定のログ ファイルを確認し、繰り返し発生するエラーを修正します：`~/var/log`、`~/var/log/exception.log`、`~/var/log/support_report.log`、`~/var/log/system.log`、`~/var/report`。
 * 過去の問題のトラブルシューティング用に以前に追加したデバッグログを削除します。
 
-これらのログは[!DNL New Relic]でも利用できます。[New Relic log management](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)を参照してください。
+これらのログは[!DNL New Relic]でも利用できます。[New Relic log management](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management)を参照してください。
 
 ## ディスクサイズの増加を監視する {#monitor-disk-size-growth}
 
@@ -72,7 +72,7 @@ Adobe Commerce on cloud インフラストラクチャには、2つのメイン�
 * `/mnt/shared` （ログとメディア ファイルを含む共有ファイル）
 * `/data/mysql` （データベースボリューム）
 
-詳しくは、[&#x200B; ディスク領域の管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space)を参照してください。
+詳しくは、[&#x200B; ディスク領域の管理](https://experienceleague.adobe.com/ja/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space)を参照してください。
 
 ## 最も遅いデータベース要求の確認 {#review-slowest-database-requests}
 
@@ -82,7 +82,7 @@ Adobe Commerce on cloud インフラストラクチャには、2つのメイン�
 
 * **MySQLのスロークエリログを確認します。** システムによって記録されたスロークエリーについて、`mysql-slow.log`を確認します。 これらのログは[!DNL New Relic]でも利用できます。**[!UICONTROL New Relic]** > **[!UICONTROL ログ]**&#x200B;に移動し、`filePath:"/var/log/mysql/mysql-slow.log"`でフィルタリングします。
 
-[!DNL MySQL]のスロークエリログを定期的に確認して、スロークエリーが頻繁に実行されていないことを確認します。 問題があると特定したクエリを解決する手順については、[&#x200B; データベースパフォーマンスの問題を解決する](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues)を参照してください。
+[!DNL MySQL]のスロークエリログを定期的に確認して、スロークエリーが頻繁に実行されていないことを確認します。 問題があると特定したクエリを解決する手順については、[&#x200B; データベースパフォーマンスの問題を解決する](https://experienceleague.adobe.com/ja/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues)を参照してください。
 
 ## cron ジョブの設定 {#configure-cron-jobs}
 
@@ -90,7 +90,7 @@ Commerceのすべての非同期処理は、Linux cron コマンドを使用し�
 
 Commerceは、インデックス作成やキューのコンシューマーオペレーションなど、重要なシステム機能に対する適切なcron ジョブ設定に依存します。 適切に設定しないと、Commerceが期待どおりに機能しません。
 
-Unix crontab ファイルで適切なUnix ユーザーを使用して、Commerce cronを正しく設定することが重要です。 各Unix ユーザーには独自のcrontab ファイルがあります。これは、そのユーザーのcron ジョブを実行するために使用される設定です。 手順については、[cron ジョブの設定と実行](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs)を参照してください。
+Unix crontab ファイルで適切なUnix ユーザーを使用して、Commerce cronを正しく設定することが重要です。 各Unix ユーザーには独自のcrontab ファイルがあります。これは、そのユーザーのcron ジョブを実行するために使用される設定です。 手順については、[cron ジョブの設定と実行](https://experienceleague.adobe.com/ja/docs/commerce-operations/configuration-guide/cli/configure-cron-jobs)を参照してください。
 
 スクリプト `dev/tools/cron.sh`は削除されたため、実行できなくなりました。
 
@@ -104,4 +104,4 @@ Commerce インスタンスのストアフロントの応答性を向上させ�
 * **[!UICONTROL JavaScript Settings]** — **[!UICONTROL JavaScript バンドルを有効にする]**: *[!UICONTROL はい]* （デフォルトでは有効になっていません）
 * **[!UICONTROL テンプレート設定]** — **[!UICONTROL HTMLを縮小]**: *[!UICONTROL はい]*
 
-Cloud上のAdobe Commerceは常に実稼動モードで実行されるため、代わりにコマンドラインから各オプション（例：`bin/magento config:set --lock-config dev/css/minify_files 1`）を設定し、結果として生じる`app/etc/config.php`の変更を確定して再デプロイします。 CLI パスの完全なリストについては、[&#x200B; リソースファイルの最適化](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files)を参照してください。
+Cloud上のAdobe Commerceは常に実稼動モードで実行されるため、代わりにコマンドラインから各オプション（例：`bin/magento config:set --lock-config dev/css/minify_files 1`）を設定し、結果として生じる`app/etc/config.php`の変更を確定して再デプロイします。 CLI パスの完全なリストについては、[&#x200B; リソースファイルの最適化](https://experienceleague.adobe.com/ja/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files)を参照してください。
