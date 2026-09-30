@@ -47,7 +47,7 @@ Commerce オンクラウドインフラストラクチャのお客様の場合�
 
 Adobe Commerce [!DNL Fastly]のオリジン シールドの目的は、Adobe Commerce オリジンへのトラフィックを直接減らすことです。 リクエストを受信すると、[!DNL Fastly] エッジの場所（Point of Presence）がキャッシュされたコンテンツをチェックして配信します。 キャッシュされていない場合は、Shield POPに続いて、そこにキャッシュされているかどうかを確認します。コンテンツが別のグローバル POPからも以前にリクエストされている場合は、キャッシュされます。 最後に、Shield POPにキャッシュされていない場合は、オリジンサーバーに進むだけです。
 
-[!DNL Fastly] オリジンのシールドは、[!DNL Fastly]設定のバックエンド設定で、Adobe Commerce管理者で有効にできます。 最高のパフォーマンスを得るには、Adobe Commerce origin データセンターに最も近いシールドの場所を選択してください。 詳しくは、[ バックエンドとオリジンシールドの設定](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)を参照してください。
+[!DNL Fastly] オリジンのシールドは、[!DNL Fastly]設定のバックエンド設定で、Adobe Commerce管理者で有効にできます。 最高のパフォーマンスを得るには、Adobe Commerce origin データセンターに最も近いシールドの場所を選択してください。 詳しくは、[&#x200B; バックエンドとオリジンシールドの設定](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding)を参照してください。
 
 デフォルトでは、[!DNL Fastly] オリジン シールドは有効になっていません。
 

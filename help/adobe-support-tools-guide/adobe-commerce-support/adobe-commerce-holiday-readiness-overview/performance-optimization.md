@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## Fastly リクエストキャッシュの最適化（クラウドのみ） {#optimize-fastly-request-caching}
 
-[!DNL Fastly]は、オリジン サーバーの負荷を軽減するために、エッジに応答をキャッシュします。 特に、トラッキングパラメーターやヘッドレスストアフロントを使用してプロモーションを実施している場合、繁忙期には、いくつかの設定チェックがそのキャッシュを最大限に活用するのに役立ちます。 完全な構成リファレンスについては、[ キャッシュ構成のカスタマイズ ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)を参照してください。
+[!DNL Fastly]は、オリジン サーバーの負荷を軽減するために、エッジに応答をキャッシュします。 特に、トラッキングパラメーターやヘッドレスストアフロントを使用してプロモーションを実施している場合、繁忙期には、いくつかの設定チェックがそのキャッシュを最大限に活用するのに役立ちます。 完全な構成リファレンスについては、[&#x200B; キャッシュ構成のカスタマイズ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration)を参照してください。
 
 * トラッキングパラメーターを正規化する：ホリデーシーズンには、Google Ads、Facebook、Xなどのソーシャルおよび有料キャンペーンを実行する可能性が高く、すべてのURLに一意のトラッキング文字列を追加します。 一意の文字列ごとに、同じページのキャッシュエントリが個別に作成されるため、キャッシュヒット率が低下します。 これらのパラメーターをAdobe Commerce管理者の[!DNL Fastly]設定の&#x200B;**[!UICONTROL 無視URL パラメーター]** リストに追加して、[!DNL Fastly]が同等のパラメーターとして扱えるようにします。
 * ランディングページがキャッシュ可能であることを確認します。各プロモーションランディングページの`x-cache`応答ヘッダーを確認します。 キャッシュ可能なページは、後続の読み込みに対して`HIT`または`HIT`/`MISS` ペアを返します。 ヘッダーが`MISS, MISS`を返す場合、ページはキャッシュされていないため、調査が必要です。
@@ -47,20 +47,20 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!DNL Fastly] オリジンのシールドは、キャッシュのパフォーマンスにも影響します。 設定の詳細については、[Fastly オリジンシールド ](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)を参照してください。
+>[!DNL Fastly] オリジンのシールドは、キャッシュのパフォーマンスにも影響します。 設定の詳細については、[Fastly オリジンシールド &#x200B;](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)を参照してください。
 
 ## Fastly IOを有効にする（クラウドのみ） {#enable-fastly-io}
 
 [!DNL Fastly] IOは、画像のサイズ変更とフォーマット変換を、Adobe Commerce オリジンではなく[!DNL Fastly] エッジネットワークにオフロードします。 これにより、トラフィックの多い販売期間中に一般的なボトルネックとなる、画像量の多いストアフロントのサーバー負荷を軽減し、ページのレンダリング速度を向上できます。 設定オプションについては、[Fastlyの画像最適化](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization)を参照してください。
 
-開始する前に、オリジンのシールドが設定されていることを確認します。[!DNL Fastly] IOでは、前提条件としてオリジンのシールドが必要です。 設定の詳細については、[Fastly オリジンシールド ](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)を参照してください。
+開始する前に、オリジンのシールドが設定されていることを確認します。[!DNL Fastly] IOでは、前提条件としてオリジンのシールドが必要です。 設定の詳細については、[Fastly オリジンシールド &#x200B;](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding)を参照してください。
 
 [!DNL Fastly] IOを有効にするには：
 
 1. 管理者で、**[!UICONTROL Fastly設定]** ページに移動し、**[!UICONTROL デフォルト IO設定オプション]**&#x200B;の横にある&#x200B;**[!UICONTROL 設定]**&#x200B;を選択します。
 1. [!DNL Fastly] IO スニペットが有効になっていることを確認します。
 1. **[!UICONTROL 画像の最適化]**&#x200B;設定で、**[!UICONTROL 詳細な画像の最適化を有効にする]**&#x200B;を&#x200B;*[!UICONTROL はい]*&#x200B;に設定します。 この設定は、Adobe Commerceの組み込み画像サイズ変更を無効にし、タスクを[!DNL Fastly]に転送します。
-1. シールドの場所が正しく設定されていることを確認します。 設定の詳細については、[Fastly オリジンシールド ](#fastly-origin-shielding)を参照してください。
+1. シールドの場所が正しく設定されていることを確認します。 設定の詳細については、[Fastly オリジンシールド &#x200B;](#fastly-origin-shielding)を参照してください。
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ ht-degree: 0%
 
 ## Redis L2 キャッシュの実装 {#implement-redis-l2-cache}
 
-効果的なキャッシュ方法を実装し、トラフィックのピーク時にストアが確実に機能するようにします。[!DNL Redis] L2 キャッシュは、各web ノードにキャッシュ データをローカルに保存することで、ネットワーク帯域幅を[!DNL Redis]に削減します。 L2 キャッシュの仕組みについて詳しくは、[ レベル 2 キャッシュ ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache)を参照してください。
+効果的なキャッシュ方法を実装し、トラフィックのピーク時にストアが確実に機能するようにします。[!DNL Redis] L2 キャッシュは、各web ノードにキャッシュ データをローカルに保存することで、ネットワーク帯域幅を[!DNL Redis]に削減します。 L2 キャッシュの仕組みについて詳しくは、[&#x200B; レベル 2 キャッシュ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache)を参照してください。
 
 クラウドインフラストラクチャ上のCommerceで、`REDIS_BACKEND` デプロイ変数を設定して、これを有効にします。 設定手順については、『Commerce on Cloud Infrastructure Guide 』の[REDIS_BACKEND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend)を参照してください。 オンプレミスでは、`app/etc/env.php`で直接設定します。
 
@@ -104,7 +104,7 @@ Pro クラスター環境の`MYSQL_USE_SLAVE_CONNECTION` フラグを有効に�
 
 ## 非同期注文とメール処理を有効にする {#enable-asynchronous-order-and-email-processing}
 
-非同期処理を使用して、大量の注文関連の操作をバックグラウンドでキューに入れて実行し、ピーク時のトラフィック中のフロントエンドの遅延を低減します。 ここでは、関連する3つの異なる設定について説明します。概要については、[設定のベストプラクティス ](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration)を参照してください。
+非同期処理を使用して、大量の注文関連の操作をバックグラウンドでキューに入れて実行し、ピーク時のトラフィック中のフロントエンドの遅延を低減します。 ここでは、関連する3つの異なる設定について説明します。概要については、[設定のベストプラクティス &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration)を参照してください。
 
 * 非同期注文プレースメント：非同期注文モジュールは、注文を受信した状態としてマークし、キューに入れ、注文をファーストインファーストアウト処理します。 デフォルトでは無効になっています。 コマンドラインから有効にします。
 
@@ -112,7 +112,7 @@ Pro クラスター環境の`MYSQL_USE_SLAVE_CONNECTION` フラグを有効に�
   bin/magento setup:config:set --checkout-async 1
   ```
 
-  有効にすると、注文の詳細はすぐに使用できなくなります。注文は、`placeOrderProcess`の消費者が在庫と照合して検証し（デフォルトで有効）、更新されるまでキューに入ったままになります。 このモジュールを無効にする前に、すべての実行中の非同期注文が処理を完了したことを確認してください。 詳しくは、[ チェックアウトパフォーマンスのベストプラクティス ](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)を参照してください。
+  有効にすると、注文の詳細はすぐに使用できなくなります。注文は、`placeOrderProcess`の消費者が在庫と照合して検証し（デフォルトで有効）、更新されるまでキューに入ったままになります。 このモジュールを無効にする前に、すべての実行中の非同期注文が処理を完了したことを確認してください。 詳しくは、[&#x200B; チェックアウトパフォーマンスのベストプラクティス &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing)を参照してください。
 
 * 非同期注文データ処理：集中的なストアフロント販売と集中的な注文処理は、データベースレベルで競合する可能性があります。 この設定を有効にすると、2つのトラフィックパターンが区別されるので、注文は一時的なストレージに配置され、衝突することなくOrder Managementグリッドに一括で移動されます。 これにより、注文、請求書、出荷、クレジットメモのグリッドがクローズごとに更新されるため、ロックが回避され、処理時間が短縮されます。 最良の結果を得るには、cronを1分に1回実行するように設定します。
 
@@ -120,13 +120,13 @@ Pro クラスター環境の`MYSQL_USE_SLAVE_CONNECTION` フラグを有効に�
 >
 >これを有効にする方法は、デプロイメントモードによって異なります。 クラウドインフラストラクチャ上のAdobe Commerce ステージング環境と実稼動環境は、デフォルトで実稼動モードで実行されます。この設定は、管理者を通じて使用することはできません。 実稼動モードでは、代わりに`bin/magento config:set dev/grid/async_indexing 1`を実行します。 デフォルトモードで、**[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Advanced]** > **[!UICONTROL Developer]** > **[!UICONTROL Grid Settings]**&#x200B;に移動し、**[!UICONTROL 非同期インデックス]**&#x200B;を&#x200B;*[!UICONTROL Enable]*&#x200B;に設定します。
 
-詳しくは、[ スケジュールされた注文操作](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)を参照してください。
+詳しくは、[&#x200B; スケジュールされた注文操作](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations)を参照してください。
 
 * 非同期メール通知：この設定は、チェックアウトと注文処理メール通知をバックグラウンドに移動します。 **[!UICONTROL 店舗]** > **[!UICONTROL 設定]** > **[!UICONTROL 営業]** > **[!UICONTROL 営業メール]** > **[!UICONTROL 一般設定]** > **[!UICONTROL 非同期送信]**&#x200B;で有効にします。
 
 ## スケジュール時に更新するインデクサーを設定する {#configure-indexers-for-update-on-schedule}
 
-インデクサーをスケジュールモードで実行するように設定することで、データベースのロックを回避し、カタログの頻繁な更新中の応答性を向上させます。 詳しくは、[ インデクサー設定に関するベストプラクティス ](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)を参照してください。
+インデクサーをスケジュールモードで実行するように設定することで、データベースのロックを回避し、カタログの頻繁な更新中の応答性を向上させます。 詳しくは、[&#x200B; インデクサー設定に関するベストプラクティス &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration)を参照してください。
 
 インデクサーは、**[!UICONTROL 保存]**&#x200B;の更新または&#x200B;**[!UICONTROL スケジュール]**&#x200B;の更新モードで実行できます。
 
@@ -141,7 +141,7 @@ Pro クラスター環境の`MYSQL_USE_SLAVE_CONNECTION` フラグを有効に�
 
 ## カタログフラットテーブルの無効化と評価 {#disable-and-evaluate-catalog-flat-table}
 
-製品とカテゴリにフラットテーブルを使用することは推奨されません。 この非推奨の機能は、パフォーマンスの低下とインデックス作成の問題を引き起こす可能性があります。 詳しくは、[ フラットカタログ ](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat)を参照してください。
+製品とカテゴリにフラットテーブルを使用することは推奨されません。 この非推奨の機能は、パフォーマンスの低下とインデックス作成の問題を引き起こす可能性があります。 詳しくは、[&#x200B; フラットカタログ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat)を参照してください。
 
 フラットカタログを無効にするには、**[!UICONTROL Stores]** > **[!UICONTROL Configuration]** > **[!UICONTROL Catalog]** > **[!UICONTROL Catalog]** > **[!UICONTROL Storefront]**&#x200B;に移動し、**[!UICONTROL Use Flat Catalog Category]**&#x200B;を&#x200B;*[!UICONTROL No]*&#x200B;に設定し、**[!UICONTROL Use Flat Catalog Product]**&#x200B;を&#x200B;*[!UICONTROL No]*&#x200B;に設定してから、**[!UICONTROL Save Config]**&#x200B;をクリックします。
 
@@ -149,7 +149,7 @@ Pro クラスター環境の`MYSQL_USE_SLAVE_CONNECTION` フラグを有効に�
 
 ## 拡張（分割）アーキテクチャを検討する（クラウドのみ） {#consider-scaled-split-architecture}
 
-上記の設定とコードレベルの最適化を適用した後でも、負荷テストまたはライブインフラストラクチャのパフォーマンスにCPUやその他のリソースが引き続き表示される場合は、スケーリングされた（分割）アーキテクチャへの移行を検討してください。 詳しくは、[拡張アーキテクチャ ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)を参照してください。
+上記の設定とコードレベルの最適化を適用した後でも、負荷テストまたはライブインフラストラクチャのパフォーマンスにCPUやその他のリソースが引き続き表示される場合は、スケーリングされた（分割）アーキテクチャへの移行を検討してください。 詳しくは、[拡張アーキテクチャ &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture)を参照してください。
 
 >[!NOTE]
 >

@@ -42,7 +42,7 @@ ht-degree: 4%
 
 サイトがサポートされていないバージョンのAdobe Commerceになっていないことを確認します。これにより、サイトのパフォーマンスに影響を与え、セキュリティ問題に対する脆弱性が高まる可能性があります。 最新バージョンのAdobe Commerceにアップグレードして、安全でホリデーシーズンに備えることができます。
 
-Adobe Commerceの[最新リリース ](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)には、以前のバージョンからアップグレードする際にプロジェクトに役立つ機能強化や軽減された問題など、多くの[重要なセキュリティ修正](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)が含まれています。
+Adobe Commerceの[最新リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)には、以前のバージョンからアップグレードする際にプロジェクトに役立つ機能強化や軽減された問題など、多くの[重要なセキュリティ修正](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)が含まれています。
 
 サポートされていないバージョンのAdobe Commerceについて詳しくは、[Adobe Commerceのライフサイクルポリシー](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/planning/lifecycle-policy)を参照してください。
 
@@ -58,7 +58,7 @@ Adobe Commerceの[最新リリース ](https://experienceleague.adobe.com/ja/doc
 
 ## ログファイルの確認とクリーニング {#review-and-clean-log-files}
 
-クラウド環境のログファイル（例えば、`~/var/log`以下のアプリケーションログファイル）を確認し、デフォルトまたはカスタムログファイルに書き込まれる頻繁に記録されるレコードを特定します。 詳しくは、[ ログの表示と管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations)を参照してください。
+クラウド環境のログファイル（例えば、`~/var/log`以下のアプリケーションログファイル）を確認し、デフォルトまたはカスタムログファイルに書き込まれる頻繁に記録されるレコードを特定します。 詳しくは、[&#x200B; ログの表示と管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/log-locations)を参照してください。
 
 * 次の既定のログ ファイルを確認し、繰り返し発生するエラーを修正します：`~/var/log`、`~/var/log/exception.log`、`~/var/log/support_report.log`、`~/var/log/system.log`、`~/var/report`。
 * 過去の問題のトラブルシューティング用に以前に追加したデバッグログを削除します。
@@ -72,7 +72,7 @@ Adobe Commerce on cloud インフラストラクチャには、2つのメイン�
 * `/mnt/shared` （ログとメディア ファイルを含む共有ファイル）
 * `/data/mysql` （データベースボリューム）
 
-詳しくは、[ ディスク領域の管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space)を参照してください。
+詳しくは、[&#x200B; ディスク領域の管理](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/storage/manage-disk-space)を参照してください。
 
 ## 最も遅いデータベース要求の確認 {#review-slowest-database-requests}
 
@@ -82,7 +82,7 @@ Adobe Commerce on cloud インフラストラクチャには、2つのメイン�
 
 * **MySQLのスロークエリログを確認します。** システムによって記録されたスロークエリーについて、`mysql-slow.log`を確認します。 これらのログは[!DNL New Relic]でも利用できます。**[!UICONTROL New Relic]** > **[!UICONTROL ログ]**&#x200B;に移動し、`filePath:"/var/log/mysql/mysql-slow.log"`でフィルタリングします。
 
-[!DNL MySQL]のスロークエリログを定期的に確認して、スロークエリーが頻繁に実行されていないことを確認します。 問題があると特定したクエリを解決する手順については、[ データベースパフォーマンスの問題を解決する](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues)を参照してください。
+[!DNL MySQL]のスロークエリログを定期的に確認して、スロークエリーが頻繁に実行されていないことを確認します。 問題があると特定したクエリを解決する手順については、[&#x200B; データベースパフォーマンスの問題を解決する](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/resolve-database-performance-issues)を参照してください。
 
 ## cron ジョブの設定 {#configure-cron-jobs}
 
@@ -104,4 +104,4 @@ Commerce インスタンスのストアフロントの応答性を向上させ�
 * **[!UICONTROL JavaScript Settings]** — **[!UICONTROL JavaScript バンドルを有効にする]**: *[!UICONTROL はい]* （デフォルトでは有効になっていません）
 * **[!UICONTROL テンプレート設定]** — **[!UICONTROL HTMLを縮小]**: *[!UICONTROL はい]*
 
-Cloud上のAdobe Commerceは常に実稼動モードで実行されるため、代わりにコマンドラインから各オプション（例：`bin/magento config:set --lock-config dev/css/minify_files 1`）を設定し、結果として生じる`app/etc/config.php`の変更を確定して再デプロイします。 CLI パスの完全なリストについては、[ リソースファイルの最適化](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files)を参照してください。
+Cloud上のAdobe Commerceは常に実稼動モードで実行されるため、代わりにコマンドラインから各オプション（例：`bin/magento config:set --lock-config dev/css/minify_files 1`）を設定し、結果として生じる`app/etc/config.php`の変更を確定して再デプロイします。 CLI パスの完全なリストについては、[&#x200B; リソースファイルの最適化](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/development/optimize-css-js-files)を参照してください。

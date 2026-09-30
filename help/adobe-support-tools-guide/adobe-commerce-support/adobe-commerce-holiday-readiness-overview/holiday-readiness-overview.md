@@ -77,7 +77,7 @@ ht-degree: 0%
 
 ## スケーラビリティとキャパシティプランニング
 
-各スケーラビリティとキャパシティプランニングに関する推奨事項の詳細な手順については、[Adobe Commerceの休暇準備/スケーラビリティとキャパシティプランニング ](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)を参照してください。
+各スケーラビリティとキャパシティプランニングに関する推奨事項の詳細な手順については、[Adobe Commerceの休暇準備/スケーラビリティとキャパシティプランニング &#x200B;](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)を参照してください。
 
 * クラスターのアップサイズを早期に計画する：Adobe サポートから一時的なコンピューティングアップサイズをリクエストします。少なくとも10営業日前にメジャープロモーションを行います。
 * Fastly オリジンのシールドを有効にする：オリジンの近くのShield POPを介してキャッシュされていないリクエストをルーティングし、オリジンのサーバーに直接ヒットするリクエストを減らします。

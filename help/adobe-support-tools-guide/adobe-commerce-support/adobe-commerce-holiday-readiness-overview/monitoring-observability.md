@@ -67,7 +67,7 @@ SINCE 7 days ago until today
 
 ## New Relic アラートのカスタマイズ（クラウドのみ） {#customize-new-relic-alerts}
 
-Adobe Commerceのクラウドインフラストラクチャで設定されるマネージドアラートに加えて、セールスシーズンのピーク時に、GraphQLのクエリでボットトラフィックや応答時間の増加を通知するなど、様々なアラートや通知をプラットフォームに設定できます。 組み込みアラートの完全なリストについては、[Adobe Commerceの管理アラート ](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)を参照してください。
+Adobe Commerceのクラウドインフラストラクチャで設定されるマネージドアラートに加えて、セールスシーズンのピーク時に、GraphQLのクエリでボットトラフィックや応答時間の増加を通知するなど、様々なアラートや通知をプラットフォームに設定できます。 組み込みアラートの完全なリストについては、[Adobe Commerceの管理アラート &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)を参照してください。
 
 [!DNL New Relic]個のアラートとAIがNRQL ベースのクエリ構造をサポートしています。 **[!UICONTROL アラートとAI]**&#x200B;の下の[!DNL New Relic] ダッシュボードからカスタムアラートを設定します。
 
@@ -79,8 +79,8 @@ Apdex スコアは0から1の範囲です。 スコアが0の場合は最も悪�
 
 Apdex スコアが0.5以下の場合、調査が保証されます。 スコアが0.4未満の場合は障害とみなされます。
 
-[!DNL New Relic]は、Apdexと共に、クラウドインフラストラクチャ上のAdobe Commerceのパフォーマンスの問題を分析するための様々な統計情報を提供します。 手順については、[Adobe CommerceでのNew Relicを使用したパフォーマンスのトラブルシューティング ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)を参照してください。
+[!DNL New Relic]は、Apdexと共に、クラウドインフラストラクチャ上のAdobe Commerceのパフォーマンスの問題を分析するための様々な統計情報を提供します。 手順については、[Adobe CommerceでのNew Relicを使用したパフォーマンスのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce)を参照してください。
 
 ## サポートインサイト（SWAT レポート）の確認 {#review-support-insights-swat-report}
 
-環境に関する詳細なレポートを入手するには、サイト全体の分析ツール（SWAT）レポートを生成します。 SWAT ツールについて詳しくは、[ サイト全体の分析ツール ](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)を参照してください。
+環境に関する詳細なレポートを入手するには、サイト全体の分析ツール（SWAT）レポートを生成します。 SWAT ツールについて詳しくは、[&#x200B; サイト全体の分析ツール &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)を参照してください。
