@@ -83,6 +83,6 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
 
-[!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" tooltip="https://experienceleague.adobe.com/en/feedback-programにアクセスします。"}
+[!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" tooltip="https://experienceleague.adobe.com/ja/feedback-programにアクセスします。"}
 
 >[!ENDSHADEBOX]
