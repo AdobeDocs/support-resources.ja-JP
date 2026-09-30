@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
+source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 1%
@@ -53,7 +53,7 @@ ht-degree: 1%
   - [よくある質問](faq.md)
 - Adobe Commerceサポート {#adobe-commerce-support}
   - [Adobe Commerceサポートの概要](adobe-commerce-support/adobe-commerce-support-overview.md)
-  - [Adobe Commerce休暇の準備状況]{#adobe-commerce-holiday-readiness}
+  - Adobe Commerceの休暇対応 {#adobe-commerce-holiday-readiness}
     - [概要](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
     - [パフォーマンスの最適化](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
     - [ベストプラクティスと安定性](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
