@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 25fc32de197848e34e84db29113d17689442678f
+source-git-commit: 429c577f4b129f09a6298e7afb527e58ccea0530
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '385'
 ht-degree: 1%
 ---
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
@@ -53,6 +53,13 @@ ht-degree: 1%
   - [よくある質問](faq.md)
 - Adobe Commerceサポート {#adobe-commerce-support}
   - [Adobe Commerceサポートの概要](adobe-commerce-support/adobe-commerce-support-overview.md)
+  - [Adobe Commerce休暇の準備状況]{#adobe-commerce-holiday-readiness}
+    - [概要](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [パフォーマンスの最適化](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
+    - [ベストプラクティスと安定性](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
+    - [監視と監視](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
+    - [スケーラビリティとキャパシティプランニング](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)
+    - [運用上の準備状況](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md)
   - [Adobe CommerceのMySQL サポート終了のお知らせとデータベース互換性ガイダンス](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [クラウド基盤の一時的なAdobe Commerceのアップグレードをリクエストする方法](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [クラウドインフラストラクチャ上のAdobe Commerceのホリデーサージキャパシティのリクエスト](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
