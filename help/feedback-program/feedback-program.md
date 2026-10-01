@@ -83,6 +83,6 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 >[!BEGINSHADEBOX]
 
-[!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/en/feedback-programにアクセスします。"}
+[!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/ja/feedback-programにアクセスします。"}
 
 >[!ENDSHADEBOX]
