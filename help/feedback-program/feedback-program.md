@@ -77,8 +77,8 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
 
-[![&#x200B; ログインボタン &#x200B;](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![&#x200B; ログインボタン &#x200B;](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/ja/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/ja/feedback-program"}
 -->
