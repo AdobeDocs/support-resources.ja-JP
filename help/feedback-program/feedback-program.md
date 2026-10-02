@@ -24,9 +24,9 @@ ht-degree: 0%
 | プログラムタイプ | 別名 |
 | --- | --- |
 | [!BADGE Alpha]{type=Informative} | 共同イノベーション、早期アクセス、実験的 |
-| [!BADGE  プレミアム ]{type=Positive} | エクスプローラー、プレビュー |
-| [!BADGE  アドバイザリーボード ]{type=Neutral} | ユーザー諮問委員会 |
-| [!BADGE  ユーザーラボ ]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
+| [!BADGE &#x200B; プレミアム &#x200B;]{type=Positive} | エクスプローラー、プレビュー |
+| [!BADGE &#x200B; アドバイザリーボード &#x200B;]{type=Neutral} | ユーザー諮問委員会 |
+| [!BADGE &#x200B; ユーザーラボ &#x200B;]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
 
 ## 参加者の期待値
 
@@ -77,7 +77,7 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
 
-[![ ログインボタン ](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
+[![&#x200B; ログインボタン &#x200B;](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
 [!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
