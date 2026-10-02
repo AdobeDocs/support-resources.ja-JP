@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ Adobeフィードバックプログラムへの参加は完全に任意で、さ
 
 機会は、製品地域、地域、顧客プロファイル、プログラムの空き状況などの要因によって異なり、すべての参加者があらゆる機会に招待されるわけではありません。 Adobeは、関係者からのフィードバックを活用して、製品を改善し、将来の投資を優先して、より優れた顧客体験を提供するのに役立ちます。
 
+## プログラム条件
+
+>[!BEGINSHADEBOX]
+
+参加には、Adobe フィードバックプログラム契約書への同意が必要になる場合があります。 特定のプログラムやアクティビティによっては、追加条件が適用される場合があります。
+
+>[!ENDSHADEBOX]
+
 ## よくある質問
 
 +++ 誰が参加できますか？
@@ -65,12 +73,6 @@ Adobeフィードバックプログラムへの参加は完全に任意で、さ
 
 +++
 
-## プログラム条件
-
-参加には、Adobe フィードバックプログラム契約書への同意が必要になる場合があります。 特定のプログラムやアクティビティによっては、追加条件が適用される場合があります。
-
->[!BEGINSHADEBOX]
-
 ## Adobeのフィードバックプログラムに参加する
 
 Adobe製品の将来を形作るために、製品への早期アクセスの機会、リサーチ調査、製品チームとの直接的なフィードバックをご利用ください。
@@ -78,6 +80,8 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 エクスペリエンスメーカーとして、エキスパートとみなされます。 このプログラムでは、Adobeの製品開発スペシャリストとの直接的な関わりを可能にし、お客様の視点がAdobeの将来の方向性に影響を与えます。
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
+
+>[!BEGINSHADEBOX]
 
 [!BADGE 今日から参加]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" newtab=true tooltip="https://experienceleague.adobe.com/ja/feedback-programにアクセスします。"}
 
