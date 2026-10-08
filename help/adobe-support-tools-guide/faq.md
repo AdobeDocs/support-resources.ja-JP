@@ -65,7 +65,7 @@ Adobe Workfrontサポートチームが、リアルタイムの支援とコー�
 
 +++**AACで利用できるトレーニング リソースは何ですか？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
 
 +++
 
