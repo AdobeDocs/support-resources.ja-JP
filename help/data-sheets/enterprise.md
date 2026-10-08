@@ -2,26 +2,33 @@
 title: エンタープライズサポート
 description: Adobe Experience Cloud エンタープライズサポートサービスでは、強化されたサポートサービスレベルターゲット（SLT）、技術的な専門知識、専任サポートエンジニアが提供されます。
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-TQID: https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI
+TQID: 'https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1230
+source-wordcount: '1230'
 ht-degree: 100%
-
 ---
-
 # エンタープライズサポート
 
 ![アイコン](assets/EnterpriseBanner.png)
@@ -331,7 +338,7 @@ Launch Advisory では、お客様のプロジェクトスケジュールの一�
 
 | リソース | 説明 |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/ja?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。 セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
+| [Experience League](https://experienceleague.adobe.com/?lang=ja) | Experience League では、アドビへの投資に対して企業が期待している価値を実現するための支援を行います。 セルフサービスのチュートリアル、製品ドキュメント、講師によるトレーニング、コミュニティ、テクニカルサポートなど、パーソナライズされた成功への道筋に沿って、お客様が学習し、繋がり、成長できる、統合された場所です。 |
 | [トレーニング](https://training.adobe.com/training/) | Adobe Digital Learning Services のコースには、Experience League からアクセスできます。 ラーニングコースは、オンデマンドレッスンと講師によるレッスンが統合されています。 市場価値が認められたスキルを習得し、組織での成功を促進するために活用できます。 |
 | [本番環境の問題とシステム障害](https://status.adobe.com/ja) | status.adobe.com では、マルチテナント環境にデプロイされたすべてのアドビ製品およびサービスのシステムステータス情報が表示されます。 お客様は、アドビが製品イベントを作成、更新、解決した際に電子メール通知を受け取るようサブスクリプション設定を選択できます。 イベントには、スケジュール済みのメンテナンスや、様々な重大度レベルの問題が含まれています。 |
 | [利用条件](https://helpx.adobe.com/jp/support/programs/support-policies-terms-conditions.html) | 提供するサポートサービスについて詳しく説明されています。 |
