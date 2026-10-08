@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. 「**[!UICONTROL アカウントプロファイル]**」リンクをクリックして、新しいウィンドウを開き、`account.adobe.com`を使用してログインします。
 
-   ![ ログイン ](assets/sign-in.png)
+   ![&#x200B; ログイン &#x200B;](assets/sign-in.png)
 
 1. ログインプロセスを実行し、`account.adobe.com`の次の画面に移動します。
 1. 「**[!UICONTROL アカウントとセキュリティ]** > **[!UICONTROL アカウント]**」を選択すると、「サポート電話番号」フィールドが表示されます。

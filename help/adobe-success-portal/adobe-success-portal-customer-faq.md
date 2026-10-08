@@ -24,6 +24,7 @@ ht-degree: 91%
 # [!DNL Adobe Success] ポータル：お客様の FAQ
 
  
+
 ## [!DNL Adobe Success] ポータルのスコープは何ですか？
 
 [!DNL Adobe Success] ポータルは、サポート、成功、エンゲージメントを通じて販売後のエクスペリエンスを統一するために設計された、アドビの新しい一元化された顧客向けプラットフォームです。 Alpha リリースでは、以前は複数のプラットフォーム（サポートポータル、手動の Ultimate Success アーティファクトなど）に分散していたツールやワークフローを統合する包括的なエクスペリエンスの提供に重点を置いています。 目標は、オンボーディングから更新に至るまでのライフサイクルを通じて、お客様のアドビとの関わり方を合理化するとともに、透明性、セルフサービス、価値実現を向上させることです。
@@ -36,7 +37,7 @@ Alphaには、Ultimateのお客様に合わせてカスタマイズされた一�
    * **[!UICONTROL アクションプラン]**：ビジネス目標を推進するためにアカウントチームが計画したアクティビティのステータスと進捗を追跡します
    * **[!UICONTROL 値トラッカー]**：ビジネス目標を推進するために、アドビのソリューション全体で特定およびデプロイされたユースケースの進捗を示します
    * **[!UICONTROL エンゲージメントプラン]**：アカウントチームやその他のアドビのリソースとのエンゲージメント方法を表示します
-1. [!UICONTROL  サポートとインサイト ]機能
+1. [!UICONTROL &#x200B; サポートとインサイト &#x200B;]機能
 これらは技術的なユーザーを対象としており、以下が含まれます。
    * ケース管理（ケースをオープン、管理、レビューする）
    * リアルタイムのシステムインサイトとプロアクティブな環境スキャン
@@ -46,7 +47,7 @@ Alphaには、Ultimateのお客様に合わせてカスタマイズされた一�
 
 ## ポータルにアクセスするにはどうすればよいですか？
 
-[!DNL Adobe Success] ポータルは Adobe Experience Cloud でホストされています。 [!DNL Adobe Success] ポータルにアクセスするには、Experience Cloud へのアクセスが必要です。これは IMS 組織レベルで設定されます。 ポータルにアクセスする手順については、[ [!DNL Adobe Success]  ポータルへのアクセス](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)を参照してください。
+[!DNL Adobe Success] ポータルは Adobe Experience Cloud でホストされています。 [!DNL Adobe Success] ポータルにアクセスするには、Experience Cloud へのアクセスが必要です。これは IMS 組織レベルで設定されます。 ポータルにアクセスする手順については、[&#x200B; [!DNL Adobe Success]  ポータルへのアクセス](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)を参照してください。
 
 Alpha のポータルアクセスは、Alpha プログラムに参加することが特定されたユーザーの定義済みリストに制限されます。 組織内の誰がアクセス権を持っているかを確認する場合や、追加のユーザーへのアクセス権の付与をリクエストする場合は、[Alpha Teams チャネル](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)を使用して製品チームにお問い合わせください。
 

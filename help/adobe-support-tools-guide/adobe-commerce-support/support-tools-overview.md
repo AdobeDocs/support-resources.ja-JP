@@ -37,17 +37,17 @@ Adobe Commerceでは、e コマースストア体験を向上させるための�
 
 クラウドインフラストラクチャ上のAdobe Commerceの管理されたアラートは、トラブルシューティングの次の手順に関する指示を含む、既製の[!DNL New Relic] アラートを生成します。
 
-サイトが重要なストレージおよびApdex レベルに達しているタイミングを把握するために、主要なダッシュボードとアラートを設定しました（アプリケーションとサービスの応答時間に対するユーザーの満足度）。 これにより、応答時間の遅れや障害に気づく前に対応することができます。 サポートナレッジベースで提供されている記事を使用して、アラートをトラブルシューティングできます。 Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)の[管理済みアラートをクリックして、管理済みアラートの詳細を確認します。
+サイトが重要なストレージおよびApdex レベルに達しているタイミングを把握するために、主要なダッシュボードとアラートを設定しました（アプリケーションとサービスの応答時間に対するユーザーの満足度）。 これにより、応答時間の遅れや障害に気づく前に対応することができます。 サポートナレッジベースで提供されている記事を使用して、アラートをトラブルシューティングできます。 Adobe Commerce[&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce)の管理済みアラートをクリックして、管理済みアラートの詳細を確認します。
 
 
 ## [!DNL Site-Wide Analysis Tool] - サイト スキャンに基づいてパフォーマンスの推奨事項を取得します {#site-wide-analysis-tool}
 
 [!DNL Site-Wide Analysis Tool]は、エンドツーエンドの「ポイント イン タイム」サイト分析を実行するSaaS （Software as a Service） アプリケーションです。 ツールに関連するあらゆる顧客サイト情報は、3時間ごとに決められたスケジュールで1日に1回まで収集されます。 つまり、SWATは常に顧客サイトデータを分析しています。
 
-[!DNL Site-Wide Analysis Tool]について詳しくは、[[!DNL Site-Wide Analysis Tool]  ガイド ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)を参照してください。
+[!DNL Site-Wide Analysis Tool]について詳しくは、[[!DNL Site-Wide Analysis Tool]  ガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)を参照してください。
 
 ## [!DNL Quality Patches Tool] – お使いのAdobe Commerce バージョンで利用可能なすべてのパッチを取得します {#quality-patches-tool}
 
 [!DNL Quality Patches Tool] （QPT）は、AdobeとMagento Open Source コミュニティによって開発された個別のパッチを提供します。 インストールされているバージョンのAdobe CommerceまたはMagento Open Sourceで使用できるすべての個々のパッチに関する一般的な情報を適用、取り消し、表示できます。
 
-QPTは、インストール済みバージョンの利用可能なパッチのみを表示し、分類と簡単なアプリケーション/削除を備えています。 詳しくは、サポートナレッジベースの「 [!DNL Quality Patches Tool]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/check-patch-for-magento-issue-with-magento-quality-patches) Adobe Commerceの問題に対するパッチを確認する」を参照してください。[
+QPTは、インストール済みバージョンの利用可能なパッチのみを表示し、分類と簡単なアプリケーション/削除を備えています。 詳しくは、サポートナレッジベースの「 [!DNL Quality Patches Tool]&#x200B;[&#128279;](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/check-patch-for-magento-issue-with-magento-quality-patches) Adobe Commerceの問題に対するパッチを確認する」を参照してください。
