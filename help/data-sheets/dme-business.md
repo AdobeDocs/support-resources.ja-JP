@@ -2,18 +2,18 @@
 title: Creative Cloud および Adobe Document Cloud のビジネスサポート
 description: アドビでは、Adobe エンタープライズサブスクリプションの一部として含まれる、ビジネスをサポートするための包括的な技術リソースを提供します。 これは、ビジネスサポートプランとしての強化機能です。 ビジネスサポートには、申請されたケースをより高度なサポートリソースへの迅速な受け渡しを確実にするサポートケースの優先ルーティングが含まれています。
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+TQID: 'https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 835
+source-wordcount: '835'
 ht-degree: 100%
-
 ---
-
 # Creative Cloud および Adobe Document Cloud のビジネスサポート
 
 ![アイコン](assets/Businessbanner.png)
