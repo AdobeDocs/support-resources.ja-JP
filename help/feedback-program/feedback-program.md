@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 09841d315184fd3d0df0d885812c790c2b1ebae8
+source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -24,9 +24,9 @@ ht-degree: 0%
 | プログラムタイプ | 別名 |
 | --- | --- |
 | [!BADGE Alpha]{type=Informative} | 共同イノベーション、早期アクセス、実験的 |
-| [!BADGE &#x200B; プレミアム &#x200B;]{type=Positive} | エクスプローラー、プレビュー |
-| [!BADGE &#x200B; アドバイザリーボード &#x200B;]{type=Neutral} | ユーザー諮問委員会 |
-| [!BADGE &#x200B; ユーザーラボ &#x200B;]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
+| [!BADGE  プレミアム ]{type=Positive} | エクスプローラー、プレビュー |
+| [!BADGE  アドバイザリーボード ]{type=Neutral} | ユーザー諮問委員会 |
+| [!BADGE  ユーザーラボ ]{type=Caution} | ユーザビリティ研究，研究活動，コンセプトレビュー |
 
 ## 参加者の期待値
 
@@ -77,8 +77,8 @@ Adobe製品の将来を形作るために、製品への早期アクセスの機
 
 詳細と適格性の要件については、今すぐAdobeのアカウント担当者にお問い合わせください。
 
-[![&#x200B; ログインボタン &#x200B;](assets/sign-in-button.png){width="100"}](https://experienceleague.adobe.com/ja/feedback-program){target="_blank"}
+[![ ログインボタン ](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/ja/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/ja/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 -->
