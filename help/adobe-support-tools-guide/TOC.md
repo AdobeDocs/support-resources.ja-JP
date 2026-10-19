@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 1%
 ---
 # Adobe サポートおよびツールガイド {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 1%
   - [Adobe Commerce クラウドプロジェクトにユーザーを追加できません](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Adobeが提供するコンポーザーパッチの適用方法](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [Adobeが提供する分離パッチの適用方法](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [サードパーティのセキュリティ機関によって発見された脆弱性を報告する方法](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [サポートツールの概要](adobe-commerce-support/overview.md)
