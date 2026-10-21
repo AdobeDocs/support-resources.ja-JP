@@ -167,4 +167,4 @@ SSOの設定と管理時のよくある質問とエラーの解決策：
 ## 法務とプライバシー
 
 - [法的通知](https://helpx.adobe.com/jp/legal/legal-notices.html)
-- [オンラインプライバシーポリシー](https://www.adobe.com/privacy.html)
+- [オンラインプライバシーポリシー](https://www.adobe.com/jp/privacy.html)
