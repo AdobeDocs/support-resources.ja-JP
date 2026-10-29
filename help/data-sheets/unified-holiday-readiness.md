@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Adobeでは、ホリデーシーズンに向けてCustomer Journey Analytics イ
 
 ### 拡張の準備
 
-「[計画と方向転換：繁忙期2025](https://experienceleague.adobe.com/ja/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}年の繁忙期における戦略的アプローチ」の推奨事項に従います。このガイドでは、Adobe Commerce（およびオプションのAdobe Experience Cloud ツール）を使用して実用的な戦略を提供し、最も混雑する時期に優れた顧客体験を計画、方向転換、配信するのに役立てています。
+「[計画と方向転換：繁忙期2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}の戦略的アプローチ」の推奨事項に従ってください。このガイドでは、Adobe Commerce（およびオプションのAdobe Experience Cloud ツール）を使用して実用的な戦略を提供し、最も混雑する時期に優れた顧客体験を計画、方向転換、配信するのに役立ちます。
 
 ### ベストプラクティス
 
