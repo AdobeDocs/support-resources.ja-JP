@@ -20,7 +20,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -31,8 +31,9 @@ ht-degree: 0%
 
 このガイドでは、**Adobe Admin Console**&#x200B;の&#x200B;**[!UICONTROL サポート管理者]**&#x200B;と関連する設定が、サポートに連絡できる担当者に与える影響に加えて、より詳細な手順やポリシーが必要な場合の製品に関する記事についても説明します。 このガイドの目次を使用して、ガイドレベルでトピックを開きます（例えば、Experience Leagueのカスタマーサポートエクスペリエンス、サポートの使用権限の設定、優先サポート電話番号、Experience League サポートリリースノート）。
 
-このガイドの主なセクション：
+## このガイドの主要セクション
 
 - **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)** – 組織およびGlobal Admin Consoleの管理：役割、ユーザー、製品、ポリシー、レポート、および関連タスク。
 - **[Adobe Commerce サポート](adobe-commerce-support/adobe-commerce-support-overview.md)** — Experience LeagueのCommerce サポートに加えて、ツール、クラウドオペレーション、セキュリティとパッチ適用、チケットプラクティス、プライバシー、プラットフォームライフサイクルに関する記事が含まれます。
 - **[Adobe Workfront サポート](faq.md)** — Workfront コンテキストでのAdobe Business PlatformとAdmin Consoleに関するよくある質問。
+
