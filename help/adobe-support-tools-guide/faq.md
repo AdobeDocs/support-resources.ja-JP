@@ -12,12 +12,14 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
 # [!DNL Adobe Business Platform]とAdmin Consoleに関するFAQ
+
+## Adobe IdentityとAdmin Consoleへの移行
 
 +++**Adobe IDとAdmin Consoleとは何ですか？**
 
@@ -30,6 +32,8 @@ ht-degree: 11%
 [!DNL Adobe Business Platform]に移行すると、さらに安全で直感的な管理コンソールが体験できます。
 
 +++
+
+## 移行プロセスとタイミング
 
 +++**お客様がAACに移動する必要があるのはいつですか？**
 
@@ -57,15 +61,23 @@ Adobe Workfrontサポートチームが、リアルタイムの支援とコー�
 
 +++
 
-+++**AACの新機能のうち、現在Workfrontのお客様が利用できないものは何ですか？**
++++**一般的なWorkfrontのお客様のAACへの移行にはどのくらいの時間がかかりますか？**
 
-
+AACを実装する時間は顧客によって異なりますが、一般的な体験では、約2時間の顧客との電話会議でのライブ体験が可能です。
 
 +++
 
-+++**AACで利用できるトレーニング リソースは何ですか？**
+## コストと影響
 
-&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
++++**お客様がAACに移行する際に発生するコストはありますか？**
+
+AACへの移行に追加コストはかかりません。
+
++++
+
++++**これは、Adobe製品以外のWorkfront ソリューションに統合した他の技術に影響しますか？**
+
+[!DNL Fusion] アプリケーションを使用して他のサービスに接続しているお客様は、[!DNL Fusion] アプリケーションがこの変更を行う準備ができたときにのみ移動されます。
 
 +++
 
@@ -81,26 +93,20 @@ Adobe Workfrontサポートチームが、リアルタイムの支援とコー�
 
 +++
 
-+++**一般的なWorkfrontのお客様のAACへの移行にはどのくらいの時間がかかりますか？**
-
-AACを実装する時間は顧客によって異なりますが、一般的な体験では、約2時間の顧客との電話会議でのライブ体験が可能です。
-
-+++
-
-+++**これは、Adobe製品以外のWorkfront ソリューションに統合した他の技術に影響しますか？**
-
-[!DNL Fusion] アプリケーションを使用して他のサービスに接続しているお客様は、[!DNL Fusion] アプリケーションがこの変更を行う準備ができたときにのみ移動されます。
-
-+++
-
-+++**お客様がAACに移行する際に発生するコストはありますか？**
-
-AACへの移行に追加コストはかかりません。
-
-+++
-
 +++**AACに移動しない理由はありますか？**
 
 AACは、Workfrontの将来の体験に最適なアップデートと強化機能をお客様に提供し、お客様にとって素晴らしい一歩となります。 2023年末までにすべての顧客がAACに移行する必要があり、従来の実演コンソールは閉鎖されます。
+
++++
+
++++**AACで利用できるトレーニング リソースは何ですか？**
+
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+
++++
+
++++**AACの新機能のうち、現在Workfrontのお客様が利用できないものは何ですか？**
+
+
 
 +++
