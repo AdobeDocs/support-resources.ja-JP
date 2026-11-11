@@ -29,7 +29,7 @@ Adobe Commerceでは、e コマースストア体験を向上させるのに役�
 * サイト全体の分析ツール
   * [Adobeによるサイト全体の分析ツール：概要](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/site-wide-analysis-tool/intro)
 * [!DNL Quality Patches Tool] （QPT）
-  * QPT ツールの概要で利用可能な[ パッチ](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)
+  * QPT ツールの概要で利用可能な[&#x200B; パッチ](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)
     [[!DNL Quality Patches Tool]](https://github.com/magento/quality-patches) （QPT）は、AdobeおよびMagento Open Source コミュニティによって開発された個別の品質向上パッチを適用できるツールです。
     これにより、次のことが可能になります。
     * パッケージに含まれている品質パッチを適用する
