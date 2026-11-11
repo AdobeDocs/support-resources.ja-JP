@@ -101,7 +101,7 @@ AACは、Workfrontの将来の体験に最適なアップデートと強化機�
 
 +++**AACで利用できるトレーニング リソースは何ですか？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/jp/enterprise/using/admin-console.html >
 
 +++
 
